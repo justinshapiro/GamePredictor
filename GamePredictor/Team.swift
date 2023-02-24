@@ -15,6 +15,32 @@ struct Team: Codable {
     var roster: [Player]
     var games: Games
     
+    func getAdjustedTempo(onDate date: Date) -> Double {
+        let seasonsStats = getStats(onDate: date, statType: .team)
+        let numberOfPossesions = seasonsStats.fieldGoals.attempted - seasonsStats.rebounds.offensive + seasonsStats.turnovers + (0.475 * seasonsStats.freeThrows.attempted)
+        
+        let minutesPlayed: Int
+        if let cachedValue = statCache[teamID]?.teamMinutesPlayed[date.timeIntervalSinceReferenceDate] {
+            minutesPlayed = cachedValue
+        } else {
+            let minutes = roster.reduce(0) { $0 + getTotalMinutesPlayed(for: $1, onDate: date) }
+            statCache[teamID]?.teamMinutesPlayed[date.timeIntervalSinceReferenceDate] = minutes
+            minutesPlayed = minutes
+        }
+        
+        guard numberOfPossesions > 0 else { return 0 }
+        
+        return Double(numberOfPossesions) / Double(minutesPlayed)
+    }
+    
+    var isInBIGConference: Bool {
+        ["Big 12", "Big East", "Big West", "Big South", "Big Sky", "Big Ten", "Big 10"].contains(conference)
+    }
+    
+    var averageHeight: Double {
+        roster.reduce(0.0) { $0 + (($1.height?.inInches).flatMap { Double($0) } ?? 0.0) }
+    }
+    
     func getNationalRanking(onDate date: Date) -> Int? {
         let currentRankingWeek = nationalRankings.sorted { $0.week > $1.week }.first!.week
         let rankingWeekOfGame = currentRankingWeek - (Calendar.current.dateComponents([.weekOfYear], from: date, to: .now).weekOfYear ?? 0)
@@ -64,11 +90,19 @@ struct Team: Codable {
     }
     
     func getTop5PlayersCombinedYearsOfExperience(onDate date: Date) -> Int {
-        roster
-            .sorted { getTotalMinutesPlayed(for: $0, onDate: date) > getTotalMinutesPlayed(for: $1, onDate: date) }
-            .prefix(5)
-            .map { $0.class.yearsOfExperience }
-            .reduce(0, +)
+        if let cachedValue = statCache[teamID]?.top5PlayersCombinedYearsOfExperience[date.timeIntervalSinceReferenceDate] {
+            return cachedValue
+        } else {
+            let experience = roster
+                .sorted { getTotalMinutesPlayed(for: $0, onDate: date) > getTotalMinutesPlayed(for: $1, onDate: date) }
+                .prefix(5)
+                .map { $0.class.yearsOfExperience }
+                .reduce(0, +)
+            
+            statCache[teamID]?.top5PlayersCombinedYearsOfExperience[date.timeIntervalSinceReferenceDate] = experience
+            return experience
+        }
+        
     }
     
     struct Record {
@@ -84,12 +118,29 @@ struct Team: Codable {
         var netConferenceWins: Int {
             conferenceWins - conferenceLosses
         }
+        
+        var overallPercentage: Double {
+            if wins == 0 || losses == 0 {
+                return 0
+            } else {
+                return Double(wins) / (Double(wins) + Double(losses))
+            }
+        }
+        
+        var conferencePercentage: Double {
+            if conferenceWins == 0 || conferenceLosses == 0 {
+                return 0
+            } else {
+                return Double(conferenceWins) / (Double(conferenceWins) + Double(conferenceLosses))
+            }
+        }
     }
     
-    func getRecord(beforeDate date: Date, isHome: Bool? = nil, isNeutralVenue: Bool? = nil) -> Record {
+    func getRecord(beforeDate date: Date, isHome: Bool? = nil, isNeutralVenue: Bool? = nil, last5Games: Bool = false) -> Record {
         var record = Record(wins: 0, losses: 0, conferenceWins: 0, conferenceLosses: 0)
         
         games.previous
+            .sorted { $0.date > $1.date }
             .filter { game in
                 guard game.date < date else { return false }
                 
@@ -109,6 +160,7 @@ struct Team: Codable {
                     return true
                 }
             }
+            .prefix(last5Games ? 5 : games.previous.count)
             .forEach { game in
                 if game.didWin {
                     record.wins += 1
@@ -137,40 +189,52 @@ struct Team: Codable {
     func getStats(onDate date: Date, statType: StatType) -> StatList {
         switch statType {
         case .team:
-            let allGameLogs = roster
-                .lazy
-                .compactMap { $0.currentSeason }
-                .reduce([]) { $0 + $1.gameLogs }
-                .filter { $0.date < date }
-            
-            return statList(from: allGameLogs)
-        case .opponent:
-            let opponentsPlayedOnDate = games.previous.reduce([String: [Date]]()) { previous, current in
-                if previous.keys.contains(current.opponentID) {
-                    var newPrevious = previous
-                    newPrevious[current.opponentID] = newPrevious[current.opponentID]! + [current.date]
-                    return newPrevious
-                } else {
-                    var newPrevious = previous
-                    newPrevious[current.opponentID] = [current.date]
-                    return newPrevious
-                }
-            }
-            
-            let allGameLogs = opponentsPlayedOnDate.keys.reduce([Player.Season.GameLog]()) { previous, current in
-                guard let opponent = teams.first(where: { $0.teamID == current }) else { return previous }
-                
-                return previous + opponent.roster
+            if let cachedValue = statCache[teamID]?.teamCache[date.timeIntervalSinceReferenceDate] {
+                return cachedValue
+            } else {
+                let allGameLogs = roster
                     .lazy
                     .compactMap { $0.currentSeason }
                     .reduce([]) { $0 + $1.gameLogs }
-                    .filter { opponentsPlayedOnDate[current]!.contains($0.date) && $0.date < date }
+                    .filter { $0.date < date }
+                
+                let statList = statList(from: allGameLogs)
+                statCache[teamID]?.teamCache[date.timeIntervalSinceReferenceDate] = statList
+                return statList
             }
-            
-            return statList(from: allGameLogs)
+        case .opponent:
+            if let cachedValue = statCache[teamID]?.opponentCache[date.timeIntervalSinceReferenceDate] {
+                return cachedValue
+            } else {
+                let opponentsPlayedOnDate = games.previous.reduce([String: [Date]]()) { previous, current in
+                    if previous.keys.contains(current.opponentID) {
+                        var newPrevious = previous
+                        newPrevious[current.opponentID] = newPrevious[current.opponentID]! + [current.date]
+                        return newPrevious
+                    } else {
+                        var newPrevious = previous
+                        newPrevious[current.opponentID] = [current.date]
+                        return newPrevious
+                    }
+                }
+                
+                let allGameLogs = opponentsPlayedOnDate.keys.reduce([Player.Season.GameLog]()) { previous, current in
+                    guard let opponent = teams.first(where: { $0.teamID == current }) else { return previous }
+                    
+                    return previous + opponent.roster
+                        .lazy
+                        .compactMap { $0.currentSeason }
+                        .reduce([]) { $0 + $1.gameLogs }
+                        .filter { opponentsPlayedOnDate[current]!.contains($0.date) && $0.date < date }
+                }
+                
+                let statList = statList(from: allGameLogs)
+                statCache[teamID]?.opponentCache[date.timeIntervalSinceReferenceDate] = statList
+                return statList
+            }
         case .differential:
-            let stats = getStats(onDate: date, statType: .team)
-            let opponentStats = getStats(onDate: date, statType: .opponent)
+            let stats = statCache[teamID]?.teamCache[date.timeIntervalSinceReferenceDate] ?? getStats(onDate: date, statType: .team)
+            let opponentStats = statCache[teamID]?.opponentCache[date.timeIntervalSinceReferenceDate] ?? getStats(onDate: date, statType: .opponent)
             
             return StatList(fieldGoals: .init(made: stats.fieldGoals.made - opponentStats.fieldGoals.made,
                                               attempted: stats.fieldGoals.attempted - opponentStats.fieldGoals.attempted,
@@ -270,7 +334,7 @@ struct Team: Codable {
             } else if channel.isEmpty {
                 return nil
             } else {
-                let standardChannels = ["ESPN", "ESPN2", "ESPNU", "ESPNN", "CBSSN", "ABC", "FOX", "NBC", "FS1", "FS2"]
+                let standardChannels = ["ESPN", "ESPN2", "ESPNU", "ESPNN", "CBSSN", "ABC", "FOX", "NBC", "FS1", "FS2", "USA NET"]
                 
                 if standardChannels.first(where: { channel.contains($0) }) != nil {
                     self = .standardTV
@@ -288,7 +352,7 @@ struct Team: Codable {
     
     struct PreviousGame: Codable, Game {
         let date: Date
-        let opponentID: String
+        var opponentID: String
         let venue: Venue
         let didWin: Bool
         let score: GameScore
@@ -350,7 +414,7 @@ struct Team: Codable {
     
     struct UpcomingGame: Codable, Equatable, Game {
         let date: Date
-        let opponentID: String
+        var opponentID: String
         let venue: Venue
         let coverage: Coverage?
         let venueCapacity: Int?
@@ -361,7 +425,7 @@ struct Team: Codable {
 
 protocol Game: Codable {
     var date: Date { get }
-    var opponentID: String { get }
+    var opponentID: String { get set }
     var venue: Venue { get }
     var coverage: Team.Coverage? { get }
     var venueCapacity: Int? { get }
@@ -560,8 +624,11 @@ enum Venue: String, Codable {
     case away
     case neutral
     
+    // there was a bug initially when pulling the data where opponent.homeAway was interpreted as the opponent's venue when it was the current team's
+    // so here 'away' actually means 'home' and vice versa
+    
     var isHome: Bool {
-        if case .home = self {
+        if case .away = self {
             return true
         } else {
             return false
@@ -569,7 +636,7 @@ enum Venue: String, Codable {
     }
     
     var isAway: Bool {
-        if case .away = self {
+        if case .home = self {
             return true
         } else {
             return false

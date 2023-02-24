@@ -8,6 +8,15 @@
 
 /* Begin PBXBuildFile section */
 		D0B839F2294A92B0003DFAFF /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B839F1294A92B0003DFAFF /* main.swift */; };
+		D0C49D4B29A95A940089D4D4 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D4929A95A940089D4D4 /* Extensions.swift */; };
+		D0C49D4C29A95A940089D4D4 /* Team.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D4A29A95A940089D4D4 /* Team.swift */; };
+		D0C49D5629A95B190089D4D4 /* WebScraperModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5429A95B190089D4D4 /* WebScraperModels.swift */; };
+		D0C49D5729A95B190089D4D4 /* WebScraperHelperFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5529A95B190089D4D4 /* WebScraperHelperFunctions.swift */; };
+		D0C49D5B29A95B230089D4D4 /* CategoryHelperFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5829A95B230089D4D4 /* CategoryHelperFunctions.swift */; };
+		D0C49D5C29A95B230089D4D4 /* CategoryModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5929A95B230089D4D4 /* CategoryModels.swift */; };
+		D0C49D5D29A95B230089D4D4 /* GetCategoiresFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5A29A95B230089D4D4 /* GetCategoiresFunction.swift */; };
+		D0C49D6029A95B330089D4D4 /* PredictorHelperFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5E29A95B330089D4D4 /* PredictorHelperFunctions.swift */; };
+		D0C49D6129A95B330089D4D4 /* PredictorModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5F29A95B330089D4D4 /* PredictorModels.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +34,15 @@
 /* Begin PBXFileReference section */
 		D0B839EE294A92B0003DFAFF /* GamePredictor */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = GamePredictor; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0B839F1294A92B0003DFAFF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		D0C49D4929A95A940089D4D4 /* Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		D0C49D4A29A95A940089D4D4 /* Team.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Team.swift; sourceTree = "<group>"; };
+		D0C49D5429A95B190089D4D4 /* WebScraperModels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebScraperModels.swift; sourceTree = "<group>"; };
+		D0C49D5529A95B190089D4D4 /* WebScraperHelperFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebScraperHelperFunctions.swift; sourceTree = "<group>"; };
+		D0C49D5829A95B230089D4D4 /* CategoryHelperFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryHelperFunctions.swift; sourceTree = "<group>"; };
+		D0C49D5929A95B230089D4D4 /* CategoryModels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryModels.swift; sourceTree = "<group>"; };
+		D0C49D5A29A95B230089D4D4 /* GetCategoiresFunction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetCategoiresFunction.swift; sourceTree = "<group>"; };
+		D0C49D5E29A95B330089D4D4 /* PredictorHelperFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PredictorHelperFunctions.swift; sourceTree = "<group>"; };
+		D0C49D5F29A95B330089D4D4 /* PredictorModels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PredictorModels.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +75,42 @@
 		D0B839F0294A92B0003DFAFF /* GamePredictor */ = {
 			isa = PBXGroup;
 			children = (
+				D0C49D4F29A95ACF0089D4D4 /* Web Scraper */,
+				D0C49D4E29A95AC80089D4D4 /* Categories */,
+				D0C49D4D29A95AB80089D4D4 /* Predictor */,
+				D0C49D4929A95A940089D4D4 /* Extensions.swift */,
+				D0C49D4A29A95A940089D4D4 /* Team.swift */,
 				D0B839F1294A92B0003DFAFF /* main.swift */,
 			);
 			path = GamePredictor;
+			sourceTree = "<group>";
+		};
+		D0C49D4D29A95AB80089D4D4 /* Predictor */ = {
+			isa = PBXGroup;
+			children = (
+				D0C49D5E29A95B330089D4D4 /* PredictorHelperFunctions.swift */,
+				D0C49D5F29A95B330089D4D4 /* PredictorModels.swift */,
+			);
+			path = Predictor;
+			sourceTree = "<group>";
+		};
+		D0C49D4E29A95AC80089D4D4 /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				D0C49D5829A95B230089D4D4 /* CategoryHelperFunctions.swift */,
+				D0C49D5929A95B230089D4D4 /* CategoryModels.swift */,
+				D0C49D5A29A95B230089D4D4 /* GetCategoiresFunction.swift */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		D0C49D4F29A95ACF0089D4D4 /* Web Scraper */ = {
+			isa = PBXGroup;
+			children = (
+				D0C49D5529A95B190089D4D4 /* WebScraperHelperFunctions.swift */,
+				D0C49D5429A95B190089D4D4 /* WebScraperModels.swift */,
+			);
+			path = "Web Scraper";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -120,7 +171,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0C49D4C29A95A940089D4D4 /* Team.swift in Sources */,
+				D0C49D5B29A95B230089D4D4 /* CategoryHelperFunctions.swift in Sources */,
+				D0C49D6029A95B330089D4D4 /* PredictorHelperFunctions.swift in Sources */,
+				D0C49D5D29A95B230089D4D4 /* GetCategoiresFunction.swift in Sources */,
 				D0B839F2294A92B0003DFAFF /* main.swift in Sources */,
+				D0C49D5729A95B190089D4D4 /* WebScraperHelperFunctions.swift in Sources */,
+				D0C49D5C29A95B230089D4D4 /* CategoryModels.swift in Sources */,
+				D0C49D4B29A95A940089D4D4 /* Extensions.swift in Sources */,
+				D0C49D6129A95B330089D4D4 /* PredictorModels.swift in Sources */,
+				D0C49D5629A95B190089D4D4 /* WebScraperModels.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
