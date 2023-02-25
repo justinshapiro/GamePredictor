@@ -837,6 +837,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 4633,
+      "opponentID" : "FGCU",
+      "largestLead" : 0,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Josue  Nieves",
+        "Shane Land",
+        "Felix Fuerte"
+      ],
+      "didWin" : false,
+      "overUnder" : 134.5,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 37,
+          "opponentPoints" : 62
+        },
+        "secondHalf" : {
+          "teamPoints" : 34,
+          "opponentPoints" : 27
+        }
+      },
+      "attendance" : 2291,
+      "line" : 11
+    },
+    "teamName" : "APSU"
+  },
+  {
+    "game" : {
       "venueCapacity" : 22000,
       "opponentID" : "LOU",
       "largestLead" : 14,
@@ -1646,6 +1678,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 5800,
+      "opponentID" : "UNF",
+      "largestLead" : 2,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Glenn Tuitt",
+        "Evan Berg",
+        "Connor Penn"
+      ],
+      "didWin" : false,
+      "overUnder" : 139,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 39,
+          "opponentPoints" : 38
+        },
+        "secondHalf" : {
+          "teamPoints" : 28,
+          "opponentPoints" : 41
+        }
+      },
+      "attendance" : 1889,
+      "line" : 5
+    },
+    "teamName" : "BELL"
+  },
+  {
+    "game" : {
       "venueCapacity" : 10506,
       "opponentID" : "WICH",
       "largestLead" : 0,
@@ -2399,6 +2463,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 5500,
+      "opponentID" : "KENN",
+      "largestLead" : 2,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Kelly Davis",
+        "Blake Thomas",
+        "Chris Chumley"
+      ],
+      "didWin" : false,
+      "overUnder" : 158.5,
+      "date" : "2023-02-24T18:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 28,
+          "opponentPoints" : 39
+        },
+        "secondHalf" : {
+          "teamPoints" : 28,
+          "opponentPoints" : 33
+        }
+      },
+      "attendance" : 1248,
+      "line" : 9
+    },
+    "teamName" : "CARK"
+  },
+  {
+    "game" : {
       "venueCapacity" : 6500,
       "opponentID" : "WKU",
       "largestLead" : 8,
@@ -3069,6 +3165,38 @@
       },
       "attendance" : 0,
       "line" : 2
+    },
+    "teamName" : "EKU"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 1360,
+      "opponentID" : "JAX",
+      "largestLead" : 12,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Chris King",
+        "Devyn Page",
+        "Donta Carter"
+      ],
+      "didWin" : true,
+      "overUnder" : 134,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 34,
+          "opponentPoints" : 26
+        },
+        "secondHalf" : {
+          "teamPoints" : 22,
+          "opponentPoints" : 26
+        }
+      },
+      "attendance" : 804,
+      "line" : 1
     },
     "teamName" : "EKU"
   },
@@ -4962,6 +5090,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 3500,
+      "opponentID" : "UNA",
+      "largestLead" : 11,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "John Dillon",
+        "Coy Gammon",
+        "Sidney Cohen"
+      ],
+      "didWin" : true,
+      "overUnder" : 141.5,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 42,
+          "opponentPoints" : 39
+        },
+        "secondHalf" : {
+          "teamPoints" : 50,
+          "opponentPoints" : 44
+        }
+      },
+      "attendance" : 2133,
+      "line" : 1.5
+    },
+    "teamName" : "JVST"
+  },
+  {
+    "game" : {
       "venueCapacity" : 10133,
       "opponentID" : "FLA",
       "largestLead" : 4,
@@ -6011,6 +6171,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 4000,
+      "opponentID" : "QUOC",
+      "largestLead" : 20,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Tim Comer",
+        "Ryan  Christian",
+        "Dan Powers"
+      ],
+      "didWin" : true,
+      "overUnder" : 148,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 26,
+          "opponentPoints" : 24
+        },
+        "secondHalf" : {
+          "teamPoints" : 47,
+          "opponentPoints" : 29
+        }
+      },
+      "attendance" : 4041,
+      "line" : 15.5
+    },
+    "teamName" : "LIB"
+  },
+  {
+    "game" : {
       "venueCapacity" : 6004,
       "opponentID" : "SDAK",
       "largestLead" : 15,
@@ -6499,6 +6691,44 @@
       },
       "attendance" : 1782,
       "line" : 7.5
+    },
+    "teamName" : "LIP"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 4000,
+      "opponentID" : "STET",
+      "largestLead" : 8,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Vladimir Voyard-Tadal",
+        "Nick Nadeau",
+        "David Howard"
+      ],
+      "didWin" : true,
+      "overUnder" : 148.5,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 34,
+          "opponentPoints" : 30
+        },
+        "secondHalf" : {
+          "teamPoints" : 47,
+          "opponentPoints" : 51
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 17,
+            "opponentPoints" : 10
+          }
+        ]
+      },
+      "attendance" : 678,
+      "line" : 1.5
     },
     "teamName" : "LIP"
   },
@@ -26358,6 +26588,38 @@
       },
       "attendance" : 5235,
       "line" : 5
+    },
+    "teamName" : "RICH"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 7637,
+      "opponentID" : "VCU",
+      "largestLead" : 6,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Lee Cassell",
+        "Bert Smith",
+        "Clarence Armstrong"
+      ],
+      "didWin" : false,
+      "overUnder" : 134.5,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 23,
+          "opponentPoints" : 37
+        },
+        "secondHalf" : {
+          "teamPoints" : 35,
+          "opponentPoints" : 36
+        }
+      },
+      "attendance" : 7637,
+      "line" : 9
     },
     "teamName" : "RICH"
   },
@@ -46553,6 +46815,38 @@
       },
       "attendance" : 10167,
       "line" : 11
+    },
+    "teamName" : "HALL"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 18711,
+      "opponentID" : "XAV",
+      "largestLead" : 3,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Pat Driscoll",
+        "Brian  O'Connell",
+        "Earl Walton"
+      ],
+      "didWin" : false,
+      "overUnder" : 141.5,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 21,
+          "opponentPoints" : 40
+        },
+        "secondHalf" : {
+          "teamPoints" : 39,
+          "opponentPoints" : 42
+        }
+      },
+      "attendance" : 10481,
+      "line" : 1.5
     },
     "teamName" : "HALL"
   },
@@ -90151,6 +90445,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 2196,
+      "opponentID" : "SPU",
+      "largestLead" : 13,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Wally Rutecki",
+        "Steven Perry",
+        "Mikerlange Fleury"
+      ],
+      "didWin" : true,
+      "overUnder" : 133,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 31,
+          "opponentPoints" : 29
+        },
+        "secondHalf" : {
+          "teamPoints" : 35,
+          "opponentPoints" : 24
+        }
+      },
+      "attendance" : 702,
+      "line" : 3.5
+    },
+    "teamName" : "CAN"
+  },
+  {
+    "game" : {
       "venueCapacity" : 2100,
       "opponentID" : "WAG",
       "largestLead" : 1,
@@ -90804,6 +91130,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 2400,
+      "opponentID" : "NIA",
+      "largestLead" : 9,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Bill Covington",
+        "Matt Lavigne",
+        "Tim Smith"
+      ],
+      "didWin" : false,
+      "overUnder" : 124.5,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 36,
+          "opponentPoints" : 33
+        },
+        "secondHalf" : {
+          "teamPoints" : 32,
+          "opponentPoints" : 43
+        }
+      },
+      "attendance" : 1321,
+      "line" : 1.5
+    },
+    "teamName" : "FAIR"
+  },
+  {
+    "game" : {
       "venueCapacity" : 0,
       "opponentID" : "SCU",
       "largestLead" : 7,
@@ -91353,6 +91711,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 3121,
+      "opponentID" : "MSM",
+      "largestLead" : 12,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Brent Hampton",
+        "Brian Zink",
+        "Ed Corbett Jr."
+      ],
+      "didWin" : true,
+      "overUnder" : 140,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 31,
+          "opponentPoints" : 36
+        },
+        "secondHalf" : {
+          "teamPoints" : 49,
+          "opponentPoints" : 32
+        }
+      },
+      "attendance" : 3121,
+      "line" : 9.5
+    },
+    "teamName" : "IONA"
+  },
+  {
+    "game" : {
       "venueCapacity" : 1852,
       "opponentID" : "FDU",
       "largestLead" : 6,
@@ -91766,6 +92156,38 @@
       },
       "attendance" : 784,
       "line" : 2
+    },
+    "teamName" : "MAN"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 2345,
+      "opponentID" : "MRST",
+      "largestLead" : 6,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Jeff Clark",
+        "Tony Chiazza",
+        "Josean Vega"
+      ],
+      "didWin" : false,
+      "overUnder" : 133,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 26,
+          "opponentPoints" : 32
+        },
+        "secondHalf" : {
+          "teamPoints" : 32,
+          "opponentPoints" : 49
+        }
+      },
+      "attendance" : 782,
+      "line" : 3.5
     },
     "teamName" : "MAN"
   },
@@ -93378,6 +93800,38 @@
       },
       "attendance" : 1650,
       "line" : 5
+    },
+    "teamName" : "RID"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 1650,
+      "opponentID" : "SIE",
+      "largestLead" : 12,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Matt Potter",
+        "Nathan Hall",
+        "Greg Evans"
+      ],
+      "didWin" : true,
+      "overUnder" : 133.5,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 37,
+          "opponentPoints" : 27
+        },
+        "secondHalf" : {
+          "teamPoints" : 32,
+          "opponentPoints" : 39
+        }
+      },
+      "attendance" : 1650,
+      "line" : 2.5
     },
     "teamName" : "RID"
   },
@@ -105441,6 +105895,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 18000,
+      "opponentID" : "UNLV",
+      "largestLead" : 7,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Shawn Lehigh",
+        "David Hall",
+        "Eric Curry"
+      ],
+      "didWin" : false,
+      "overUnder" : 138,
+      "date" : "2023-02-24T19:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 26,
+          "opponentPoints" : 25
+        },
+        "secondHalf" : {
+          "teamPoints" : 27,
+          "opponentPoints" : 29
+        }
+      },
+      "attendance" : 5831,
+      "line" : 9
+    },
+    "teamName" : "AFA"
+  },
+  {
+    "game" : {
       "venueCapacity" : 12480,
       "opponentID" : "SDST",
       "largestLead" : 2,
@@ -106595,6 +107081,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 8083,
+      "opponentID" : "WYO",
+      "largestLead" : 16,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Verne Harris",
+        "John Higgins",
+        "Tommy Nunez"
+      ],
+      "didWin" : true,
+      "overUnder" : 137,
+      "date" : "2023-02-24T19:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 40,
+          "opponentPoints" : 30
+        },
+        "secondHalf" : {
+          "teamPoints" : 44,
+          "opponentPoints" : 41
+        }
+      },
+      "attendance" : 8083,
+      "line" : 7
+    },
+    "teamName" : "CSU"
+  },
+  {
+    "game" : {
       "venueCapacity" : 15596,
       "opponentID" : "SF",
       "largestLead" : 4,
@@ -106971,6 +107489,38 @@
       },
       "attendance" : 7012,
       "line" : 8.5
+    },
+    "teamName" : "FRES"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 15596,
+      "opponentID" : "NEV",
+      "largestLead" : 6,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Larry Spaulding",
+        "Deron White",
+        "Gregory Nixon"
+      ],
+      "didWin" : false,
+      "overUnder" : 130,
+      "date" : "2023-02-24T21:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 30,
+          "opponentPoints" : 34
+        },
+        "secondHalf" : {
+          "teamPoints" : 26,
+          "opponentPoints" : 26
+        }
+      },
+      "attendance" : 5107,
+      "line" : 2.5
     },
     "teamName" : "FRES"
   },
@@ -138318,6 +138868,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 4325,
+      "opponentID" : "GASO",
+      "largestLead" : 8,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "K.B. Burdett",
+        "Rob Rorke",
+        "Crystal Hogan"
+      ],
+      "didWin" : false,
+      "overUnder" : 132,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 29,
+          "opponentPoints" : 29
+        },
+        "secondHalf" : {
+          "teamPoints" : 35,
+          "opponentPoints" : 44
+        }
+      },
+      "attendance" : 2445,
+      "line" : 2
+    },
+    "teamName" : "APP"
+  },
+  {
+    "game" : {
       "venueCapacity" : 8472,
       "opponentID" : "ODU",
       "largestLead" : 14,
@@ -138799,6 +139381,38 @@
       },
       "attendance" : 2615,
       "line" : 14.5
+    },
+    "teamName" : "ARST"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 7085,
+      "opponentID" : "ULM",
+      "largestLead" : 8,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Sean Casady",
+        "Bill Jacobson",
+        "Michael Wallace"
+      ],
+      "didWin" : true,
+      "overUnder" : 132,
+      "date" : "2023-02-24T17:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 26,
+          "opponentPoints" : 29
+        },
+        "secondHalf" : {
+          "teamPoints" : 38,
+          "opponentPoints" : 32
+        }
+      },
+      "attendance" : 2286,
+      "line" : 4.5
     },
     "teamName" : "ARST"
   },
@@ -139935,6 +140549,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 8500,
+      "opponentID" : "JMU",
+      "largestLead" : 6,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Wil Howard",
+        "Keith Patterson",
+        "Chase Shaw"
+      ],
+      "didWin" : false,
+      "overUnder" : 144,
+      "date" : "2023-02-24T18:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 40,
+          "opponentPoints" : 34
+        },
+        "secondHalf" : {
+          "teamPoints" : 29,
+          "opponentPoints" : 56
+        }
+      },
+      "attendance" : 5019,
+      "line" : 15.5
+    },
+    "teamName" : "GAST"
+  },
+  {
+    "game" : {
       "venueCapacity" : 9048,
       "opponentID" : "MRSH",
       "largestLead" : 13,
@@ -140748,6 +141394,38 @@
   },
   {
     "game" : {
+      "venueCapacity" : 8472,
+      "opponentID" : "ODU",
+      "largestLead" : 9,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Patrick Evans",
+        "Landon Brandes",
+        "Bharat Ramnanan"
+      ],
+      "didWin" : false,
+      "overUnder" : 148,
+      "date" : "2023-02-24T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 35,
+          "opponentPoints" : 28
+        },
+        "secondHalf" : {
+          "teamPoints" : 32,
+          "opponentPoints" : 43
+        }
+      },
+      "attendance" : 6425,
+      "line" : 2.5
+    },
+    "teamName" : "MRSH"
+  },
+  {
+    "game" : {
       "venueCapacity" : 5200,
       "opponentID" : "TROY",
       "largestLead" : 5,
@@ -141191,6 +141869,38 @@
       },
       "attendance" : 3314,
       "line" : 1.5
+    },
+    "teamName" : "USM"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 10000,
+      "opponentID" : "TXST",
+      "largestLead" : 18,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Olandis Poole",
+        "Hunter Allen",
+        "Robert Felder"
+      ],
+      "didWin" : true,
+      "overUnder" : 135,
+      "date" : "2023-02-24T18:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 41,
+          "opponentPoints" : 29
+        },
+        "secondHalf" : {
+          "teamPoints" : 38,
+          "opponentPoints" : 40
+        }
+      },
+      "attendance" : 0,
+      "line" : 2.5
     },
     "teamName" : "USM"
   },
@@ -144800,6 +145510,38 @@
       },
       "attendance" : 6039,
       "line" : 12
+    },
+    "teamName" : "GCU"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 7000,
+      "opponentID" : "SEA",
+      "largestLead" : 0,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Winston Stith",
+        "Michael Greenstein",
+        "Deldre Carr"
+      ],
+      "didWin" : false,
+      "overUnder" : 142,
+      "date" : "2023-02-24T19:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 13,
+          "opponentPoints" : 26
+        },
+        "secondHalf" : {
+          "teamPoints" : 41,
+          "opponentPoints" : 39
+        }
+      },
+      "attendance" : 7414,
+      "line" : 6
     },
     "teamName" : "GCU"
   },

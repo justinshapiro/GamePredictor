@@ -10,7 +10,7 @@ import Foundation
 let CURRENT_SEASON_YEAR = 2023
 
 let DISABLE_UPDATE = false
-let TRAINING_MODE = true
+let TRAINING_MODE = false
 let VERBOSE_OUTPUT = true
 let ENABLE_INVERTED_ROUND_ROBIN = false
 let IRR_EVALUATION_MODE = false
@@ -39,7 +39,10 @@ if TRAINING_MODE {
 let upcomingPredictions = getUpcomingPredictions(tomorrow: false)
 
 print("\nUpcoming Predictions:")
-upcomingPredictions.forEach { print($0) }
+upcomingPredictions
+    .map { "\($0.0): \($0.1)% confidence" }
+    .removeDuplicates()
+    .forEach { print($0) }
 
 if ENABLE_INVERTED_ROUND_ROBIN {
     if !IRR_EVALUATION_MODE {

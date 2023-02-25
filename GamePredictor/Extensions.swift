@@ -84,6 +84,7 @@ extension Encodable {
         let data = try! encoder.encode(self)
         let path = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
             .appendingPathComponent("GamePredictor")
+            .appendingPathComponent("Data")
             .appendingPathComponent(name)
         
         try! data.write(to: path)

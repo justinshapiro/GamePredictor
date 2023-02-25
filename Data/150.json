@@ -19928,7 +19928,7 @@
     }
   ],
   "conference" : "ACC",
-  "conferenceRanking" : 5,
+  "conferenceRanking" : 6,
   "games" : {
     "previous" : [
       {
@@ -20715,14 +20715,6 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "VT",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 314,
-        "date" : "2023-02-24T22:00-0700"
-      },
       {
         "opponentID" : "NCST",
         "venue" : "away",
