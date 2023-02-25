@@ -13,16 +13,23 @@ import Algorithms
 func getBettingMatchups(from teams: [Team]) -> [(String, Team.PreviousGame)] {
     let matchupsFileName = "bettingMatchups.json"
     let dataDirectory = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: dataDirectory.path + "/GamePredictor/Data")
+    let destinationPath = dataDirectory.path + "/GamePredictor/Data/\(SPORT_MODE.league)"
+    
+    if !FileManager.default.directoryExists(atPath: destinationPath) {
+        try! FileManager.default.createDirectory(atPath: destinationPath, withIntermediateDirectories: true)
+    }
+    
+    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: destinationPath)
     
     if let fileName = directoryContents.first(where: { $0 == matchupsFileName }) {
         print("\nReading betting matchups file...")
         
-        let attributes = try! FileManager.default.attributesOfItem(atPath: dataDirectory.path + "/GamePredictor/Data/" + fileName) as NSDictionary
+        let attributes = try! FileManager.default.attributesOfItem(atPath: destinationPath + "/" + fileName) as NSDictionary
         let fileCreationDate = attributes.fileModificationDate() ?? attributes.fileCreationDate()!
         
         if !(fileCreationDate < .now && !Calendar.current.isDateInToday(fileCreationDate)) {
-            let fileURL = URL(fileURLWithPath: fileName, relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data"))
+            let fileURL = URL(fileURLWithPath: fileName,
+                              relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data").appendingPathComponent(SPORT_MODE.league))
             let fileData = try! Data(contentsOf: fileURL)
             
             let decoder = JSONDecoder()
@@ -313,13 +320,20 @@ func evaluateCurrentInvertedRoundRobin(results: [String]) {
     
     let matchupsFileName = "invertedRoundRobin-\(dateFormatter.string(from: .now)).json"
     let dataDirectory = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: dataDirectory.path + "/GamePredictor/Data")
+    let destinationPath = dataDirectory.path + "/GamePredictor/Data/\(SPORT_MODE.league)"
+    
+    if !FileManager.default.directoryExists(atPath: destinationPath) {
+        try! FileManager.default.createDirectory(atPath: destinationPath, withIntermediateDirectories: true)
+    }
+    
+    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: destinationPath)
     
     guard let fileName = directoryContents.first(where: { $0 == matchupsFileName }) else {
         fatalError("No file found for today's evaluation")
     }
         
-    let fileURL = URL(fileURLWithPath: fileName, relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data"))
+    let fileURL = URL(fileURLWithPath: fileName,
+                      relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data").appendingPathComponent(SPORT_MODE.league))
     let fileData = try! Data(contentsOf: fileURL)
     
     let codableRoundRobin = (try! JSONDecoder().decode(CodableRoundRobin.self, from: fileData))
@@ -356,12 +370,19 @@ func evaluateCurrentInvertedRoundRobin(results: [String]) {
 func getFlipPatterns(forBetslipOfCount count: Int) -> [[Bool]] {
     let matchupsFileName = "flipPatterns-\(count).json"
     let dataDirectory = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: dataDirectory.path + "/GamePredictor/Data")
+    let destinationPath = dataDirectory.path + "/GamePredictor/Data/\(SPORT_MODE.league)"
+    
+    if !FileManager.default.directoryExists(atPath: destinationPath) {
+        try! FileManager.default.createDirectory(atPath: destinationPath, withIntermediateDirectories: true)
+    }
+    
+    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: destinationPath)
     
     if let fileName = directoryContents.first(where: { $0 == matchupsFileName }) {
         print("Reading \(matchupsFileName)...")
         
-        let fileURL = URL(fileURLWithPath: fileName, relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data"))
+        let fileURL = URL(fileURLWithPath: fileName,
+                          relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data").appendingPathComponent(SPORT_MODE.league))
         let fileData = try! Data(contentsOf: fileURL)
         
         return try! JSONDecoder().decode([[Bool]].self, from: fileData)

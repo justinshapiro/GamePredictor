@@ -17,6 +17,7 @@
 		D0C49D5D29A95B230089D4D4 /* GetCategoiresFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5A29A95B230089D4D4 /* GetCategoiresFunction.swift */; };
 		D0C49D6029A95B330089D4D4 /* PredictorHelperFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5E29A95B330089D4D4 /* PredictorHelperFunctions.swift */; };
 		D0C49D6129A95B330089D4D4 /* PredictorModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5F29A95B330089D4D4 /* PredictorModels.swift */; };
+		D0C49D6329AA9ECA0089D4D4 /* SportMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D6229AA9ECA0089D4D4 /* SportMode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		D0C49D5A29A95B230089D4D4 /* GetCategoiresFunction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetCategoiresFunction.swift; sourceTree = "<group>"; };
 		D0C49D5E29A95B330089D4D4 /* PredictorHelperFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PredictorHelperFunctions.swift; sourceTree = "<group>"; };
 		D0C49D5F29A95B330089D4D4 /* PredictorModels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PredictorModels.swift; sourceTree = "<group>"; };
+		D0C49D6229AA9ECA0089D4D4 /* SportMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportMode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				D0C49D4D29A95AB80089D4D4 /* Predictor */,
 				D0C49D4929A95A940089D4D4 /* Extensions.swift */,
 				D0C49D4A29A95A940089D4D4 /* Team.swift */,
+				D0C49D6229AA9ECA0089D4D4 /* SportMode.swift */,
 				D0B839F1294A92B0003DFAFF /* main.swift */,
 			);
 			path = GamePredictor;
@@ -174,6 +177,7 @@
 				D0C49D4C29A95A940089D4D4 /* Team.swift in Sources */,
 				D0C49D5B29A95B230089D4D4 /* CategoryHelperFunctions.swift in Sources */,
 				D0C49D6029A95B330089D4D4 /* PredictorHelperFunctions.swift in Sources */,
+				D0C49D6329AA9ECA0089D4D4 /* SportMode.swift in Sources */,
 				D0C49D5D29A95B230089D4D4 /* GetCategoiresFunction.swift in Sources */,
 				D0B839F2294A92B0003DFAFF /* main.swift in Sources */,
 				D0C49D5729A95B190089D4D4 /* WebScraperHelperFunctions.swift in Sources */,
