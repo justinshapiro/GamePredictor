@@ -11,32 +11,9 @@ import Foundation
 
 func getBettingMatchups(from teams: [Team]) -> [(String, Team.PreviousGame)] {
     let matchupsFileName = "bettingMatchups.json"
-    let dataDirectory = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-    let destinationPath = dataDirectory.path + "/GamePredictor/Data/\(SPORT_MODE.league)"
     
-    if !FileManager.default.directoryExists(atPath: destinationPath) {
-        try! FileManager.default.createDirectory(atPath: destinationPath, withIntermediateDirectories: true)
-    }
-    
-    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: destinationPath)
-    
-    if let fileName = directoryContents.first(where: { $0 == matchupsFileName }) {
-        print("\nReading betting matchups file...")
-        
-        let attributes = try! FileManager.default.attributesOfItem(atPath: destinationPath + "/" + fileName) as NSDictionary
-        let fileCreationDate = attributes.fileModificationDate() ?? attributes.fileCreationDate()!
-        
-        if !(fileCreationDate < .now && !Calendar.current.isDateInToday(fileCreationDate)) {
-            let fileURL = URL(fileURLWithPath: fileName,
-                              relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data").appendingPathComponent(SPORT_MODE.league))
-            let fileData = try! Data(contentsOf: fileURL)
-            
-            let decoder = JSONDecoder()
-            decoder.dateDecodingStrategy = .formatted(dateFormatter)
-            
-            let codableBettingMatchups = try! decoder.decode([CodableBettingMatchup].self, from: fileData)
-            return codableBettingMatchups.map { ($0.teamName, $0.game) }
-        }
+    if let codableBettingMatchups: [CodableBettingMatchup] = FileManager.default.getDecodedFileIfExists(fileName: matchupsFileName, todayOnly: true) {
+        return codableBettingMatchups.map { ($0.teamName, $0.game) }
     }
     
     print("\nProducing betting matchups...")
@@ -234,6 +211,7 @@ func exportUpcomingPredictions(_ upcomingPredictions: [(String, Double)]) {
     let todaysDateString = dateFormatter.string(from: .now)
     
     guard !upcomingPredictions.isEmpty else {
+        dateFormatter.dateFormat = "MM/dd"
         return print("\n\(SPORT_MODE.league) No upcoming predictions for \(todaysDateString)")
     }
     
@@ -341,24 +319,11 @@ func evaluateCurrentInvertedRoundRobin(results: [String]) {
     dateFormatter.dateFormat = "MM-dd"
     
     let matchupsFileName = "invertedRoundRobin-\(dateFormatter.string(from: .now)).json"
-    let dataDirectory = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-    let destinationPath = dataDirectory.path + "/GamePredictor/Data/\(SPORT_MODE.league)"
     
-    if !FileManager.default.directoryExists(atPath: destinationPath) {
-        try! FileManager.default.createDirectory(atPath: destinationPath, withIntermediateDirectories: true)
+    guard let codableRoundRobin: CodableRoundRobin = FileManager.default.getDecodedFileIfExists(fileName: matchupsFileName, todayOnly: false) else {
+        fatalError("No file found for today's evaluation or file couldn't be decoded")
     }
     
-    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: destinationPath)
-    
-    guard let fileName = directoryContents.first(where: { $0 == matchupsFileName }) else {
-        fatalError("No file found for today's evaluation")
-    }
-        
-    let fileURL = URL(fileURLWithPath: fileName,
-                      relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data").appendingPathComponent(SPORT_MODE.league))
-    let fileData = try! Data(contentsOf: fileURL)
-    
-    let codableRoundRobin = (try! JSONDecoder().decode(CodableRoundRobin.self, from: fileData))
     let codableRoundRobins = codableRoundRobin.betslips.map { $0.picks }
     
     let todaysResults = results
@@ -390,24 +355,10 @@ func evaluateCurrentInvertedRoundRobin(results: [String]) {
 // MARK: - Flip Patterns
 
 func getFlipPatterns(forBetslipOfCount count: Int) -> [[Bool]] {
-    let matchupsFileName = "flipPatterns-\(count).json"
-    let dataDirectory = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-    let destinationPath = dataDirectory.path + "/GamePredictor/Data/\(SPORT_MODE.league)"
+    let flipPatternsFileName = "flipPatterns-\(count).json"
     
-    if !FileManager.default.directoryExists(atPath: destinationPath) {
-        try! FileManager.default.createDirectory(atPath: destinationPath, withIntermediateDirectories: true)
-    }
-    
-    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: destinationPath)
-    
-    if let fileName = directoryContents.first(where: { $0 == matchupsFileName }) {
-        print("Reading \(matchupsFileName)...")
-        
-        let fileURL = URL(fileURLWithPath: fileName,
-                          relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data").appendingPathComponent(SPORT_MODE.league))
-        let fileData = try! Data(contentsOf: fileURL)
-        
-        return try! JSONDecoder().decode([[Bool]].self, from: fileData)
+    if let flipPatterns: [[Bool]] = FileManager.default.getDecodedFileIfExists(fileName: flipPatternsFileName, todayOnly: false) {
+        return flipPatterns
     }
     
     print("Producing flip pattern file for betslip with \(count) picks...")
@@ -428,7 +379,7 @@ func getFlipPatterns(forBetslipOfCount count: Int) -> [[Bool]] {
         allPossibleFlipPatterns.append(flipPattern)
     }
     
-    allPossibleFlipPatterns.export(as: matchupsFileName)
+    allPossibleFlipPatterns.export(as: flipPatternsFileName)
     
     return allPossibleFlipPatterns
 }

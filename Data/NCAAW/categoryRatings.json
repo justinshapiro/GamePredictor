@@ -1,8 +1,8 @@
 [
   {
     "name" : "Covered Spread w\/ More Offensive Rebounds Against Teams With Less Defensive Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
+    "weight" : 0.59999999999999998,
+    "rating" : 46
   },
   {
     "name" : "Covered Spread w\/ More Offensive Rebounds Against Teams With Less Defensive Rebounds (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -11,28 +11,28 @@
   },
   {
     "name" : "Covered Spread w\/ More Offensive Rebounds Against Teams With Less Defensive Rebounds (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ More Offensive Rebounds Against Teams With Less Defensive Rebounds (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.80000000000000004,
-    "rating" : 48
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Covered Spread w\/ More Offensive Rebounds Against Teams With Less Defensive Rebounds (Non-Conference Games, Neutral Venues)",
-    "weight" : -0.10000000000000009,
-    "rating" : 39
+    "weight" : 0,
+    "rating" : 40
   },
   {
     "name" : "Covered Spread w\/ More Offensive Rebounds Against Teams With Less Defensive Rebounds (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.1000000000000001,
-    "rating" : 51
+    "weight" : 1.2,
+    "rating" : 52
   },
   {
     "name" : "Covered Spread w\/ Less Offensive Rebounds Against Teams With More Defensive Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
+    "weight" : 1.3,
+    "rating" : 53
   },
   {
     "name" : "Covered Spread w\/ Less Offensive Rebounds Against Teams With More Defensive Rebounds (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -41,23 +41,23 @@
   },
   {
     "name" : "Covered Spread w\/ Less Offensive Rebounds Against Teams With More Defensive Rebounds (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Less Offensive Rebounds Against Teams With More Defensive Rebounds (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.1000000000000001,
-    "rating" : 51
+    "weight" : 1,
+    "rating" : 50
   },
   {
     "name" : "Covered Spread w\/ Less Offensive Rebounds Against Teams With More Defensive Rebounds (Non-Conference Games, Neutral Venues)",
-    "weight" : 2,
-    "rating" : 60
+    "weight" : 1.8999999999999999,
+    "rating" : 59
   },
   {
     "name" : "Covered Spread w\/ Less Offensive Rebounds Against Teams With More Defensive Rebounds (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.80000000000000004,
-    "rating" : 48
+    "weight" : 0.69999999999999996,
+    "rating" : 47
   },
   {
     "name" : "Covered Spread w\/ More Steals Against Team With More Turnovers (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -71,13 +71,13 @@
   },
   {
     "name" : "Covered Spread w\/ More Steals Against Team With More Turnovers (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.1000000000000001,
-    "rating" : 51
+    "weight" : 1.2,
+    "rating" : 52
   },
   {
     "name" : "Covered Spread w\/ More Steals Against Team With More Turnovers (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Covered Spread w\/ More Steals Against Team With More Turnovers (Non-Conference Games, Neutral Venues)",
@@ -86,8 +86,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Steals Against Team With More Turnovers (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.59999999999999998,
-    "rating" : 46
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ Less Steals Against Team With Less Turnovers (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -116,8 +116,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Steals Against Team With Less Turnovers (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.3,
-    "rating" : 53
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Better National Ranking When Both Opponents Are Nationally Ranked (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -341,8 +341,8 @@
   },
   {
     "name" : "Covered Spread w\/ Better Offensive And Defensive Efficiency (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.80000000000000004,
-    "rating" : 48
+    "weight" : 0.69999999999999996,
+    "rating" : 47
   },
   {
     "name" : "Covered Spread w\/ Better Offensive And Defensive Efficiency (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -591,8 +591,8 @@
   },
   {
     "name" : "Away Team Covered Spread w\/ In Matchup w\/ No TV Coverage (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Away Team Covered Spread w\/ In Matchup w\/ No TV Coverage (Non-Conference Games, Non-Neutral Venues)",
@@ -616,8 +616,8 @@
   },
   {
     "name" : "Away Team Covered Spread w\/ In Matchup w\/ Any TV Coverage (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Away Team Covered Spread w\/ In Matchup w\/ Any TV Coverage (Conference Games, Non-Neutral Venues)",
@@ -691,8 +691,8 @@
   },
   {
     "name" : "Covered Spread w\/ Better Conference Record (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ Better Conference Record (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -701,8 +701,8 @@
   },
   {
     "name" : "Covered Spread w\/ Better Conference Record (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.30000000000000004,
-    "rating" : 43
+    "weight" : 0.40000000000000002,
+    "rating" : 44
   },
   {
     "name" : "Covered Spread w\/ Better Conference Record (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -781,18 +781,18 @@
   },
   {
     "name" : "Covered Spread w\/ Better Road Record (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
+    "weight" : 0.59999999999999998,
+    "rating" : 46
   },
   {
     "name" : "Covered Spread w\/ Better Road Record (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
+    "weight" : 0.59999999999999998,
+    "rating" : 46
   },
   {
     "name" : "Covered Spread w\/ Better Road Record (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
+    "weight" : 0.59999999999999998,
+    "rating" : 46
   },
   {
     "name" : "Covered Spread w\/ Better Road Record (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -851,8 +851,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Points Scored (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
+    "weight" : 0.40000000000000002,
+    "rating" : 44
   },
   {
     "name" : "Covered Spread w\/ More Points Scored (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -866,8 +866,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Points Scored (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.80000000000000004,
-    "rating" : 48
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Covered Spread w\/ Better Field Goal Percentage (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -881,8 +881,8 @@
   },
   {
     "name" : "Covered Spread w\/ Better Field Goal Percentage (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.69999999999999996,
-    "rating" : 47
+    "weight" : 0.59999999999999998,
+    "rating" : 46
   },
   {
     "name" : "Covered Spread w\/ Better Field Goal Percentage (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -901,8 +901,8 @@
   },
   {
     "name" : "Covered Spread w\/ Better Three Point Field Goal Percentage (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.30000000000000004,
-    "rating" : 43
+    "weight" : 0.19999999999999996,
+    "rating" : 42
   },
   {
     "name" : "Covered Spread w\/ Better Three Point Field Goal Percentage (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -961,8 +961,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Offensive Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Covered Spread w\/ More Offensive Rebounds (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -991,53 +991,53 @@
   },
   {
     "name" : "Covered Spread w\/ More Defensive Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ More Defensive Rebounds (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ More Defensive Rebounds (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.19999999999999996,
-    "rating" : 42
-  },
-  {
-    "name" : "Covered Spread w\/ More Defensive Rebounds (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
-  },
-  {
-    "name" : "Covered Spread w\/ More Defensive Rebounds (Non-Conference Games, Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
-  },
-  {
-    "name" : "Covered Spread w\/ More Defensive Rebounds (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.1000000000000001,
-    "rating" : 51
-  },
-  {
-    "name" : "Covered Spread w\/ More Total Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
-  },
-  {
-    "name" : "Covered Spread w\/ More Total Rebounds (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
-  },
-  {
-    "name" : "Covered Spread w\/ More Total Rebounds (Conference Games, Non-Neutral Venues)",
     "weight" : 0.30000000000000004,
     "rating" : 43
   },
   {
+    "name" : "Covered Spread w\/ More Defensive Rebounds (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
+    "weight" : 1.1000000000000001,
+    "rating" : 51
+  },
+  {
+    "name" : "Covered Spread w\/ More Defensive Rebounds (Non-Conference Games, Neutral Venues)",
+    "weight" : 0.69999999999999996,
+    "rating" : 47
+  },
+  {
+    "name" : "Covered Spread w\/ More Defensive Rebounds (Non-Conference Games, Non-Neutral Venues)",
+    "weight" : 1.2,
+    "rating" : 52
+  },
+  {
+    "name" : "Covered Spread w\/ More Total Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
+    "weight" : 0.59999999999999998,
+    "rating" : 46
+  },
+  {
+    "name" : "Covered Spread w\/ More Total Rebounds (Both Conference And Non-Conference Games, Non-Neutral Venues)",
+    "weight" : 0.59999999999999998,
+    "rating" : 46
+  },
+  {
+    "name" : "Covered Spread w\/ More Total Rebounds (Conference Games, Non-Neutral Venues)",
+    "weight" : 0.40000000000000002,
+    "rating" : 44
+  },
+  {
     "name" : "Covered Spread w\/ More Total Rebounds (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.90000000000000002,
-    "rating" : 49
+    "weight" : 1,
+    "rating" : 50
   },
   {
     "name" : "Covered Spread w\/ More Total Rebounds (Non-Conference Games, Neutral Venues)",
@@ -1081,18 +1081,18 @@
   },
   {
     "name" : "Covered Spread w\/ More Steals (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
+    "weight" : 1.3,
+    "rating" : 53
   },
   {
     "name" : "Covered Spread w\/ More Steals (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
+    "weight" : 1.3,
+    "rating" : 53
   },
   {
     "name" : "Covered Spread w\/ More Steals (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ More Steals (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1106,8 +1106,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Steals (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.90000000000000002,
-    "rating" : 49
+    "weight" : 0.80000000000000004,
+    "rating" : 48
   },
   {
     "name" : "Covered Spread w\/ More Blocks (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1126,8 +1126,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Blocks (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ More Blocks (Non-Conference Games, Neutral Venues)",
@@ -1136,23 +1136,23 @@
   },
   {
     "name" : "Covered Spread w\/ More Blocks (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.30000000000000004,
-    "rating" : 43
+    "weight" : 0.40000000000000002,
+    "rating" : 44
   },
   {
     "name" : "Covered Spread w\/ More Turnovers (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
+    "weight" : 1.2,
+    "rating" : 52
+  },
+  {
+    "name" : "Covered Spread w\/ More Turnovers (Both Conference And Non-Conference Games, Non-Neutral Venues)",
     "weight" : 1.3,
     "rating" : 53
   },
   {
-    "name" : "Covered Spread w\/ More Turnovers (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
-  },
-  {
     "name" : "Covered Spread w\/ More Turnovers (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
+    "weight" : 1.3,
+    "rating" : 53
   },
   {
     "name" : "Covered Spread w\/ More Turnovers (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1206,13 +1206,13 @@
   },
   {
     "name" : "Covered Spread w\/ Better Assist-to-Turnover Ratio (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ Better Assist-to-Turnover Ratio (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ Better Assist-to-Turnover Ratio (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1271,8 +1271,8 @@
   },
   {
     "name" : "Covered Spread w\/ Better Defensive Efficiency (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.2,
-    "rating" : 52
+    "weight" : 1.1000000000000001,
+    "rating" : 51
   },
   {
     "name" : "Covered Spread w\/ Better Defensive Efficiency (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1321,8 +1321,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Adjusted Tempo (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ More Adjusted Tempo (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -1336,18 +1336,18 @@
   },
   {
     "name" : "Covered Spread w\/ More Adjusted Tempo (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ More Adjusted Tempo (Non-Conference Games, Neutral Venues)",
-    "weight" : -0.19999999999999996,
-    "rating" : 38
+    "weight" : 0,
+    "rating" : 40
   },
   {
     "name" : "Covered Spread w\/ More Adjusted Tempo (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.59999999999999998,
-    "rating" : 46
+    "weight" : 0.69999999999999996,
+    "rating" : 47
   },
   {
     "name" : "Covered Spread w\/ More Opponent Points Scored (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1386,13 +1386,13 @@
   },
   {
     "name" : "Covered Spread w\/ Better Opponent Field Goal Percentage (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Better Opponent Field Goal Percentage (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
+    "weight" : 1.3,
+    "rating" : 53
   },
   {
     "name" : "Covered Spread w\/ Better Opponent Field Goal Percentage (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1496,8 +1496,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Offensive Rebounds (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 1.1000000000000001,
+    "rating" : 51
   },
   {
     "name" : "Covered Spread w\/ More Opponent Defensive Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1511,8 +1511,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Defensive Rebounds (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.80000000000000004,
-    "rating" : 48
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Covered Spread w\/ More Opponent Defensive Rebounds (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1521,13 +1521,13 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Defensive Rebounds (Non-Conference Games, Neutral Venues)",
-    "weight" : 2.2999999999999998,
-    "rating" : 63
+    "weight" : 2.1000000000000001,
+    "rating" : 61
   },
   {
     "name" : "Covered Spread w\/ More Opponent Defensive Rebounds (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.1000000000000001,
-    "rating" : 51
+    "weight" : 1.2,
+    "rating" : 52
   },
   {
     "name" : "Covered Spread w\/ More Opponent Total Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1546,8 +1546,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Total Rebounds (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.3,
-    "rating" : 53
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ More Opponent Total Rebounds (Non-Conference Games, Neutral Venues)",
@@ -1571,13 +1571,13 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Assists (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.2,
-    "rating" : 52
+    "weight" : 1.1000000000000001,
+    "rating" : 51
   },
   {
     "name" : "Covered Spread w\/ More Opponent Assists (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.80000000000000004,
-    "rating" : 48
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Covered Spread w\/ More Opponent Assists (Non-Conference Games, Neutral Venues)",
@@ -1586,8 +1586,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Assists (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.69999999999999996,
-    "rating" : 47
+    "weight" : 0.80000000000000004,
+    "rating" : 48
   },
   {
     "name" : "Covered Spread w\/ More Opponent Steals (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1606,8 +1606,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Steals (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.59999999999999998,
-    "rating" : 46
+    "weight" : 0.69999999999999996,
+    "rating" : 47
   },
   {
     "name" : "Covered Spread w\/ More Opponent Steals (Non-Conference Games, Neutral Venues)",
@@ -1616,8 +1616,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Steals (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.59999999999999998,
-    "rating" : 46
+    "weight" : 0.69999999999999996,
+    "rating" : 47
   },
   {
     "name" : "Covered Spread w\/ More Opponent Blocks (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1631,8 +1631,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Blocks (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.90000000000000002,
-    "rating" : 49
+    "weight" : 1,
+    "rating" : 50
   },
   {
     "name" : "Covered Spread w\/ More Opponent Blocks (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1641,8 +1641,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Blocks (Non-Conference Games, Neutral Venues)",
-    "weight" : 1.3,
-    "rating" : 53
+    "weight" : 1.2,
+    "rating" : 52
   },
   {
     "name" : "Covered Spread w\/ More Opponent Blocks (Non-Conference Games, Non-Neutral Venues)",
@@ -1666,13 +1666,13 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Turnovers (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.59999999999999998,
-    "rating" : 46
+    "weight" : 0.69999999999999996,
+    "rating" : 47
   },
   {
     "name" : "Covered Spread w\/ More Opponent Turnovers (Non-Conference Games, Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
+    "weight" : 1.6000000000000001,
+    "rating" : 56
   },
   {
     "name" : "Covered Spread w\/ More Opponent Turnovers (Non-Conference Games, Non-Neutral Venues)",
@@ -1681,8 +1681,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Personal Fouls (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.80000000000000004,
-    "rating" : 48
+    "weight" : 0.69999999999999996,
+    "rating" : 47
   },
   {
     "name" : "Covered Spread w\/ More Opponent Personal Fouls (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -1691,8 +1691,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Personal Fouls (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.80000000000000004,
-    "rating" : 48
+    "weight" : 0.69999999999999996,
+    "rating" : 47
   },
   {
     "name" : "Covered Spread w\/ More Opponent Personal Fouls (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1781,8 +1781,8 @@
   },
   {
     "name" : "Covered Spread w\/ Better Opponent Defensive Efficiency (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.2,
-    "rating" : 52
+    "weight" : 1.1000000000000001,
+    "rating" : 51
   },
   {
     "name" : "Covered Spread w\/ Better Opponent Defensive Efficiency (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1831,8 +1831,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Adjusted Tempo (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ More Opponent Adjusted Tempo (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -1846,18 +1846,18 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Adjusted Tempo (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ More Opponent Adjusted Tempo (Non-Conference Games, Neutral Venues)",
-    "weight" : -0.19999999999999996,
-    "rating" : 38
+    "weight" : 0,
+    "rating" : 40
   },
   {
     "name" : "Covered Spread w\/ More Opponent Adjusted Tempo (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.59999999999999998,
-    "rating" : 46
+    "weight" : 0.69999999999999996,
+    "rating" : 47
   },
   {
     "name" : "Covered Spread w\/ More Combined Player Experience (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1871,8 +1871,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Combined Player Experience (Conference Games, Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Covered Spread w\/ More Combined Player Experience (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -1951,8 +1951,8 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Conference Record (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Worse Conference Record (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -1961,8 +1961,8 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Conference Record (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.6000000000000001,
-    "rating" : 56
+    "weight" : 1.5,
+    "rating" : 55
   },
   {
     "name" : "Covered Spread w\/ Worse Conference Record (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2041,18 +2041,18 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Road Record (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
+    "weight" : 1.3,
+    "rating" : 53
   },
   {
     "name" : "Covered Spread w\/ Worse Road Record (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
+    "weight" : 1.3,
+    "rating" : 53
   },
   {
     "name" : "Covered Spread w\/ Worse Road Record (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
+    "weight" : 1.3,
+    "rating" : 53
   },
   {
     "name" : "Covered Spread w\/ Worse Road Record (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2111,8 +2111,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Points Scored (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
+    "weight" : 1.5,
+    "rating" : 55
   },
   {
     "name" : "Covered Spread w\/ Less Points Scored (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2126,8 +2126,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Points Scored (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.1000000000000001,
-    "rating" : 51
+    "weight" : 1,
+    "rating" : 50
   },
   {
     "name" : "Covered Spread w\/ Worse Field Goal Percentage (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2141,8 +2141,8 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Field Goal Percentage (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.2,
-    "rating" : 52
+    "weight" : 1.3,
+    "rating" : 53
   },
   {
     "name" : "Covered Spread w\/ Worse Field Goal Percentage (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2161,8 +2161,8 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Three Point Field Goal Percentage (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.6000000000000001,
-    "rating" : 56
+    "weight" : 1.7,
+    "rating" : 57
   },
   {
     "name" : "Covered Spread w\/ Worse Three Point Field Goal Percentage (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -2251,53 +2251,53 @@
   },
   {
     "name" : "Covered Spread w\/ Less Defensive Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Less Defensive Rebounds (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Less Defensive Rebounds (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.7,
-    "rating" : 57
-  },
-  {
-    "name" : "Covered Spread w\/ Less Defensive Rebounds (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
-  },
-  {
-    "name" : "Covered Spread w\/ Less Defensive Rebounds (Non-Conference Games, Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
-  },
-  {
-    "name" : "Covered Spread w\/ Less Defensive Rebounds (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.80000000000000004,
-    "rating" : 48
-  },
-  {
-    "name" : "Covered Spread w\/ Less Total Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
-  },
-  {
-    "name" : "Covered Spread w\/ Less Total Rebounds (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
-  },
-  {
-    "name" : "Covered Spread w\/ Less Total Rebounds (Conference Games, Non-Neutral Venues)",
     "weight" : 1.6000000000000001,
     "rating" : 56
   },
   {
+    "name" : "Covered Spread w\/ Less Defensive Rebounds (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
+    "weight" : 0.80000000000000004,
+    "rating" : 48
+  },
+  {
+    "name" : "Covered Spread w\/ Less Defensive Rebounds (Non-Conference Games, Neutral Venues)",
+    "weight" : 1.2,
+    "rating" : 52
+  },
+  {
+    "name" : "Covered Spread w\/ Less Defensive Rebounds (Non-Conference Games, Non-Neutral Venues)",
+    "weight" : 0.69999999999999996,
+    "rating" : 47
+  },
+  {
+    "name" : "Covered Spread w\/ Less Total Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
+    "weight" : 1.3,
+    "rating" : 53
+  },
+  {
+    "name" : "Covered Spread w\/ Less Total Rebounds (Both Conference And Non-Conference Games, Non-Neutral Venues)",
+    "weight" : 1.3,
+    "rating" : 53
+  },
+  {
+    "name" : "Covered Spread w\/ Less Total Rebounds (Conference Games, Non-Neutral Venues)",
+    "weight" : 1.5,
+    "rating" : 55
+  },
+  {
     "name" : "Covered Spread w\/ Less Total Rebounds (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Covered Spread w\/ Less Total Rebounds (Non-Conference Games, Neutral Venues)",
@@ -2341,23 +2341,23 @@
   },
   {
     "name" : "Covered Spread w\/ Less Steals (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
+    "weight" : 0.59999999999999998,
+    "rating" : 46
   },
   {
     "name" : "Covered Spread w\/ Less Steals (Both Conference And Non-Conference Games, Non-Neutral Venues)",
+    "weight" : 0.59999999999999998,
+    "rating" : 46
+  },
+  {
+    "name" : "Covered Spread w\/ Less Steals (Conference Games, Non-Neutral Venues)",
     "weight" : 0.5,
     "rating" : 45
   },
   {
-    "name" : "Covered Spread w\/ Less Steals (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
-  },
-  {
     "name" : "Covered Spread w\/ Less Steals (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.90000000000000002,
-    "rating" : 49
+    "weight" : 1,
+    "rating" : 50
   },
   {
     "name" : "Covered Spread w\/ Less Steals (Non-Conference Games, Neutral Venues)",
@@ -2366,8 +2366,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Steals (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 1.1000000000000001,
+    "rating" : 51
   },
   {
     "name" : "Covered Spread w\/ Less Blocks (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2386,8 +2386,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Blocks (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Less Blocks (Non-Conference Games, Neutral Venues)",
@@ -2396,23 +2396,23 @@
   },
   {
     "name" : "Covered Spread w\/ Less Blocks (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.6000000000000001,
-    "rating" : 56
+    "weight" : 1.5,
+    "rating" : 55
   },
   {
     "name" : "Covered Spread w\/ Less Turnovers (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
+    "weight" : 0.69999999999999996,
+    "rating" : 47
+  },
+  {
+    "name" : "Covered Spread w\/ Less Turnovers (Both Conference And Non-Conference Games, Non-Neutral Venues)",
     "weight" : 0.59999999999999998,
     "rating" : 46
   },
   {
-    "name" : "Covered Spread w\/ Less Turnovers (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
-  },
-  {
     "name" : "Covered Spread w\/ Less Turnovers (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
+    "weight" : 0.59999999999999998,
+    "rating" : 46
   },
   {
     "name" : "Covered Spread w\/ Less Turnovers (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2466,13 +2466,13 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Assist-to-Turnover Ratio (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Worse Assist-to-Turnover Ratio (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Worse Assist-to-Turnover Ratio (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2531,8 +2531,8 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Defensive Efficiency (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.69999999999999996,
-    "rating" : 47
+    "weight" : 0.80000000000000004,
+    "rating" : 48
   },
   {
     "name" : "Covered Spread w\/ Worse Defensive Efficiency (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2581,8 +2581,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Adjusted Tempo (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Less Adjusted Tempo (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -2596,18 +2596,18 @@
   },
   {
     "name" : "Covered Spread w\/ Less Adjusted Tempo (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Less Adjusted Tempo (Non-Conference Games, Neutral Venues)",
-    "weight" : 2.1000000000000001,
-    "rating" : 61
+    "weight" : 1.8999999999999999,
+    "rating" : 59
   },
   {
     "name" : "Covered Spread w\/ Less Adjusted Tempo (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.3,
-    "rating" : 53
+    "weight" : 1.2,
+    "rating" : 52
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Points Scored (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2646,13 +2646,13 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Opponent Field Goal Percentage (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ Worse Opponent Field Goal Percentage (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
+    "weight" : 0.59999999999999998,
+    "rating" : 46
   },
   {
     "name" : "Covered Spread w\/ Worse Opponent Field Goal Percentage (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2711,8 +2711,8 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Opponent Free Throw Percentage (Conference Games, Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Covered Spread w\/ Worse Opponent Free Throw Percentage (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2756,8 +2756,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Offensive Rebounds (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.90000000000000002,
-    "rating" : 49
+    "weight" : 0.80000000000000004,
+    "rating" : 48
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Defensive Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2771,8 +2771,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Defensive Rebounds (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.1000000000000001,
-    "rating" : 51
+    "weight" : 1,
+    "rating" : 50
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Defensive Rebounds (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2781,13 +2781,13 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Defensive Rebounds (Non-Conference Games, Neutral Venues)",
-    "weight" : -0.39999999999999991,
-    "rating" : 36
+    "weight" : -0.19999999999999996,
+    "rating" : 38
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Defensive Rebounds (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.80000000000000004,
-    "rating" : 48
+    "weight" : 0.69999999999999996,
+    "rating" : 47
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Total Rebounds (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2806,8 +2806,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Total Rebounds (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 0.59999999999999998,
-    "rating" : 46
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Total Rebounds (Non-Conference Games, Neutral Venues)",
@@ -2816,8 +2816,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Total Rebounds (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Assists (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2831,13 +2831,13 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Assists (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.69999999999999996,
-    "rating" : 47
+    "weight" : 0.80000000000000004,
+    "rating" : 48
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Assists (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.1000000000000001,
-    "rating" : 51
+    "weight" : 1,
+    "rating" : 50
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Assists (Non-Conference Games, Neutral Venues)",
@@ -2846,8 +2846,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Assists (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.2,
-    "rating" : 52
+    "weight" : 1.1000000000000001,
+    "rating" : 51
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Steals (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -2866,8 +2866,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Steals (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.3,
-    "rating" : 53
+    "weight" : 1.2,
+    "rating" : 52
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Steals (Non-Conference Games, Neutral Venues)",
@@ -2876,13 +2876,13 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Steals (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.3,
-    "rating" : 53
+    "weight" : 1.2,
+    "rating" : 52
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Blocks (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Blocks (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -2891,18 +2891,18 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Blocks (Conference Games, Non-Neutral Venues)",
-    "weight" : 1,
-    "rating" : 50
-  },
-  {
-    "name" : "Covered Spread w\/ Less Opponent Blocks (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
     "weight" : 0.90000000000000002,
     "rating" : 49
   },
   {
+    "name" : "Covered Spread w\/ Less Opponent Blocks (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
+    "weight" : 1,
+    "rating" : 50
+  },
+  {
     "name" : "Covered Spread w\/ Less Opponent Blocks (Non-Conference Games, Neutral Venues)",
-    "weight" : 0.59999999999999998,
-    "rating" : 46
+    "weight" : 0.69999999999999996,
+    "rating" : 47
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Blocks (Non-Conference Games, Non-Neutral Venues)",
@@ -2926,13 +2926,13 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Turnovers (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.3,
-    "rating" : 53
+    "weight" : 1.2,
+    "rating" : 52
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Turnovers (Non-Conference Games, Neutral Venues)",
-    "weight" : 0.5,
-    "rating" : 45
+    "weight" : 0.30000000000000004,
+    "rating" : 43
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Turnovers (Non-Conference Games, Non-Neutral Venues)",
@@ -2941,8 +2941,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Personal Fouls (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.1000000000000001,
-    "rating" : 51
+    "weight" : 1.2,
+    "rating" : 52
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Personal Fouls (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -2951,8 +2951,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Personal Fouls (Conference Games, Non-Neutral Venues)",
-    "weight" : 1.1000000000000001,
-    "rating" : 51
+    "weight" : 1.2,
+    "rating" : 52
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Personal Fouls (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -3041,8 +3041,8 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Opponent Defensive Efficiency (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.69999999999999996,
-    "rating" : 47
+    "weight" : 0.80000000000000004,
+    "rating" : 48
   },
   {
     "name" : "Covered Spread w\/ Worse Opponent Defensive Efficiency (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -3091,8 +3091,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Adjusted Tempo (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Adjusted Tempo (Both Conference And Non-Conference Games, Non-Neutral Venues)",
@@ -3106,18 +3106,18 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Adjusted Tempo (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Adjusted Tempo (Non-Conference Games, Neutral Venues)",
-    "weight" : 2.1000000000000001,
-    "rating" : 61
+    "weight" : 1.8999999999999999,
+    "rating" : 59
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Adjusted Tempo (Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 1.3,
-    "rating" : 53
+    "weight" : 1.2,
+    "rating" : 52
   },
   {
     "name" : "Covered Spread w\/ Less Combined Player Experience (Both Conference And Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -3131,8 +3131,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Combined Player Experience (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.90000000000000002,
-    "rating" : 49
+    "weight" : 1,
+    "rating" : 50
   },
   {
     "name" : "Covered Spread w\/ Less Combined Player Experience (Non-Conference Games, Both Neutral And Non-Neutral Venues)",
@@ -3186,8 +3186,8 @@
   },
   {
     "name" : "Home Team Covered Spread w\/ Good Home Record Against Away Team With Bad Road Record (Both Conference And Non-Conference Games, Non-Neutral Venues)",
-    "weight" : 0.80000000000000004,
-    "rating" : 48
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Away Team Covered Spread w\/ Good Road Record Against Home Team With Bad Home Record (Conference Games, Non-Neutral Venues)",
@@ -3196,8 +3196,8 @@
   },
   {
     "name" : "Home Team Covered Spread w\/ Good Home Record Against Away Team With Bad Road Record (Conference Games, Non-Neutral Venues)",
-    "weight" : 0.69999999999999996,
-    "rating" : 47
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Away Team Covered Spread w\/ Good Road Record Against Home Team With Bad Home Record (Non-Conference Games, Non-Neutral Venues)",

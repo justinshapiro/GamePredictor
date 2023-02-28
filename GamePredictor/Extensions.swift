@@ -82,11 +82,7 @@ extension Encodable {
         encoder.dateEncodingStrategy = .formatted(dateFormatter)
         
         let data = try! encoder.encode(self)
-        let path = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-            .appendingPathComponent("GamePredictor")
-            .appendingPathComponent("Data")
-            .appendingPathComponent(SPORT_MODE.league)
-            .appendingPathComponent(name)
+        let path = FileManager.default.dataDirectoryURL.appendingPathComponent(name)
         
         try! data.write(to: path)
     }
@@ -107,9 +103,36 @@ extension Array where Element: Equatable {
 }
 
 extension FileManager {
-    func directoryExists(atPath path: String) -> Bool {
-        var isDirectory: ObjCBool = true
-        let exists = FileManager.default.fileExists(atPath: path, isDirectory: &isDirectory)
-        return exists && isDirectory.boolValue
+    var dataDirectoryURL: URL {
+        FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
+            .appendingPathComponent("GamePredictor")
+            .appendingPathComponent("Data")
+            .appendingPathComponent(SPORT_MODE.league)
+    }
+    
+    func getDecodedFileIfExists<T: Decodable>(fileName: String, todayOnly: Bool) -> T? {
+        try! FileManager.default.createDirectory(atPath: dataDirectoryURL.path, withIntermediateDirectories: true)
+        let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: dataDirectoryURL.path)
+        
+        guard let fileName = directoryContents.first(where: { $0 == fileName }) else { return nil }
+        
+        if todayOnly {
+            let attributes = try! FileManager.default.attributesOfItem(atPath: dataDirectoryURL.appendingPathComponent(fileName).path) as NSDictionary
+            let fileCreationDate = attributes.fileModificationDate() ?? attributes.fileCreationDate()!
+            
+            if fileCreationDate < .now && !Calendar.current.isDateInToday(fileCreationDate) {
+                return nil
+            }
+        }
+        
+        print("Reading file \(fileName)")
+        
+        let fileURL = URL(fileURLWithPath: fileName, relativeTo: dataDirectoryURL)
+        let fileData = try! Data(contentsOf: fileURL)
+        
+        let decoder = JSONDecoder()
+        decoder.dateDecodingStrategy = .formatted(dateFormatter)
+        
+        return try! decoder.decode(T.self, from: fileData)
     }
 }

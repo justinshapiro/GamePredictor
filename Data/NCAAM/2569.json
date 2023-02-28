@@ -15076,7 +15076,7 @@
     }
   ],
   "conference" : "MEAC",
-  "conferenceRanking" : 7,
+  "conferenceRanking" : 8,
   "games" : {
     "previous" : [
       {
@@ -15737,14 +15737,6 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "HOW",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 200,
-        "date" : "2023-02-27T17:30-0700"
-      },
       {
         "opponentID" : "NCCU",
         "venue" : "away",

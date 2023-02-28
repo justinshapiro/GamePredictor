@@ -61,27 +61,9 @@ func getTeamURLs() -> [String] {
 
 func getAllTeams(from teamURLs: [String]) -> [Team] {
     teamURLs.map { teamURL in
-        let dataDirectory = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-        let destinationPath = dataDirectory.path + "/GamePredictor/Data/\(SPORT_MODE.league)"
-        
-        if !FileManager.default.directoryExists(atPath: destinationPath) {
-            try! FileManager.default.createDirectory(atPath: destinationPath, withIntermediateDirectories: true)
-        }
-        
-        let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: destinationPath)
         let teamID = teamURL.components(separatedBy: "/").last!
         
-        if let fileName = directoryContents.first(where: { $0 == "\(teamID).json" }) {
-            print("Reading team ID \(teamID) from file")
-            
-            let fileURL = URL(fileURLWithPath: fileName,
-                              relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data").appendingPathComponent(SPORT_MODE.league))
-            let fileData = try! Data(contentsOf: fileURL)
-            
-            let decoder = JSONDecoder()
-            decoder.dateDecodingStrategy = .formatted(dateFormatter)
-            
-            var team = try! decoder.decode(Team.self, from: fileData)
+        if var team: Team = FileManager.default.getDecodedFileIfExists(fileName: "\(teamID).json", todayOnly: false) {
             let gamesPlayedSinceLastPull = team.games.upcoming.filter { $0.date < .now && !Calendar.current.isDateInToday($0.date) }
             
             if gamesPlayedSinceLastPull.isEmpty || DISABLE_UPDATE {
@@ -574,25 +556,7 @@ func getGames(from scheduleURL: String, teamID: String) -> Team.Games {
 
 func getNationalRankings() -> [NationalRanking] {
     let rankingsFileName = "nationalRankings.json"
-    let dataDirectory = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-    let destinationPath = dataDirectory.path + "/GamePredictor/Data/\(SPORT_MODE.league)"
-    
-    if !FileManager.default.directoryExists(atPath: destinationPath) {
-        try! FileManager.default.createDirectory(atPath: destinationPath, withIntermediateDirectories: true)
-    }
-    
-    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: destinationPath)
-    var currentNationalRankings = [NationalRanking]()
-    
-    if let fileName = directoryContents.first(where: { $0 == rankingsFileName }) {
-        print("\nReading national rankings file...")
-        
-        let fileURL = URL(fileURLWithPath: fileName,
-                          relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data").appendingPathComponent(SPORT_MODE.league))
-        let fileData = try! Data(contentsOf: fileURL)
-        
-        currentNationalRankings = try! JSONDecoder().decode([NationalRanking].self, from: fileData)
-    }
+    var currentNationalRankings = FileManager.default.getDecodedFileIfExists(fileName: rankingsFileName, todayOnly: false) ?? [NationalRanking]()
     
     let rankingsBaseURL = "https://www.espn.com/\(SPORT_MODE.espnPathIndicator)/rankings/_/week/"
     let initialRankingsCount = currentNationalRankings.count

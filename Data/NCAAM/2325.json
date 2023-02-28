@@ -22343,7 +22343,7 @@
     }
   ],
   "conference" : "A 10",
-  "conferenceRanking" : 8,
+  "conferenceRanking" : 9,
   "games" : {
     "previous" : [
       {
@@ -23204,14 +23204,6 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "DAY",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 3409,
-        "date" : "2023-02-27T22:00-0700"
-      },
       {
         "isConferenceMatchup" : true,
         "venue" : "away",

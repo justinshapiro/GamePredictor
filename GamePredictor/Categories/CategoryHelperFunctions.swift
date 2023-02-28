@@ -179,39 +179,19 @@ func getCodableCategories(categories: [Category]) -> [CodableCategory] {
     teams.forEach { statCache[$0.teamID] = StatCache() }
     
     let categoriesFileName = "categoryRatings.json"
-    let dataDirectory = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-    let destinationPath = dataDirectory.path + "/GamePredictor/Data/\(SPORT_MODE.league)"
     
-    if !FileManager.default.directoryExists(atPath: destinationPath) {
-        try! FileManager.default.createDirectory(atPath: destinationPath, withIntermediateDirectories: true)
-    }
-    
-    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: destinationPath)
-    
-    if let fileName = directoryContents.first(where: { $0 == categoriesFileName }) {
-        print("\nReading category ratings file...")
+    if let codableCategories: [CodableCategory] = FileManager.default.getDecodedFileIfExists(fileName: categoriesFileName, todayOnly: true) {
+        let newCategories = categories.filter { category in !codableCategories.contains { $0.name == category.name } }
         
-        let attributes = try! FileManager.default.attributesOfItem(atPath: destinationPath + "/" + fileName) as NSDictionary
-        let fileCreationDate = attributes.fileModificationDate() ?? attributes.fileCreationDate()!
-        
-        if !(fileCreationDate < .now && !Calendar.current.isDateInToday(fileCreationDate)) {
-            let fileURL = URL(fileURLWithPath: fileName,
-                              relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data").appendingPathComponent(SPORT_MODE.league))
-            let fileData = try! Data(contentsOf: fileURL)
-            let codableCategories = try! JSONDecoder().decode([CodableCategory].self, from: fileData)
+        if newCategories.isEmpty {
+            return codableCategories
+        } else {
+            print("Updating category ratings file with \(newCategories.count) new categories...")
             
-            let newCategories = categories.filter { category in !codableCategories.contains { $0.name == category.name } }
+            let updatedCodableCategories = codableCategories + newCategories.map { .init(name: $0.name, rating: $0.rating, weight: getCategoryWeight(for: $0.rating)) }
+            updatedCodableCategories.export(as: categoriesFileName)
             
-            if newCategories.isEmpty {
-                return codableCategories
-            } else {
-                print("Updating category ratings file with \(newCategories.count) new categories...")
-                
-                let updatedCodableCategories = codableCategories + newCategories.map { .init(name: $0.name, rating: $0.rating, weight: getCategoryWeight(for: $0.rating)) }
-                updatedCodableCategories.export(as: categoriesFileName)
-                
-                return updatedCodableCategories
-            }
+            return updatedCodableCategories
         }
     }
     

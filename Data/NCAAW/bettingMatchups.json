@@ -7617,6 +7617,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 10763,
+      "opponentID" : "TEX",
+      "largestLead" : 12,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Felicia Grinter",
+        "Maj Forsberg",
+        "Michael McConnell"
+      ],
+      "didWin" : true,
+      "overUnder" : 132.5,
+      "date" : "2023-02-27T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 37,
+          "opponentPoints" : 32
+        },
+        "secondHalf" : {
+          "teamPoints" : 26,
+          "opponentPoints" : 22
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 13,
+            "opponentPoints" : 13
+          },
+          {
+            "teamPoints" : 13,
+            "opponentPoints" : 9
+          }
+        ]
+      },
+      "attendance" : 10763,
+      "line" : 8.5
+    },
+    "teamName" : "BAY"
+  },
+  {
+    "game" : {
       "venueCapacity" : 6650,
       "opponentID" : "UNI",
       "largestLead" : 14,
@@ -10743,6 +10785,47 @@
   },
   {
     "game" : {
+      "venueCapacity" : 2900,
+      "opponentID" : "CREI",
+      "largestLead" : 1,
+      "overUnder" : 128.5,
+      "didWin" : false,
+      "referees" : [
+        "Denise Brooks",
+        "Saif Esho",
+        "Krystle Apellaniz"
+      ],
+      "date" : "2023-02-27T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 15,
+          "opponentPoints" : 38
+        },
+        "secondHalf" : {
+          "teamPoints" : 31,
+          "opponentPoints" : 36
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 12,
+            "opponentPoints" : 22
+          },
+          {
+            "teamPoints" : 19,
+            "opponentPoints" : 14
+          }
+        ]
+      },
+      "attendance" : 1427,
+      "line" : 21.5
+    },
+    "teamName" : "BUT"
+  },
+  {
+    "game" : {
       "venueCapacity" : 6004,
       "opponentID" : "SDAK",
       "largestLead" : 25,
@@ -12102,6 +12185,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 3700,
+      "opponentID" : "MARQ",
+      "largestLead" : 3,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Cameron Inouye",
+        "Joseph Vaszily",
+        "Karen Preato"
+      ],
+      "didWin" : false,
+      "overUnder" : 140,
+      "date" : "2023-02-27T19:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 35,
+          "opponentPoints" : 53
+        },
+        "secondHalf" : {
+          "teamPoints" : 45,
+          "opponentPoints" : 45
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 19,
+            "opponentPoints" : 21
+          },
+          {
+            "teamPoints" : 26,
+            "opponentPoints" : 24
+          }
+        ]
+      },
+      "attendance" : 1382,
+      "line" : 7
+    },
+    "teamName" : "DEP"
+  },
+  {
+    "game" : {
       "venueCapacity" : 2200,
       "opponentID" : "XAV",
       "largestLead" : 25,
@@ -13003,6 +13128,47 @@
   },
   {
     "game" : {
+      "venueCapacity" : 2620,
+      "opponentID" : "SJU",
+      "largestLead" : 3,
+      "overUnder" : 126,
+      "didWin" : false,
+      "referees" : [
+        "Tom Danaher",
+        "Rod Creech",
+        "Fatou Cissoko-Stephens"
+      ],
+      "date" : "2023-02-27T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 21,
+          "opponentPoints" : 28
+        },
+        "secondHalf" : {
+          "teamPoints" : 29,
+          "opponentPoints" : 25
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 11,
+            "opponentPoints" : 13
+          },
+          {
+            "teamPoints" : 18,
+            "opponentPoints" : 12
+          }
+        ]
+      },
+      "attendance" : 612,
+      "line" : 7
+    },
+    "teamName" : "PROV"
+  },
+  {
+    "game" : {
       "venueCapacity" : 1316,
       "opponentID" : "PRIN",
       "largestLead" : 6,
@@ -13285,6 +13451,48 @@
       },
       "attendance" : 2311,
       "line" : 12.5
+    },
+    "teamName" : "HALL"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 1316,
+      "opponentID" : "VILL",
+      "largestLead" : 4,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Bruce Morris",
+        "Pualani Spurlock-Welsh",
+        "Mark Resch"
+      ],
+      "didWin" : false,
+      "overUnder" : 140.5,
+      "date" : "2023-02-27T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 23,
+          "opponentPoints" : 38
+        },
+        "secondHalf" : {
+          "teamPoints" : 33,
+          "opponentPoints" : 45
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 16,
+            "opponentPoints" : 29
+          },
+          {
+            "teamPoints" : 17,
+            "opponentPoints" : 16
+          }
+        ]
+      },
+      "attendance" : 1293,
+      "line" : 9.5
     },
     "teamName" : "HALL"
   },
@@ -13783,6 +13991,46 @@
       },
       "attendance" : 6501,
       "line" : -5
+    },
+    "teamName" : "CONN"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 10167,
+      "opponentID" : "XAV",
+      "largestLead" : 18,
+      "coverage" : "standardTV",
+      "referees" : [
+
+      ],
+      "didWin" : true,
+      "overUnder" : 126.5,
+      "date" : "2023-02-27T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 36,
+          "opponentPoints" : 24
+        },
+        "secondHalf" : {
+          "teamPoints" : 24,
+          "opponentPoints" : 27
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 14,
+            "opponentPoints" : 14
+          },
+          {
+            "teamPoints" : 10,
+            "opponentPoints" : 13
+          }
+        ]
+      },
+      "attendance" : 10167,
+      "line" : 36.5
     },
     "teamName" : "CONN"
   },
