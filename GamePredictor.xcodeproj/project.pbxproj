@@ -17,6 +17,7 @@
 		D0C49D5D29A95B230089D4D4 /* GetCategoiresFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5A29A95B230089D4D4 /* GetCategoiresFunction.swift */; };
 		D0C49D6029A95B330089D4D4 /* PredictorHelperFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5E29A95B330089D4D4 /* PredictorHelperFunctions.swift */; };
 		D0C49D6129A95B330089D4D4 /* PredictorModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D5F29A95B330089D4D4 /* PredictorModels.swift */; };
+		D0C49D6329AA9ECA0089D4D4 /* SportMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C49D6229AA9ECA0089D4D4 /* SportMode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -43,6 +44,7 @@
 		D0C49D5A29A95B230089D4D4 /* GetCategoiresFunction.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetCategoiresFunction.swift; sourceTree = "<group>"; };
 		D0C49D5E29A95B330089D4D4 /* PredictorHelperFunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PredictorHelperFunctions.swift; sourceTree = "<group>"; };
 		D0C49D5F29A95B330089D4D4 /* PredictorModels.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PredictorModels.swift; sourceTree = "<group>"; };
+		D0C49D6229AA9ECA0089D4D4 /* SportMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportMode.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				D0C49D4D29A95AB80089D4D4 /* Predictor */,
 				D0C49D4929A95A940089D4D4 /* Extensions.swift */,
 				D0C49D4A29A95A940089D4D4 /* Team.swift */,
+				D0C49D6229AA9ECA0089D4D4 /* SportMode.swift */,
 				D0B839F1294A92B0003DFAFF /* main.swift */,
 			);
 			path = GamePredictor;
@@ -141,7 +144,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1330;
-				LastUpgradeCheck = 1330;
+				LastUpgradeCheck = 1420;
 				TargetAttributes = {
 					D0B839ED294A92B0003DFAFF = {
 						CreatedOnToolsVersion = 13.3.1;
@@ -174,6 +177,7 @@
 				D0C49D4C29A95A940089D4D4 /* Team.swift in Sources */,
 				D0C49D5B29A95B230089D4D4 /* CategoryHelperFunctions.swift in Sources */,
 				D0C49D6029A95B330089D4D4 /* PredictorHelperFunctions.swift in Sources */,
+				D0C49D6329AA9ECA0089D4D4 /* SportMode.swift in Sources */,
 				D0C49D5D29A95B230089D4D4 /* GetCategoiresFunction.swift in Sources */,
 				D0B839F2294A92B0003DFAFF /* main.swift in Sources */,
 				D0C49D5729A95B190089D4D4 /* WebScraperHelperFunctions.swift in Sources */,
@@ -220,6 +224,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
@@ -280,6 +285,7 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -303,7 +309,9 @@
 		D0B839F6294A92B0003DFAFF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 9W4EAV7NE7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -314,7 +322,9 @@
 		D0B839F7294A92B0003DFAFF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_TEAM = 9W4EAV7NE7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";

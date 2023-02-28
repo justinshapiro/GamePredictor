@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import Algorithms
 
 // MARK: - Category Groups
 
@@ -181,16 +180,23 @@ func getCodableCategories(categories: [Category]) -> [CodableCategory] {
     
     let categoriesFileName = "categoryRatings.json"
     let dataDirectory = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: dataDirectory.path + "/GamePredictor/Data")
+    let destinationPath = dataDirectory.path + "/GamePredictor/Data/\(SPORT_MODE.league)"
+    
+    if !FileManager.default.directoryExists(atPath: destinationPath) {
+        try! FileManager.default.createDirectory(atPath: destinationPath, withIntermediateDirectories: true)
+    }
+    
+    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: destinationPath)
     
     if let fileName = directoryContents.first(where: { $0 == categoriesFileName }) {
         print("\nReading category ratings file...")
         
-        let attributes = try! FileManager.default.attributesOfItem(atPath: dataDirectory.path + "/GamePredictor/Data/" + fileName) as NSDictionary
+        let attributes = try! FileManager.default.attributesOfItem(atPath: destinationPath + "/" + fileName) as NSDictionary
         let fileCreationDate = attributes.fileModificationDate() ?? attributes.fileCreationDate()!
         
         if !(fileCreationDate < .now && !Calendar.current.isDateInToday(fileCreationDate)) {
-            let fileURL = URL(fileURLWithPath: fileName, relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data"))
+            let fileURL = URL(fileURLWithPath: fileName,
+                              relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data").appendingPathComponent(SPORT_MODE.league))
             let fileData = try! Data(contentsOf: fileURL)
             let codableCategories = try! JSONDecoder().decode([CodableCategory].self, from: fileData)
             

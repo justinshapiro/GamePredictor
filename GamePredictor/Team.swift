@@ -651,14 +651,3 @@ enum Venue: String, Codable {
         }
     }
 }
-
-
-
-
-
-struct CodableBettingMatchup: Codable {
-    let teamName: String
-    let game: Team.PreviousGame
-}
-
-

@@ -8,6 +8,7 @@
 import Foundation
 
 let CURRENT_SEASON_YEAR = 2023
+let SPORT_MODE: SportMode = .collegeBasketball(.womens)
 
 let DISABLE_UPDATE = false
 let TRAINING_MODE = false
@@ -28,21 +29,16 @@ updateCategoryWeights()
 
 if TRAINING_MODE {
     let predictionAccuracy = trainModel(categories: categories, bettingMatchups: bettingMatchups)
-    print("Overall Prediction Accuracy: \(predictionAccuracy)%")
+    print("\(SPORT_MODE.league) Overall Prediction Accuracy: \(predictionAccuracy)%")
 
     let recentDate = Calendar(identifier: .iso8601).date(byAdding: .day, value: -2, to: Date())!
     let recentMatchups = bettingMatchups.filter { $0.1.date >= recentDate }
     let recentPredictionAccuracy = trainModel(categories: categories, bettingMatchups: recentMatchups)
-    print("\nRecent Prediction Accuracy: \(recentPredictionAccuracy)%\n")
+    print("\n\(SPORT_MODE.league) Recent Prediction Accuracy: \(recentPredictionAccuracy)%\n")
 }
 
 let upcomingPredictions = getUpcomingPredictions(tomorrow: false)
-
-print("\nUpcoming Predictions:")
-upcomingPredictions
-    .map { "\($0.0): \($0.1)% confidence" }
-    .removeDuplicates()
-    .forEach { print($0) }
+exportUpcomingPredictions(upcomingPredictions)
 
 if ENABLE_INVERTED_ROUND_ROBIN {
     if !IRR_EVALUATION_MODE {

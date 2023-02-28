@@ -40,11 +40,11 @@ func getWebpage(from urlString: String, useCache: Bool = true) -> String {
 // MARK: - Teams
 
 func getTeamURLs() -> [String] {
-    let allTeamsURL = "https://www.espn.com/mens-college-basketball/teams"
+    let allTeamsURL = "https://www.espn.com/\(SPORT_MODE.espnPathIndicator)/teams"
     let allTeamsWebpage = getWebpage(from: allTeamsURL)
     let collegeBasketballSegment = allTeamsWebpage
         .components(separatedBy: "\"leagueTeams\"")[1]
-        .components(separatedBy: "\"title\":\"Men")[0]
+        .components(separatedBy: "\"title\":\"\(SPORT_MODE.isWomanLeague ? "Women" : "Men")")[0]
         .dropFirst()
         .dropLast() + "}"
     
@@ -56,19 +56,26 @@ func getTeamURLs() -> [String] {
         .reduce([TeamsList.Column.Group](), +)
         .map { $0.teams }
         .reduce([TeamsList.Column.Group.Team](), +)
-        .map { "https://www.espn.com/mens-college-basketball/team/_/id/\($0.teamNumericID)" }
+        .map { "https://www.espn.com/\(SPORT_MODE.espnPathIndicator)/team/_/id/\($0.teamNumericID)" }
 }
 
 func getAllTeams(from teamURLs: [String]) -> [Team] {
     teamURLs.map { teamURL in
         let dataDirectory = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-        let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: dataDirectory.path + "/GamePredictor/Data")
+        let destinationPath = dataDirectory.path + "/GamePredictor/Data/\(SPORT_MODE.league)"
+        
+        if !FileManager.default.directoryExists(atPath: destinationPath) {
+            try! FileManager.default.createDirectory(atPath: destinationPath, withIntermediateDirectories: true)
+        }
+        
+        let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: destinationPath)
         let teamID = teamURL.components(separatedBy: "/").last!
         
         if let fileName = directoryContents.first(where: { $0 == "\(teamID).json" }) {
             print("Reading team ID \(teamID) from file")
             
-            let fileURL = URL(fileURLWithPath: fileName, relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data"))
+            let fileURL = URL(fileURLWithPath: fileName,
+                              relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data").appendingPathComponent(SPORT_MODE.league))
             let fileData = try! Data(contentsOf: fileURL)
             
             let decoder = JSONDecoder()
@@ -160,7 +167,7 @@ func getTeamSchedule(from scheduleURL: String) -> TeamSchedule {
 // MARK: - Players
 
 func getPlayerURLs(from rosterURL: String) -> [URL] {
-    let baseURL = "https://www.espn.com/mens-college-basketball/player/_/id"
+    let baseURL = "https://www.espn.com/\(SPORT_MODE.espnPathIndicator)/player/_/id"
     let playerURLLocation = "href=\"\(baseURL)"
     var workingWebpage = getWebpage(from: rosterURL)
     var didFinishIterating = false
@@ -215,7 +222,10 @@ func getPlayerGameLog(in boxScoreURL: String, playerShortName shortName: String)
     
     guard !boxScoreWebpage.contains("\"desc\":\"Postponed\",\"det\":\"Postponed\"") &&
             !boxScoreWebpage.contains("\"desc\":\"Canceled\",\"det\":\"Canceled\"") &&
-            !boxScoreWebpage.contains("\"desc\":\"Forfeit\",\"det\":\"Forfeit\"")
+            !boxScoreWebpage.contains("\"desc\":\"Forfeit\",\"det\":\"Forfeit\"") &&
+            
+            // this occurs if ESPN data is corrupt where the game was played but the score is listed as 0-0
+            !(boxScoreWebpage.contains("\"desc\":\"Final\",\"det\":\"Final\"") && boxScoreWebpage.contains("\"score\":\"0\""))
     else { return nil }
     
     if !boxScoreWebpage.contains("['__espnfitt__']") {
@@ -353,7 +363,7 @@ func getPlayerSeasons(from playerURL: URL, shortName: String) -> [Player.Season]
     
     var currentYearBaseURLComponents = statsURLString.replace("stats", with: "gamelog").components(separatedBy: "/")
     currentYearBaseURLComponents.removeLast()
-    currentYearBaseURLComponents += ["type", "mens-college-basketball", "year"]
+    currentYearBaseURLComponents += ["type", SPORT_MODE.espnPathIndicator, "year"]
     
     let currentYearBaseURL = currentYearBaseURLComponents.joined(separator: "/") + "/"
     
@@ -407,7 +417,10 @@ func getPreviousGame(from event: TeamSchedule.Events.Event, teamID: String) -> T
     
     guard !boxScoreWebpage.contains("\"desc\":\"Postponed\",\"det\":\"Postponed\"") &&
             !boxScoreWebpage.contains("\"desc\":\"Canceled\",\"det\":\"Canceled\"") &&
-            !boxScoreWebpage.contains("\"desc\":\"Forfeit\",\"det\":\"Forfeit\"")
+            !boxScoreWebpage.contains("\"desc\":\"Forfeit\",\"det\":\"Forfeit\"") &&
+            
+            // this occurs if ESPN data is corrupt where the game was played but the score is listed as 0-0
+            !(boxScoreWebpage.contains("\"desc\":\"Final\",\"det\":\"Final\"") && boxScoreWebpage.contains("\"score\":\"0\""))
     else { return nil }
     
     let fullPageJSON = boxScoreWebpage
@@ -437,13 +450,17 @@ func getPreviousGame(from event: TeamSchedule.Events.Event, teamID: String) -> T
     
     let seasonType: Team.SeasonType = event.seasonType.abbreviation == .regularSeason ? .regularSeason : .postseason
     
-    let teamLineScores = fullPageBoxScore.gameStripe.teams.first { $0.teamID != event.opponent.teamID }!.lineScores
-    let opponentLineScores = fullPageBoxScore.gameStripe.teams.first { $0.teamID == event.opponent.teamID }!.lineScores
+    guard
+        let teamLineScores = fullPageBoxScore.gameStripe.teams.first(where: { $0.teamID != event.opponent.teamID })?.lineScores,
+        let opponentLineScores = fullPageBoxScore.gameStripe.teams.first(where: { $0.teamID == event.opponent.teamID })?.lineScores
+    else { return nil } // this could return nil if either team is non-D1 as ESPN doesn't keep good data on non D1 teams and usually those games don't have lines anyway
     
-    let teamFirstHalfScore = Int(teamLineScores[0].displayValue)!
-    let teamSecondHalfScore = Int(teamLineScores[1].displayValue)!
-    let opponentFirstHalfScore = Int(opponentLineScores[0].displayValue)!
-    let opponentSecondHalfScore = Int(opponentLineScores[1].displayValue)!
+    let isFourQuarterGame = SPORT_MODE.isWomanLeague // && NBA
+    
+    let teamFirstHalfScore = Int(teamLineScores[0].displayValue)! + (isFourQuarterGame ? Int(teamLineScores[1].displayValue)! : 0)
+    let teamSecondHalfScore = isFourQuarterGame ? Int(teamLineScores[2].displayValue)! + Int(teamLineScores[3].displayValue)! : Int(teamLineScores[1].displayValue)!
+    let opponentFirstHalfScore = Int(opponentLineScores[0].displayValue)! + (isFourQuarterGame ? Int(opponentLineScores[1].displayValue)! : 0)
+    let opponentSecondHalfScore = isFourQuarterGame ? Int(opponentLineScores[2].displayValue)! + Int(opponentLineScores[3].displayValue)! : Int(opponentLineScores[1].displayValue)!
     
     let firstHalfScore = Team.PreviousGame.GameScore.Score(teamPoints: teamFirstHalfScore,
                                                            opponentPoints: opponentFirstHalfScore)
@@ -472,12 +489,13 @@ func getPreviousGame(from event: TeamSchedule.Events.Event, teamID: String) -> T
     
     let largestLead: String?
     if matchupWebpage.contains("\"n\":\"largestLead\"") {
-        largestLead = String(matchupWebpage
-            .components(separatedBy: "\"n\":\"largestLead\"")
-            .first { $0.contains("abbrv") && !$0.contains("\"abbrv\":\"\(event.opponent.teamID!)\"") }!
-            .substring(startingTerm: "\"d\"", endingAtFirst: ",")
-            .replace("\"", with: "")
-            .dropLast())
+        let components = matchupWebpage.components(separatedBy: "\"n\":\"largestLead\"")
+        if let abbreviation = components.first(where: { $0.contains("abbrv") && !$0.contains("\"abbrv\":\"\(event.opponent.teamID!)\"") }) {
+            let lead = abbreviation.substring(startingTerm: "\"d\"", endingAtFirst: ",").replace("\"", with: "").dropLast()
+            largestLead = String(lead)
+        } else {
+            largestLead = nil
+        }
     } else {
         largestLead = nil
     }
@@ -557,19 +575,26 @@ func getGames(from scheduleURL: String, teamID: String) -> Team.Games {
 func getNationalRankings() -> [NationalRanking] {
     let rankingsFileName = "nationalRankings.json"
     let dataDirectory = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
-    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: dataDirectory.path + "/GamePredictor/Data")
+    let destinationPath = dataDirectory.path + "/GamePredictor/Data/\(SPORT_MODE.league)"
+    
+    if !FileManager.default.directoryExists(atPath: destinationPath) {
+        try! FileManager.default.createDirectory(atPath: destinationPath, withIntermediateDirectories: true)
+    }
+    
+    let directoryContents = try! FileManager.default.contentsOfDirectory(atPath: destinationPath)
     var currentNationalRankings = [NationalRanking]()
     
     if let fileName = directoryContents.first(where: { $0 == rankingsFileName }) {
         print("\nReading national rankings file...")
         
-        let fileURL = URL(fileURLWithPath: fileName, relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data"))
+        let fileURL = URL(fileURLWithPath: fileName,
+                          relativeTo: dataDirectory.appendingPathComponent("GamePredictor").appendingPathComponent("Data").appendingPathComponent(SPORT_MODE.league))
         let fileData = try! Data(contentsOf: fileURL)
         
         currentNationalRankings = try! JSONDecoder().decode([NationalRanking].self, from: fileData)
     }
     
-    let rankingsBaseURL = "https://www.espn.com/mens-college-basketball/rankings/_/week/"
+    let rankingsBaseURL = "https://www.espn.com/\(SPORT_MODE.espnPathIndicator)/rankings/_/week/"
     let initialRankingsCount = currentNationalRankings.count
     var currentWeek = initialRankingsCount + 1
     var currentRankingsURL = rankingsBaseURL + "\(currentWeek)" + "/year/\(CURRENT_SEASON_YEAR)/seasontype/2"

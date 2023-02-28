@@ -85,6 +85,7 @@ extension Encodable {
         let path = FileManager.default.urls(for: .desktopDirectory, in: .userDomainMask)[0]
             .appendingPathComponent("GamePredictor")
             .appendingPathComponent("Data")
+            .appendingPathComponent(SPORT_MODE.league)
             .appendingPathComponent(name)
         
         try! data.write(to: path)
@@ -102,5 +103,13 @@ extension Array where Element: Equatable {
         }
 
         return result
+    }
+}
+
+extension FileManager {
+    func directoryExists(atPath path: String) -> Bool {
+        var isDirectory: ObjCBool = true
+        let exists = FileManager.default.fileExists(atPath: path, isDirectory: &isDirectory)
+        return exists && isDirectory.boolValue
     }
 }
