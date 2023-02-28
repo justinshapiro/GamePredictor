@@ -23838,7 +23838,7 @@
     }
   ],
   "conference" : "ACC",
-  "conferenceRanking" : 1,
+  "conferenceRanking" : 2,
   "games" : {
     "previous" : [
       {
@@ -24661,14 +24661,6 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "FSU",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 972,
-        "date" : "2023-02-25T12:00-0700"
-      },
       {
         "isConferenceMatchup" : true,
         "venue" : "away",

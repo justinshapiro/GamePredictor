@@ -20840,7 +20840,7 @@
     }
   ],
   "conference" : "SWAC",
-  "conferenceRanking" : 2,
+  "conferenceRanking" : 1,
   "games" : {
     "previous" : [
       {
@@ -21321,14 +21321,6 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "FAMU",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 639,
-        "date" : "2023-02-25T14:00-0700"
-      },
       {
         "opponentID" : "BCU",
         "venue" : "home",

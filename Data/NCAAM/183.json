@@ -17718,7 +17718,7 @@
     }
   ],
   "conference" : "ACC",
-  "conferenceRanking" : 7,
+  "conferenceRanking" : 9,
   "games" : {
     "previous" : [
       {
@@ -18547,15 +18547,6 @@
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-02-25T15:00-0700",
-        "venueCapacity" : 2508,
-        "opponentID" : "PITT",
-        "coverage" : "sportsTV"
-      },
       {
         "opponentID" : "GT",
         "venue" : "away",

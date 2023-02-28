@@ -15569,7 +15569,7 @@
     }
   ],
   "conference" : "SWAC",
-  "conferenceRanking" : 10,
+  "conferenceRanking" : 7,
   "games" : {
     "previous" : [
       {
@@ -16138,14 +16138,6 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "SOU",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 0,
-        "date" : "2023-02-25T15:00-0700"
-      },
       {
         "opponentID" : "GRAM",
         "venue" : "away",

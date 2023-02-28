@@ -7,6 +7,11 @@
 
 import Foundation
 
+struct CodableBettingMatchup: Codable {
+    let teamName: String
+    let game: Team.PreviousGame
+}
+
 struct CodableRoundRobin: Codable {
     let betslips: [Betslips]
     let originalBetslip: [String]
@@ -16,4 +21,13 @@ struct CodableRoundRobin: Codable {
         let picks: [String]
     }
     
+}
+
+struct Prediction: Codable, Equatable {
+    let teamToCoverSpread: String
+    let probabilityPercentage: Double
+    
+    var printString: String {
+        "\(teamToCoverSpread): \(probabilityPercentage)% confidence"
+    }
 }

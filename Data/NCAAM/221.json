@@ -25443,7 +25443,7 @@
     }
   ],
   "conference" : "ACC",
-  "conferenceRanking" : 2,
+  "conferenceRanking" : 1,
   "games" : {
     "previous" : [
       {
@@ -26260,15 +26260,6 @@
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-02-25T15:00-0700",
-        "venueCapacity" : 2508,
-        "opponentID" : "SYR",
-        "coverage" : "sportsTV"
-      },
       {
         "opponentID" : "ND",
         "venue" : "home",

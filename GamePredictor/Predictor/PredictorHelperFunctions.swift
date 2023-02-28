@@ -6,7 +6,6 @@
 //
 
 import Foundation
-import Algorithms
 
 // MARK: - Get Unique Matchups (Previous and Upcoming)
 
@@ -225,6 +224,29 @@ func getUpcomingPredictions(tomorrow: Bool) -> [(String, Double)] {
             return (prediction.0, prediction.1)
         }
         .sorted { $0.1 > $1.1 }
+}
+
+func exportUpcomingPredictions(_ upcomingPredictions: [(String, Double)]) {
+    let dateFormatter = DateFormatter()
+    dateFormatter.locale = Locale(identifier: "en_US_POSIX")
+    dateFormatter.dateFormat = "MM-dd"
+    
+    let todaysDateString = dateFormatter.string(from: .now)
+    
+    guard !upcomingPredictions.isEmpty else {
+        return print("\n\(SPORT_MODE.league) No upcoming predictions for \(todaysDateString)")
+    }
+    
+    print("\n\(SPORT_MODE.league) Upcoming Predictions:")
+    
+    let exportableUpcomingPredictions = upcomingPredictions
+        .map { Prediction(teamToCoverSpread: $0.0, probabilityPercentage: $0.1) }
+        .removeDuplicates()
+    
+    exportableUpcomingPredictions.forEach { print($0.printString) }
+    
+    let fileName = "predictions-\(todaysDateString).json"
+    exportableUpcomingPredictions.export(as: fileName)
 }
 
 func isCorrectPrediction(game: (String, Team.PreviousGame), teamToCoverSpread: String) -> Bool {

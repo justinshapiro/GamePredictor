@@ -204,9 +204,9 @@ struct FullPageBoxScore: Decodable {
                 
                 struct GameInfo: Decodable {
                     let attendance: Int
-                    let venueCapacity: Int
-                    let venueName: String
-                    let venueLocation: VenueLocation
+                    let venueCapacity: Int?
+                    let venueName: String?
+                    let venueLocation: VenueLocation?
                     let tvCoverageStation: String
                     let gameLine: String?
                     let overUnder: Double?

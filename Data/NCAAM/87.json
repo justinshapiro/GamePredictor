@@ -856,6 +856,35 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-01-07T09:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-02-25T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5366,6 +5395,35 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-22T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-02-25T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14000,6 +14058,35 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-22T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-02-25T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14716,6 +14803,35 @@
               "didStart" : true,
               "minutesPlayed" : 18,
               "date" : "2023-02-22T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 3,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 9
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 19,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-02-25T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -18002,6 +18118,35 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2023-02-22T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 4,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 4
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-02-25T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -23854,6 +23999,35 @@
               "didStart" : false,
               "minutesPlayed" : 34,
               "date" : "2023-02-22T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-02-25T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -24988,6 +25162,35 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2023-02-22T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-02-25T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -25819,18 +26022,38 @@
         },
         "attendance" : 8183,
         "line" : 6
+      },
+      {
+        "venueCapacity" : 14665,
+        "opponentID" : "WAKE",
+        "largestLead" : 7,
+        "coverage" : "sportsTV",
+        "referees" : [
+          "Lee Cassell",
+          "A.J. Desai",
+          "Raymie Styons"
+        ],
+        "didWin" : false,
+        "overUnder" : 149.5,
+        "date" : "2023-02-25T17:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 36,
+            "opponentPoints" : 39
+          },
+          "secondHalf" : {
+            "teamPoints" : 22,
+            "opponentPoints" : 27
+          }
+        },
+        "attendance" : 9898,
+        "line" : 7
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-02-25T17:00-0700",
-        "venueCapacity" : 4665,
-        "opponentID" : "WAKE",
-        "coverage" : "sportsTV"
-      },
       {
         "opponentID" : "PITT",
         "venue" : "away",

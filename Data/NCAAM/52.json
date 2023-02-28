@@ -16992,7 +16992,7 @@
     }
   ],
   "conference" : "ACC",
-  "conferenceRanking" : 12,
+  "conferenceRanking" : 11,
   "games" : {
     "previous" : [
       {
@@ -17808,14 +17808,6 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "MIA",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 972,
-        "date" : "2023-02-25T12:00-0700"
-      },
       {
         "isConferenceMatchup" : true,
         "venue" : "away",

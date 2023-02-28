@@ -38,12 +38,7 @@ if TRAINING_MODE {
 }
 
 let upcomingPredictions = getUpcomingPredictions(tomorrow: false)
-
-print("\n\(SPORT_MODE.league) Upcoming Predictions:")
-upcomingPredictions
-    .map { "\($0.0): \($0.1)% confidence" }
-    .removeDuplicates()
-    .forEach { print($0) }
+exportUpcomingPredictions(upcomingPredictions)
 
 if ENABLE_INVERTED_ROUND_ROBIN {
     if !IRR_EVALUATION_MODE {

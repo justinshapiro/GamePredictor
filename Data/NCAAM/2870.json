@@ -27987,7 +27987,7 @@
     }
   ],
   "conference" : "Horizon",
-  "conferenceRanking" : 9,
+  "conferenceRanking" : 8,
   "games" : {
     "previous" : [
       {
@@ -28860,15 +28860,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-02-25T17:00-0700",
-        "venueCapacity" : 500,
-        "opponentID" : "GB",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

@@ -222,7 +222,10 @@ func getPlayerGameLog(in boxScoreURL: String, playerShortName shortName: String)
     
     guard !boxScoreWebpage.contains("\"desc\":\"Postponed\",\"det\":\"Postponed\"") &&
             !boxScoreWebpage.contains("\"desc\":\"Canceled\",\"det\":\"Canceled\"") &&
-            !boxScoreWebpage.contains("\"desc\":\"Forfeit\",\"det\":\"Forfeit\"")
+            !boxScoreWebpage.contains("\"desc\":\"Forfeit\",\"det\":\"Forfeit\"") &&
+            
+            // this occurs if ESPN data is corrupt where the game was played but the score is listed as 0-0
+            !(boxScoreWebpage.contains("\"desc\":\"Final\",\"det\":\"Final\"") && boxScoreWebpage.contains("\"score\":\"0\""))
     else { return nil }
     
     if !boxScoreWebpage.contains("['__espnfitt__']") {
@@ -414,7 +417,10 @@ func getPreviousGame(from event: TeamSchedule.Events.Event, teamID: String) -> T
     
     guard !boxScoreWebpage.contains("\"desc\":\"Postponed\",\"det\":\"Postponed\"") &&
             !boxScoreWebpage.contains("\"desc\":\"Canceled\",\"det\":\"Canceled\"") &&
-            !boxScoreWebpage.contains("\"desc\":\"Forfeit\",\"det\":\"Forfeit\"")
+            !boxScoreWebpage.contains("\"desc\":\"Forfeit\",\"det\":\"Forfeit\"") &&
+            
+            // this occurs if ESPN data is corrupt where the game was played but the score is listed as 0-0
+            !(boxScoreWebpage.contains("\"desc\":\"Final\",\"det\":\"Final\"") && boxScoreWebpage.contains("\"score\":\"0\""))
     else { return nil }
     
     let fullPageJSON = boxScoreWebpage
@@ -444,13 +450,17 @@ func getPreviousGame(from event: TeamSchedule.Events.Event, teamID: String) -> T
     
     let seasonType: Team.SeasonType = event.seasonType.abbreviation == .regularSeason ? .regularSeason : .postseason
     
-    let teamLineScores = fullPageBoxScore.gameStripe.teams.first { $0.teamID != event.opponent.teamID }!.lineScores
-    let opponentLineScores = fullPageBoxScore.gameStripe.teams.first { $0.teamID == event.opponent.teamID }!.lineScores
+    guard
+        let teamLineScores = fullPageBoxScore.gameStripe.teams.first(where: { $0.teamID != event.opponent.teamID })?.lineScores,
+        let opponentLineScores = fullPageBoxScore.gameStripe.teams.first(where: { $0.teamID == event.opponent.teamID })?.lineScores
+    else { return nil } // this could return nil if either team is non-D1 as ESPN doesn't keep good data on non D1 teams and usually those games don't have lines anyway
     
-    let teamFirstHalfScore = Int(teamLineScores[0].displayValue)! + (SPORT_MODE.isWomanLeague ? Int(teamLineScores[1].displayValue)! : 0)
-    let teamSecondHalfScore = SPORT_MODE.isWomanLeague ? Int(teamLineScores[2].displayValue)! + Int(teamLineScores[3].displayValue)! : Int(teamLineScores[1].displayValue)!
-    let opponentFirstHalfScore = Int(opponentLineScores[0].displayValue)! + (SPORT_MODE.isWomanLeague ? Int(opponentLineScores[1].displayValue)! : 0)
-    let opponentSecondHalfScore = SPORT_MODE.isWomanLeague ? Int(opponentLineScores[2].displayValue)! + Int(opponentLineScores[3].displayValue)! : Int(opponentLineScores[1].displayValue)!
+    let isFourQuarterGame = SPORT_MODE.isWomanLeague // && NBA
+    
+    let teamFirstHalfScore = Int(teamLineScores[0].displayValue)! + (isFourQuarterGame ? Int(teamLineScores[1].displayValue)! : 0)
+    let teamSecondHalfScore = isFourQuarterGame ? Int(teamLineScores[2].displayValue)! + Int(teamLineScores[3].displayValue)! : Int(teamLineScores[1].displayValue)!
+    let opponentFirstHalfScore = Int(opponentLineScores[0].displayValue)! + (isFourQuarterGame ? Int(opponentLineScores[1].displayValue)! : 0)
+    let opponentSecondHalfScore = isFourQuarterGame ? Int(opponentLineScores[2].displayValue)! + Int(opponentLineScores[3].displayValue)! : Int(opponentLineScores[1].displayValue)!
     
     let firstHalfScore = Team.PreviousGame.GameScore.Score(teamPoints: teamFirstHalfScore,
                                                            opponentPoints: opponentFirstHalfScore)
@@ -479,12 +489,13 @@ func getPreviousGame(from event: TeamSchedule.Events.Event, teamID: String) -> T
     
     let largestLead: String?
     if matchupWebpage.contains("\"n\":\"largestLead\"") {
-        largestLead = String(matchupWebpage
-            .components(separatedBy: "\"n\":\"largestLead\"")
-            .first { $0.contains("abbrv") && !$0.contains("\"abbrv\":\"\(event.opponent.teamID!)\"") }!
-            .substring(startingTerm: "\"d\"", endingAtFirst: ",")
-            .replace("\"", with: "")
-            .dropLast())
+        let components = matchupWebpage.components(separatedBy: "\"n\":\"largestLead\"")
+        if let abbreviation = components.first(where: { $0.contains("abbrv") && !$0.contains("\"abbrv\":\"\(event.opponent.teamID!)\"") }) {
+            let lead = abbreviation.substring(startingTerm: "\"d\"", endingAtFirst: ",").replace("\"", with: "").dropLast()
+            largestLead = String(lead)
+        } else {
+            largestLead = nil
+        }
     } else {
         largestLead = nil
     }
