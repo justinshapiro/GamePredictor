@@ -47,7 +47,7 @@
           "teamID" : "USC"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Zach Brooker"
     },
     {
@@ -1668,7 +1668,7 @@
           "teamID" : "USC"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Reese Dixon-Waters"
     },
     {
@@ -5099,7 +5099,7 @@
           "teamID" : "USC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Boogie Ellis"
     },
     {
@@ -5966,7 +5966,7 @@
           "teamID" : "USC"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Harrison Hornery"
     },
     {
@@ -5981,7 +5981,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "VIncent Iwuchukwu"
     },
     {
@@ -7515,7 +7515,7 @@
           "teamID" : "USC"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kobe Johnson"
     },
     {
@@ -10192,7 +10192,7 @@
           "teamID" : "USC"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Joshua Morgan"
     },
     {
@@ -10618,7 +10618,7 @@
           "teamID" : "USC"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Iaroslav Niagu"
     },
     {
@@ -15186,7 +15186,7 @@
           "teamID" : "USC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Drew Peterson"
     },
     {
@@ -15757,7 +15757,7 @@
           "teamID" : "USC"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Oziyah Sellers"
     },
     {
@@ -16682,7 +16682,7 @@
           "teamID" : "USC"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Malik Thomas"
     },
     {
@@ -17427,7 +17427,7 @@
           "teamID" : "USC"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Tre White"
     },
     {
@@ -18056,12 +18056,12 @@
           "teamID" : "USC"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kijani Wright"
     }
   ],
   "conference" : "Pac-12",
-  "conferenceRanking" : 3,
+  "conferenceRanking" : 2,
   "games" : {
     "previous" : [
       {
@@ -18796,20 +18796,22 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "ARIZ",
-        "venue" : "away",
         "isConferenceMatchup" : true,
+        "venue" : "away",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 258,
-        "date" : "2023-03-01T22:00-0700"
+        "date" : "2023-03-02T21:00-0700",
+        "venueCapacity" : 10258,
+        "opponentID" : "ARIZ",
+        "coverage" : "standardTV"
       },
       {
-        "opponentID" : "ASU",
-        "venue" : "away",
         "isConferenceMatchup" : true,
+        "venue" : "away",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 258,
-        "date" : "2023-03-04T21:00-0700"
+        "date" : "2023-03-04T21:00-0700",
+        "venueCapacity" : 10258,
+        "opponentID" : "ASU",
+        "coverage" : "standardTV"
       }
     ]
   }

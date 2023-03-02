@@ -1132,7 +1132,7 @@
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Javonte Brown"
     },
     {
@@ -3652,13 +3652,42 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2023-02-25T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Henry Coleman III"
     },
     {
@@ -7791,7 +7820,7 @@
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Dexter Dennis"
     },
     {
@@ -9905,13 +9934,42 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2023-02-25T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Andersson Garcia"
     },
     {
@@ -13249,13 +13307,42 @@
               "didStart" : false,
               "minutesPlayed" : 11,
               "date" : "2023-02-25T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Andre Gordon"
     },
     {
@@ -15282,13 +15369,42 @@
               "didStart" : false,
               "minutesPlayed" : 8,
               "date" : "2023-02-25T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Hayden Hefner"
     },
     {
@@ -17907,7 +18023,7 @@
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Ethan Henderson"
     },
     {
@@ -17922,7 +18038,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jaelyn Lee"
     },
     {
@@ -19580,13 +19696,42 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2023-02-25T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 18,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Julius Marble"
     },
     {
@@ -21114,13 +21259,42 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2023-01-04T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Manny Obaseki"
     },
     {
@@ -21372,7 +21546,7 @@
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Erik Pratt"
     },
     {
@@ -24855,13 +25029,42 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-25T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 20,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Tyrece Radford"
     },
     {
@@ -26198,7 +26401,7 @@
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Khalen Robinson"
     },
     {
@@ -26247,7 +26450,7 @@
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Ashton Smith"
     },
     {
@@ -28268,13 +28471,42 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2023-02-25T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "assists" : 7,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Wade Taylor IV"
     },
     {
@@ -29013,13 +29245,42 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2023-02-25T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Solomon Washington"
     },
     {
@@ -29155,7 +29416,7 @@
           "teamID" : "TA&M"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Davin Watkins"
     },
     {
@@ -29170,7 +29431,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jordan Williams"
     }
   ],
@@ -30018,17 +30279,38 @@
         },
         "attendance" : 6065,
         "line" : 2
+      },
+      {
+        "venueCapacity" : 9500,
+        "opponentID" : "MISS",
+        "largestLead" : 11,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Anthony Jordan",
+          "Owen Shortt",
+          "K.B. Burdett Jr."
+        ],
+        "didWin" : true,
+        "overUnder" : 137,
+        "date" : "2023-02-28T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 34,
+            "opponentPoints" : 28
+          },
+          "secondHalf" : {
+            "teamPoints" : 35,
+            "opponentPoints" : 33
+          }
+        },
+        "attendance" : 6008,
+        "line" : 5.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "MISS",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 500,
-        "date" : "2023-02-28T19:00-0700"
-      },
       {
         "opponentID" : "ALA",
         "venue" : "away",
@@ -30039,5 +30321,5 @@
       }
     ]
   },
-  "nationalRanking" : 25
+  "nationalRanking" : 24
 }

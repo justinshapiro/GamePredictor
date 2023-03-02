@@ -652,7 +652,7 @@
       ],
       "name" : "Lianna Baxter",
       "position" : "Center",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -3925,6 +3925,35 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 7
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3933,7 +3962,7 @@
       ],
       "name" : "Breanne Beatty",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -6388,6 +6417,35 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6396,7 +6454,7 @@
       ],
       "name" : "Raquel Ferrer-Bernad",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -7279,6 +7337,35 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2022-11-15T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7287,7 +7374,7 @@
       ],
       "name" : "Cameron Grant",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -8286,6 +8373,35 @@
               "didStart" : true,
               "minutesPlayed" : 14,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 22,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8294,7 +8410,7 @@
       ],
       "name" : "Miriam Ibezim",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -10842,6 +10958,35 @@
               "didStart" : false,
               "minutesPlayed" : 25,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 5
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10850,7 +10995,7 @@
       ],
       "name" : "Alexis Johnson",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -12559,7 +12704,7 @@
       ],
       "name" : "Aaliyah McQueen",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -13935,6 +14080,35 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13943,7 +14117,7 @@
       ],
       "name" : "Kennedie Montue",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14660,7 +14834,7 @@
       ],
       "name" : "Prunelle Mungo",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -15052,7 +15226,7 @@
       ],
       "name" : "Eva Pardo-Campillo",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -15320,6 +15494,35 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-01-28T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 7
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -15328,7 +15531,7 @@
       ],
       "name" : "Brooke Quarles-Daniels",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -18398,6 +18601,35 @@
               "didStart" : true,
               "minutesPlayed" : 16,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 20,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -18406,7 +18638,7 @@
       ],
       "name" : "Linda Van Schaik",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -18436,7 +18668,7 @@
       ],
       "name" : "Sug Williams",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "Horizon",
@@ -19514,18 +19746,47 @@
           ]
         },
         "attendance" : 1255
+      },
+      {
+        "venueCapacity" : 4000,
+        "opponentID" : "WRST",
+        "largestLead" : 7,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Angie Enlund",
+          "Meghan Joseph",
+          "Kalei Enterline"
+        ],
+        "didWin" : false,
+        "seasonType" : "regularSeason",
+        "date" : "2023-02-28T17:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 41,
+            "opponentPoints" : 37
+          },
+          "secondHalf" : {
+            "teamPoints" : 28,
+            "opponentPoints" : 42
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 12,
+              "opponentPoints" : 20
+            },
+            {
+              "teamPoints" : 16,
+              "opponentPoints" : 22
+            }
+          ]
+        },
+        "attendance" : 203
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-02-28T17:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "WRST",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

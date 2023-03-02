@@ -9,19 +9,29 @@ import Foundation
 
 enum SportMode {
     case collegeBasketball(CollegeBasketballMode)
+    case nba
     
     enum CollegeBasketballMode {
         case mens
         case womens
     }
     
-    var isWomanLeague: Bool {
+    var isCollege: Bool {
+        switch self {
+        case .collegeBasketball: return true
+        case .nba: return false
+        }
+    }
+    
+    var isFourQuarterGame: Bool {
         switch self {
         case .collegeBasketball(let collegeBasketballMode):
             switch collegeBasketballMode {
             case .mens:   return false
             case .womens: return true
             }
+        case .nba:
+            return true
         }
     }
     
@@ -32,6 +42,7 @@ enum SportMode {
             case .mens:   return "NCAAM"
             case .womens: return "NCAAW"
             }
+        case .nba: return "NBA"
         }
     }
     
@@ -42,6 +53,7 @@ enum SportMode {
             case .mens:   return "mens-college-basketball"
             case .womens: return "womens-college-basketball"
             }
+        case .nba: return "nba"
         }
     }
 }

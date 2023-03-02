@@ -2054,13 +2054,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-22T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 34,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Chibuzo Agbo"
     },
     {
@@ -2075,7 +2104,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Vince Barringer"
     },
     {
@@ -3893,13 +3922,42 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-22T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 6
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Tyson Degenhart"
     },
     {
@@ -3914,7 +3972,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "R.J. Keene"
     },
     {
@@ -5338,7 +5396,7 @@
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Pavle Kuzmanovic"
     },
     {
@@ -7510,13 +7568,42 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2023-02-22T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 17,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Lukas Milner"
     },
     {
@@ -8000,7 +8087,7 @@
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Sadraque NgaNga"
     },
     {
@@ -8015,7 +8102,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kade Rice"
     },
     {
@@ -11527,13 +11614,42 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2023-02-22T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 9
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 26,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Max Rice"
     },
     {
@@ -15776,13 +15892,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-22T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Marcus Shaver Jr."
     },
     {
@@ -16214,7 +16359,7 @@
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Burke Smith"
     },
     {
@@ -18444,13 +18589,42 @@
               "didStart" : true,
               "minutesPlayed" : 22,
               "date" : "2023-02-22T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Naje Smith"
     },
     {
@@ -19224,13 +19398,42 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-02-11T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 0,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Mohamed Sylla"
     },
     {
@@ -19998,13 +20201,42 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2023-02-22T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jace Whiting"
     },
     {
@@ -20297,7 +20529,7 @@
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Sam Winter"
     },
     {
@@ -20949,13 +21181,42 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2023-02-19T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 0,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BOIS"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kobe Young"
     }
   ],
@@ -21737,17 +21998,38 @@
         },
         "attendance" : 9825,
         "line" : 5.5
+      },
+      {
+        "venueCapacity" : 12480,
+        "opponentID" : "SDSU",
+        "largestLead" : 6,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Kevin Brill",
+          "Tony Padilla",
+          "Nate Harris"
+        ],
+        "didWin" : true,
+        "overUnder" : 135,
+        "date" : "2023-02-28T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 27,
+            "opponentPoints" : 30
+          },
+          "secondHalf" : {
+            "teamPoints" : 39,
+            "opponentPoints" : 30
+          }
+        },
+        "attendance" : 12208,
+        "line" : 2.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "SDSU",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 2480,
-        "date" : "2023-02-28T19:00-0700"
-      },
       {
         "opponentID" : "USU",
         "venue" : "home",

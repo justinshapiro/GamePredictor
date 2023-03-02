@@ -8331,6 +8331,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 16300,
+      "opponentID" : "KU",
+      "largestLead" : 0,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Bryan Enterline",
+        "Brian Garland",
+        "Metta Christensen"
+      ],
+      "didWin" : false,
+      "overUnder" : 136,
+      "date" : "2023-03-01T18:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 43,
+          "opponentPoints" : 48
+        },
+        "secondHalf" : {
+          "teamPoints" : 50,
+          "opponentPoints" : 50
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 19,
+            "opponentPoints" : 24
+          },
+          {
+            "teamPoints" : 31,
+            "opponentPoints" : 26
+          }
+        ]
+      },
+      "attendance" : 3053,
+      "line" : 3
+    },
+    "teamName" : "ISU"
+  },
+  {
+    "game" : {
       "venueCapacity" : 14644,
       "opponentID" : "ARIZ",
       "largestLead" : 32,
@@ -9265,6 +9307,52 @@
   },
   {
     "game" : {
+      "venueCapacity" : 11562,
+      "opponentID" : "OU",
+      "largestLead" : 3,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Scott Yarbrough",
+        "Bill Larance",
+        "Ify Seales"
+      ],
+      "didWin" : false,
+      "overUnder" : 157.5,
+      "date" : "2023-03-01T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 29,
+          "opponentPoints" : 45
+        },
+        "secondHalf" : {
+          "teamPoints" : 49,
+          "opponentPoints" : 33
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 28,
+            "opponentPoints" : 13
+          },
+          {
+            "teamPoints" : 21,
+            "opponentPoints" : 20
+          },
+          {
+            "teamPoints" : 8,
+            "opponentPoints" : 12
+          }
+        ]
+      },
+      "attendance" : 3251,
+      "line" : 10.5
+    },
+    "teamName" : "KSU"
+  },
+  {
+    "game" : {
       "venueCapacity" : 18987,
       "opponentID" : "BYU",
       "largestLead" : 12,
@@ -9941,6 +10029,48 @@
       },
       "attendance" : 6070,
       "line" : -4
+    },
+    "teamName" : "OKST"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 14000,
+      "opponentID" : "WVU",
+      "largestLead" : 6,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Doug Knight",
+        "Roy Gulbeyan",
+        "Angie Enlund"
+      ],
+      "didWin" : false,
+      "overUnder" : 135.5,
+      "date" : "2023-03-01T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 38,
+          "opponentPoints" : 32
+        },
+        "secondHalf" : {
+          "teamPoints" : 29,
+          "opponentPoints" : 39
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 13,
+            "opponentPoints" : 24
+          },
+          {
+            "teamPoints" : 16,
+            "opponentPoints" : 15
+          }
+        ]
+      },
+      "attendance" : 1592,
+      "line" : 3
     },
     "teamName" : "OKST"
   },
@@ -17929,6 +18059,52 @@
   {
     "game" : {
       "venueCapacity" : 4347,
+      "opponentID" : "BGSU",
+      "largestLead" : 6,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Michelle Del Duco",
+        "Mark Berger",
+        "Kalei Enterline"
+      ],
+      "didWin" : false,
+      "overUnder" : 147,
+      "date" : "2023-03-01T15:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 27,
+          "opponentPoints" : 32
+        },
+        "secondHalf" : {
+          "teamPoints" : 41,
+          "opponentPoints" : 36
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 19,
+            "opponentPoints" : 12
+          },
+          {
+            "teamPoints" : 22,
+            "opponentPoints" : 24
+          },
+          {
+            "teamPoints" : 8,
+            "opponentPoints" : 13
+          }
+        ]
+      },
+      "attendance" : 2019,
+      "line" : 4
+    },
+    "teamName" : "BALL"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 4347,
       "opponentID" : "TOL",
       "largestLead" : 16,
       "coverage" : "subscriptionRequired",
@@ -18215,6 +18391,47 @@
       },
       "attendance" : 1363,
       "line" : 11.5
+    },
+    "teamName" : "BOIS"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 8083,
+      "opponentID" : "CSU",
+      "largestLead" : 4,
+      "overUnder" : 133,
+      "didWin" : false,
+      "referees" : [
+        "Roy Gulbeyan",
+        "Maj Forsberg",
+        "Julie Krommenhoek"
+      ],
+      "date" : "2023-02-28T18:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 27,
+          "opponentPoints" : 40
+        },
+        "secondHalf" : {
+          "teamPoints" : 24,
+          "opponentPoints" : 26
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 10,
+            "opponentPoints" : 13
+          },
+          {
+            "teamPoints" : 14,
+            "opponentPoints" : 13
+          }
+        ]
+      },
+      "attendance" : 0,
+      "line" : 9.5
     },
     "teamName" : "BOIS"
   },
@@ -18670,6 +18887,47 @@
       },
       "attendance" : 2500,
       "line" : 19
+    },
+    "teamName" : "NEV"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 11536,
+      "opponentID" : "UNLV",
+      "largestLead" : 10,
+      "overUnder" : 139.5,
+      "didWin" : false,
+      "referees" : [
+        "Lisa Jones",
+        "Michol Murray",
+        "Brian Woods"
+      ],
+      "date" : "2023-02-28T19:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 39,
+          "opponentPoints" : 35
+        },
+        "secondHalf" : {
+          "teamPoints" : 27,
+          "opponentPoints" : 36
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 17,
+            "opponentPoints" : 14
+          },
+          {
+            "teamPoints" : 10,
+            "opponentPoints" : 22
+          }
+        ]
+      },
+      "attendance" : 1467,
+      "line" : 14
     },
     "teamName" : "NEV"
   },
@@ -19494,6 +19752,52 @@
       },
       "attendance" : 2793,
       "line" : 14
+    },
+    "teamName" : "ASU"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 12000,
+      "opponentID" : "UCLA",
+      "largestLead" : 2,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Melissa Barlow",
+        "Benny Luna",
+        "Tyler Trimble"
+      ],
+      "didWin" : false,
+      "overUnder" : 134,
+      "date" : "2023-03-01T13:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 25,
+          "opponentPoints" : 39
+        },
+        "secondHalf" : {
+          "teamPoints" : 37,
+          "opponentPoints" : 23
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 21,
+            "opponentPoints" : 17
+          },
+          {
+            "teamPoints" : 16,
+            "opponentPoints" : 6
+          },
+          {
+            "teamPoints" : 8,
+            "opponentPoints" : 19
+          }
+        ]
+      },
+      "attendance" : 0,
+      "line" : 13.5
     },
     "teamName" : "ASU"
   },
@@ -20417,6 +20721,48 @@
       },
       "attendance" : 1606,
       "line" : 10.5
+    },
+    "teamName" : "CAL"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 12000,
+      "opponentID" : "WSU",
+      "largestLead" : 9,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Michael Price",
+        "Brenda Pantoja",
+        "Zack Murphy"
+      ],
+      "didWin" : false,
+      "overUnder" : 132,
+      "date" : "2023-03-01T19:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 27,
+          "opponentPoints" : 21
+        },
+        "secondHalf" : {
+          "teamPoints" : 22,
+          "opponentPoints" : 40
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 15,
+            "opponentPoints" : 23
+          },
+          {
+            "teamPoints" : 7,
+            "opponentPoints" : 17
+          }
+        ]
+      },
+      "attendance" : 0,
+      "line" : 8.5
     },
     "teamName" : "CAL"
   },
@@ -21594,6 +21940,48 @@
       },
       "attendance" : 2192,
       "line" : 2
+    },
+    "teamName" : "ORST"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 12000,
+      "opponentID" : "USC",
+      "largestLead" : 8,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Lisa Jones",
+        "Tiffany Bird",
+        "Charles Gonzales"
+      ],
+      "didWin" : true,
+      "overUnder" : 120,
+      "date" : "2023-03-01T21:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 21,
+          "opponentPoints" : 22
+        },
+        "secondHalf" : {
+          "teamPoints" : 35,
+          "opponentPoints" : 26
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 13,
+            "opponentPoints" : 15
+          },
+          {
+            "teamPoints" : 22,
+            "opponentPoints" : 11
+          }
+        ]
+      },
+      "attendance" : 3329,
+      "line" : 5
     },
     "teamName" : "ORST"
   },
@@ -26687,6 +27075,48 @@
       "line" : -17.5
     },
     "teamName" : "TENN"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 0,
+      "opponentID" : "VAN",
+      "largestLead" : 17,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Felicia Grinter",
+        "Joseph Vaszily",
+        "Brian Hall"
+      ],
+      "didWin" : true,
+      "overUnder" : 126.5,
+      "date" : "2023-03-01T09:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 40,
+          "opponentPoints" : 33
+        },
+        "secondHalf" : {
+          "teamPoints" : 37,
+          "opponentPoints" : 37
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 21,
+            "opponentPoints" : 14
+          },
+          {
+            "teamPoints" : 16,
+            "opponentPoints" : 23
+          }
+        ]
+      },
+      "attendance" : 0,
+      "line" : 3
+    },
+    "teamName" : "TA&M"
   },
   {
     "game" : {

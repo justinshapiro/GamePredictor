@@ -2025,13 +2025,42 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 24,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UGA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jabri Abdur-Rahim"
     },
     {
@@ -3913,13 +3942,42 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UGA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Frank Anselem"
     },
     {
@@ -6294,13 +6352,42 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UGA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Braelen Bridges"
     },
     {
@@ -8484,7 +8571,7 @@
           "teamID" : "UGA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jaxon Etter"
     },
     {
@@ -11033,13 +11120,42 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 17,
+                  "made" : 6
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 16,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 1
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UGA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Justin Hill"
     },
     {
@@ -12509,13 +12625,42 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UGA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jusaun Holt"
     },
     {
@@ -16973,13 +17118,42 @@
               "didStart" : true,
               "minutesPlayed" : 14,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UGA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jailyn Ingram"
     },
     {
@@ -16994,7 +17168,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Brandon Klatsky"
     },
     {
@@ -17304,7 +17478,7 @@
           "teamID" : "UGA"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "KyeRon Lindsay"
     },
     {
@@ -19917,7 +20091,7 @@
           "teamID" : "UGA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Mardrez McBride"
     },
     {
@@ -22350,13 +22524,42 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 8,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UGA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Matthew-Alexander Moncrieffe"
     },
     {
@@ -22371,7 +22574,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jaden Newell"
     },
     {
@@ -24044,13 +24247,42 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 20,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 15,
+                  "made" : 10
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UGA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Kario Oquendo"
     },
     {
@@ -25723,13 +25955,42 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 25,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UGA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Terry Roberts"
     }
   ],
@@ -26581,18 +26842,38 @@
         },
         "attendance" : 10041,
         "line" : 3
+      },
+      {
+        "venueCapacity" : 10523,
+        "opponentID" : "FLA",
+        "largestLead" : 5,
+        "coverage" : "sportsTV",
+        "referees" : [
+          "Steven Anderson",
+          "Mike Nance",
+          "Olandis Poole"
+        ],
+        "didWin" : false,
+        "overUnder" : 147,
+        "date" : "2023-02-28T17:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 33,
+            "opponentPoints" : 43
+          },
+          "secondHalf" : {
+            "teamPoints" : 34,
+            "opponentPoints" : 34
+          }
+        },
+        "attendance" : 7879,
+        "line" : 2
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-02-28T17:00-0700",
-        "venueCapacity" : 523,
-        "opponentID" : "FLA",
-        "coverage" : "sportsTV"
-      },
       {
         "isConferenceMatchup" : true,
         "venue" : "home",

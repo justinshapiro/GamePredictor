@@ -760,6 +760,35 @@
               "didStart" : false,
               "minutesPlayed" : 8,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 5,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -768,7 +797,7 @@
       ],
       "name" : "Hawa Balde-Camara",
       "position" : "Center",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -3722,6 +3751,35 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 7
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3730,7 +3788,7 @@
       ],
       "name" : "Adia Brisker",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5431,6 +5489,35 @@
               "didStart" : false,
               "minutesPlayed" : 23,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5439,7 +5526,7 @@
       ],
       "name" : "Jaylynn Brown",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -6055,6 +6142,35 @@
               "didStart" : false,
               "minutesPlayed" : 11,
               "date" : "2022-11-10T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 3,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6063,7 +6179,7 @@
       ],
       "name" : "Kinley Brown",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -7561,6 +7677,35 @@
               "didStart" : false,
               "minutesPlayed" : 6,
               "date" : "2022-12-20T13:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7569,7 +7714,7 @@
       ],
       "name" : "Kaiya Burnett",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8191,6 +8336,35 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8199,7 +8373,7 @@
       ],
       "name" : "Amari Davis",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -8960,6 +9134,35 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8968,7 +9171,7 @@
       ],
       "name" : "Kennedy Fuller",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -9758,6 +9961,35 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 6,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9766,7 +9998,7 @@
       ],
       "name" : "Alexandria Johnson",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -9984,7 +10216,7 @@
       ],
       "name" : "Lynese Johnson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -10745,6 +10977,35 @@
               "didStart" : false,
               "minutesPlayed" : 11,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10753,7 +11014,7 @@
       ],
       "name" : "Sommer Joseph",
       "position" : "Center",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -14554,6 +14815,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14562,7 +14852,7 @@
       ],
       "name" : "Kasey Kidwell",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -15265,6 +15555,35 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -15273,7 +15592,7 @@
       ],
       "name" : "Yvonne Lee",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -16034,6 +16353,35 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16042,7 +16390,7 @@
       ],
       "name" : "Jordyn Weaver",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     }
   ],
   "conference" : "ASUN",
@@ -17063,18 +17411,47 @@
           ]
         },
         "attendance" : 234
+      },
+      {
+        "venueCapacity" : 4600,
+        "opponentID" : "KENN",
+        "largestLead" : 0,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Kylie  Galloway",
+          "Kiesha Brown",
+          "Whitney Niles"
+        ],
+        "didWin" : false,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-01T17:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 25,
+            "opponentPoints" : 45
+          },
+          "secondHalf" : {
+            "teamPoints" : 38,
+            "opponentPoints" : 40
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 15,
+              "opponentPoints" : 21
+            },
+            {
+              "teamPoints" : 23,
+              "opponentPoints" : 19
+            }
+          ]
+        },
+        "attendance" : 563
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T17:00-0700",
-        "venueCapacity" : 600,
-        "opponentID" : "KENN",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

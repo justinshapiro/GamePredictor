@@ -26,7 +26,7 @@
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kaleb Brown"
     },
     {
@@ -1690,7 +1690,7 @@
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kobe Brown"
     },
     {
@@ -4912,13 +4912,42 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 6
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Noah Carter"
     },
     {
@@ -6806,7 +6835,7 @@
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Ronnie DeGray III"
     },
     {
@@ -7371,13 +7400,42 @@
               "didStart" : true,
               "minutesPlayed" : 19,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 14,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Mohamed Diarra"
     },
     {
@@ -9810,13 +9868,42 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 6,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Sean East II"
     },
     {
@@ -10039,7 +10126,7 @@
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jackson Francois"
     },
     {
@@ -12414,13 +12501,42 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 7
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 20,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "DeAndre Gholston"
     },
     {
@@ -15671,13 +15787,42 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Tre Gomillion"
     },
     {
@@ -18168,13 +18313,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 5,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 8
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 23,
+                "threePointFieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 5
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "D'Moi Hodge"
     },
     {
@@ -21599,13 +21773,42 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Nick Honor"
     },
     {
@@ -22739,7 +22942,7 @@
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Mabor Majak"
     },
     {
@@ -25793,7 +25996,7 @@
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Isiaih Mosley"
     },
     {
@@ -26532,13 +26735,42 @@
               "didStart" : false,
               "minutesPlayed" : 9,
               "date" : "2023-02-25T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 5,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Aidan Shaw"
     },
     {
@@ -27063,7 +27295,7 @@
           "teamID" : "MIZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Ben Sternberg"
     }
   ],
@@ -27892,24 +28124,44 @@
         },
         "attendance" : 10041,
         "line" : 3
+      },
+      {
+        "venueCapacity" : 13215,
+        "opponentID" : "LSU",
+        "largestLead" : 3,
+        "coverage" : "sportsTV",
+        "referees" : [
+          "Terry Oglesby",
+          "Brian Dorsey",
+          "Mike Nance"
+        ],
+        "didWin" : true,
+        "overUnder" : 149.5,
+        "date" : "2023-03-01T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 34,
+            "opponentPoints" : 47
+          },
+          "secondHalf" : {
+            "teamPoints" : 47,
+            "opponentPoints" : 29
+          }
+        },
+        "attendance" : 8453,
+        "line" : 4.5
       }
     ],
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T19:00-0700",
-        "venueCapacity" : 3215,
-        "opponentID" : "LSU",
-        "coverage" : "sportsTV"
-      },
-      {
-        "isConferenceMatchup" : true,
         "venue" : "away",
         "seasonType" : "regularSeason",
         "date" : "2023-03-04T13:30-0700",
-        "venueCapacity" : 5061,
+        "venueCapacity" : 15061,
         "opponentID" : "MISS",
         "coverage" : "sportsTV"
       }

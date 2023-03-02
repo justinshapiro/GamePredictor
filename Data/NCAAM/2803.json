@@ -1387,7 +1387,7 @@
           "teamID" : "BRY"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Erickson Bans"
     },
     {
@@ -3443,13 +3443,42 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 25,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BRY"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tyler Brelsford"
     },
     {
@@ -5273,13 +5302,42 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 17,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BRY"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Kvonn Cramer"
     },
     {
@@ -5294,7 +5352,7 @@
       "seasons" : [
 
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Liam Dunfee"
     },
     {
@@ -8574,13 +8632,42 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BRY"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Doug Edert"
     },
     {
@@ -9340,13 +9427,42 @@
               "didStart" : true,
               "minutesPlayed" : 22,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 6
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BRY"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Sherif Gross-Bullock"
     },
     {
@@ -12812,7 +12928,7 @@
           "teamID" : "BRY"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Chauncey Hawkins"
     },
     {
@@ -13633,7 +13749,7 @@
           "teamID" : "BRY"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Timmy Kiggins"
     },
     {
@@ -16536,13 +16652,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BRY"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Miles Latimer"
     },
     {
@@ -16794,7 +16939,7 @@
           "teamID" : "BRY"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Mike Marshall Jr."
     },
     {
@@ -17522,7 +17667,7 @@
           "teamID" : "BRY"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Joe Moon IV"
     },
     {
@@ -17954,7 +18099,7 @@
           "teamID" : "BRY"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Tay Mosher"
     },
     {
@@ -19053,7 +19198,7 @@
           "teamID" : "BRY"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Josh Ozabor"
     },
     {
@@ -22246,13 +22391,42 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BRY"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Charles Pride"
     },
     {
@@ -22417,7 +22591,7 @@
           "teamID" : "BRY"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Todd Rochelle"
     },
     {
@@ -22727,7 +22901,7 @@
           "teamID" : "BRY"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "John Shannon"
     },
     {
@@ -24493,13 +24667,42 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 19,
+                  "made" : 9
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 20,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 9
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 39,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BRY"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Earl Timberlake"
     },
     {
@@ -28191,18 +28394,47 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BRY"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Antwan Walker"
     }
   ],
   "conference" : "Am. East",
-  "conferenceRanking" : 3,
+  "conferenceRanking" : 4,
   "games" : {
     "previous" : [
       {
@@ -28960,18 +29192,39 @@
         },
         "attendance" : 932,
         "line" : 6.5
+      },
+      {
+        "venueCapacity" : 3100,
+        "opponentID" : "ME",
+        "largestLead" : 2,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Nathan Farrell",
+          "Ryan Corbett",
+          "Tiger Womack"
+        ],
+        "didWin" : false,
+        "overUnder" : 147.5,
+        "date" : "2023-02-28T17:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 31,
+            "opponentPoints" : 32
+          },
+          "secondHalf" : {
+            "teamPoints" : 33,
+            "opponentPoints" : 34
+          }
+        },
+        "attendance" : 795,
+        "line" : 3.5
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-02-28T17:00-0700",
-        "venueCapacity" : 674,
-        "opponentID" : "ME",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

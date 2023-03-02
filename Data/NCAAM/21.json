@@ -610,7 +610,7 @@
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Cade Alger"
     },
     {
@@ -4157,13 +4157,42 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 21,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Aguek Arop"
     },
     {
@@ -5100,7 +5129,7 @@
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jared Barnett"
     },
     {
@@ -9285,13 +9314,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 6
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 16,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Matt Bradley"
     },
     {
@@ -9326,7 +9384,7 @@
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Triston Broughton"
     },
     {
@@ -9361,7 +9419,7 @@
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tyler Broughton"
     },
     {
@@ -11736,13 +11794,42 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 20,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Lamont Butler"
     },
     {
@@ -11878,7 +11965,7 @@
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Miles Byrd"
     },
     {
@@ -14810,13 +14897,42 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 16,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Keshad Johnson"
     },
     {
@@ -14981,7 +15097,7 @@
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Demarshay Johnson Jr."
     },
     {
@@ -14996,7 +15112,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Cam Lawin"
     },
     {
@@ -18044,13 +18160,42 @@
               "didStart" : false,
               "minutesPlayed" : 9,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jaedon LeDee"
     },
     {
@@ -21945,13 +22090,42 @@
               "didStart" : true,
               "minutesPlayed" : 22,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Nathan Mensah"
     },
     {
@@ -24442,13 +24616,42 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 24,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Micah Parrish"
     },
     {
@@ -24816,7 +25019,7 @@
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Elijah Saunders"
     },
     {
@@ -28943,13 +29146,42 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 17,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Adam Seiko"
     },
     {
@@ -31266,13 +31498,42 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SDSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Darrion Trammell"
     }
   ],
@@ -32037,17 +32298,38 @@
         },
         "attendance" : 15431,
         "line" : 2.5
+      },
+      {
+        "venueCapacity" : 12480,
+        "opponentID" : "BOIS",
+        "largestLead" : 9,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Kevin Brill",
+          "Tony Padilla",
+          "Nate Harris"
+        ],
+        "didWin" : false,
+        "overUnder" : 135,
+        "date" : "2023-02-28T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 30,
+            "opponentPoints" : 27
+          },
+          "secondHalf" : {
+            "teamPoints" : 30,
+            "opponentPoints" : 39
+          }
+        },
+        "attendance" : 12208,
+        "line" : 2.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "BOIS",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 2480,
-        "date" : "2023-02-28T19:00-0700"
-      },
       {
         "opponentID" : "WYO",
         "venue" : "away",
@@ -32058,5 +32340,5 @@
       }
     ]
   },
-  "nationalRanking" : 22
+  "nationalRanking" : 18
 }

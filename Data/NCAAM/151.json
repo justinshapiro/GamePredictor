@@ -795,13 +795,42 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-25T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ECU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Ezra Ausar"
     },
     {
@@ -1482,13 +1511,42 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2023-02-25T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 5,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ECU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Benjamin Bayela"
     },
     {
@@ -3724,13 +3782,42 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2023-02-25T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 2,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ECU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Ludgy Debaut"
     },
     {
@@ -4678,13 +4765,42 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2023-02-25T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 4
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ECU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Quentin Diboundje"
     },
     {
@@ -4820,7 +4936,7 @@
           "teamID" : "ECU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jaxon Ellingsworth"
     },
     {
@@ -5653,13 +5769,42 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-25T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 17,
+                  "made" : 5
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ECU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "RJ Felton"
     },
     {
@@ -7332,13 +7477,42 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2023-02-25T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 19,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 10,
+                  "made" : 9
+                },
+                "rebounds" : {
+                  "offensive" : 6,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ECU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Brandon Johnson"
     },
     {
@@ -7353,7 +7527,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Elijah Jones"
     },
     {
@@ -8249,13 +8423,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-25T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ECU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Dave Kasanganay"
     },
     {
@@ -9000,7 +9203,7 @@
           "teamID" : "ECU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kalib LaCount"
     },
     {
@@ -9011,7 +9214,7 @@
       ],
       "name" : "Colin McKenzie",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "number" : 11,
@@ -9459,13 +9662,42 @@
               "didStart" : false,
               "minutesPlayed" : 0,
               "date" : "2023-02-25T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ECU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Valentino Pinedo"
     },
     {
@@ -10477,7 +10709,7 @@
           "teamID" : "ECU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Javon Small"
     },
     {
@@ -10816,7 +11048,7 @@
           "teamID" : "ECU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Saxby Sunderland"
     },
     {
@@ -12008,7 +12240,7 @@
           "teamID" : "ECU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Wynston Tabbs"
     },
     {
@@ -13861,13 +14093,42 @@
               "didStart" : true,
               "minutesPlayed" : 40,
               "date" : "2023-02-25T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 6
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 10
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ECU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jaden Walker"
     }
   ],
@@ -14680,24 +14941,54 @@
         },
         "attendance" : 7589,
         "line" : 21
+      },
+      {
+        "venueCapacity" : 8000,
+        "opponentID" : "TULN",
+        "largestLead" : 22,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Steven Anderson",
+          "Bart Lenox",
+          "Robert Felder"
+        ],
+        "didWin" : true,
+        "overUnder" : 156,
+        "date" : "2023-03-01T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 39,
+            "opponentPoints" : 31
+          },
+          "secondHalf" : {
+            "teamPoints" : 44,
+            "opponentPoints" : 37
+          }
+        },
+        "attendance" : 3817,
+        "line" : 6
       }
     ],
     "upcoming" : [
       {
         "opponentID" : "TULN",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 0,
-        "date" : "2023-03-01T19:00-0700"
-      },
-      {
-        "opponentID" : "UCF",
         "venue" : "home",
         "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 0,
-        "date" : "2023-03-05T12:00-0700"
+        "venueCapacity" : 4000,
+        "date" : "2023-03-03T17:00-0700"
+      },
+      {
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-05T12:00-0700",
+        "venueCapacity" : 10000,
+        "opponentID" : "UCF",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

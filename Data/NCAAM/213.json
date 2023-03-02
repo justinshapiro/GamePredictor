@@ -395,7 +395,7 @@
           "teamID" : "PSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jameel Brown"
     },
     {
@@ -595,7 +595,7 @@
           "teamID" : "PSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Andy Christos"
     },
     {
@@ -1276,13 +1276,42 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2023-02-26T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kanye Clary"
     },
     {
@@ -1540,7 +1569,7 @@
           "teamID" : "PSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Dan Conlan"
     },
     {
@@ -2529,7 +2558,7 @@
           "teamID" : "PSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Caleb Dorsey"
     },
     {
@@ -6772,13 +6801,42 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2023-02-26T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Myles Dread"
     },
     {
@@ -10818,13 +10876,42 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-26T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 5
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 4
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 8
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 42,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Andrew Funk"
     },
     {
@@ -14835,13 +14922,42 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2023-02-26T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Michael Henn"
     },
     {
@@ -14954,7 +15070,7 @@
           "teamID" : "PSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Ishaan Jagiasi"
     },
     {
@@ -16552,7 +16668,7 @@
           "teamID" : "PSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Dallion Johnson"
     },
     {
@@ -16717,7 +16833,7 @@
           "teamID" : "PSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Demetrius Lilley"
     },
     {
@@ -20026,13 +20142,42 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-26T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 4
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 41,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Seth Lundy"
     },
     {
@@ -20829,13 +20974,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-26T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Evan Mahaffey"
     },
     {
@@ -21661,13 +21835,42 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2023-02-26T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kebba Njie"
     },
     {
@@ -25620,13 +25823,42 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-26T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 11,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 43,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jalen Pickett"
     },
     {
@@ -29782,13 +30014,42 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-26T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 9
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 24,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 39,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Camren Wynter"
     }
   ],
@@ -30619,24 +30880,52 @@
         },
         "attendance" : 12082,
         "line" : 4
+      },
+      {
+        "venueCapacity" : 7039,
+        "opponentID" : "NU",
+        "largestLead" : 4,
+        "coverage" : "sportsTV",
+        "referees" : [
+          "Larry Scirotto",
+          "Kelly Pfeifer",
+          "Brooks Wells"
+        ],
+        "didWin" : true,
+        "overUnder" : 133.5,
+        "date" : "2023-03-01T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 24,
+            "opponentPoints" : 28
+          },
+          "secondHalf" : {
+            "teamPoints" : 37,
+            "opponentPoints" : 33
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 7,
+              "opponentPoints" : 4
+            }
+          ]
+        },
+        "attendance" : 7039,
+        "line" : 4.5
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "NU",
-        "venue" : "home",
         "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 39,
-        "date" : "2023-03-01T19:00-0700"
-      },
-      {
-        "opponentID" : "MD",
         "venue" : "away",
-        "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 5104,
-        "date" : "2023-03-05T10:00-0700"
+        "date" : "2023-03-05T10:00-0700",
+        "venueCapacity" : 15104,
+        "opponentID" : "MD",
+        "coverage" : "sportsTV"
       }
     ]
   }

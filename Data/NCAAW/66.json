@@ -267,6 +267,35 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 0,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -275,7 +304,7 @@
       ],
       "name" : "Shantavia Dawkins",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -2324,6 +2353,35 @@
               "didStart" : false,
               "minutesPlayed" : 23,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 2
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2332,7 +2390,7 @@
       ],
       "name" : "Nyamer Diew",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -4903,6 +4961,35 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 6
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4911,7 +4998,7 @@
       ],
       "name" : "Lexi Donarski",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -7488,6 +7575,35 @@
               "didStart" : false,
               "minutesPlayed" : 11,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7496,7 +7612,7 @@
       ],
       "name" : "Maggie Espenmiller-McGraw",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8321,6 +8437,35 @@
               "didStart" : true,
               "minutesPlayed" : 28,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 9
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 26,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 39,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8329,7 +8474,7 @@
       ],
       "name" : "Denae Fritz",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -10827,6 +10972,35 @@
               "didStart" : true,
               "minutesPlayed" : 28,
               "date" : "2022-11-24T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 17,
+                  "made" : 8
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 33,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 15,
+                  "made" : 14
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 10
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10835,7 +11009,7 @@
       ],
       "name" : "Ashley Joens",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -13630,7 +13804,7 @@
       ],
       "name" : "Beatriz Jordao",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -16845,6 +17019,35 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 4
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16853,7 +17056,7 @@
       ],
       "name" : "Morgan Kane",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -17425,7 +17628,7 @@
       ],
       "name" : "Mary Kate King",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -19996,6 +20199,35 @@
               "didStart" : true,
               "minutesPlayed" : 28,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 10,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -20004,7 +20236,7 @@
       ],
       "name" : "Emily Ryan",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -20396,7 +20628,7 @@
       ],
       "name" : "Stephanie Soares",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -21200,7 +21432,7 @@
       ],
       "name" : "Maggie Vick",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -22292,6 +22524,35 @@
               "didStart" : false,
               "minutesPlayed" : 8,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -22300,11 +22561,11 @@
       ],
       "name" : "Izzi Zingaro",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "Big 12",
-  "conferenceRanking" : 4,
+  "conferenceRanking" : 3,
   "games" : {
     "previous" : [
       {
@@ -23315,28 +23576,58 @@
           ]
         },
         "attendance" : 11227
+      },
+      {
+        "venueCapacity" : 16300,
+        "opponentID" : "KU",
+        "largestLead" : 0,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Bryan Enterline",
+          "Brian Garland",
+          "Metta Christensen"
+        ],
+        "didWin" : false,
+        "overUnder" : 136,
+        "date" : "2023-03-01T18:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 43,
+            "opponentPoints" : 48
+          },
+          "secondHalf" : {
+            "teamPoints" : 50,
+            "opponentPoints" : 50
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 19,
+              "opponentPoints" : 24
+            },
+            {
+              "teamPoints" : 31,
+              "opponentPoints" : 26
+            }
+          ]
+        },
+        "attendance" : 3053,
+        "line" : 3
       }
     ],
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T18:00-0700",
-        "venueCapacity" : 6300,
-        "opponentID" : "KU",
-        "coverage" : "subscriptionRequired"
-      },
-      {
-        "isConferenceMatchup" : true,
         "venue" : "away",
         "seasonType" : "regularSeason",
         "date" : "2023-03-04T14:00-0700",
-        "venueCapacity" : 4356,
+        "venueCapacity" : 14356,
         "opponentID" : "TTU",
         "coverage" : "subscriptionRequired"
       }
     ]
   },
-  "nationalRanking" : 20
+  "nationalRanking" : 23
 }

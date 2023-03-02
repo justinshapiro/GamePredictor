@@ -188,7 +188,7 @@
       ],
       "name" : "Sofia Allen",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -1201,7 +1201,7 @@
       ],
       "name" : "Jada Clowers",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -1825,7 +1825,7 @@
       ],
       "name" : "Zora Fray-Chinn",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -5721,7 +5721,7 @@
       ],
       "name" : "Isabella Geraci",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -7337,7 +7337,7 @@
       ],
       "name" : "Rebekah Gordon",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -10363,7 +10363,7 @@
       ],
       "name" : "Trinity Johnson",
       "position" : "Point Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -11132,7 +11132,7 @@
       ],
       "name" : "Cali Levine",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -11930,7 +11930,7 @@
       ],
       "name" : "Jeni Levine",
       "position" : "Point Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -13459,7 +13459,7 @@
       ],
       "name" : "AC Markham",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -15731,7 +15731,7 @@
       ],
       "name" : "Talia Roldan",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -15833,7 +15833,7 @@
       ],
       "name" : "Courtney Turner",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -16602,7 +16602,7 @@
       ],
       "name" : "Nyla Walker",
       "position" : "Point Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     }
   ],
   "conference" : "Big South",
@@ -17688,10 +17688,10 @@
         "isConferenceMatchup" : true,
         "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T12:00-0700",
-        "venueCapacity" : 600,
-        "opponentID" : "CHSO",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-02T16:00-0700",
+        "venueCapacity" : 8600,
+        "opponentID" : "HPU",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

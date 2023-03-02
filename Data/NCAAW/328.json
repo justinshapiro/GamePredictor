@@ -3742,6 +3742,35 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 6,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3750,7 +3779,7 @@
       ],
       "name" : "Maria Carvalho",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -6010,7 +6039,7 @@
       ],
       "name" : "Prima Chellis",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -6336,6 +6365,35 @@
               "didStart" : false,
               "minutesPlayed" : 11,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 13,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6344,7 +6402,7 @@
       ],
       "name" : "Kinley Falslev-Wickizer",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -6989,6 +7047,35 @@
               "didStart" : false,
               "minutesPlayed" : 7,
               "date" : "2022-12-01T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 26,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6997,7 +7084,7 @@
       ],
       "name" : "Natalie Fraley",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -7302,7 +7389,7 @@
       ],
       "name" : "Lillian Harris",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -7375,7 +7462,7 @@
       ],
       "name" : "Tiairra Hill-Brown",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -9308,6 +9395,35 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9316,7 +9432,7 @@
       ],
       "name" : "Mayson Kimball",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -9932,6 +10048,35 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2022-12-01T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 2,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9940,7 +10085,7 @@
       ],
       "name" : "Ashya Klopfenstein",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -11626,7 +11771,7 @@
       ],
       "name" : "Olivia Mason",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -12416,6 +12561,35 @@
               "didStart" : false,
               "minutesPlayed" : 29,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12424,7 +12598,7 @@
       ],
       "name" : "Cristina Oliva",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -13243,6 +13417,35 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 5
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13251,7 +13454,7 @@
       ],
       "name" : "Tamiah Robinson",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -13267,7 +13470,7 @@
       ],
       "name" : "Isabella Tanedo",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -16989,7 +17192,7 @@
       ],
       "name" : "Abby Wahl",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -19299,6 +19502,35 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 29,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -19307,7 +19539,7 @@
       ],
       "name" : "Olivia Wikstrom",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "Mountain West",
@@ -20323,17 +20555,46 @@
           "Andrew Heo",
           "Denise Lopez"
         ]
+      },
+      {
+        "didWin" : false,
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 29,
+            "opponentPoints" : 38
+          },
+          "secondHalf" : {
+            "teamPoints" : 36,
+            "opponentPoints" : 40
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 21,
+              "opponentPoints" : 14
+            },
+            {
+              "teamPoints" : 15,
+              "opponentPoints" : 26
+            }
+          ]
+        },
+        "venue" : "away",
+        "attendance" : 428,
+        "isConferenceMatchup" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-02-28T18:00-0700",
+        "venueCapacity" : 10270,
+        "opponentID" : "SJSU",
+        "largestLead" : 0,
+        "referees" : [
+          "Michael Price",
+          "Kyle Bacon",
+          "Ashley Ellis"
+        ]
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "SJSU",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 270,
-        "date" : "2023-02-28T18:00-0700"
-      }
+
     ]
   }
 }

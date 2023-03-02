@@ -1433,6 +1433,35 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1441,7 +1470,7 @@
       ],
       "name" : "Akyia Baker",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -1543,7 +1572,7 @@
       ],
       "name" : "Taylor Blunt",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -2333,6 +2362,35 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 25,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2341,7 +2399,7 @@
       ],
       "name" : "Amaya Burch",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -2357,7 +2415,7 @@
       ],
       "name" : "Ana Cabanas Llorens",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -2807,7 +2865,7 @@
       ],
       "name" : "Andrea Chiquemba",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -4473,6 +4531,35 @@
               "didStart" : true,
               "minutesPlayed" : 18,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 18,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4481,7 +4568,7 @@
       ],
       "name" : "Lucia Fleta Robles",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -5184,6 +5271,35 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5192,7 +5308,7 @@
       ],
       "name" : "Maite Lara Garcia",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -6048,7 +6164,7 @@
       ],
       "name" : "Quinece Hatcher",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -6896,6 +7012,35 @@
               "didStart" : false,
               "minutesPlayed" : 26,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 8,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6904,7 +7049,7 @@
       ],
       "name" : "Myonna Hooper",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -8396,6 +8541,35 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 7
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 16,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8404,7 +8578,7 @@
       ],
       "name" : "Imani McNeal",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -9194,6 +9368,35 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9202,7 +9405,7 @@
       ],
       "name" : "Jada Moorehead",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -11396,6 +11599,35 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 6
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11404,7 +11636,7 @@
       ],
       "name" : "Irene Murua",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -12150,7 +12382,7 @@
       ],
       "name" : "Sonia Pereda",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -12316,7 +12548,7 @@
       ],
       "name" : "Ambranette Storr",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -13489,6 +13721,35 @@
               "didStart" : true,
               "minutesPlayed" : 28,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 10
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13497,7 +13758,7 @@
       ],
       "name" : "Emma Trawally Porta",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "Horizon",
@@ -14576,18 +14837,47 @@
           ]
         },
         "attendance" : 832
+      },
+      {
+        "venueCapacity" : 1800,
+        "opponentID" : "PFW",
+        "largestLead" : 0,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Mark Berger",
+          "Linda Miles",
+          "Rachael Rayford"
+        ],
+        "didWin" : false,
+        "seasonType" : "regularSeason",
+        "date" : "2023-02-28T17:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 30,
+            "opponentPoints" : 40
+          },
+          "secondHalf" : {
+            "teamPoints" : 31,
+            "opponentPoints" : 25
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 16,
+              "opponentPoints" : 14
+            },
+            {
+              "teamPoints" : 15,
+              "opponentPoints" : 11
+            }
+          ]
+        },
+        "attendance" : 671
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-02-28T17:00-0700",
-        "venueCapacity" : 800,
-        "opponentID" : "PFW",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

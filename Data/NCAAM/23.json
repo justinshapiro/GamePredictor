@@ -250,7 +250,7 @@
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Max Allen"
     },
     {
@@ -1262,7 +1262,7 @@
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Myron Amey Jr."
     },
     {
@@ -1827,13 +1827,42 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2023-02-17T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Garrett Anderson"
     },
     {
@@ -4011,13 +4040,42 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2023-02-17T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Trey Anderson"
     },
     {
@@ -4705,13 +4763,42 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2023-02-17T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 14,
+                  "made" : 6
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 16,
+                "threePointFieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 4
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Alvaro Cardenas"
     },
     {
@@ -4847,7 +4934,7 @@
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Nico D'Augusta"
     },
     {
@@ -6271,13 +6358,42 @@
               "didStart" : true,
               "minutesPlayed" : 18,
               "date" : "2023-02-17T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 2,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 15,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Ibrahima Diallo"
     },
     {
@@ -6732,7 +6848,7 @@
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "JT Elder"
     },
     {
@@ -8498,13 +8614,42 @@
               "didStart" : false,
               "minutesPlayed" : 22,
               "date" : "2023-02-17T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 17,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Tibet Gorener"
     },
     {
@@ -8785,13 +8930,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-17T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kellen King"
     },
     {
@@ -11868,13 +12042,42 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-17T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 17,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Omari Moore"
     },
     {
@@ -12097,7 +12300,7 @@
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kevin Simeth"
     },
     {
@@ -14080,13 +14283,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-17T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 26,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Sage Tolbert III"
     },
     {
@@ -14367,7 +14599,7 @@
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Leo Torbor"
     },
     {
@@ -15663,13 +15895,42 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2023-02-17T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 25,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SJSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Robert Vaihola"
     }
   ],
@@ -16330,17 +16591,38 @@
         },
         "attendance" : 2917,
         "line" : 1.5
+      },
+      {
+        "venueCapacity" : 5000,
+        "opponentID" : "CSU",
+        "largestLead" : 17,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Gregory Nixon",
+          "Kelly Pfeifer",
+          "Randy Richardson"
+        ],
+        "didWin" : true,
+        "overUnder" : 137.5,
+        "date" : "2023-02-28T21:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 27,
+            "opponentPoints" : 22
+          },
+          "secondHalf" : {
+            "teamPoints" : 36,
+            "opponentPoints" : 24
+          }
+        },
+        "attendance" : 2347,
+        "line" : 2.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "CSU",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 0,
-        "date" : "2023-02-28T21:00-0700"
-      },
       {
         "opponentID" : "AFA",
         "venue" : "home",

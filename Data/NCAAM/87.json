@@ -279,7 +279,7 @@
           "teamID" : "ND"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Dom Campbell"
     },
     {
@@ -885,13 +885,42 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 5,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ND"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Robby Carmody"
     },
     {
@@ -5424,13 +5453,42 @@
               "didStart" : true,
               "minutesPlayed" : 40,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ND"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Dane Goodwin"
     },
     {
@@ -9354,13 +9412,42 @@
               "didStart" : true,
               "minutesPlayed" : 17,
               "date" : "2023-02-22T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 8
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 20,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ND"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Marcus Hammond"
     },
     {
@@ -9583,7 +9670,7 @@
           "teamID" : "ND"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "J.R. Konieczny"
     },
     {
@@ -14087,13 +14174,42 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 3,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ND"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Nate Laszewski"
     },
     {
@@ -14832,13 +14948,42 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 17,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ND"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Ven-Allen Lubin"
     },
     {
@@ -18147,13 +18292,42 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 17,
+                  "made" : 6
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 20,
+                "threePointFieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 2
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ND"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Cormac Ryan"
     },
     {
@@ -18788,7 +18962,7 @@
           "teamID" : "ND"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tony Sanders Jr."
     },
     {
@@ -19620,7 +19794,7 @@
           "teamID" : "ND"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "J.J. Starling"
     },
     {
@@ -19756,7 +19930,7 @@
           "teamID" : "ND"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Alex Wade"
     },
     {
@@ -24028,13 +24202,42 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 8
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ND"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Trey Wertz"
     },
     {
@@ -25191,13 +25394,42 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ND"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Matt Zona"
     }
   ],
@@ -26051,23 +26283,44 @@
         },
         "attendance" : 9898,
         "line" : 7
+      },
+      {
+        "venueCapacity" : 9149,
+        "opponentID" : "PITT",
+        "largestLead" : 20,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Bert Smith",
+          "John Gaffney",
+          "Clarence Armstrong"
+        ],
+        "didWin" : true,
+        "overUnder" : 143.5,
+        "date" : "2023-03-01T17:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 42,
+            "opponentPoints" : 28
+          },
+          "secondHalf" : {
+            "teamPoints" : 46,
+            "opponentPoints" : 53
+          }
+        },
+        "attendance" : 8582,
+        "line" : 3
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "PITT",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 149,
-        "date" : "2023-03-01T17:00-0700"
-      },
       {
         "isConferenceMatchup" : true,
         "venue" : "home",
         "seasonType" : "regularSeason",
         "date" : "2023-03-04T18:00-0700",
-        "venueCapacity" : 0,
+        "venueCapacity" : 9000,
         "opponentID" : "CLEM",
         "coverage" : "sportsTV"
       }

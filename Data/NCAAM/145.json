@@ -853,13 +853,42 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2023-02-25T18:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MISS"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Amaree Abram"
     },
     {
@@ -4696,13 +4725,42 @@
               "didStart" : false,
               "minutesPlayed" : 9,
               "date" : "2023-02-22T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 10,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MISS"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Theo Akwuba"
     },
     {
@@ -8510,13 +8568,42 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2023-02-25T18:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MISS"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Robert Allen"
     },
     {
@@ -8531,7 +8618,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Davis Ambuehl"
     },
     {
@@ -10964,13 +11051,42 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-25T18:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "assists" : 6,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 31,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MISS"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jaemyn Brakefield"
     },
     {
@@ -10985,7 +11101,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Cam Brent"
     },
     {
@@ -12003,13 +12119,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T18:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 20,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MISS"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Myles Burns"
     },
     {
@@ -12806,13 +12951,42 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2023-02-25T18:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MISS"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "TJ Caldwell"
     },
     {
@@ -12827,7 +13001,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Robert Cowherd"
     },
     {
@@ -13253,7 +13427,7 @@
           "teamID" : "MISS"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Malique Ewin"
     },
     {
@@ -17554,13 +17728,42 @@
               "didStart" : false,
               "minutesPlayed" : 6,
               "date" : "2023-02-25T18:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 9,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MISS"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Tye Fagan"
     },
     {
@@ -20939,7 +21142,7 @@
           "teamID" : "MISS"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Josh Mballa"
     },
     {
@@ -24805,13 +25008,42 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2023-02-25T18:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MISS"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jayveous McKinnis"
     },
     {
@@ -27302,13 +27534,42 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-25T18:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 9
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 26,
+                "threePointFieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 8
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MISS"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Matthew Murrell"
     },
     {
@@ -27323,7 +27584,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Bert Passman"
     },
     {
@@ -28074,7 +28335,7 @@
           "teamID" : "MISS"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Daeshun Ruffin"
     },
     {
@@ -29341,13 +29602,42 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2023-02-25T18:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 4
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 32,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MISS"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "James White"
     }
   ],
@@ -30201,17 +30491,38 @@
         },
         "attendance" : 6304,
         "line" : 4
+      },
+      {
+        "venueCapacity" : 9500,
+        "opponentID" : "TA&M",
+        "largestLead" : 12,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Anthony Jordan",
+          "Owen Shortt",
+          "K.B. Burdett Jr."
+        ],
+        "didWin" : false,
+        "overUnder" : 137,
+        "date" : "2023-02-28T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 28,
+            "opponentPoints" : 34
+          },
+          "secondHalf" : {
+            "teamPoints" : 33,
+            "opponentPoints" : 35
+          }
+        },
+        "attendance" : 6008,
+        "line" : 5.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "TA&M",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 500,
-        "date" : "2023-02-28T19:00-0700"
-      },
       {
         "isConferenceMatchup" : true,
         "venue" : "home",

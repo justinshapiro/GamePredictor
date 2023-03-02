@@ -3243,6 +3243,35 @@
               "didStart" : true,
               "minutesPlayed" : 17,
               "date" : "2022-11-08T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3251,7 +3280,7 @@
       ],
       "name" : "Meghan Boyd",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5590,6 +5619,35 @@
               "didStart" : true,
               "minutesPlayed" : 18,
               "date" : "2022-11-08T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 2,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 18,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5598,7 +5656,7 @@
       ],
       "name" : "Cali Clark",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -7937,6 +7995,35 @@
               "didStart" : false,
               "minutesPlayed" : 24,
               "date" : "2022-11-08T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7945,7 +8032,7 @@
       ],
       "name" : "Cailyn Crocker",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -8952,7 +9039,7 @@
       ],
       "name" : "Kiya Dorroh",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -10827,6 +10914,35 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2022-11-11T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10835,7 +10951,7 @@
       ],
       "name" : "Petra Farkas",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -10845,7 +10961,7 @@
       ],
       "name" : "Jadyn Fife",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -11786,6 +11902,35 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2022-11-11T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 0,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11794,7 +11939,7 @@
       ],
       "name" : "Clara Gomez",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14719,6 +14864,35 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2022-11-08T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 17,
+                  "made" : 6
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 19,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 7,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 39,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14727,7 +14901,7 @@
       ],
       "name" : "McKenna Hofschild",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -17942,6 +18116,35 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2022-11-08T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 22,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -17950,7 +18153,7 @@
       ],
       "name" : "Kendyll Kinzer",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -18363,6 +18566,35 @@
               "didStart" : false,
               "minutesPlayed" : 6,
               "date" : "2022-11-11T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -18371,7 +18603,7 @@
       ],
       "name" : "Marta Leimane",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -20687,6 +20919,35 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2022-11-08T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 3,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -20695,7 +20956,7 @@
       ],
       "name" : "Sydney Mech",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -21058,7 +21319,7 @@
       ],
       "name" : "Jess Moors",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -21068,7 +21329,7 @@
       ],
       "name" : "Taylor Ray",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -21887,6 +22148,35 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2022-11-08T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -21895,7 +22185,7 @@
       ],
       "name" : "Hannah Ronsiek",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -23915,6 +24205,35 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2022-11-08T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 4,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -23923,7 +24242,7 @@
       ],
       "name" : "Destiny Thurman",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -24605,7 +24924,7 @@
       ],
       "name" : "Joseana Vaz",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "Mountain West",
@@ -25648,17 +25967,48 @@
           ]
         },
         "attendance" : 3603
+      },
+      {
+        "venueCapacity" : 8083,
+        "opponentID" : "BOIS",
+        "largestLead" : 18,
+        "overUnder" : 133,
+        "didWin" : true,
+        "referees" : [
+          "Roy Gulbeyan",
+          "Maj Forsberg",
+          "Julie Krommenhoek"
+        ],
+        "date" : "2023-02-28T18:30-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 40,
+            "opponentPoints" : 27
+          },
+          "secondHalf" : {
+            "teamPoints" : 26,
+            "opponentPoints" : 24
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 13,
+              "opponentPoints" : 10
+            },
+            {
+              "teamPoints" : 13,
+              "opponentPoints" : 14
+            }
+          ]
+        },
+        "attendance" : 0,
+        "line" : 9.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "BOIS",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 83,
-        "date" : "2023-02-28T18:30-0700"
-      }
+
     ]
   }
 }

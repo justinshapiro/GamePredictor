@@ -391,7 +391,7 @@
       ],
       "name" : "Ana Barreto",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -2173,6 +2173,35 @@
               "didStart" : true,
               "minutesPlayed" : 19,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 6
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 19,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 44,
+              "date" : "2023-03-01T15:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2181,7 +2210,7 @@
       ],
       "name" : "Ally Becki",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -3731,6 +3760,35 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-01T15:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3739,7 +3797,7 @@
       ],
       "name" : "Madelyn Bischoff",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -4450,7 +4508,7 @@
       ],
       "name" : "Sydney Bolden",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -7584,6 +7642,35 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 6,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 5
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-01T15:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7592,7 +7679,7 @@
       ],
       "name" : "Anna Clephane",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -11915,6 +12002,35 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 44,
+              "date" : "2023-03-01T15:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11923,7 +12039,7 @@
       ],
       "name" : "Thelma Dis Agustsdottir",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -13734,6 +13850,35 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 9
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 22,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 9
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-01T15:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13742,7 +13887,7 @@
       ],
       "name" : "Marie Kiefer",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -14532,6 +14677,35 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-01T15:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14540,7 +14714,7 @@
       ],
       "name" : "Hana Muhl",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -17175,6 +17349,35 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2022-11-14T09:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 10,
+              "date" : "2023-03-01T15:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -17183,7 +17386,7 @@
       ],
       "name" : "Estel Puiggros",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -20572,6 +20775,35 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 17,
+              "date" : "2023-03-01T15:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -20580,7 +20812,7 @@
       ],
       "name" : "Annie Rauch",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -22188,6 +22420,35 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-01T15:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -22196,7 +22457,7 @@
       ],
       "name" : "Alex Richard",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -25150,6 +25411,35 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-01T15:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -25158,11 +25448,11 @@
       ],
       "name" : "Sydney Shafer",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "MAC",
-  "conferenceRanking" : 2,
+  "conferenceRanking" : 3,
   "games" : {
     "previous" : [
       {
@@ -26243,6 +26533,49 @@
         },
         "attendance" : 2150,
         "line" : -2.5
+      },
+      {
+        "venueCapacity" : 4347,
+        "opponentID" : "BGSU",
+        "largestLead" : 6,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Michelle Del Duco",
+          "Mark Berger",
+          "Kalei Enterline"
+        ],
+        "didWin" : false,
+        "overUnder" : 147,
+        "date" : "2023-03-01T15:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 27,
+            "opponentPoints" : 32
+          },
+          "secondHalf" : {
+            "teamPoints" : 41,
+            "opponentPoints" : 36
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 19,
+              "opponentPoints" : 12
+            },
+            {
+              "teamPoints" : 22,
+              "opponentPoints" : 24
+            },
+            {
+              "teamPoints" : 8,
+              "opponentPoints" : 13
+            }
+          ]
+        },
+        "attendance" : 2019,
+        "line" : 4
       }
     ],
     "upcoming" : [
@@ -26250,19 +26583,10 @@
         "isConferenceMatchup" : true,
         "venue" : "home",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T15:00-0700",
-        "venueCapacity" : 347,
-        "opponentID" : "BGSU",
-        "coverage" : "sportsTV"
-      },
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
         "date" : "2023-03-04T11:00-0700",
-        "venueCapacity" : 400,
+        "venueCapacity" : 6400,
         "opponentID" : "M-OH",
-        "coverage" : "sportsTV"
+        "coverage" : "standardTV"
       }
     ]
   }

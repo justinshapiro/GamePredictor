@@ -2982,6 +2982,35 @@
               "didStart" : true,
               "minutesPlayed" : 26,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 12
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2990,7 +3019,7 @@
       ],
       "name" : "N'Denasija Collins",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -4055,7 +4084,7 @@
       ],
       "name" : "Amy Cotton",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -4331,7 +4360,7 @@
       ],
       "name" : "Quincy Erickson",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -4341,7 +4370,7 @@
       ],
       "name" : "Emelie Ezukanma",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -4559,7 +4588,7 @@
       ],
       "name" : "Cat Hursh",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -5863,7 +5892,7 @@
       ],
       "name" : "Enya Maguire",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -5879,7 +5908,7 @@
       ],
       "name" : "Erin Maguire",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -7638,6 +7667,35 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2022-11-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 17,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7646,7 +7704,7 @@
       ],
       "name" : "Lauryn Mapusua",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8355,6 +8413,35 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8363,7 +8450,7 @@
       ],
       "name" : "Elizabeth Matadi",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -11816,6 +11903,35 @@
               "didStart" : true,
               "minutesPlayed" : 14,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11824,7 +11940,7 @@
       ],
       "name" : "Marilyn Nzoiwu",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -12469,6 +12585,35 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12477,7 +12622,7 @@
       ],
       "name" : "Jo Oly",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -15170,6 +15315,35 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -15178,7 +15352,7 @@
       ],
       "name" : "Abbey Sutherland",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -18805,6 +18979,35 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 5
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -18813,7 +19016,7 @@
       ],
       "name" : "Julija Vujakovic",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -21593,6 +21796,35 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2022-11-07T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -21601,7 +21833,7 @@
       ],
       "name" : "Kennedy Wilson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "Southland",
@@ -22636,18 +22868,47 @@
           ]
         },
         "attendance" : 311
+      },
+      {
+        "venueCapacity" : 1000,
+        "opponentID" : "SELA",
+        "largestLead" : 0,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Rochelle  Bennett",
+          "Jennifer White",
+          "Ed Collopy"
+        ],
+        "didWin" : false,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-01T16:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 22,
+            "opponentPoints" : 41
+          },
+          "secondHalf" : {
+            "teamPoints" : 23,
+            "opponentPoints" : 25
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 12,
+              "opponentPoints" : 14
+            },
+            {
+              "teamPoints" : 11,
+              "opponentPoints" : 11
+            }
+          ]
+        },
+        "attendance" : 402
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T16:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "SELA",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

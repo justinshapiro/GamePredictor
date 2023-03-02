@@ -14,6 +14,49 @@ struct Team: Codable {
     var nationalRanking: Int?
     var roster: [Player]
     var games: Games
+    var depthChart: [DepthChart]?
+    
+    func getDepthChart(for date: Date) -> [DepthChart]? {
+        guard !SPORT_MODE.isCollege,
+              let nearestGame = games.previous.filter({ $0.date >= date }).sorted(by: { $0.date > $1.date }).first,
+              var currentDepthChart = depthChart
+        else { return nil }
+        
+        let nearestGameStarters: [(String, Player.Position)] = roster.compactMap { player in
+            guard
+                let gameLogs = player.currentSeason?.gameLogs,
+                let playerGameOnDate = gameLogs.first(where: { Calendar.current.isDate($0.date, inSameDayAs: nearestGame.date) }),
+                playerGameOnDate.didStart
+            else { return nil }
+            
+            return (player.name, player.position)
+        }
+        
+        let expectedStarters = currentDepthChart.map { ($0.starter.name, $0.position) }
+        let missingStarters = expectedStarters.filter { !nearestGameStarters.map { $0.0 }.contains($0.0) }
+        
+        for (index, chart) in currentDepthChart.enumerated() {
+            if let missingStarter = missingStarters.first(where: { $0.0 == chart.starter.name }) {
+                currentDepthChart[index] = DepthChart(position: missingStarter.1,
+                                                      starter: .init(name: missingStarter.0, status: .out),
+                                                      orderedBackups: chart.orderedBackups)
+            } else {
+                currentDepthChart[index] = DepthChart(position: chart.position,
+                                                      starter: .init(name: chart.starter.name, status: .active),
+                                                      orderedBackups: chart.orderedBackups)
+            }
+        }
+        
+        return currentDepthChart
+    }
+    
+    func isGameOnABackToBack(_ game: Game) -> Bool {
+        guard let previousDate = Calendar.current.date(byAdding: .day, value: -1, to: game.date) else {
+            return false
+        }
+        
+        return games.previous.first { Calendar.current.isDate(previousDate, inSameDayAs: $0.date) } != nil
+    }
     
     func getAdjustedTempo(onDate date: Date) -> Double {
         let seasonsStats = getStats(onDate: date, statType: .team)
@@ -34,7 +77,8 @@ struct Team: Codable {
     }
     
     var isInBIGConference: Bool {
-        ["Big 12", "Big East", "Big West", "Big South", "Big Sky", "Big Ten", "Big 10"].contains(conference)
+        guard SPORT_MODE.isCollege else { return false }
+        return ["Big 12", "Big East", "Big West", "Big South", "Big Sky", "Big Ten", "Big 10"].contains(conference)
     }
     
     var averageHeight: Double {
@@ -77,7 +121,7 @@ struct Team: Codable {
     var combinedYearsOfExperience: Int {
         roster
             .lazy
-            .map { $0.class.yearsOfExperience }
+            .map { $0.yearsOfExperience }
             .reduce(0, +)
     }
     
@@ -96,7 +140,7 @@ struct Team: Codable {
             let experience = roster
                 .sorted { getTotalMinutesPlayed(for: $0, onDate: date) > getTotalMinutesPlayed(for: $1, onDate: date) }
                 .prefix(5)
-                .map { $0.class.yearsOfExperience }
+                .map { $0.yearsOfExperience }
                 .reduce(0, +)
             
             statCache[teamID]?.top5PlayersCombinedYearsOfExperience[date.timeIntervalSinceReferenceDate] = experience
@@ -252,7 +296,8 @@ struct Team: Codable {
                             blocks: stats.blocks - opponentStats.blocks,
                             personalFouls: stats.personalFouls - opponentStats.personalFouls,
                             turnovers: stats.turnovers - opponentStats.turnovers,
-                            pointsScored: stats.pointsScored - opponentStats.pointsScored)
+                            pointsScored: stats.pointsScored - opponentStats.pointsScored,
+                            plusMinus: stats.plusMinus.flatMap { plusMinus in opponentStats.plusMinus.flatMap { plusMinus - $0 } })
         }
     }
     
@@ -271,6 +316,15 @@ struct Team: Codable {
         let offensiveRebounds = allGameLogs.reduce(0.0) { $0 + $1.stats.rebounds.offensive } / allGamesPlayed
         let defensiveRebounds = allGameLogs.reduce(0.0) { $0 + $1.stats.rebounds.defensive } / allGamesPlayed
         
+        let plusMinus: Double?
+        let aggregatedPlusMinus = allGameLogs.lazy.compactMap { $0.stats.plusMinus }
+        
+        if aggregatedPlusMinus.isEmpty {
+            plusMinus = nil
+        } else {
+            plusMinus = aggregatedPlusMinus.reduce(0.0, +) / allGamesPlayed
+        }
+        
         return StatList(fieldGoals: .init(made: fieldGoalsMade, attempted: fieldGoalsAttempted),
                         threePointFieldGoals: .init(made: threePointFieldGoalsMade, attempted: threePointFieldGoalsAttempted),
                         freeThrows: .init(made: freeThrowsMade, attempted: freeThrowsAttempted),
@@ -280,7 +334,8 @@ struct Team: Codable {
                         blocks: allGameLogs.reduce(0.0) { $0 + $1.stats.blocks } / allGamesPlayed,
                         personalFouls: allGameLogs.reduce(0.0) { $0 + $1.stats.personalFouls } / allGamesPlayed,
                         turnovers: allGameLogs.reduce(0.0) { $0 + $1.stats.turnovers } / allGamesPlayed,
-                        pointsScored: allGameLogs.reduce(0.0) { $0 + $1.stats.pointsScored } / allGamesPlayed)
+                        pointsScored: allGameLogs.reduce(0.0) { $0 + $1.stats.pointsScored } / allGamesPlayed,
+                        plusMinus: plusMinus)
     }
     
     var seasonStats: StatList {
@@ -334,7 +389,7 @@ struct Team: Codable {
             } else if channel.isEmpty {
                 return nil
             } else {
-                let standardChannels = ["ESPN", "ESPN2", "ESPNU", "ESPNN", "CBSSN", "ABC", "FOX", "NBC", "FS1", "FS2", "USA NET"]
+                let standardChannels = ["ESPN", "ESPN2", "ESPNU", "ESPNN", "CBSSN", "ABC", "FOX", "NBC", "FS1", "FS2", "USA NET", "TNT", "NBA TV"]
                 
                 if standardChannels.first(where: { channel.contains($0) }) != nil {
                     self = .standardTV
@@ -421,6 +476,17 @@ struct Team: Codable {
         let isConferenceMatchup: Bool
         let seasonType: SeasonType
     }
+    
+    struct DepthChart: Codable {
+        let position: Player.Position
+        let starter: PlayerWithStatus
+        let orderedBackups: [PlayerWithStatus]
+        
+        struct PlayerWithStatus: Codable {
+            let name: String
+            let status: PlayerHeader.Status
+        }
+    }
 }
 
 protocol Game: Codable {
@@ -439,7 +505,7 @@ struct Player: Codable {
     let position: Position
     let height: Height?
     let weight: Int?
-    let `class`: Class
+    let yearsOfExperience: Int
     let origin: Origin
     var seasons: [Season]
     
@@ -476,24 +542,6 @@ struct Player: Codable {
         }
     }
     
-    enum Class: String, Codable {
-        case freshman = "Freshman"
-        case sophmore = "Sophomore"
-        case junior = "Junior"
-        case senior = "Senior"
-        case unknown = "--"
-        
-        var yearsOfExperience: Int {
-            switch self {
-            case .unknown:  return 0
-            case .freshman: return 1
-            case .sophmore: return 2
-            case .junior:   return 3
-            case .senior:   return 4
-            }
-        }
-    }
-    
     enum Origin: String, Codable {
         case local
         case international
@@ -511,6 +559,70 @@ struct Player: Codable {
             let stats: StatList
         }
     }
+    
+    enum CodingKeys: String, CodingKey {
+        case name
+        case number
+        case position
+        case height
+        case weight
+        case yearsOfExperience
+        case origin
+        case seasons
+    }
+    
+    enum AltCodingKeys: String, CodingKey {
+        case `class`
+    }
+    
+    init(name: String,
+         number: Int,
+         position: Position,
+         height: Height?,
+         weight: Int?,
+         yearsOfExperience: Int,
+         origin: Origin,
+         seasons: [Season]) {
+        self.name = name
+        self.number = number
+        self.position = position
+        self.height = height
+        self.weight = weight
+        self.yearsOfExperience = yearsOfExperience
+        self.origin = origin
+        self.seasons = seasons
+    }
+    
+    init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        
+        name = try container.decode(String.self, forKey: .name)
+        number = try container.decode(Int.self, forKey: .number)
+        position = try container.decode(Position.self, forKey: .position)
+        height = try container.decodeIfPresent(Height?.self, forKey: .height) ?? nil
+        weight = try container.decodeIfPresent(Int?.self, forKey: .weight) ?? nil
+        origin = try container.decode(Origin.self, forKey: .origin)
+        seasons = try container.decode([Season].self, forKey: .seasons)
+        
+        do {
+            yearsOfExperience = try container.decode(Int.self, forKey: .yearsOfExperience)
+        } catch {
+            // backwards compatibility for previous files generated using the college class type that wasn't compatible with pro-leagues
+            // TODO: Remove this for 2024 season
+            
+            let altContainer = try decoder.container(keyedBy: AltCodingKeys.self)
+            
+            switch try altContainer.decode(String.self, forKey: .class) {
+            case "--":        yearsOfExperience = 0
+            case "Freshman":  yearsOfExperience = 1
+            case "Sophomore": yearsOfExperience = 2
+            case "Junior":    yearsOfExperience = 3
+            case "Senior":    yearsOfExperience = 4
+            default:
+                fatalError("Could not decode yearsOfExperience")
+            }
+        }
+    }
 }
 
 struct StatList: Codable {
@@ -524,6 +636,7 @@ struct StatList: Codable {
     let personalFouls: Double // PF
     let turnovers: Double // TO
     let pointsScored: Double // PTS
+    let plusMinus: Double? // +/-
     
     init(fieldGoals: ShotStat,
          threePointFieldGoals: ShotStat,
@@ -534,7 +647,8 @@ struct StatList: Codable {
          blocks: Double,
          personalFouls: Double,
          turnovers: Double,
-         pointsScored: Double) {
+         pointsScored: Double,
+         plusMinus: Double?) {
         self.fieldGoals = fieldGoals
         self.threePointFieldGoals = threePointFieldGoals
         self.freeThrows = freeThrows
@@ -545,6 +659,7 @@ struct StatList: Codable {
         self.personalFouls = personalFouls
         self.turnovers = turnovers
         self.pointsScored = pointsScored
+        self.plusMinus = plusMinus
     }
     
     init(statsArray: [String]) {
@@ -569,7 +684,8 @@ struct StatList: Codable {
                         blocks: .init(statsArray[15])!,
                         personalFouls: .init(statsArray[17])!,
                         turnovers: .init(statsArray[18])!,
-                        pointsScored: .init(statsArray[19])!)
+                        pointsScored: .init(statsArray[SPORT_MODE.isCollege ? 19 : 20])!,
+                        plusMinus: SPORT_MODE.isCollege ? nil : .init(statsArray[19]))
     }
     
     struct ShotStat: Codable {
@@ -615,7 +731,8 @@ struct StatList: Codable {
               blocks: 0,
               personalFouls: 0,
               turnovers: 0,
-              pointsScored: 0)
+              pointsScored: 0,
+              plusMinus: nil)
     }
 }
 

@@ -420,7 +420,7 @@
       ],
       "name" : "Kennedy Basham",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -1276,7 +1276,7 @@
       ],
       "name" : "Chance Gray",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -5462,7 +5462,7 @@
       ],
       "name" : "Taya Hanson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -9039,7 +9039,7 @@
       ],
       "name" : "Taylor Hosendove",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -13080,7 +13080,7 @@
       ],
       "name" : "Ahlise Hurst",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -13385,7 +13385,7 @@
       ],
       "name" : "Jennah Isai",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -15030,7 +15030,7 @@
       ],
       "name" : "Phillipina Kyei",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -17116,7 +17116,7 @@
       ],
       "name" : "Te-Hina Paopao",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -18558,7 +18558,7 @@
       ],
       "name" : "Sedona Prince",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -21665,7 +21665,7 @@
       ],
       "name" : "Endyia Rogers",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -22434,7 +22434,7 @@
       ],
       "name" : "Grace VanSlooten",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -22444,7 +22444,7 @@
       ],
       "name" : "Sammie Wagner",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     }
   ],
   "conference" : "Pac-12",
@@ -23556,9 +23556,9 @@
         "isConferenceMatchup" : true,
         "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T15:30-0700",
-        "venueCapacity" : 2000,
-        "opponentID" : "WASH",
+        "date" : "2023-03-02T15:30-0700",
+        "venueCapacity" : 12000,
+        "opponentID" : "STAN",
         "coverage" : "sportsTV"
       }
     ]

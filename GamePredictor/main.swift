@@ -8,18 +8,18 @@
 import Foundation
 
 let CURRENT_SEASON_YEAR = 2023
-let SPORT_MODE: SportMode = .collegeBasketball(.womens)
+let SPORT_MODE: SportMode = .nba
 
 let DISABLE_UPDATE = false
-let TRAINING_MODE = false
+let TRAINING_MODE = true
 let VERBOSE_OUTPUT = true
 let ENABLE_INVERTED_ROUND_ROBIN = false
 let IRR_EVALUATION_MODE = false
 
 let teamURLs = getTeamURLs()
 var teams = getAllTeams(from: teamURLs)
-let nationalRankings = getNationalRankings()
 
+let nationalRankings = getNationalRankingsIfNeeded()
 let bettingMatchups = getBettingMatchups(from: teams)
 var categories = getCategories()
 

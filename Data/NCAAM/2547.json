@@ -13,7 +13,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Clancy Bird"
     },
     {
@@ -1924,13 +1924,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SEA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Brandton Chatfield"
     },
     {
@@ -4015,13 +4044,42 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SEA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Paris Dawson"
     },
     {
@@ -4036,7 +4094,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Louis Grante-Halliday"
     },
     {
@@ -7844,13 +7902,42 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2023-02-18T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SEA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Riley Grigsby"
     },
     {
@@ -8717,13 +8804,42 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SEA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Matthew Levis"
     },
     {
@@ -9172,13 +9288,42 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-02-15T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SEA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Anjaylo Lloyd"
     },
     {
@@ -9436,13 +9581,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-15T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SEA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jaren Nafarrete"
     },
     {
@@ -9601,13 +9775,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-15T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SEA"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Brody Nunn"
     },
     {
@@ -9628,7 +9831,7 @@
           "teamID" : "SEA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Vasja Pandza"
     },
     {
@@ -9944,7 +10147,7 @@
           "teamID" : "SEA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Dominiq Penn"
     },
     {
@@ -9979,7 +10182,7 @@
           "teamID" : "SEA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Viktor Rajkovic"
     },
     {
@@ -10631,13 +10834,42 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 9,
+                  "made" : 7
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SEA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Seyi Reiley"
     },
     {
@@ -11556,13 +11788,42 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 6,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SEA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Alex Schumacher"
     },
     {
@@ -14755,13 +15016,42 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 25,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SEA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Cameron Tyson"
     },
     {
@@ -17223,13 +17513,42 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SEA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Emeka Udenyi"
     },
     {
@@ -19633,13 +19952,42 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SEA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kobe Williamson"
     }
   ],
@@ -20488,26 +20836,46 @@
         },
         "attendance" : 7414,
         "line" : 6
+      },
+      {
+        "venueCapacity" : 4779,
+        "opponentID" : "UTU",
+        "largestLead" : 0,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Marc A. Beasley",
+          "D.G. Nelson",
+          "Tommy Nunez"
+        ],
+        "didWin" : false,
+        "overUnder" : 146,
+        "date" : "2023-03-01T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 30,
+            "opponentPoints" : 56
+          },
+          "secondHalf" : {
+            "teamPoints" : 26,
+            "opponentPoints" : 37
+          }
+        },
+        "attendance" : 1306,
+        "line" : 2
       }
     ],
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T19:00-0700",
-        "venueCapacity" : 779,
-        "opponentID" : "UTU",
-        "coverage" : "sportsTV"
-      },
-      {
-        "isConferenceMatchup" : true,
         "venue" : "away",
         "seasonType" : "regularSeason",
         "date" : "2023-03-03T20:00-0700",
-        "venueCapacity" : 99,
+        "venueCapacity" : 999,
         "opponentID" : "UTA",
-        "coverage" : "sportsTV"
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

@@ -273,13 +273,42 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SLU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Mouhamadou Cisse"
     },
     {
@@ -3559,13 +3588,42 @@
               "didStart" : true,
               "minutesPlayed" : 26,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 8,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 4
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 8,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SLU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Yuri Collins"
     },
     {
@@ -3678,7 +3736,7 @@
           "teamID" : "SLU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Lamont Evans IV"
     },
     {
@@ -6587,13 +6645,42 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 4,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 6
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 8
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SLU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jake Forrester"
     },
     {
@@ -9699,13 +9786,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SLU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Terrence Hargrove Jr."
     },
     {
@@ -10386,13 +10502,42 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SLU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Larry Hughes Jr."
     },
     {
@@ -13179,13 +13324,42 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SLU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Gibson Jimerson"
     },
     {
@@ -13259,7 +13433,7 @@
       ],
       "name" : "Phil Jones",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "number" : 13,
@@ -13273,7 +13447,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Nick Kramer"
     },
     {
@@ -17081,7 +17255,7 @@
           "teamID" : "SLU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Francis Okoro"
     },
     {
@@ -17936,13 +18110,42 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SLU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Sincere Parker"
     },
     {
@@ -20317,13 +20520,42 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SLU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Javonte Perkins"
     },
     {
@@ -24624,13 +24856,42 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SLU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Javon Pickett"
     },
     {
@@ -24645,7 +24906,7 @@
       "seasons" : [
 
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Daniel Rivera"
     },
     {
@@ -24868,7 +25129,7 @@
           "teamID" : "SLU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kellen Thames"
     },
     {
@@ -28073,12 +28334,12 @@
           "teamID" : "SLU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Fred Thatch Jr."
     }
   ],
   "conference" : "A 10",
-  "conferenceRanking" : 2,
+  "conferenceRanking" : 4,
   "games" : {
     "previous" : [
       {
@@ -28918,17 +29179,38 @@
         },
         "attendance" : 8175,
         "line" : 11
+      },
+      {
+        "venueCapacity" : 7637,
+        "opponentID" : "VCU",
+        "largestLead" : 4,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Tim Clougherty",
+          "Mark Schnur",
+          "Ray Natili"
+        ],
+        "didWin" : false,
+        "overUnder" : 141,
+        "date" : "2023-02-28T17:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 35,
+            "opponentPoints" : 31
+          },
+          "secondHalf" : {
+            "teamPoints" : 32,
+            "opponentPoints" : 48
+          }
+        },
+        "attendance" : 7637,
+        "line" : 6.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "VCU",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 637,
-        "date" : "2023-02-28T17:00-0700"
-      },
       {
         "isConferenceMatchup" : true,
         "venue" : "away",

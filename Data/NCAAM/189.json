@@ -859,13 +859,42 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 7
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 8
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 20,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Rashaun Agee"
     },
     {
@@ -3356,13 +3385,42 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Leon Ayers III"
     },
     {
@@ -5772,13 +5830,42 @@
               "didStart" : false,
               "minutesPlayed" : 28,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 7
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 25,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 10,
+                  "made" : 9
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Samari Curtis"
     },
     {
@@ -6767,7 +6854,7 @@
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Madani Diarra"
     },
     {
@@ -8626,13 +8713,42 @@
               "didStart" : true,
               "minutesPlayed" : 14,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Isaac Elsasser"
     },
     {
@@ -9023,13 +9139,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 13,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Ubongabasi Etim"
     },
     {
@@ -9044,7 +9189,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jamai Felt"
     },
     {
@@ -9470,7 +9615,7 @@
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Willie Lightfoot"
     },
     {
@@ -10035,13 +10180,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Anthony McComb III"
     },
     {
@@ -11865,13 +12039,42 @@
               "didStart" : false,
               "minutesPlayed" : 36,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kaden Metheny"
     },
     {
@@ -14919,13 +15122,42 @@
               "didStart" : false,
               "minutesPlayed" : 25,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Brenton Mills"
     },
     {
@@ -17132,7 +17364,7 @@
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Gabe O'Neal"
     },
     {
@@ -19101,13 +19333,42 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 21,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Sam Towns"
     },
     {
@@ -21807,13 +22068,42 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 18,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Chandler Turner"
     },
     {
@@ -22152,18 +22442,47 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2023-01-24T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BGSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jackson Watson"
     }
   ],
   "conference" : "MAC",
-  "conferenceRanking" : 11,
+  "conferenceRanking" : 9,
   "games" : {
     "previous" : [
       {
@@ -22996,18 +23315,38 @@
         },
         "attendance" : 2194,
         "line" : 11
+      },
+      {
+        "venueCapacity" : 4347,
+        "opponentID" : "EMU",
+        "largestLead" : 26,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Todd Von Sossan",
+          "Josh White",
+          "Tariq Lucas"
+        ],
+        "didWin" : true,
+        "overUnder" : 158,
+        "date" : "2023-02-28T17:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 35,
+            "opponentPoints" : 31
+          },
+          "secondHalf" : {
+            "teamPoints" : 53,
+            "opponentPoints" : 37
+          }
+        },
+        "attendance" : 2123,
+        "line" : 4
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-02-28T17:00-0700",
-        "venueCapacity" : 347,
-        "opponentID" : "EMU",
-        "coverage" : "sportsTV"
-      },
       {
         "isConferenceMatchup" : true,
         "venue" : "home",

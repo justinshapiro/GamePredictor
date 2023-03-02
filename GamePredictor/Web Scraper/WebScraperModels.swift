@@ -49,7 +49,7 @@ struct PlayerHeader: Decodable {
     let birthPlace: String
     let position: Player.Position
     let status: Status
-    let `class`: Player.Class
+    let yearsOfExperience: Int
     let heightWeightString: String?
     let firstName: String
     let lastName: String
@@ -57,6 +57,7 @@ struct PlayerHeader: Decodable {
     let headshotURL: URL?
     let displayNumber: String?
     let teamShortName: String
+    let isUnknownClass: Bool
     
     var number: Int {
         displayNumber.flatMap { Int($0.replace("#", with: "")) } ?? 0
@@ -99,16 +100,18 @@ struct PlayerHeader: Decodable {
         firstName.count == 2 ? displayName : firstName.prefix(1) + ". " + lastName
     }
     
-    enum Status: String, Decodable {
+    enum Status: String, Codable {
         case active = "Active"
         case inactive = "Inactive"
+        case dayToDay = "Day-To-Day"
+        case out = "Out"
     }
     
     enum CodingKeys: String, CodingKey {
         case birthPlace = "brthpl"
         case position = "pos"
         case status = "sts"
-        case `class` = "exp"
+        case yearsOfExperience = "exp"
         case heightWeightString = "htwt"
         case firstName = "fNm"
         case lastName = "lNm"
@@ -116,6 +119,46 @@ struct PlayerHeader: Decodable {
         case headshotURL = "img"
         case displayNumber = "dspNum"
         case teamShortName = "tmSh"
+        case draftInfo = "drft"
+    }
+    
+    init(from decoder: Decoder) throws {
+        let container = try decoder.container(keyedBy: CodingKeys.self)
+        
+        birthPlace = try container.decode(String.self, forKey: .birthPlace)
+        position = try container.decode(Player.Position.self, forKey: .position)
+        status = try container.decode(Status.self, forKey: .status)
+        heightWeightString = try container.decodeIfPresent(String?.self, forKey: .heightWeightString) ?? nil
+        firstName = try container.decode(String.self, forKey: .firstName)
+        lastName = try container.decode(String.self, forKey: .lastName)
+        displayName = try container.decode(String.self, forKey: .displayName)
+        headshotURL = try container.decodeIfPresent(URL?.self, forKey: .headshotURL) ?? nil
+        displayNumber = try container.decodeIfPresent(String?.self, forKey: .displayNumber) ?? nil
+        teamShortName = try container.decode(String.self, forKey: .teamShortName)
+        
+        let yearsOfExperienceString = try container.decode(String.self, forKey: .yearsOfExperience)
+        
+        if ["th Season", "st Season", "nd Season", "rd Season"].first(where: { yearsOfExperienceString.contains($0) }) != nil, (10...11).contains(yearsOfExperienceString.count) {
+            if yearsOfExperienceString.count > 10 {
+                yearsOfExperience = Int([Character](yearsOfExperienceString)[0...1].map { String($0) }.joined())!
+            } else {
+                yearsOfExperience = Int(String([Character](yearsOfExperienceString)[0]))!
+            }
+            
+            isUnknownClass = false
+        } else {
+            switch try container.decode(String.self, forKey: .yearsOfExperience) {
+            case "--":        yearsOfExperience = 0; isUnknownClass = true
+            case "Rookie":    yearsOfExperience = 0; isUnknownClass = false
+            case "Freshman":  yearsOfExperience = 1; isUnknownClass = false
+            case "Sophomore": yearsOfExperience = 2; isUnknownClass = false
+            case "Junior":    yearsOfExperience = 3; isUnknownClass = false
+            case "Senior":    yearsOfExperience = 4; isUnknownClass = false
+            
+            default:
+                fatalError("Unable to determine years of experience")
+            }
+        }
     }
 }
 
@@ -136,18 +179,54 @@ struct PlayerSeasonTeam: Decodable {
     }
 }
 
-struct GameLogEntry: Decodable {
-    let outcome: Outcome
+struct FullPageGameLog: Decodable {
+    let page: Page
     
-    enum CodingKeys: String, CodingKey {
-        case outcome = "res"
-    }
-    
-    struct Outcome: Decodable {
-        let gameURL: URL
+    struct Page: Decodable {
+        let content: Content
         
-        enum CodingKeys: String, CodingKey {
-            case gameURL = "href"
+        struct Content: Decodable {
+            let player: Player
+            
+            struct Player: Decodable {
+                let gameLog: GameLog
+                
+                struct GameLog: Decodable {
+                    let groups: [Group]
+                    
+                    struct Group: Decodable {
+                        let tables: [Table]
+                        
+                        struct Table: Decodable {
+                            let events: [GameLogEntry]?
+                            
+                            struct GameLogEntry: Decodable {
+                                let outcome: Outcome
+                                
+                                enum CodingKeys: String, CodingKey {
+                                    case outcome = "res"
+                                }
+                                
+                                struct Outcome: Decodable {
+                                    let gameURL: URL
+                                    
+                                    enum CodingKeys: String, CodingKey {
+                                        case gameURL = "href"
+                                    }
+                                }
+                            }
+                        }
+                        
+                        enum CodingKeys: String, CodingKey {
+                            case tables = "tbls"
+                        }
+                    }
+                }
+                
+                enum CodingKeys: String, CodingKey {
+                    case gameLog = "gmlog"
+                }
+            }
         }
     }
 }
@@ -215,7 +294,7 @@ struct FullPageBoxScore: Decodable {
                     
                     struct VenueLocation: Decodable {
                         let city: String
-                        let state: String
+                        let state: String?
                     }
                     
                     struct Referee: Decodable {
@@ -434,6 +513,7 @@ struct TeamsList: Decodable {
                         case schedule
                         case roster
                         case tickets
+                        case depthChart = "depthchart"
                     }
                     
                     enum LinkDestinationType: Int, Decodable {
@@ -486,6 +566,71 @@ struct Rankings: Decodable {
             
             enum CodingKeys: String, CodingKey {
                 case teamID = "abbrev"
+            }
+        }
+    }
+}
+
+struct DepthChartList: Decodable {
+    let rows: [[PositionChart]]
+    
+    enum PositionChart: Decodable {
+        case position(Player.Position)
+        case player(PlayerInfo)
+        
+        var position: Player.Position? {
+            switch self {
+            case .position(let position):
+                return position
+            case .player:
+                return nil
+            }
+        }
+        
+        var playerInfo: PlayerInfo? {
+            switch self {
+            case .position:
+                return nil
+            case .player(let info):
+                return info
+            }
+        }
+        
+        struct PlayerInfo: Decodable {
+            let name: String
+            let injuries: [String]
+            
+            var status: PlayerHeader.Status {
+                if injuries.isEmpty {
+                    return .active
+                } else {
+                    switch injuries[0] {
+                    case "DD": return .dayToDay
+                    case "O": return .out
+                    default:
+                        fatalError("Unknown injury type")
+                    }
+                }
+            }
+        }
+        
+        init(from decoder: Decoder) throws {
+            let container = try decoder.singleValueContainer()
+            
+            if let positionString = try? container.decode(String.self) {
+                switch positionString {
+                case "PG": self = .position(.pointGuard)
+                case "SG": self = .position(.shootingGuard)
+                case "SF": self = .position(.smallForward)
+                case "PF": self = .position(.powerForward)
+                case "C": self = .position(.center)
+                default:
+                    fatalError("Could not determine depth chart position")
+                }
+            } else if let playerInfo = try? container.decode(PlayerInfo.self) {
+                self = .player(playerInfo)
+            } else {
+                fatalError("Could not deserialize depth chart")
             }
         }
     }

@@ -227,7 +227,7 @@
           "teamID" : "CSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Nick Bassett"
     },
     {
@@ -1024,13 +1024,42 @@
               "didStart" : true,
               "minutesPlayed" : 14,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 7
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Patrick Cartier"
     },
     {
@@ -1369,7 +1398,7 @@
           "teamID" : "CSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kyle Evans"
     },
     {
@@ -3048,13 +3077,42 @@
               "didStart" : true,
               "minutesPlayed" : 12,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 9,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Baylor Hebb"
     },
     {
@@ -3706,13 +3764,42 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 23,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Taviontae Jackson"
     },
     {
@@ -3912,7 +3999,7 @@
           "teamID" : "CSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jacob Jennissen"
     },
     {
@@ -5440,13 +5527,42 @@
               "didStart" : false,
               "minutesPlayed" : 30,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 27,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jalen Lake"
     },
     {
@@ -7966,13 +8082,42 @@
               "didStart" : false,
               "minutesPlayed" : 26,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "James Moors"
     },
     {
@@ -7987,7 +8132,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Luke Murphy"
     },
     {
@@ -8784,13 +8929,42 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 9,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Joe Palmer"
     },
     {
@@ -8805,7 +8979,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jack Payne"
     },
     {
@@ -11325,13 +11499,42 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Isaiah Rivera"
     },
     {
@@ -14582,13 +14785,42 @@
               "didStart" : true,
               "minutesPlayed" : 39,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 4
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Isaiah Stevens"
     },
     {
@@ -17323,7 +17555,7 @@
           "teamID" : "CSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Josiah Strong"
     },
     {
@@ -20719,13 +20951,42 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-24T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-02-28T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "John Tonje"
     },
     {
@@ -21308,7 +21569,7 @@
           "teamID" : "CSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Trace Young"
     }
   ],
@@ -22097,17 +22358,38 @@
         },
         "attendance" : 8083,
         "line" : 7
+      },
+      {
+        "venueCapacity" : 5000,
+        "opponentID" : "SJSU",
+        "largestLead" : 5,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Gregory Nixon",
+          "Kelly Pfeifer",
+          "Randy Richardson"
+        ],
+        "didWin" : false,
+        "overUnder" : 137.5,
+        "date" : "2023-02-28T21:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 22,
+            "opponentPoints" : 27
+          },
+          "secondHalf" : {
+            "teamPoints" : 24,
+            "opponentPoints" : 36
+          }
+        },
+        "attendance" : 2347,
+        "line" : 2.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "SJSU",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 0,
-        "date" : "2023-02-28T21:00-0700"
-      },
       {
         "opponentID" : "UNM",
         "venue" : "away",

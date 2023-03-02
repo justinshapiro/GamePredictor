@@ -2228,13 +2228,42 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 7
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 20,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BUFF"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Isaiah Adams"
     },
     {
@@ -3356,13 +3385,42 @@
               "didStart" : false,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 17,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BUFF"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kidtrell Blocker"
     },
     {
@@ -3875,7 +3933,7 @@
           "teamID" : "BUFF"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Devin Ceaser"
     },
     {
@@ -5653,7 +5711,7 @@
           "teamID" : "ILST"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Sy Chatman"
     },
     {
@@ -6421,13 +6479,42 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BUFF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Armoni Foster"
     },
     {
@@ -9446,13 +9533,42 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 5
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BUFF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "LaQuill Hardnett"
     },
     {
@@ -10220,13 +10336,42 @@
               "didStart" : false,
               "minutesPlayed" : 9,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BUFF"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Isaac Jack"
     },
     {
@@ -11841,13 +11986,42 @@
               "didStart" : true,
               "minutesPlayed" : 28,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 8
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 21,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BUFF"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Curtis Jones"
     },
     {
@@ -12476,7 +12650,7 @@
           "teamID" : "BUFF"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kanye Jones"
     },
     {
@@ -12821,7 +12995,7 @@
           "teamID" : "BUFF"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kuluel Mading"
     },
     {
@@ -13531,13 +13705,42 @@
               "didStart" : false,
               "minutesPlayed" : 25,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 22,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BUFF"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Zid Powell"
     },
     {
@@ -13552,7 +13755,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jaden Slaughter"
     },
     {
@@ -14616,13 +14819,42 @@
               "didStart" : true,
               "minutesPlayed" : 15,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-02-28T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BUFF"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jonnivius Smith"
     },
     {
@@ -15106,12 +15338,12 @@
           "teamID" : "BUFF"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Zaakir Williamson"
     }
   ],
   "conference" : "MAC",
-  "conferenceRanking" : 7,
+  "conferenceRanking" : 6,
   "games" : {
     "previous" : [
       {
@@ -15897,18 +16129,38 @@
         },
         "attendance" : 6014,
         "line" : 12
+      },
+      {
+        "venueCapacity" : 10000,
+        "opponentID" : "NIU",
+        "largestLead" : 19,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Bret Wegenke",
+          "Jabir Walker",
+          "Scott Siville"
+        ],
+        "didWin" : true,
+        "overUnder" : 154,
+        "date" : "2023-02-28T18:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 42,
+            "opponentPoints" : 26
+          },
+          "secondHalf" : {
+            "teamPoints" : 43,
+            "opponentPoints" : 49
+          }
+        },
+        "attendance" : 701,
+        "line" : 4.5
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-02-28T18:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "NIU",
-        "coverage" : "sportsTV"
-      },
       {
         "isConferenceMatchup" : true,
         "venue" : "away",

@@ -2286,13 +2286,42 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-01T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SFA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Nana Antwi-Boasiako"
     },
     {
@@ -3327,13 +3356,42 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-01T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SFA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Robbie Armbrester"
     },
     {
@@ -3695,13 +3753,42 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 2,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-01T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SFA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jalil Beaubrun"
     },
     {
@@ -4492,6 +4579,35 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 19,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 12,
+                  "made" : 9
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-01T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4500,7 +4616,7 @@
       ],
       "name" : "AJ Cajuste",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "number" : 3,
@@ -6358,7 +6474,7 @@
           "teamID" : "SFA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Sadaidriene Hall"
     },
     {
@@ -9731,13 +9847,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 7
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 20,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 8
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-01T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SFA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Nigel Hawkins"
     },
     {
@@ -10528,6 +10673,35 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-03-01T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10536,7 +10710,7 @@
       ],
       "name" : "Kyle Hayman",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "number" : 21,
@@ -10787,7 +10961,7 @@
           "teamID" : "SFA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Russell Hyman"
     },
     {
@@ -12147,7 +12321,7 @@
           "teamID" : "SFA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jaylin Jackson-Posey"
     },
     {
@@ -14058,13 +14232,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 8
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SFA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Latrell Jossell"
     },
     {
@@ -14757,7 +14960,7 @@
           "teamID" : "KSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Montavious Murphy"
     },
     {
@@ -14860,7 +15063,7 @@
       ],
       "name" : "DaeVeon Scott",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -16265,6 +16468,35 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-01T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16273,7 +16505,7 @@
       ],
       "name" : "Derrick Tezeno",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -16283,7 +16515,7 @@
       ],
       "name" : "Cade Walker",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "number" : 2,
@@ -18779,13 +19011,42 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-01T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SFA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Roti Ware"
     }
   ],
@@ -19565,24 +19826,50 @@
         },
         "attendance" : 3554,
         "line" : 5
+      },
+      {
+        "venueCapacity" : 7203,
+        "opponentID" : "SHSU",
+        "largestLead" : 2,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Kelly Self",
+          "Larry Spaulding",
+          "Randal Anders"
+        ],
+        "didWin" : false,
+        "overUnder" : 132.5,
+        "date" : "2023-03-01T17:30-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 21,
+            "opponentPoints" : 27
+          },
+          "secondHalf" : {
+            "teamPoints" : 33,
+            "opponentPoints" : 27
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 5,
+              "opponentPoints" : 10
+            }
+          ]
+        },
+        "attendance" : 4189,
+        "line" : 1.5
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T17:30-0700",
-        "venueCapacity" : 203,
-        "opponentID" : "SHSU",
-        "coverage" : "sportsTV"
-      },
       {
         "opponentID" : "UVU",
         "venue" : "home",
         "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 500,
+        "venueCapacity" : 8500,
         "date" : "2023-03-03T18:00-0700"
       }
     ]

@@ -644,6 +644,35 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -652,7 +681,7 @@
       ],
       "name" : "Taylor Bowen",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -1471,6 +1500,35 @@
               "didStart" : true,
               "minutesPlayed" : 26,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1479,7 +1537,7 @@
       ],
       "name" : "Ainhoa Cea",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -1950,6 +2008,35 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 5,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1958,7 +2045,7 @@
       ],
       "name" : "Kamil Collier",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -2719,6 +2806,35 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2022-11-12T13:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2727,7 +2843,7 @@
       ],
       "name" : "Molly Heard",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -5689,7 +5805,7 @@
       ],
       "name" : "Jalyn Holcomb",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -6174,7 +6290,7 @@
       ],
       "name" : "Baylee Jones",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -7666,6 +7782,35 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7674,7 +7819,7 @@
       ],
       "name" : "Claira McGowan",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -10628,6 +10773,35 @@
               "didStart" : false,
               "minutesPlayed" : 30,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 7
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10636,7 +10810,7 @@
       ],
       "name" : "Blythe Pearson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -12192,6 +12366,35 @@
               "didStart" : false,
               "minutesPlayed" : 9,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12200,7 +12403,7 @@
       ],
       "name" : "Diana Saleh",
       "position" : "Center",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -13199,6 +13402,35 @@
               "didStart" : true,
               "minutesPlayed" : 22,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13207,7 +13439,7 @@
       ],
       "name" : "Aleah Sorrentino",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14902,6 +15134,35 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14910,7 +15171,7 @@
       ],
       "name" : "Bella Vinson",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "ASUN",
@@ -15970,6 +16231,43 @@
           ]
         },
         "attendance" : 532
+      },
+      {
+        "venueCapacity" : 5028,
+        "opponentID" : "FGCU",
+        "largestLead" : 9,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Marcus Smith",
+          "Joshua Hall",
+          "Wes Mangrum-Smith"
+        ],
+        "didWin" : false,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-01T17:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 35,
+            "opponentPoints" : 49
+          },
+          "secondHalf" : {
+            "teamPoints" : 24,
+            "opponentPoints" : 52
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 6,
+              "opponentPoints" : 25
+            },
+            {
+              "teamPoints" : 18,
+              "opponentPoints" : 27
+            }
+          ]
+        },
+        "attendance" : 508
       }
     ],
     "upcoming" : [
@@ -15977,10 +16275,10 @@
         "isConferenceMatchup" : true,
         "venue" : "away",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T17:00-0700",
-        "venueCapacity" : 28,
-        "opponentID" : "FGCU",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-05T17:00-0700",
+        "venueCapacity" : 5028,
+        "opponentID" : "UNA",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

@@ -859,13 +859,42 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Khaliq Abdul-Mateen"
     },
     {
@@ -1320,7 +1349,7 @@
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Ant Abraham"
     },
     {
@@ -1758,7 +1787,7 @@
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Rob Banks"
     },
     {
@@ -1773,7 +1802,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Anariss Brandon"
     },
     {
@@ -2570,13 +2599,42 @@
               "didStart" : true,
               "minutesPlayed" : 26,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 6
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 16,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jerome Brewer Jr."
     },
     {
@@ -2921,7 +2979,7 @@
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Monyae Davis"
     },
     {
@@ -3782,13 +3840,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 5
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Demarcus Demonia"
     },
     {
@@ -4585,13 +4672,42 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 25,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Alonzo Dodd"
     },
     {
@@ -4669,7 +4785,7 @@
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Matt Lewis"
     },
     {
@@ -5182,7 +5298,7 @@
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tommie Lewis"
     },
     {
@@ -6043,13 +6159,42 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 3,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Alex Peavy"
     },
     {
@@ -6724,6 +6869,35 @@
               "didStart" : false,
               "minutesPlayed" : 25,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 8
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 24,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6732,7 +6906,7 @@
       ],
       "name" : "C.J. Roberts",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "number" : 0,
@@ -7470,13 +7644,42 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 2,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "JJ Romer Rosario"
     },
     {
@@ -10408,13 +10611,42 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Luka Vasic"
     },
     {
@@ -11681,13 +11913,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TAMC"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Kalen Williams"
     }
   ],
@@ -12489,16 +12750,51 @@
         },
         "attendance" : 0,
         "line" : 1
+      },
+      {
+        "venueCapacity" : 3055,
+        "opponentID" : "AMCC",
+        "largestLead" : 10,
+        "overUnder" : 148,
+        "didWin" : false,
+        "referees" : [
+          "Bobby Bissant",
+          "Jon Stigliano",
+          "Tommy Johnson"
+        ],
+        "date" : "2023-03-01T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 37,
+            "opponentPoints" : 39
+          },
+          "secondHalf" : {
+            "teamPoints" : 41,
+            "opponentPoints" : 39
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 10,
+              "opponentPoints" : 15
+            }
+          ]
+        },
+        "attendance" : 631,
+        "line" : 5
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "AMCC",
-        "venue" : "away",
         "isConferenceMatchup" : true,
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 55,
-        "date" : "2023-03-01T19:00-0700"
+        "date" : "2023-03-05T16:00-0700",
+        "venueCapacity" : 4242,
+        "opponentID" : "MCN",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

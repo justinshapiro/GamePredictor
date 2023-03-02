@@ -679,13 +679,42 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 25,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BC"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Prince Aligbe"
     },
     {
@@ -4725,13 +4754,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Makai Ashton-Langford"
     },
     {
@@ -4902,7 +4960,7 @@
           "teamID" : "BC"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Abe Atiyeh"
     },
     {
@@ -8095,13 +8153,42 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "T.J. Bickerstaff"
     },
     {
@@ -8179,7 +8266,7 @@
           "teamID" : "BC"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Donald Hand Jr."
     },
     {
@@ -8947,13 +9034,42 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BC"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Chas Kelley"
     },
     {
@@ -9803,7 +9919,7 @@
           "teamID" : "BC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Andrew Kenny"
     },
     {
@@ -11894,7 +12010,7 @@
           "teamID" : "BC"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "DeMarr Langford Jr."
     },
     {
@@ -14066,13 +14182,42 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BC"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Mason Madsen"
     },
     {
@@ -14927,13 +15072,42 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 17,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BC"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Devin McGlockton"
     },
     {
@@ -15359,7 +15533,7 @@
           "teamID" : "BC"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Armani Mighty"
     },
     {
@@ -15594,7 +15768,7 @@
           "teamID" : "BC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jonathan Noel"
     },
     {
@@ -16003,7 +16177,7 @@
           "teamID" : "BC"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Quinn Pemberton"
     },
     {
@@ -16713,13 +16887,42 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2023-02-18T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 10,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "CJ Penha Jr."
     },
     {
@@ -18752,7 +18955,7 @@
           "teamID" : "BC"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Quinten Post"
     },
     {
@@ -20570,18 +20773,47 @@
               "didStart" : true,
               "minutesPlayed" : 26,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "BC"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jaeden Zackery"
     }
   ],
   "conference" : "ACC",
-  "conferenceRanking" : 10,
+  "conferenceRanking" : 9,
   "games" : {
     "previous" : [
       {
@@ -21436,18 +21668,38 @@
         },
         "attendance" : 8194,
         "line" : 9
+      },
+      {
+        "venueCapacity" : 14665,
+        "opponentID" : "WAKE",
+        "largestLead" : 15,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Ted Valentine",
+          "Burt Smith",
+          "Jeff  Hartness"
+        ],
+        "didWin" : true,
+        "overUnder" : 145.5,
+        "date" : "2023-02-28T17:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 26,
+            "opponentPoints" : 32
+          },
+          "secondHalf" : {
+            "teamPoints" : 45,
+            "opponentPoints" : 37
+          }
+        },
+        "attendance" : 7406,
+        "line" : 7.5
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-02-28T17:00-0700",
-        "venueCapacity" : 4665,
-        "opponentID" : "WAKE",
-        "coverage" : "sportsTV"
-      },
       {
         "isConferenceMatchup" : true,
         "venue" : "away",

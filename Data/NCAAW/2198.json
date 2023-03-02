@@ -913,7 +913,7 @@
       ],
       "name" : "Brie Crittendon",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -3867,6 +3867,35 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3875,7 +3904,7 @@
       ],
       "name" : "Bridgid Fox",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -5599,6 +5628,35 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5607,7 +5665,7 @@
       ],
       "name" : "Kayra Freeman",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -8416,6 +8474,35 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8424,7 +8511,7 @@
       ],
       "name" : "Emma Hacker",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -11668,6 +11755,35 @@
               "didStart" : true,
               "minutesPlayed" : 7,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 18,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11676,7 +11792,7 @@
       ],
       "name" : "Ariel Kirkwood",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -13371,6 +13487,35 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13379,7 +13524,7 @@
       ],
       "name" : "Kalissa Lacy",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -16449,6 +16594,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 14,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 4
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16457,7 +16631,7 @@
       ],
       "name" : "Marissa Mackins",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -16899,6 +17073,35 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16907,7 +17110,7 @@
       ],
       "name" : "Abbey Morton",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -20244,6 +20447,35 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 7
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 22,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -20252,7 +20484,7 @@
       ],
       "name" : "Danielle Rainey",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -22736,6 +22968,35 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 8,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -22744,7 +23005,7 @@
       ],
       "name" : "Alice Recanati",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -25495,6 +25756,35 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 8
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 21,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -25503,7 +25793,7 @@
       ],
       "name" : "Antwainette Walker",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "ASUN",
@@ -26617,6 +26907,43 @@
           ]
         },
         "attendance" : 1143
+      },
+      {
+        "venueCapacity" : 5800,
+        "opponentID" : "UNF",
+        "largestLead" : 16,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Ron Ledington",
+          "Jelisse Oliver",
+          "Sam Crawford"
+        ],
+        "didWin" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-01T17:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 40,
+            "opponentPoints" : 30
+          },
+          "secondHalf" : {
+            "teamPoints" : 43,
+            "opponentPoints" : 41
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 19,
+              "opponentPoints" : 19
+            },
+            {
+              "teamPoints" : 24,
+              "opponentPoints" : 22
+            }
+          ]
+        },
+        "attendance" : 0
       }
     ],
     "upcoming" : [
@@ -26624,10 +26951,10 @@
         "isConferenceMatchup" : true,
         "venue" : "home",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T17:00-0700",
-        "venueCapacity" : 800,
-        "opponentID" : "UNF",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-05T14:00-0700",
+        "venueCapacity" : 8075,
+        "opponentID" : "APSU",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

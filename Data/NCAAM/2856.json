@@ -26,7 +26,7 @@
           "teamID" : "CBU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Taran Armstrong"
     },
     {
@@ -1632,7 +1632,7 @@
           "teamID" : "CBU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tre Armstrong"
     },
     {
@@ -5904,13 +5904,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 4
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CBU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Riley Battin"
     },
     {
@@ -5925,7 +5954,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Brady Cook"
     },
     {
@@ -6032,7 +6061,7 @@
           "teamID" : "UTU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Mikey Frazier"
     },
     {
@@ -8465,13 +8494,42 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CBU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Hunter Goodrick"
     },
     {
@@ -8486,7 +8544,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jackson Harding"
     },
     {
@@ -10786,7 +10844,7 @@
           "teamID" : "CBU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Timothy Ighoefe"
     },
     {
@@ -10801,7 +10859,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Tyler Isaak"
     },
     {
@@ -14023,13 +14081,42 @@
               "didStart" : true,
               "minutesPlayed" : 15,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 6
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 5
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CBU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Reed Nottage"
     },
     {
@@ -17756,7 +17843,7 @@
           "teamID" : "CBU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Joe Quintana"
     },
     {
@@ -18002,13 +18089,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CBU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Keanu Rasmussen"
     },
     {
@@ -19577,7 +19693,7 @@
           "teamID" : "CBU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Juhlawnei Stone"
     },
     {
@@ -19592,7 +19708,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Daniel Sykes"
     },
     {
@@ -21307,13 +21423,42 @@
               "didStart" : true,
               "minutesPlayed" : 28,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 19,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 14,
+                  "made" : 13
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CBU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Blondeau Tchoukuiegno"
     },
     {
@@ -22963,13 +23108,42 @@
               "didStart" : false,
               "minutesPlayed" : 7,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 17,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CBU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Malik Wade"
     },
     {
@@ -23621,13 +23795,42 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2023-02-26T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CBU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Scotty Washington"
     }
   ],
@@ -24444,26 +24647,46 @@
         },
         "attendance" : 3554,
         "line" : 5
+      },
+      {
+        "venueCapacity" : 5050,
+        "opponentID" : "UTRGV",
+        "largestLead" : 25,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Mike Reed",
+          "Chad Shepherd",
+          "Randal Anders"
+        ],
+        "didWin" : true,
+        "overUnder" : 148,
+        "date" : "2023-03-01T20:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 50,
+            "opponentPoints" : 36
+          },
+          "secondHalf" : {
+            "teamPoints" : 38,
+            "opponentPoints" : 34
+          }
+        },
+        "attendance" : 3296,
+        "line" : 10
       }
     ],
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T20:00-0700",
-        "venueCapacity" : 50,
-        "opponentID" : "UTRGV",
-        "coverage" : "sportsTV"
-      },
-      {
-        "isConferenceMatchup" : true,
         "venue" : "home",
         "seasonType" : "regularSeason",
         "date" : "2023-03-03T19:00-0700",
-        "venueCapacity" : 300,
+        "venueCapacity" : 5300,
         "opponentID" : "SUU",
-        "coverage" : "sportsTV"
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

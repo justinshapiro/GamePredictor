@@ -505,13 +505,42 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2023-02-09T18:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 10,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HCU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Chigozie Achara"
     },
     {
@@ -757,13 +786,42 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2023-02-09T18:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jake Arnold"
     },
     {
@@ -1531,13 +1589,42 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2023-02-25T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 9
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 23,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Pierce Bazil"
     },
     {
@@ -1552,7 +1639,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Braden Bostwick"
     },
     {
@@ -1740,13 +1827,42 @@
               "didStart" : false,
               "minutesPlayed" : 0,
               "date" : "2023-01-26T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Marques Gates"
     },
     {
@@ -1882,7 +1998,7 @@
           "teamID" : "HCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Anthony Harris Jr."
     },
     {
@@ -4083,13 +4199,42 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-25T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Sam Hofman"
     },
     {
@@ -4312,7 +4457,7 @@
           "teamID" : "HCU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Nate Hudson"
     },
     {
@@ -7099,13 +7244,42 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2023-02-25T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Zach Iyeyemi"
     },
     {
@@ -7821,7 +7995,7 @@
           "teamID" : "HCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Andrew King"
     },
     {
@@ -9320,13 +9494,42 @@
               "didStart" : true,
               "minutesPlayed" : 39,
               "date" : "2023-02-25T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 7,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Maks Klanjscek"
     },
     {
@@ -10802,7 +11005,7 @@
           "teamID" : "HCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Darius Lee"
     },
     {
@@ -13090,13 +13293,42 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-25T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 2
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HCU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Brycen Long"
     },
     {
@@ -14508,13 +14740,42 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2023-02-25T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 2,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Bonke Maring"
     },
     {
@@ -15520,13 +15781,42 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2023-02-25T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 25,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HCU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Tristan Moore"
     },
     {
@@ -16480,7 +16770,7 @@
           "teamID" : "HCU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Deshon Proctor"
     },
     {
@@ -16529,7 +16819,7 @@
           "teamID" : "MMR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Nathan Self"
     },
     {
@@ -17727,7 +18017,7 @@
           "teamID" : "HCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jason Thompson"
     }
   ],
@@ -18486,17 +18776,46 @@
         },
         "attendance" : 521,
         "line" : 10.5
+      },
+      {
+        "venueCapacity" : 1000,
+        "opponentID" : "SELA",
+        "largestLead" : 0,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Joe Wilbert III",
+          "Rodrick Dixon",
+          "Danny Chance"
+        ],
+        "didWin" : false,
+        "overUnder" : 161.5,
+        "date" : "2023-03-01T18:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 24,
+            "opponentPoints" : 47
+          },
+          "secondHalf" : {
+            "teamPoints" : 40,
+            "opponentPoints" : 33
+          }
+        },
+        "attendance" : 677,
+        "line" : 3
       }
     ],
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "away",
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T18:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "SELA",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-05T18:30-0700",
+        "venueCapacity" : 4242,
+        "opponentID" : "UNO",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

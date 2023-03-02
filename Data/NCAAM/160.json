@@ -3249,13 +3249,42 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jaxson Baker"
     },
     {
@@ -4783,13 +4812,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNH"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Kyree Brown"
     },
     {
@@ -5557,13 +5615,42 @@
               "didStart" : true,
               "minutesPlayed" : 26,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 3,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 12
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNH"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Clarence O. Daniels II"
     },
     {
@@ -6279,7 +6366,7 @@
           "teamID" : "UNH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Nazim Derry"
     },
     {
@@ -10174,13 +10261,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 5
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Matt Herasme"
     },
     {
@@ -12178,13 +12294,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 5
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNH"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Nick Johnson"
     },
     {
@@ -12494,7 +12639,7 @@
           "teamID" : "UNH"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "A.J. Lopez"
     },
     {
@@ -12827,13 +12972,42 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 17,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNH"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Christian Moore"
     },
     {
@@ -12848,7 +13022,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Promise Opurum"
     },
     {
@@ -13361,7 +13535,7 @@
           "teamID" : "UNH"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Rex Sunderland"
     },
     {
@@ -14100,13 +14274,42 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNH"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Ridvan Tutic"
     },
     {
@@ -14776,7 +14979,7 @@
           "teamID" : "UNH"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jon Willeman"
     },
     {
@@ -16333,13 +16536,42 @@
               "didStart" : false,
               "minutesPlayed" : 23,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-02-28T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNH"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Trey Woodyard"
     }
   ],
@@ -17108,18 +17340,39 @@
         },
         "attendance" : 4114,
         "line" : 11
+      },
+      {
+        "venueCapacity" : 2500,
+        "opponentID" : "NJIT",
+        "largestLead" : 7,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Adam Vandenburgh",
+          "Mike Kitts, Jr.",
+          "Vasili Mallios"
+        ],
+        "didWin" : true,
+        "overUnder" : 136.5,
+        "date" : "2023-02-28T17:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 21,
+            "opponentPoints" : 28
+          },
+          "secondHalf" : {
+            "teamPoints" : 38,
+            "opponentPoints" : 30
+          }
+        },
+        "attendance" : 511,
+        "line" : 7
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-02-28T17:00-0700",
-        "venueCapacity" : 500,
-        "opponentID" : "NJIT",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

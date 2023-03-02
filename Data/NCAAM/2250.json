@@ -4183,13 +4183,42 @@
               "didStart" : true,
               "minutesPlayed" : 19,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Rasir Bolton"
     },
     {
@@ -4377,13 +4406,42 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2023-02-23T21:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Colby Brooks"
     },
     {
@@ -4398,7 +4456,7 @@
       "seasons" : [
 
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Abe Eagle"
     },
     {
@@ -4795,7 +4853,7 @@
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Joe Few"
     },
     {
@@ -6619,13 +6677,42 @@
               "didStart" : false,
               "minutesPlayed" : 6,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Ben Gregg"
     },
     {
@@ -7631,13 +7718,42 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2023-02-23T21:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 5,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Dominick Harris"
     },
     {
@@ -9397,13 +9513,42 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 5
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Nolan Hickman"
     },
     {
@@ -9418,7 +9563,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Braden Huff"
     },
     {
@@ -9433,7 +9578,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kellen Mitchell"
     },
     {
@@ -9685,7 +9830,7 @@
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kaden Perry"
     },
     {
@@ -10257,13 +10402,42 @@
               "didStart" : false,
               "minutesPlayed" : 7,
               "date" : "2023-02-16T21:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Efton Reid III"
     },
     {
@@ -12023,13 +12197,42 @@
               "didStart" : false,
               "minutesPlayed" : 11,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Hunter Sallis"
     },
     {
@@ -15628,13 +15831,42 @@
               "didStart" : false,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Malachi Smith"
     },
     {
@@ -18125,13 +18357,42 @@
               "didStart" : true,
               "minutesPlayed" : 40,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Julian Strawther"
     },
     {
@@ -21788,13 +22049,42 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 7
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Drew Timme"
     },
     {
@@ -24929,13 +25219,42 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 4,
+                "blocks" : 2,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 7,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-01T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "GONZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Anton Watson"
     }
   ],
@@ -25739,18 +26058,44 @@
         },
         "attendance" : 6000,
         "line" : 6.5
+      },
+      {
+        "venueCapacity" : 6000,
+        "opponentID" : "CHST",
+        "largestLead" : 44,
+        "overUnder" : 154,
+        "didWin" : true,
+        "referees" : [
+
+        ],
+        "date" : "2023-03-01T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : false,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 42,
+            "opponentPoints" : 28
+          },
+          "secondHalf" : {
+            "teamPoints" : 62,
+            "opponentPoints" : 37
+          }
+        },
+        "attendance" : 6000,
+        "line" : 28
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "CHST",
-        "venue" : "away",
+        "opponentID" : "TBD",
+        "venue" : "neutral",
+        "coverage" : "standardTV",
         "isConferenceMatchup" : false,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 0,
-        "date" : "2023-03-01T19:00-0700"
+        "date" : "2023-03-06T21:30-0700"
       }
     ]
   },
-  "nationalRanking" : 12
+  "nationalRanking" : 10
 }

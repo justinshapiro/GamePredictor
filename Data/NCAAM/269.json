@@ -134,7 +134,7 @@
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Cameron Brown"
     },
     {
@@ -229,6 +229,35 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-01-28T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -237,7 +266,7 @@
       ],
       "name" : "Jake Ciardo",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "number" : 2,
@@ -662,7 +691,7 @@
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Emarion Ellis"
     },
     {
@@ -1488,13 +1517,42 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2023-02-25T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Ben Gold"
     },
     {
@@ -3405,13 +3463,42 @@
               "didStart" : true,
               "minutesPlayed" : 18,
               "date" : "2023-02-25T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 3,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 6
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Oso Ighodaro"
     },
     {
@@ -3686,13 +3773,42 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-01-28T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Keeyan Itejere"
     },
     {
@@ -5423,13 +5539,42 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-25T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 4
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kam Jones"
     },
     {
@@ -6168,13 +6313,42 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2023-02-25T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 9,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Sean Jones"
     },
     {
@@ -7934,13 +8108,42 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2023-02-25T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 5,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 25,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "David Joplin"
     },
     {
@@ -8407,13 +8610,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-01-28T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Michael Kennedy"
     },
     {
@@ -10817,13 +11049,42 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2023-02-25T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 9
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 21,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 10,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Tyler Kolek"
     },
     {
@@ -10988,7 +11249,7 @@
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Caleb Kozinski"
     },
     {
@@ -11176,13 +11437,42 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-01-28T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jonah Lucas"
     },
     {
@@ -12942,13 +13232,42 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2023-02-25T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Stevie Mitchell"
     },
     {
@@ -15352,13 +15671,42 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2023-02-25T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 25,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Olivier-Maxence Prosper"
     },
     {
@@ -16184,13 +16532,42 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2023-02-25T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Chase Ross"
     },
     {
@@ -16407,13 +16784,42 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-01-28T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-02-28T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "RJ Walson"
     },
     {
@@ -16683,7 +17089,7 @@
           "teamID" : "MARQ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Zach Wrightsil"
     }
   ],
@@ -17516,17 +17922,38 @@
         },
         "attendance" : 17873,
         "line" : 14.5
+      },
+      {
+        "venueCapacity" : 9100,
+        "opponentID" : "BUT",
+        "largestLead" : 24,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Mike Roberts",
+          "Tony Chiazza",
+          "Courtney Green"
+        ],
+        "didWin" : true,
+        "overUnder" : 141.5,
+        "date" : "2023-02-28T16:30-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 36,
+            "opponentPoints" : 22
+          },
+          "secondHalf" : {
+            "teamPoints" : 36,
+            "opponentPoints" : 34
+          }
+        },
+        "attendance" : 7511,
+        "line" : 7.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "BUT",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 100,
-        "date" : "2023-02-28T16:30-0700"
-      },
       {
         "opponentID" : "SJU",
         "venue" : "away",
@@ -17537,5 +17964,5 @@
       }
     ]
   },
-  "nationalRanking" : 10
+  "nationalRanking" : 6
 }

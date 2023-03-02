@@ -13,7 +13,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Quante Berry"
     },
     {
@@ -2388,13 +2388,42 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2023-02-26T10:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PROV"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Alyn Breed"
     },
     {
@@ -5384,13 +5413,42 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2023-02-26T10:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 6
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 25,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PROV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jared Bynum"
     },
     {
@@ -7034,13 +7092,42 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-26T10:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 5
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PROV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Devin Carter"
     },
     {
@@ -7721,13 +7808,42 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2023-02-26T10:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PROV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Rafael Castro"
     },
     {
@@ -11883,13 +11999,42 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2023-02-26T10:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 5
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 10,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 7,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PROV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Ed Croswell"
     },
     {
@@ -12541,13 +12686,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-26T10:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PROV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Corey Floyd Jr."
     },
     {
@@ -12683,7 +12857,7 @@
           "teamID" : "PROV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Luke Fonts"
     },
     {
@@ -14269,13 +14443,42 @@
               "didStart" : true,
               "minutesPlayed" : 17,
               "date" : "2023-02-26T10:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 4
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 9,
+                  "made" : 7
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PROV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Bryce Hopkins"
     },
     {
@@ -18663,13 +18866,42 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-26T10:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 4
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PROV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Noah Locke"
     },
     {
@@ -21665,13 +21897,42 @@
               "didStart" : false,
               "minutesPlayed" : 25,
               "date" : "2023-02-26T10:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PROV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Clifton Moore"
     },
     {
@@ -21686,7 +21947,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Scott Morozov"
     },
     {
@@ -21851,7 +22112,7 @@
           "teamID" : "PROV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kieran O'Haire"
     },
     {
@@ -22619,18 +22880,47 @@
               "didStart" : false,
               "minutesPlayed" : 6,
               "date" : "2023-02-26T10:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "PROV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jayden Pierre"
     }
   ],
   "conference" : "Big East",
-  "conferenceRanking" : 2,
+  "conferenceRanking" : 3,
   "games" : {
     "previous" : [
       {
@@ -23401,24 +23691,46 @@
         },
         "attendance" : 7085,
         "line" : 6.5
+      },
+      {
+        "venueCapacity" : 12410,
+        "opponentID" : "XAV",
+        "largestLead" : 0,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Roger Ayers",
+          "Jeff Anderson",
+          "Tommy Morrissey"
+        ],
+        "didWin" : false,
+        "overUnder" : 151.5,
+        "date" : "2023-03-01T16:30-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 36,
+            "opponentPoints" : 45
+          },
+          "secondHalf" : {
+            "teamPoints" : 53,
+            "opponentPoints" : 49
+          }
+        },
+        "attendance" : 12400,
+        "line" : 3.5
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "XAV",
-        "venue" : "away",
         "isConferenceMatchup" : true,
+        "venue" : "away",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 2410,
-        "date" : "2023-03-01T16:30-0700"
-      },
-      {
+        "date" : "2023-03-04T10:00-0700",
+        "venueCapacity" : 12410,
         "opponentID" : "HALL",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 2410,
-        "date" : "2023-03-03T22:00-0700"
+        "coverage" : "standardTV"
       }
     ]
   },

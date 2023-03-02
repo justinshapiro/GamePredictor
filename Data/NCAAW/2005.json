@@ -652,7 +652,7 @@
       ],
       "name" : "Emily Adams",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -2115,6 +2115,35 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2022-11-07T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 9,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2123,7 +2152,7 @@
       ],
       "name" : "Taylor Britt",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -2167,7 +2196,7 @@
       ],
       "name" : "Parker Brown",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -2211,7 +2240,7 @@
       ],
       "name" : "Griffin Greenwood",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -5252,6 +5281,35 @@
               "didStart" : true,
               "minutesPlayed" : 18,
               "date" : "2022-11-07T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 19,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5260,7 +5318,7 @@
       ],
       "name" : "Kamri Heath",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -7071,6 +7129,35 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2022-11-07T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7079,7 +7166,7 @@
       ],
       "name" : "Jo Huntimer",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -7152,7 +7239,7 @@
       ],
       "name" : "Mackenzie Le",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -9151,7 +9238,7 @@
       ],
       "name" : "Dasha MacMillan",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -12366,6 +12453,35 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2022-11-07T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12374,7 +12490,7 @@
       ],
       "name" : "Nikki McDonald",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -13164,6 +13280,35 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2022-11-07T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 21,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13172,7 +13317,7 @@
       ],
       "name" : "Milahnie Perry",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -14670,6 +14815,35 @@
               "didStart" : true,
               "minutesPlayed" : 14,
               "date" : "2022-11-07T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14678,7 +14852,7 @@
       ],
       "name" : "Kayla Pilson",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -15526,6 +15700,35 @@
               "didStart" : false,
               "minutesPlayed" : 22,
               "date" : "2022-11-07T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 22,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -15534,7 +15737,7 @@
       ],
       "name" : "Faith Shelton",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -16910,6 +17113,35 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2022-11-11T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 14,
+                  "made" : 7
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16918,7 +17150,7 @@
       ],
       "name" : "Madison Smith",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "Mountain West",
@@ -17972,17 +18204,46 @@
           "Jacob Finn",
           "Jen Calhoon"
         ]
+      },
+      {
+        "didWin" : false,
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 34,
+            "opponentPoints" : 28
+          },
+          "secondHalf" : {
+            "teamPoints" : 17,
+            "opponentPoints" : 32
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 11,
+              "opponentPoints" : 19
+            },
+            {
+              "teamPoints" : 6,
+              "opponentPoints" : 13
+            }
+          ]
+        },
+        "venue" : "home",
+        "attendance" : 779,
+        "isConferenceMatchup" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-02-28T19:00-0700",
+        "venueCapacity" : 12414,
+        "opponentID" : "SDSU",
+        "largestLead" : 11,
+        "referees" : [
+          "Chuck Gonzalez",
+          "Kenneth Nash",
+          "Cheryll Blue"
+        ]
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "SDSU",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 2414,
-        "date" : "2023-02-28T19:00-0700"
-      }
+
     ]
   }
 }

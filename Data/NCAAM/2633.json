@@ -1352,13 +1352,42 @@
               "didStart" : true,
               "minutesPlayed" : 19,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TENN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jonas Aidoo"
     },
     {
@@ -2126,13 +2155,42 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TENN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Tobe Awaka"
     },
     {
@@ -2147,7 +2205,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kidd Brizek"
     },
     {
@@ -2283,7 +2341,7 @@
           "teamID" : "TENN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Colin Coyne"
     },
     {
@@ -2680,7 +2738,7 @@
           "teamID" : "TENN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "B.J. Edwards"
     },
     {
@@ -2996,13 +3054,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 0,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TENN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Kent Gilbert"
     },
     {
@@ -5934,13 +6021,42 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 29,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TENN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Josiah-Jordan James"
     },
     {
@@ -5955,7 +6071,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "D.J. Jefferson"
     },
     {
@@ -6033,7 +6149,7 @@
           "teamID" : "TENN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Alec Kegler"
     },
     {
@@ -10137,7 +10253,7 @@
           "teamID" : "TENN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Tyreke Key"
     },
     {
@@ -11665,13 +11781,42 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 4,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TENN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jahmai Mashack"
     },
     {
@@ -14719,13 +14864,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 7
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 16,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TENN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Olivier Nkamhoua"
     },
     {
@@ -15435,13 +15609,42 @@
               "didStart" : true,
               "minutesPlayed" : 10,
               "date" : "2023-02-11T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 26,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TENN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Julian Phillips"
     },
     {
@@ -18170,13 +18373,42 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TENN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Uros Plavsic"
     },
     {
@@ -18191,7 +18423,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Evan Shiflet"
     },
     {
@@ -18298,7 +18530,7 @@
           "teamID" : "TENN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Isaiah Sulack"
     },
     {
@@ -21404,13 +21636,42 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 5
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TENN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Santiago Vescovi"
     },
     {
@@ -23257,13 +23518,42 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-25T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 3,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "TENN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Zakai Zeigler"
     }
   ],
@@ -24088,17 +24378,38 @@
         },
         "attendance" : 20273,
         "line" : 24
+      },
+      {
+        "venueCapacity" : 21678,
+        "opponentID" : "ARK",
+        "largestLead" : 24,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Doug Shows",
+          "Patrick Evans",
+          "Bart Lenox"
+        ],
+        "didWin" : true,
+        "overUnder" : 135.5,
+        "date" : "2023-02-28T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 34,
+            "opponentPoints" : 25
+          },
+          "secondHalf" : {
+            "teamPoints" : 41,
+            "opponentPoints" : 32
+          }
+        },
+        "attendance" : 18324,
+        "line" : 5.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "ARK",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 1678,
-        "date" : "2023-02-28T19:00-0700"
-      },
       {
         "opponentID" : "AUB",
         "venue" : "home",
@@ -24109,5 +24420,5 @@
       }
     ]
   },
-  "nationalRanking" : 11
+  "nationalRanking" : 12
 }

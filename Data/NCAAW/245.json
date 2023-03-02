@@ -470,6 +470,35 @@
               "didStart" : true,
               "minutesPlayed" : 22,
               "date" : "2022-11-10T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-01T09:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -478,7 +507,7 @@
       ],
       "name" : "Janiah Barker",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -1239,6 +1268,35 @@
               "didStart" : true,
               "minutesPlayed" : 28,
               "date" : "2022-11-10T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 17,
+                  "made" : 8
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 22,
+                "threePointFieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 6
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T09:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1247,7 +1305,7 @@
       ],
       "name" : "Sydney Bowles",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -2745,6 +2803,35 @@
               "didStart" : false,
               "minutesPlayed" : 9,
               "date" : "2022-11-10T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 17,
+              "date" : "2023-03-01T09:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2753,7 +2840,7 @@
       ],
       "name" : "Kay Kay Green",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -5475,6 +5562,35 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2022-11-10T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-01T09:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5483,7 +5599,7 @@
       ],
       "name" : "McKinzie Green",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -6221,6 +6337,35 @@
               "didStart" : false,
               "minutesPlayed" : 23,
               "date" : "2022-11-10T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 18,
+              "date" : "2023-03-01T09:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6229,7 +6374,7 @@
       ],
       "name" : "Tineya Hylton",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -7294,7 +7439,7 @@
       ],
       "name" : "Maliyah Johnson",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -9198,6 +9343,35 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2022-11-10T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-01T09:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9206,7 +9380,7 @@
       ],
       "name" : "Sahara Jones",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -10321,6 +10495,35 @@
               "didStart" : false,
               "minutesPlayed" : 9,
               "date" : "2022-11-10T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-01T09:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10329,7 +10532,7 @@
       ],
       "name" : "Eriny Kindred",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -11792,6 +11995,35 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2022-11-10T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 6
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-01T09:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11800,7 +12032,7 @@
       ],
       "name" : "Jada Malone",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -15717,6 +15949,35 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2022-11-10T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 6
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 8
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-01T09:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -15725,7 +15986,7 @@
       ],
       "name" : "Aaliyah Patty",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -16320,7 +16581,7 @@
       ],
       "name" : "Mya Petticord",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -18847,7 +19108,7 @@
       ],
       "name" : "Sydnee Roby",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "SEC",
@@ -19835,16 +20096,55 @@
         },
         "attendance" : 4408,
         "line" : 13.5
+      },
+      {
+        "venueCapacity" : 0,
+        "opponentID" : "VAN",
+        "largestLead" : 17,
+        "coverage" : "sportsTV",
+        "referees" : [
+          "Felicia Grinter",
+          "Joseph Vaszily",
+          "Brian Hall"
+        ],
+        "didWin" : true,
+        "overUnder" : 126.5,
+        "date" : "2023-03-01T09:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 40,
+            "opponentPoints" : 33
+          },
+          "secondHalf" : {
+            "teamPoints" : 37,
+            "opponentPoints" : 37
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 21,
+              "opponentPoints" : 14
+            },
+            {
+              "teamPoints" : 16,
+              "opponentPoints" : 23
+            }
+          ]
+        },
+        "attendance" : 0,
+        "line" : 3
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "VAN",
+        "opponentID" : "MSST",
         "venue" : "neutral",
         "coverage" : "sportsTV",
         "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T09:00-0700"
+        "date" : "2023-03-02T12:00-0700"
       }
     ]
   }

@@ -586,6 +586,35 @@
               "didStart" : false,
               "minutesPlayed" : 24,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -594,7 +623,7 @@
       ],
       "name" : "Janette Aarnio",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -2881,6 +2910,35 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2022-12-14T09:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2889,7 +2947,7 @@
       ],
       "name" : "Maria Alvarez",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -3679,6 +3737,35 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3687,7 +3774,7 @@
       ],
       "name" : "Marina Asensio",
       "position" : "Point Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -4564,6 +4651,35 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 10
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4572,7 +4688,7 @@
       ],
       "name" : "Carla Brito",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -7874,6 +7990,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 14,
+                  "made" : 8
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 8
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7882,7 +8027,7 @@
       ],
       "name" : "Dulcy Fankam Mendjiadeu",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -8759,6 +8904,35 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8767,7 +8941,7 @@
       ],
       "name" : "Daniela Gonzalez",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -9557,6 +9731,35 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9565,7 +9768,7 @@
       ],
       "name" : "Emma Johansson",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -11274,7 +11477,7 @@
       ],
       "name" : "Caitlin McGee",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14518,6 +14721,35 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 7
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 21,
+                "threePointFieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 7
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14526,7 +14758,7 @@
       ],
       "name" : "Sammie Puisis",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -17712,6 +17944,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 14,
+                  "made" : 10
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 28,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -17720,7 +17981,7 @@
       ],
       "name" : "Elena Tsineke",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -17967,7 +18228,7 @@
       ],
       "name" : "Bella Weary",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -18475,7 +18736,7 @@
       ],
       "name" : "Patience Williams",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -19106,7 +19367,7 @@
       ],
       "name" : "Priscilla Williams",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -22089,6 +22350,35 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-03-01T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -22097,7 +22387,7 @@
       ],
       "name" : "Aerial Wilson",
       "position" : "Point Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "American",
@@ -23232,18 +23522,56 @@
           ]
         },
         "attendance" : 2454
+      },
+      {
+        "venueCapacity" : 12012,
+        "opponentID" : "CIN",
+        "largestLead" : 30,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "D'Lynn Schertz",
+          "Saif Esho",
+          "Kayla Maxey"
+        ],
+        "didWin" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-01T17:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 43,
+            "opponentPoints" : 25
+          },
+          "secondHalf" : {
+            "teamPoints" : 42,
+            "opponentPoints" : 30
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 20,
+              "opponentPoints" : 12
+            },
+            {
+              "teamPoints" : 22,
+              "opponentPoints" : 18
+            }
+          ]
+        },
+        "attendance" : 1380
       }
     ],
     "upcoming" : [
       {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
+        "isConferenceMatchup" : false,
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T17:00-0700",
-        "venueCapacity" : 2012,
-        "opponentID" : "CIN",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-07T11:00-0700",
+        "venueCapacity" : 13300,
+        "opponentID" : "TBD",
+        "coverage" : "subscriptionRequired"
       }
     ]
-  }
+  },
+  "nationalRanking" : 25
 }

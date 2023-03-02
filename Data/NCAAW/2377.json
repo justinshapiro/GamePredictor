@@ -1636,6 +1636,35 @@
               "didStart" : true,
               "minutesPlayed" : 10,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1644,7 +1673,7 @@
       ],
       "name" : "Kaili Chamberlin",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -3171,6 +3200,35 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3179,7 +3237,7 @@
       ],
       "name" : "Alicja Falkowska",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -5025,6 +5083,35 @@
               "didStart" : false,
               "minutesPlayed" : 6,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5033,7 +5120,7 @@
       ],
       "name" : "Cristina Gil",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -8196,6 +8283,35 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8204,7 +8320,7 @@
       ],
       "name" : "Stephanie Guihon",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -12411,6 +12527,35 @@
               "didStart" : true,
               "minutesPlayed" : 10,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 6,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12419,7 +12564,7 @@
       ],
       "name" : "Desirae Hansen",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -12832,6 +12977,35 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12840,7 +13014,7 @@
       ],
       "name" : "Marta Hermoso",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -15367,7 +15541,7 @@
       ],
       "name" : "Zuzanna Kulinska",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -16221,6 +16395,35 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16229,7 +16432,7 @@
       ],
       "name" : "Paris Mullins",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -18083,7 +18286,7 @@
       ],
       "name" : "Clara Rosini",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -20335,6 +20538,35 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 4,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -20343,7 +20575,7 @@
       ],
       "name" : "Le'Shenae Stubblefield",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -23883,6 +24115,35 @@
               "didStart" : true,
               "minutesPlayed" : 19,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 8
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -23891,7 +24152,7 @@
       ],
       "name" : "Divine Tanks",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -25832,7 +26093,7 @@
       ],
       "name" : "Autumn Watts",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -26318,7 +26579,7 @@
       ],
       "name" : "Gabrielle Wener",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -26334,7 +26595,7 @@
       ],
       "name" : "Grace Wener",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -27623,6 +27884,35 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 5,
+              "date" : "2023-03-01T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -27631,7 +27921,7 @@
       ],
       "name" : "Mireia Yespes",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "Southland",
@@ -28632,6 +28922,43 @@
           "Kristen Jones",
           "Xavier Bell"
         ]
+      },
+      {
+        "venueCapacity" : 4242,
+        "opponentID" : "UNO",
+        "largestLead" : 16,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Kristin McKinnon",
+          "Shaun Robinson",
+          "Demoya Pugh"
+        ],
+        "didWin" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-01T16:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 30,
+            "opponentPoints" : 23
+          },
+          "secondHalf" : {
+            "teamPoints" : 38,
+            "opponentPoints" : 33
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 18,
+              "opponentPoints" : 17
+            },
+            {
+              "teamPoints" : 20,
+              "opponentPoints" : 16
+            }
+          ]
+        },
+        "attendance" : 1566
       }
     ],
     "upcoming" : [
@@ -28639,10 +28966,10 @@
         "isConferenceMatchup" : true,
         "venue" : "away",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T16:00-0700",
-        "venueCapacity" : 242,
+        "date" : "2023-03-06T12:30-0700",
+        "venueCapacity" : 4242,
         "opponentID" : "UNO",
-        "coverage" : "sportsTV"
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

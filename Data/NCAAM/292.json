@@ -337,7 +337,7 @@
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Isaiah Barganier"
     },
     {
@@ -1807,13 +1807,42 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2023-02-23T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 5,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Sherman Brashear"
     },
     {
@@ -3811,13 +3840,42 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2023-02-23T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 9
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 25,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 12,
+                  "made" : 7
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Ahren Freeman"
     },
     {
@@ -3924,7 +3982,7 @@
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Lee Hatcher"
     },
     {
@@ -4489,13 +4547,42 @@
               "didStart" : false,
               "minutesPlayed" : 28,
               "date" : "2023-02-23T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 5
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Adante' Holiman"
     },
     {
@@ -4979,7 +5066,7 @@
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Alex Horiuk"
     },
     {
@@ -6101,13 +6188,42 @@
               "didStart" : true,
               "minutesPlayed" : 8,
               "date" : "2023-02-23T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "C.J. Jackson"
     },
     {
@@ -8424,13 +8540,42 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2023-02-23T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 4
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Justin Johnson"
     },
     {
@@ -9198,13 +9343,42 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2023-02-23T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Will Johnston"
     },
     {
@@ -10013,7 +10187,7 @@
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "John Shanu II"
     },
     {
@@ -10062,7 +10236,7 @@
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Noels Slivackis"
     },
     {
@@ -10749,13 +10923,42 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2023-02-15T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Derrius Ward"
     },
     {
@@ -11935,13 +12138,42 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-23T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Daylen Williams"
     },
     {
@@ -12048,7 +12280,7 @@
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Louie Yebra"
     },
     {
@@ -15537,13 +15769,42 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2023-02-23T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-01T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTRGV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Dima Zdor"
     }
   ],
@@ -16332,18 +16593,39 @@
         },
         "attendance" : 886,
         "line" : 2
+      },
+      {
+        "venueCapacity" : 5050,
+        "opponentID" : "CBU",
+        "largestLead" : 0,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Mike Reed",
+          "Chad Shepherd",
+          "Randal Anders"
+        ],
+        "didWin" : false,
+        "overUnder" : 148,
+        "date" : "2023-03-01T20:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 36,
+            "opponentPoints" : 50
+          },
+          "secondHalf" : {
+            "teamPoints" : 34,
+            "opponentPoints" : 38
+          }
+        },
+        "attendance" : 3296,
+        "line" : 10
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T20:00-0700",
-        "venueCapacity" : 50,
-        "opponentID" : "CBU",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

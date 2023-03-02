@@ -2700,7 +2700,7 @@
       ],
       "name" : "Zippy Broughton",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -2716,7 +2716,7 @@
       ],
       "name" : "Frieda Buhner",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -3050,7 +3050,7 @@
       ],
       "name" : "Paige Clausen",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -6070,7 +6070,7 @@
       ],
       "name" : "Leilani Correa",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -9090,7 +9090,7 @@
       ],
       "name" : "KK Deans",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -12284,7 +12284,7 @@
       ],
       "name" : "Faith Dut",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -14080,7 +14080,7 @@
       ],
       "name" : "Ra Shaya Kyle",
       "position" : "Center",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -16659,7 +16659,7 @@
       ],
       "name" : "Aliyah Matharu",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -18716,7 +18716,7 @@
       ],
       "name" : "Jordyn Merritt",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -19282,7 +19282,7 @@
       ],
       "name" : "Myka Perry",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -22650,7 +22650,7 @@
       ],
       "name" : "Nina Rickards",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -24440,7 +24440,7 @@
       ],
       "name" : "Alberte Rimdal",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -26172,7 +26172,7 @@
       ],
       "name" : "Jeriah Warren",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -26195,7 +26195,7 @@
       ],
       "name" : "Taliyah Wyche",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -26218,7 +26218,7 @@
       ],
       "name" : "Tatyana Wyche",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "SEC",
@@ -27322,14 +27322,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "UK",
-        "venue" : "neutral",
-        "coverage" : "sportsTV",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T11:00-0700"
-      }
+
     ]
   }
 }

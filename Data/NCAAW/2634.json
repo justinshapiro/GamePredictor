@@ -1636,6 +1636,35 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 6,
+                "fieldGoals" : {
+                  "attempted" : 17,
+                  "made" : 6
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 21,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 2
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 7
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1644,7 +1673,7 @@
       ],
       "name" : "Gia Adams",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -3281,6 +3310,35 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3289,7 +3347,7 @@
       ],
       "name" : "Lyric Cole",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -5512,6 +5570,35 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-03-01T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5520,7 +5607,7 @@
       ],
       "name" : "Kennedy Davis",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -8306,6 +8393,35 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 5
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-01T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8314,7 +8430,7 @@
       ],
       "name" : "Erica Haynes-Overton",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8909,7 +9025,7 @@
       ],
       "name" : "Nia Hicks",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -9278,7 +9394,7 @@
       ],
       "name" : "Shequana Jackson",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -10660,6 +10776,35 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 5,
+              "date" : "2023-03-01T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10668,7 +10813,7 @@
       ],
       "name" : "Ashley Malone",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -12549,6 +12694,35 @@
               "didStart" : true,
               "minutesPlayed" : 14,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-01T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12557,7 +12731,7 @@
       ],
       "name" : "Sierra McCullough",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -12746,7 +12920,7 @@
       ],
       "name" : "Dream Muhammad",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -14383,6 +14557,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 4,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 8
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-03-01T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14391,7 +14594,7 @@
       ],
       "name" : "Saniah Parker",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -15700,7 +15903,7 @@
       ],
       "name" : "Shonnyvelle Regalado",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -16519,6 +16722,35 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-01T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16527,7 +16759,7 @@
       ],
       "name" : "Zyion Shannon",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -17064,7 +17296,7 @@
       ],
       "name" : "Corina Suarez-Tudela",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -17709,6 +17941,35 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-01T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -17717,7 +17978,7 @@
       ],
       "name" : "Ever Walker",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -19354,6 +19615,35 @@
               "didStart" : false,
               "minutesPlayed" : 11,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-01T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -19362,7 +19652,7 @@
       ],
       "name" : "Kianni Westbrook",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -21767,7 +22057,7 @@
       ],
       "name" : "Eboni Williams",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "OVC",
@@ -22801,18 +23091,47 @@
           ]
         },
         "attendance" : 2459
+      },
+      {
+        "venueCapacity" : 10000,
+        "opponentID" : "SIUE",
+        "largestLead" : 0,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Royce Blevins",
+          "Timothy Hackett",
+          "Alganese Carr"
+        ],
+        "didWin" : false,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-01T14:30-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 27,
+            "opponentPoints" : 41
+          },
+          "secondHalf" : {
+            "teamPoints" : 37,
+            "opponentPoints" : 30
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 19,
+              "opponentPoints" : 15
+            },
+            {
+              "teamPoints" : 18,
+              "opponentPoints" : 15
+            }
+          ]
+        },
+        "attendance" : 383
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "neutral",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T14:30-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "SIUE",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

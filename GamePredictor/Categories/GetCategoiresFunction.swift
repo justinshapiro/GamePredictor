@@ -12,7 +12,7 @@ import Foundation
 func getCategories() -> [Category] {
     print("\nGenerating categories...")
     
-    let categoryGroups: [[Category]] = [
+    var categoryGroups: [[Category]] = [
         getCategoryGroup(baseName: "More Offensive Rebounds Against Teams With Less Defensive Rebounds",
                          generalSize: doesMatchupHaveATeamWithMoreOffensiveReboundsAndDefensiveRebounds,
                          homeSize: doesMatchupHaveAHomeTeamWithMoreOffensiveReboundsAndDefensiveRebounds,
@@ -41,87 +41,6 @@ func getCategories() -> [Category] {
                          generalDidMatch: didTeamWithLessStealsAndMoreTurnoversCoverSpread,
                          generalDesignatedTeam: getTeamNameWithLessStealsAndMoreTurnovers),
         
-        getCategoryGroup(baseName: "Better National Ranking When Both Opponents Are Nationally Ranked",
-                         generalSize: doesMatchupHaveTwoNationallyRankedTeams,
-                         homeSize: { doesMatchupHaveTwoNationallyRankedTeams($0) && doesHomeTeamHaveBetterNationalRankingThanNationallyRankedAwayTeam($0) },
-                         awaySize: { doesMatchupHaveTwoNationallyRankedTeams($0) && doesAwayTeamHaveBetterNationalRankingThanNationallyRankedAwayTeam($0) },
-                         generalDidMatch: didTeamWithBetterNationalRankingCoverSpread,
-                         generalDesignatedTeam: getTeamNameWithBetterNationalRanking),
-        
-        getCategoryGroup(baseName: "Worse National Ranking When Both Opponents Are Nationally Ranked",
-                         generalSize: doesMatchupHaveTwoNationallyRankedTeams,
-                         homeSize: { doesMatchupHaveTwoNationallyRankedTeams($0) && doesHomeTeamHaveWorseNationalRankingThanNationallyRankedAwayTeam($0) },
-                         awaySize: { doesMatchupHaveTwoNationallyRankedTeams($0) && doesAwayTeamHaveWorseNationalRankingThanNationallyRankedAwayTeam($0) },
-                         generalDidMatch: didTeamWithWorseNationalRankingCoverSpread,
-                         generalDesignatedTeam: getTeamNameWithWorseNationalRanking),
-        
-        getCategoryGroup(baseName: "Better Offensive Efficiency When Both Opponents Are Nationally Ranked",
-                         generalSize: { doesMatchupHaveTwoNationallyRankedTeams($0) && isComparisonNonEqual(.stat(.offensiveEfficiency), for: $0) },
-                         homeSize: {
-                             doesMatchupHaveTwoNationallyRankedTeams($0)
-                                && isComparisonNonEqual(.stat(.offensiveEfficiency), for: $0)
-                                && isComparisonGreaterForHomeTeam(.stat(.offensiveEfficiency), for: $0)
-                         },
-                         awaySize: {
-                             doesMatchupHaveTwoNationallyRankedTeams($0)
-                                && isComparisonNonEqual(.stat(.offensiveEfficiency), for: $0)
-                                && isComparisonGreaterForAwayTeam(.stat(.offensiveEfficiency), for: $0)
-                         },
-                         generalDidMatch: { didTeamWithGreaterComparisonCoverSpread(.stat(.offensiveEfficiency), for: $0) },
-                         generalDesignatedTeam: { getTeamNameWithGreaterComparison(.stat(.offensiveEfficiency), for: $0) }),
-        
-        getCategoryGroup(baseName: "Worse Offensive Efficiency When Both Opponents Are Nationally Ranked",
-                         generalSize: { doesMatchupHaveTwoNationallyRankedTeams($0) && isComparisonNonEqual(.stat(.offensiveEfficiency), for: $0) },
-                         homeSize: {
-                             doesMatchupHaveTwoNationallyRankedTeams($0)
-                                && isComparisonNonEqual(.stat(.offensiveEfficiency), for: $0)
-                                && isComparisonLessForHomeTeam(.stat(.offensiveEfficiency), for: $0)
-                         },
-                         awaySize: {
-                             doesMatchupHaveTwoNationallyRankedTeams($0)
-                                && isComparisonNonEqual(.stat(.offensiveEfficiency), for: $0)
-                                && isComparisonLessForAwayTeam(.stat(.offensiveEfficiency), for: $0)
-                         },
-                         generalDidMatch: { didTeamWithLesserComparisonCoverSpread(.stat(.offensiveEfficiency), for: $0) },
-                         generalDesignatedTeam: { getTeamNameWithLesserComparison(.stat(.offensiveEfficiency), for: $0) }),
-        
-        getCategoryGroup(baseName: "Better Defensive Efficiency When Both Opponents Are Nationally Ranked",
-                         generalSize: { doesMatchupHaveTwoNationallyRankedTeams($0) && isComparisonNonEqual(.stat(.defensiveEfficiency), for: $0) },
-                         homeSize: {
-                             doesMatchupHaveTwoNationallyRankedTeams($0)
-                                && isComparisonNonEqual(.stat(.defensiveEfficiency), for: $0)
-                                && isComparisonGreaterForHomeTeam(.stat(.defensiveEfficiency), for: $0)
-                         },
-                         awaySize: {
-                             doesMatchupHaveTwoNationallyRankedTeams($0)
-                                && isComparisonNonEqual(.stat(.defensiveEfficiency), for: $0)
-                                && isComparisonGreaterForAwayTeam(.stat(.defensiveEfficiency), for: $0)
-                         },
-                         generalDidMatch: { didTeamWithGreaterComparisonCoverSpread(.stat(.defensiveEfficiency), for: $0) },
-                         generalDesignatedTeam: { getTeamNameWithGreaterComparison(.stat(.defensiveEfficiency), for: $0) }),
-        
-        getCategoryGroup(baseName: "Worse Defensive Efficiency When Both Opponents Are Nationally Ranked",
-                         generalSize: { doesMatchupHaveTwoNationallyRankedTeams($0) && isComparisonNonEqual(.stat(.defensiveEfficiency), for: $0) },
-                         homeSize: {
-                             doesMatchupHaveTwoNationallyRankedTeams($0)
-                                && isComparisonNonEqual(.stat(.defensiveEfficiency), for: $0)
-                                && isComparisonLessForHomeTeam(.stat(.defensiveEfficiency), for: $0)
-                         },
-                         awaySize: {
-                             doesMatchupHaveTwoNationallyRankedTeams($0)
-                                && isComparisonNonEqual(.stat(.defensiveEfficiency), for: $0)
-                                && isComparisonLessForAwayTeam(.stat(.defensiveEfficiency), for: $0)
-                         },
-                         generalDidMatch: { didTeamWithLesserComparisonCoverSpread(.stat(.defensiveEfficiency), for: $0) },
-                         generalDesignatedTeam: { getTeamNameWithLesserComparison(.stat(.defensiveEfficiency), for: $0) }),
-        
-        getCategoryGroup(baseName: "National Ranking Against Unranked Opponent",
-                         generalSize: doesMatchupHaveOneNationallyRankedAndOneUnrankedTeam,
-                         homeSize: doesMatchupHaveOneNationallyRankedHomeTeamAndOneUnrankedTeam,
-                         awaySize: doesMatchupHaveOneNationallyRankedAwayTeamAndOneUnrankedTeam,
-                         generalDidMatch: didNationallyRankedTeamCoverSpreadOverUnrankedTeam,
-                         generalDesignatedTeam: getNationallyRankedTeamName),
-        
         getCategoryGroup(baseName: "Better Offensive And Defensive Efficiency",
                          generalSize: doesEitherTeamHaveBetterOffensiveAndDefensiveEfficiency,
                          homeSize: { doesEitherTeamHaveBetterOffensiveAndDefensiveEfficiency($0) && doesHomeTeamHaveBetterOffensiveAndDefensiveEfficiency($0) },
@@ -136,28 +55,6 @@ func getCategories() -> [Category] {
                          generalDidMatch: didTeamWithWorseOffensiveAndDefensiveEfficiencyCoverSpread,
                          generalDesignatedTeam: getTeamNameWithWorseOffensiveAndDefensiveEfficiency),
         
-        getCategoryGroup(baseName: "Unranked Coming Off Big Loss Facing Ranked Opponent",
-                         generalSize: doesMatchupHaveOneNationallyRankedAndOneUnrankedTeamComingOffBigLoss,
-                         homeSize: doesMatchupHaveOneNationallyRankedAndOneUnrankedHomeTeamComingOffBigLoss,
-                         awaySize: doesMatchupHaveOneNationallyRankedAndOneUnrankedAwayTeamComingOffBigLoss,
-                         generalDidMatch: { !didNationallyRankedTeamCoverSpreadOverUnrankedTeam($0) },
-                         generalDesignatedTeam: getUnrankedTeamName),
-        
-        getCategoryGroup(baseName: "Being In a Non-BIG Conference Facing Opponent in a BIG Conference",
-                         generalSize: doesMatchupHaveTeamInNonBIGConferenceFacingTeamInBIGConference,
-                         homeSize: doesMatchupHaveAHomeTeamInNonBIGConferenceFacingTeamInBIGConference,
-                         awaySize: doesMatchupHaveAnAwayTeamInNonBIGConferenceFacingTeamInBIGConference,
-                         generalDidMatch: didTeamInNonBIGConferenceCoverSpreadAgainstOpponentInBIGConference,
-                         generalDesignatedTeam: getNameOfTeamInNonBIGConference),
-        
-        getCategoryGroup(baseName: "Being In a BIG Conference Facing Opponent in a Non-BIG Conference",
-                         generalSize: doesMatchupHaveTeamInNonBIGConferenceFacingTeamInBIGConference,
-                         homeSize: doesMatchupHaveAHomeTeamInABIGConferenceFacingTeamInANonBIGConference,
-                         awaySize: doesMatchupHaveAnAwayTeamInABIGConferenceFacingTeamInNonBIGConference,
-                         generalDidMatch: { !didTeamInNonBIGConferenceCoverSpreadAgainstOpponentInBIGConference($0) },
-                         generalDesignatedTeam: getNameOfTeamInBIGConference),
-        
-        getHomeAwayCategoryGroup(baseName: "Both Teams Being Nationally Ranked", size: doesMatchupHaveTwoNationallyRankedTeams),
         getHomeAwayCategoryGroup(baseName: "In Primetime Matchup", size: { $0.1.coverage == .standardTV }),
         getHomeAwayCategoryGroup(baseName: "In Sports TV Matchup", size: { $0.1.coverage == .sportsTV }),
         getHomeAwayCategoryGroup(baseName: "In Matchup w/ No TV Coverage", size: { $0.1.coverage == nil }),
@@ -167,6 +64,116 @@ func getCategories() -> [Category] {
         getHomeAwayCategoryGroup(baseName: "", size: { _ in true })
     ]
     
+    if SPORT_MODE.isCollege {
+        let customCategoryGroups: [[Category]] = [
+            getCategoryGroup(baseName: "Better National Ranking When Both Opponents Are Nationally Ranked",
+                             generalSize: doesMatchupHaveTwoNationallyRankedTeams,
+                             homeSize: { doesMatchupHaveTwoNationallyRankedTeams($0) && doesHomeTeamHaveBetterNationalRankingThanNationallyRankedAwayTeam($0) },
+                             awaySize: { doesMatchupHaveTwoNationallyRankedTeams($0) && doesAwayTeamHaveBetterNationalRankingThanNationallyRankedAwayTeam($0) },
+                             generalDidMatch: didTeamWithBetterNationalRankingCoverSpread,
+                             generalDesignatedTeam: getTeamNameWithBetterNationalRanking),
+            
+            getCategoryGroup(baseName: "Worse National Ranking When Both Opponents Are Nationally Ranked",
+                             generalSize: doesMatchupHaveTwoNationallyRankedTeams,
+                             homeSize: { doesMatchupHaveTwoNationallyRankedTeams($0) && doesHomeTeamHaveWorseNationalRankingThanNationallyRankedAwayTeam($0) },
+                             awaySize: { doesMatchupHaveTwoNationallyRankedTeams($0) && doesAwayTeamHaveWorseNationalRankingThanNationallyRankedAwayTeam($0) },
+                             generalDidMatch: didTeamWithWorseNationalRankingCoverSpread,
+                             generalDesignatedTeam: getTeamNameWithWorseNationalRanking),
+            
+            getCategoryGroup(baseName: "Better Offensive Efficiency When Both Opponents Are Nationally Ranked",
+                             generalSize: { doesMatchupHaveTwoNationallyRankedTeams($0) && isComparisonNonEqual(.stat(.offensiveEfficiency), for: $0) },
+                             homeSize: {
+                                 doesMatchupHaveTwoNationallyRankedTeams($0)
+                                    && isComparisonNonEqual(.stat(.offensiveEfficiency), for: $0)
+                                    && isComparisonGreaterForHomeTeam(.stat(.offensiveEfficiency), for: $0)
+                             },
+                             awaySize: {
+                                 doesMatchupHaveTwoNationallyRankedTeams($0)
+                                    && isComparisonNonEqual(.stat(.offensiveEfficiency), for: $0)
+                                    && isComparisonGreaterForAwayTeam(.stat(.offensiveEfficiency), for: $0)
+                             },
+                             generalDidMatch: { didTeamWithGreaterComparisonCoverSpread(.stat(.offensiveEfficiency), for: $0) },
+                             generalDesignatedTeam: { getTeamNameWithGreaterComparison(.stat(.offensiveEfficiency), for: $0) }),
+            
+            getCategoryGroup(baseName: "Worse Offensive Efficiency When Both Opponents Are Nationally Ranked",
+                             generalSize: { doesMatchupHaveTwoNationallyRankedTeams($0) && isComparisonNonEqual(.stat(.offensiveEfficiency), for: $0) },
+                             homeSize: {
+                                 doesMatchupHaveTwoNationallyRankedTeams($0)
+                                    && isComparisonNonEqual(.stat(.offensiveEfficiency), for: $0)
+                                    && isComparisonLessForHomeTeam(.stat(.offensiveEfficiency), for: $0)
+                             },
+                             awaySize: {
+                                 doesMatchupHaveTwoNationallyRankedTeams($0)
+                                    && isComparisonNonEqual(.stat(.offensiveEfficiency), for: $0)
+                                    && isComparisonLessForAwayTeam(.stat(.offensiveEfficiency), for: $0)
+                             },
+                             generalDidMatch: { didTeamWithLesserComparisonCoverSpread(.stat(.offensiveEfficiency), for: $0) },
+                             generalDesignatedTeam: { getTeamNameWithLesserComparison(.stat(.offensiveEfficiency), for: $0) }),
+            
+            getCategoryGroup(baseName: "Better Defensive Efficiency When Both Opponents Are Nationally Ranked",
+                             generalSize: { doesMatchupHaveTwoNationallyRankedTeams($0) && isComparisonNonEqual(.stat(.defensiveEfficiency), for: $0) },
+                             homeSize: {
+                                 doesMatchupHaveTwoNationallyRankedTeams($0)
+                                    && isComparisonNonEqual(.stat(.defensiveEfficiency), for: $0)
+                                    && isComparisonGreaterForHomeTeam(.stat(.defensiveEfficiency), for: $0)
+                             },
+                             awaySize: {
+                                 doesMatchupHaveTwoNationallyRankedTeams($0)
+                                    && isComparisonNonEqual(.stat(.defensiveEfficiency), for: $0)
+                                    && isComparisonGreaterForAwayTeam(.stat(.defensiveEfficiency), for: $0)
+                             },
+                             generalDidMatch: { didTeamWithGreaterComparisonCoverSpread(.stat(.defensiveEfficiency), for: $0) },
+                             generalDesignatedTeam: { getTeamNameWithGreaterComparison(.stat(.defensiveEfficiency), for: $0) }),
+            
+            getCategoryGroup(baseName: "Worse Defensive Efficiency When Both Opponents Are Nationally Ranked",
+                             generalSize: { doesMatchupHaveTwoNationallyRankedTeams($0) && isComparisonNonEqual(.stat(.defensiveEfficiency), for: $0) },
+                             homeSize: {
+                                 doesMatchupHaveTwoNationallyRankedTeams($0)
+                                    && isComparisonNonEqual(.stat(.defensiveEfficiency), for: $0)
+                                    && isComparisonLessForHomeTeam(.stat(.defensiveEfficiency), for: $0)
+                             },
+                             awaySize: {
+                                 doesMatchupHaveTwoNationallyRankedTeams($0)
+                                    && isComparisonNonEqual(.stat(.defensiveEfficiency), for: $0)
+                                    && isComparisonLessForAwayTeam(.stat(.defensiveEfficiency), for: $0)
+                             },
+                             generalDidMatch: { didTeamWithLesserComparisonCoverSpread(.stat(.defensiveEfficiency), for: $0) },
+                             generalDesignatedTeam: { getTeamNameWithLesserComparison(.stat(.defensiveEfficiency), for: $0) }),
+            
+            getCategoryGroup(baseName: "National Ranking Against Unranked Opponent",
+                             generalSize: doesMatchupHaveOneNationallyRankedAndOneUnrankedTeam,
+                             homeSize: doesMatchupHaveOneNationallyRankedHomeTeamAndOneUnrankedTeam,
+                             awaySize: doesMatchupHaveOneNationallyRankedAwayTeamAndOneUnrankedTeam,
+                             generalDidMatch: didNationallyRankedTeamCoverSpreadOverUnrankedTeam,
+                             generalDesignatedTeam: getNationallyRankedTeamName),
+            
+            getCategoryGroup(baseName: "Unranked Coming Off Big Loss Facing Ranked Opponent",
+                             generalSize: doesMatchupHaveOneNationallyRankedAndOneUnrankedTeamComingOffBigLoss,
+                             homeSize: doesMatchupHaveOneNationallyRankedAndOneUnrankedHomeTeamComingOffBigLoss,
+                             awaySize: doesMatchupHaveOneNationallyRankedAndOneUnrankedAwayTeamComingOffBigLoss,
+                             generalDidMatch: { !didNationallyRankedTeamCoverSpreadOverUnrankedTeam($0) },
+                             generalDesignatedTeam: getUnrankedTeamName),
+            
+            getCategoryGroup(baseName: "Being In a Non-BIG Conference Facing Opponent in a BIG Conference",
+                             generalSize: doesMatchupHaveTeamInNonBIGConferenceFacingTeamInBIGConference,
+                             homeSize: doesMatchupHaveAHomeTeamInNonBIGConferenceFacingTeamInBIGConference,
+                             awaySize: doesMatchupHaveAnAwayTeamInNonBIGConferenceFacingTeamInBIGConference,
+                             generalDidMatch: didTeamInNonBIGConferenceCoverSpreadAgainstOpponentInBIGConference,
+                             generalDesignatedTeam: getNameOfTeamInNonBIGConference),
+            
+            getCategoryGroup(baseName: "Being In a BIG Conference Facing Opponent in a Non-BIG Conference",
+                             generalSize: doesMatchupHaveTeamInNonBIGConferenceFacingTeamInBIGConference,
+                             homeSize: doesMatchupHaveAHomeTeamInABIGConferenceFacingTeamInANonBIGConference,
+                             awaySize: doesMatchupHaveAnAwayTeamInABIGConferenceFacingTeamInNonBIGConference,
+                             generalDidMatch: { !didTeamInNonBIGConferenceCoverSpreadAgainstOpponentInBIGConference($0) },
+                             generalDesignatedTeam: getNameOfTeamInBIGConference),
+            
+            getHomeAwayCategoryGroup(baseName: "Both Teams Being Nationally Ranked", size: doesMatchupHaveTwoNationallyRankedTeams),
+        ]
+        
+        categoryGroups += customCategoryGroups
+    }
+    
     let allCategories: [Category] = categoryGroups.flatMap { $0 } + getCategoriesForAllComparisons() + getOneOffCategories()
     let combinedCategories = getCategoryCombinations(from: allCategories)
     
@@ -175,49 +182,75 @@ func getCategories() -> [Category] {
 }
 
 private func getOneOffCategories() -> [Category] {
-    [
-        .init(name: "Away Team Covered Spread w/ Good Road Record Against Home Team With Bad Home Record (Both Conference And Non-Conference Games, Non-Neutral Venues)",
+    var oneOffCategories: [Category] = [
+        .init(name: "Away Team Covered Spread w/ Good Road Record Against Home Team With Bad Home Record\(SPORT_MODE.isCollege ? " (Both Conference And Non-Conference Games, Non-Neutral Venues)" : "")",
               isMember: { !$0.1.venue.isNeutral && doesMatchupHaveAnAwayTeamWithGoodRoadRecordAndHomeTeamWithBadHomeRecord($0) },
               didMatch: didAwayTeamCoverTheSpread,
               designatedTeam: getAwayTeamName,
               weight: 1),
         
-        .init(name: "Home Team Covered Spread w/ Good Home Record Against Away Team With Bad Road Record (Both Conference And Non-Conference Games, Non-Neutral Venues)",
+        .init(name: "Home Team Covered Spread w/ Good Home Record Against Away Team With Bad Road Record\(SPORT_MODE.isCollege ? " (Both Conference And Non-Conference Games, Non-Neutral Venues)" : "")",
               isMember: { !$0.1.venue.isNeutral && doesMatchupHaveAHomeTeamWithGoodHomeRecordAndAwayTeamWithBadRoadRecord($0) },
               didMatch: didHomeTeamCoverTheSpread,
               designatedTeam: getHomeTeamName,
               weight: 1),
         
-        .init(name: "Away Team Covered Spread w/ Good Road Record Against Home Team With Bad Home Record (Conference Games, Non-Neutral Venues)",
+            .init(name: "Away Team Covered Spread w/ Good Road Record Against Home Team With Bad Home Record\(SPORT_MODE.isCollege ? " (Conference Games, Non-Neutral Venues)": "")",
               isMember: { !$0.1.venue.isNeutral && $0.1.isConferenceMatchup && doesMatchupHaveAnAwayTeamWithGoodRoadRecordAndHomeTeamWithBadHomeRecord($0) },
               didMatch: didAwayTeamCoverTheSpread,
               designatedTeam: getAwayTeamName,
               weight: 1),
         
-        .init(name: "Home Team Covered Spread w/ Good Home Record Against Away Team With Bad Road Record (Conference Games, Non-Neutral Venues)",
+        .init(name: "Home Team Covered Spread w/ Good Home Record Against Away Team With Bad Road Record\(SPORT_MODE.isCollege ? " (Conference Games, Non-Neutral Venues)": "")",
               isMember: { !$0.1.venue.isNeutral && $0.1.isConferenceMatchup && doesMatchupHaveAHomeTeamWithGoodHomeRecordAndAwayTeamWithBadRoadRecord($0) },
               didMatch: didHomeTeamCoverTheSpread,
               designatedTeam: getHomeTeamName,
               weight: 1),
         
-        .init(name: "Away Team Covered Spread w/ Good Road Record Against Home Team With Bad Home Record (Non-Conference Games, Non-Neutral Venues)",
+        .init(name: "Away Team Covered Spread w/ Good Road Record Against Home Team With Bad Home Record\(SPORT_MODE.isCollege ? " (Non-Conference Games, Non-Neutral Venues)": "")",
               isMember: { !$0.1.venue.isNeutral && !$0.1.isConferenceMatchup && doesMatchupHaveAnAwayTeamWithGoodRoadRecordAndHomeTeamWithBadHomeRecord($0) },
               didMatch: didAwayTeamCoverTheSpread,
               designatedTeam: getAwayTeamName,
               weight: 1),
         
-        .init(name: "Home Team Covered Spread w/ Good Home Record Against Away Team With Bad Road Record (Non-Conference Games, Non-Neutral Venues)",
+        .init(name: "Home Team Covered Spread w/ Good Home Record Against Away Team With Bad Road Record\(SPORT_MODE.isCollege ? " (Non-Conference Games, Non-Neutral Venues)": "")",
               isMember: { !$0.1.venue.isNeutral && !$0.1.isConferenceMatchup && doesMatchupHaveAHomeTeamWithGoodHomeRecordAndAwayTeamWithBadRoadRecord($0) },
               didMatch: didHomeTeamCoverTheSpread,
               designatedTeam: getHomeTeamName,
-              weight: 1),
-        
-        .init(name: "Covered Spread w/ Better Road Record Than Opponent When In Neutral Venue (Non-Conference Games, Neutral Venues)",
-              isMember: { $0.1.venue.isNeutral && areRoadRecordsNonEqual($0) },
-              didMatch: didTeamWithBetterRoadRecordCoverSpread,
-              designatedTeam: getTeamNameWithBetterRoadRecord,
-              weight: 1),
+              weight: 1)
     ]
+    
+    if SPORT_MODE.isCollege {
+        oneOffCategories.append(
+            .init(name: "Covered Spread w/ Better Road Record Than Opponent When In Neutral Venue (Non-Conference Games, Neutral Venues)",
+                  isMember: { $0.1.venue.isNeutral && areRoadRecordsNonEqual($0) },
+                  didMatch: didTeamWithBetterRoadRecordCoverSpread,
+                  designatedTeam: getTeamNameWithBetterRoadRecord,
+                  weight: 1)
+        )
+    } else {
+        oneOffCategories += [
+            .init(name: "Covered Spread w/ On A Back-to-Back",
+                  isMember: doesMatchupHaveOnlyOneTeamOnABackToBack,
+                  didMatch: didTeamOnBackToBackCoverSpread,
+                  designatedTeam: getTeamNameOnABackToBack,
+                  weight: 1),
+            
+            .init(name: "Home Team Covered Spread w/ On A Back-to-Back",
+                  isMember: doesMatchupHaveHomeTeamOnABackToBack,
+                  didMatch: didTeamOnBackToBackCoverSpread,
+                  designatedTeam: getTeamNameOnABackToBack,
+                  weight: 1),
+        
+            .init(name: "Away Team Covered Spread w/ On A Back-to-Back",
+                  isMember: doesMatchupHaveAwayTeamOnABackToBack,
+                  didMatch: didTeamOnBackToBackCoverSpread,
+                  designatedTeam: getTeamNameOnABackToBack,
+                  weight: 1)
+        ]
+    }
+    
+    return oneOffCategories
 }
 
 func updateCategoryWeights() {

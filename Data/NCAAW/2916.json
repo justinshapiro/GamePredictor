@@ -2077,6 +2077,35 @@
               "didStart" : false,
               "minutesPlayed" : 24,
               "date" : "2022-11-10T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2085,7 +2114,7 @@
       ],
       "name" : "Myra Bell",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -2875,6 +2904,35 @@
               "didStart" : false,
               "minutesPlayed" : 26,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2883,7 +2941,7 @@
       ],
       "name" : "Aliyah Collins",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -5280,6 +5338,35 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 9,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 9
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5288,7 +5375,7 @@
       ],
       "name" : "Nina De Leon Negron",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -6078,6 +6165,35 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6086,7 +6202,7 @@
       ],
       "name" : "Jorja Elliott",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -6096,7 +6212,7 @@
       ],
       "name" : "Sophia Griego",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -6770,6 +6886,35 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6778,7 +6923,7 @@
       ],
       "name" : "Kaylee Howell",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -8653,6 +8798,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8661,7 +8835,7 @@
       ],
       "name" : "Brenna Perez",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -8972,7 +9146,7 @@
       ],
       "name" : "Zaya Price",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -9588,6 +9762,35 @@
               "didStart" : false,
               "minutesPlayed" : 7,
               "date" : "2022-11-29T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 5
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 5
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 18,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9596,7 +9799,7 @@
       ],
       "name" : "Breelyn Sanborn",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -9612,7 +9815,7 @@
       ],
       "name" : "Paloma Simon",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -11023,6 +11226,35 @@
               "didStart" : true,
               "minutesPlayed" : 15,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 18,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11031,7 +11263,7 @@
       ],
       "name" : "Chloe Storer",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -12935,6 +13167,35 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2022-11-07T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-03-01T16:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12943,7 +13204,7 @@
       ],
       "name" : "Destiny Terrell",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -14623,7 +14884,7 @@
       ],
       "name" : "Yuliyana Valcheva",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -15984,11 +16245,11 @@
       ],
       "name" : "Hanna Wheeler",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "Southland",
-  "conferenceRanking" : 5,
+  "conferenceRanking" : 4,
   "games" : {
     "previous" : [
       {
@@ -16968,17 +17229,54 @@
           ]
         },
         "attendance" : 0
+      },
+      {
+        "venueCapacity" : 3400,
+        "opponentID" : "NWST",
+        "largestLead" : 22,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Travis Jones",
+          "LaShonda Kidd",
+          "Tiffany Bridges"
+        ],
+        "didWin" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-01T16:30-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 40,
+            "opponentPoints" : 36
+          },
+          "secondHalf" : {
+            "teamPoints" : 39,
+            "opponentPoints" : 24
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 15,
+              "opponentPoints" : 10
+            },
+            {
+              "teamPoints" : 24,
+              "opponentPoints" : 14
+            }
+          ]
+        },
+        "attendance" : 601
       }
     ],
     "upcoming" : [
       {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
+        "isConferenceMatchup" : false,
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T16:30-0700",
-        "venueCapacity" : 400,
-        "opponentID" : "NWST",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-07T10:00-0700",
+        "venueCapacity" : 4242,
+        "opponentID" : "TBD",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

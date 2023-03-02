@@ -1288,6 +1288,35 @@
               "didStart" : false,
               "minutesPlayed" : 0,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1296,7 +1325,7 @@
       ],
       "name" : "Makaiya Brooks",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -2057,6 +2086,35 @@
               "didStart" : false,
               "minutesPlayed" : 11,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 18,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2065,7 +2123,7 @@
       ],
       "name" : "Shelbee Brown",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -3441,6 +3499,35 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3449,7 +3536,7 @@
       ],
       "name" : "Aliyah Green",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -6519,6 +6606,35 @@
               "didStart" : true,
               "minutesPlayed" : 43,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 3
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6527,7 +6643,7 @@
       ],
       "name" : "Madison Griggs",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8692,6 +8808,35 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8700,7 +8845,7 @@
       ],
       "name" : "Destyne Jackson",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -11097,6 +11242,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11105,7 +11279,7 @@
       ],
       "name" : "Emani Jefferson",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -11115,7 +11289,7 @@
       ],
       "name" : "Serena Lee",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -12607,6 +12781,35 @@
               "didStart" : true,
               "minutesPlayed" : 26,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12615,7 +12818,7 @@
       ],
       "name" : "Hannah Riddick",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -15836,6 +16039,35 @@
               "didStart" : true,
               "minutesPlayed" : 40,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 14,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -15844,7 +16076,7 @@
       ],
       "name" : "Jamirah Shutes",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -16634,6 +16866,35 @@
               "didStart" : true,
               "minutesPlayed" : 18,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 25,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16642,7 +16903,7 @@
       ],
       "name" : "Destiny Thomas",
       "position" : "Center",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -17432,6 +17693,35 @@
               "didStart" : false,
               "minutesPlayed" : 8,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -17440,7 +17730,7 @@
       ],
       "name" : "Tanyuel Welch",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -18019,6 +18309,35 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -18027,7 +18346,7 @@
       ],
       "name" : "Lanetta Williams",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -20169,6 +20488,35 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -20177,7 +20525,7 @@
       ],
       "name" : "Jada Wright",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "American",
@@ -21190,17 +21538,54 @@
           ]
         },
         "attendance" : 981
+      },
+      {
+        "venueCapacity" : 2565,
+        "opponentID" : "TULN",
+        "largestLead" : 14,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Ryan Durham",
+          "Bobby Ray",
+          "Natasha Brown"
+        ],
+        "didWin" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-01T18:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 28,
+            "opponentPoints" : 23
+          },
+          "secondHalf" : {
+            "teamPoints" : 27,
+            "opponentPoints" : 21
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 15,
+              "opponentPoints" : 12
+            },
+            {
+              "teamPoints" : 12,
+              "opponentPoints" : 9
+            }
+          ]
+        },
+        "attendance" : 1146
       }
     ],
     "upcoming" : [
       {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
+        "isConferenceMatchup" : false,
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T18:00-0700",
-        "venueCapacity" : 565,
-        "opponentID" : "TULN",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-07T17:00-0700",
+        "venueCapacity" : 13300,
+        "opponentID" : "TBD",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

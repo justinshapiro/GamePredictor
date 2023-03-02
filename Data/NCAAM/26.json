@@ -743,7 +743,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Dylan Andrews"
     },
     {
@@ -1343,7 +1343,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Amari Bailey"
     },
     {
@@ -2088,7 +2088,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Adem Bona"
     },
     {
@@ -5664,7 +5664,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Tyger Campbell"
     },
     {
@@ -6177,7 +6177,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Abramo Canka"
     },
     {
@@ -8645,7 +8645,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jaylen Clark"
     },
     {
@@ -8996,7 +8996,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Logan Cremonesi"
     },
     {
@@ -10008,7 +10008,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Mac Etienne"
     },
     {
@@ -13613,7 +13613,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jaime Jaquez Jr."
     },
     {
@@ -13691,7 +13691,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Evan Manjikian"
     },
     {
@@ -14175,7 +14175,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Will McClendon"
     },
     {
@@ -16475,7 +16475,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kenneth Nwuba"
     },
     {
@@ -16490,7 +16490,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jack Seidler"
     },
     {
@@ -20971,7 +20971,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "David Singleton"
     },
     {
@@ -21943,7 +21943,7 @@
           "teamID" : "UCLA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Russell Stong"
     }
   ],
@@ -22708,21 +22708,22 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "ASU",
-        "venue" : "away",
         "isConferenceMatchup" : true,
+        "venue" : "away",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 3800,
-        "date" : "2023-03-01T22:00-0700"
+        "date" : "2023-03-02T19:00-0700",
+        "venueCapacity" : 13800,
+        "opponentID" : "ASU",
+        "coverage" : "standardTV"
       },
       {
         "isConferenceMatchup" : true,
         "venue" : "away",
         "seasonType" : "regularSeason",
         "date" : "2023-03-04T20:00-0700",
-        "venueCapacity" : 3800,
+        "venueCapacity" : 13800,
         "opponentID" : "ARIZ",
-        "coverage" : "sportsTV"
+        "coverage" : "standardTV"
       }
     ]
   },

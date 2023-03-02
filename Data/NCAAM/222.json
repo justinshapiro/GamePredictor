@@ -2408,13 +2408,42 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2023-02-25T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 9,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "VILL"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Chris Arcidiacono"
     },
     {
@@ -3269,13 +3298,42 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2023-02-25T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 22,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "VILL"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Mark Armstrong"
     },
     {
@@ -3556,7 +3614,7 @@
           "teamID" : "VILL"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Angelo Brizzi"
     },
     {
@@ -7915,13 +7973,42 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-25T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "VILL"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Caleb Daniels"
     },
     {
@@ -10499,13 +10586,42 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-25T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 3,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 10,
+                  "made" : 9
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "VILL"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Eric Dixon"
     },
     {
@@ -11302,13 +11418,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-25T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 5,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "VILL"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Brendan Hausen"
     },
     {
@@ -12633,13 +12778,42 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2023-02-25T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "VILL"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jordan Longino"
     },
     {
@@ -15339,7 +15513,7 @@
           "teamID" : "VILL"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Justin Moore"
     },
     {
@@ -15742,7 +15916,7 @@
           "teamID" : "VILL"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Nnanna Njoku"
     },
     {
@@ -15757,7 +15931,7 @@
       "seasons" : [
 
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Collin O'Toole"
     },
     {
@@ -16891,7 +17065,7 @@
           "teamID" : "VILL"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Trey Patterson"
     },
     {
@@ -20902,13 +21076,42 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2023-02-25T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 22,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "VILL"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Brandon Slater"
     },
     {
@@ -21560,13 +21763,42 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2023-02-25T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 19,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "VILL"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Cam Whitmore"
     }
   ],
@@ -22420,17 +22652,38 @@
         },
         "attendance" : 17114,
         "line" : 2.5
+      },
+      {
+        "venueCapacity" : 18711,
+        "opponentID" : "HALL",
+        "largestLead" : 6,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Matt Potter",
+          "Jeff Anderson",
+          "Tommy Morrissey"
+        ],
+        "didWin" : true,
+        "overUnder" : 130.5,
+        "date" : "2023-02-28T18:30-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 34,
+            "opponentPoints" : 37
+          },
+          "secondHalf" : {
+            "teamPoints" : 42,
+            "opponentPoints" : 35
+          }
+        },
+        "attendance" : 11071,
+        "line" : 2.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "HALL",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 8711,
-        "date" : "2023-02-28T18:30-0700"
-      },
       {
         "opponentID" : "CONN",
         "venue" : "away",

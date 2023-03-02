@@ -1041,7 +1041,7 @@
       ],
       "name" : "Chisom Ajekwu",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -2866,7 +2866,7 @@
       ],
       "name" : "Ioanna Chatzileonti",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -4329,6 +4329,35 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2023-02-26T13:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 9,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4337,7 +4366,7 @@
       ],
       "name" : "Nadira Eltayeb",
       "position" : "Center",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -7610,6 +7639,35 @@
               "didStart" : true,
               "minutesPlayed" : 40,
               "date" : "2023-02-26T13:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 20,
+                  "made" : 12
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 31,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7618,7 +7676,7 @@
       ],
       "name" : "Zakiyah Franklin",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -9313,6 +9371,35 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-26T13:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 3,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 5
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9321,7 +9408,7 @@
       ],
       "name" : "Taiyanna Jackson",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -11225,6 +11312,35 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2022-11-09T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11233,7 +11349,7 @@
       ],
       "name" : "Katrine Jessen",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -14361,6 +14477,35 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2022-11-09T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14369,7 +14514,7 @@
       ],
       "name" : "Holly Kersgieter",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -16418,6 +16563,35 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-26T13:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 7
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 22,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "assists" : 6,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16426,7 +16600,7 @@
       ],
       "name" : "Wyvette Mayberry",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -16436,7 +16610,7 @@
       ],
       "name" : "Breeley Oakley",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -16979,7 +17153,7 @@
       ],
       "name" : "Danai Papadopoulou",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -19231,6 +19405,35 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-26T13:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 25,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -19239,7 +19442,7 @@
       ],
       "name" : "Chandler Prater",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -20267,6 +20470,35 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2023-02-26T13:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -20275,7 +20507,7 @@
       ],
       "name" : "Sanna Strom",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -20285,7 +20517,7 @@
       ],
       "name" : "Bella Swedlund",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -20959,6 +21191,35 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2023-02-26T13:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -20967,7 +21228,7 @@
       ],
       "name" : "Zsofia Telegdy",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -22465,6 +22726,35 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2023-02-26T13:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 5,
+              "date" : "2023-03-01T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -22473,7 +22763,7 @@
       ],
       "name" : "Mia Vuksic",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "Big 12",
@@ -23526,24 +23816,54 @@
         },
         "attendance" : 3435,
         "line" : 1
+      },
+      {
+        "venueCapacity" : 16300,
+        "opponentID" : "ISU",
+        "largestLead" : 17,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Bryan Enterline",
+          "Brian Garland",
+          "Metta Christensen"
+        ],
+        "didWin" : true,
+        "overUnder" : 136,
+        "date" : "2023-03-01T18:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 48,
+            "opponentPoints" : 43
+          },
+          "secondHalf" : {
+            "teamPoints" : 50,
+            "opponentPoints" : 50
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 24,
+              "opponentPoints" : 19
+            },
+            {
+              "teamPoints" : 26,
+              "opponentPoints" : 31
+            }
+          ]
+        },
+        "attendance" : 3053,
+        "line" : 3
       }
     ],
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T18:00-0700",
-        "venueCapacity" : 6300,
-        "opponentID" : "ISU",
-        "coverage" : "subscriptionRequired"
-      },
-      {
-        "isConferenceMatchup" : true,
         "venue" : "home",
         "seasonType" : "regularSeason",
         "date" : "2023-03-04T12:00-0700",
-        "venueCapacity" : 700,
+        "venueCapacity" : 6700,
         "opponentID" : "TCU",
         "coverage" : "subscriptionRequired"
       }

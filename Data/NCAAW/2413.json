@@ -760,6 +760,35 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -768,7 +797,7 @@
       ],
       "name" : "Erola Aliberch",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -1500,6 +1529,35 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1508,7 +1566,7 @@
       ],
       "name" : "Sophie Baydanov",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -2884,6 +2942,35 @@
               "didStart" : true,
               "minutesPlayed" : 17,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 7
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2892,7 +2979,7 @@
       ],
       "name" : "Sophie Benharouga",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -2936,7 +3023,7 @@
       ],
       "name" : "Lacey Bradshaw",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -4399,6 +4486,35 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 6
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4407,7 +4523,7 @@
       ],
       "name" : "Veronica Charles",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5118,7 +5234,7 @@
       ],
       "name" : "Crystal Corley",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -5633,7 +5749,7 @@
       ],
       "name" : "Isabel Gonzalez",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -6481,6 +6597,35 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 4,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 10,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6489,7 +6634,7 @@
       ],
       "name" : "Sandra Lin",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -7554,7 +7699,7 @@
       ],
       "name" : "Paris McBride",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -8402,6 +8547,35 @@
               "didStart" : false,
               "minutesPlayed" : 24,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 5
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8410,7 +8584,7 @@
       ],
       "name" : "Hallie Rhodes",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -9200,6 +9374,35 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9208,7 +9411,7 @@
       ],
       "name" : "Jayden Rhodes",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -10186,7 +10389,7 @@
       ],
       "name" : "Janay Rose",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -10773,6 +10976,35 @@
               "didStart" : false,
               "minutesPlayed" : 6,
               "date" : "2022-12-12T09:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10781,7 +11013,7 @@
       ],
       "name" : "Valentina Saric",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -11780,6 +12012,35 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2022-11-13T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11788,7 +12049,7 @@
       ],
       "name" : "Melissa Secchiaroli",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -12499,7 +12760,7 @@
       ],
       "name" : "Aina Subirats",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -13318,6 +13579,35 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2022-11-07T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13326,7 +13616,7 @@
       ],
       "name" : "Tolisha Walker",
       "position" : "Center",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "OVC",
@@ -14400,6 +14690,43 @@
           ]
         },
         "attendance" : 1012
+      },
+      {
+        "venueCapacity" : 10000,
+        "opponentID" : "UTM",
+        "largestLead" : 5,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Randy Robertson",
+          "Ty Bills",
+          "Ivan Fulton"
+        ],
+        "didWin" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-01T12:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 30,
+            "opponentPoints" : 35
+          },
+          "secondHalf" : {
+            "teamPoints" : 40,
+            "opponentPoints" : 33
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 20,
+              "opponentPoints" : 19
+            },
+            {
+              "teamPoints" : 20,
+              "opponentPoints" : 14
+            }
+          ]
+        },
+        "attendance" : 0
       }
     ],
     "upcoming" : [
@@ -14407,10 +14734,10 @@
         "isConferenceMatchup" : true,
         "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T12:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "UTM",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-02T12:00-0700",
+        "venueCapacity" : 10000,
+        "opponentID" : "SEMO",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

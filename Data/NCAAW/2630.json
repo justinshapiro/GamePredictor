@@ -9,7 +9,7 @@
       ],
       "name" : "Sydneey Boykin",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -828,6 +828,35 @@
               "didStart" : false,
               "minutesPlayed" : 27,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -836,7 +865,7 @@
       ],
       "name" : "Anaya Brown",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -1632,6 +1661,35 @@
               "didStart" : false,
               "minutesPlayed" : 6,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1640,7 +1698,7 @@
       ],
       "name" : "Diamond Cannon",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -3204,7 +3262,7 @@
       ],
       "name" : "Ally Collett",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -3994,6 +4052,35 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 10
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 25,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4002,7 +4089,7 @@
       ],
       "name" : "Sharnecce Currie-Jelks",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -4012,7 +4099,7 @@
       ],
       "name" : "Clara Garland",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -4022,7 +4109,7 @@
       ],
       "name" : "Haley Hallett",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -5369,6 +5456,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 8
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 24,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 7
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5377,7 +5493,7 @@
       ],
       "name" : "Shae Littleford",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -5508,7 +5624,7 @@
       ],
       "name" : "Kenley McCarn",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -7824,6 +7940,35 @@
               "didStart" : false,
               "minutesPlayed" : 24,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 0
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7832,7 +7977,7 @@
       ],
       "name" : "Paige Pipkin",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -10792,6 +10937,35 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 4,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10800,7 +10974,7 @@
       ],
       "name" : "Seygan Robins",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -11561,6 +11735,35 @@
               "didStart" : true,
               "minutesPlayed" : 12,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11569,7 +11772,7 @@
       ],
       "name" : "Lexi Rubel",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -12417,6 +12620,35 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-01T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12425,7 +12657,7 @@
       ],
       "name" : "Josie Storey",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -13142,7 +13374,7 @@
       ],
       "name" : "Ella Thompson",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "OVC",
@@ -14220,18 +14452,47 @@
           ]
         },
         "attendance" : 1012
+      },
+      {
+        "venueCapacity" : 10000,
+        "opponentID" : "MORE",
+        "largestLead" : 10,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Randy Robertson",
+          "Ty Bills",
+          "Ivan Fulton"
+        ],
+        "didWin" : false,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-01T12:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 35,
+            "opponentPoints" : 30
+          },
+          "secondHalf" : {
+            "teamPoints" : 33,
+            "opponentPoints" : 40
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 19,
+              "opponentPoints" : 20
+            },
+            {
+              "teamPoints" : 14,
+              "opponentPoints" : 20
+            }
+          ]
+        },
+        "attendance" : 0
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "neutral",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T12:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "MORE",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

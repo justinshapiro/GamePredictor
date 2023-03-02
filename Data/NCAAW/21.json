@@ -1636,6 +1636,35 @@
               "didStart" : true,
               "minutesPlayed" : 17,
               "date" : "2022-11-12T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 8
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 6,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1644,7 +1673,7 @@
       ],
       "name" : "Asia Avinger",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -4627,6 +4656,35 @@
               "didStart" : true,
               "minutesPlayed" : 18,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4635,7 +4693,7 @@
       ],
       "name" : "Sarah Barcello",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -4645,7 +4703,7 @@
       ],
       "name" : "Jaida Brooks",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -5217,7 +5275,7 @@
       ],
       "name" : "Bailee Chynoweth",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -8649,7 +8707,7 @@
       ],
       "name" : "Alex Crain",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -9749,7 +9807,7 @@
       ],
       "name" : "Meghan Fiso",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -10054,7 +10112,7 @@
       ],
       "name" : "Natalija Grizelj",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -14058,6 +14116,35 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14066,7 +14153,7 @@
       ],
       "name" : "Yummy Morris",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -15616,6 +15703,35 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -15624,7 +15740,7 @@
       ],
       "name" : "Khylee Pepe",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -18636,6 +18752,35 @@
               "didStart" : false,
               "minutesPlayed" : 23,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -18644,7 +18789,7 @@
       ],
       "name" : "Abby Prohaska",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -20324,7 +20469,7 @@
       ],
       "name" : "Adryana Quezada",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -24328,6 +24473,35 @@
               "didStart" : false,
               "minutesPlayed" : 25,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -24336,7 +24510,7 @@
       ],
       "name" : "Sophia Ramos",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -27499,6 +27673,35 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -27507,7 +27710,7 @@
       ],
       "name" : "Mercedes Staples",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -29846,6 +30049,35 @@
               "didStart" : true,
               "minutesPlayed" : 15,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 9
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -29854,7 +30086,7 @@
       ],
       "name" : "Kim Villalobos",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "Mountain West",
@@ -30948,17 +31180,46 @@
         },
         "attendance" : 2993,
         "line" : 10.5
+      },
+      {
+        "didWin" : true,
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 28,
+            "opponentPoints" : 34
+          },
+          "secondHalf" : {
+            "teamPoints" : 32,
+            "opponentPoints" : 17
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 19,
+              "opponentPoints" : 11
+            },
+            {
+              "teamPoints" : 13,
+              "opponentPoints" : 6
+            }
+          ]
+        },
+        "venue" : "away",
+        "attendance" : 779,
+        "isConferenceMatchup" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-02-28T19:00-0700",
+        "venueCapacity" : 12414,
+        "opponentID" : "AFA",
+        "largestLead" : 11,
+        "referees" : [
+          "Chuck Gonzalez",
+          "Kenneth Nash",
+          "Cheryll Blue"
+        ]
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "AFA",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 2414,
-        "date" : "2023-02-28T19:00-0700"
-      }
+
     ]
   }
 }
