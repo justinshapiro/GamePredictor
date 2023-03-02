@@ -203,16 +203,16 @@ func getUpcomingPredictions(tomorrow: Bool) -> [(String, Double)] {
         .sorted { $0.1 > $1.1 }
 }
 
-func exportUpcomingPredictions(_ upcomingPredictions: [(String, Double)]) {
+func exportUpcomingPredictions(_ upcomingPredictions: [(String, Double)], tomorrow: Bool) {
     let dateFormatter = DateFormatter()
     dateFormatter.locale = Locale(identifier: "en_US_POSIX")
     dateFormatter.dateFormat = "MM-dd"
     
-    let todaysDateString = dateFormatter.string(from: .now)
+    let dateString = dateFormatter.string(from: tomorrow ? (Calendar.current.date(byAdding: .day, value: 1, to: .now) ?? .now) : .now)
     
     guard !upcomingPredictions.isEmpty else {
         dateFormatter.dateFormat = "MM/dd"
-        return print("\n\(SPORT_MODE.league) No upcoming predictions for \(todaysDateString)")
+        return print("\n\(SPORT_MODE.league) No upcoming predictions for \(dateString)")
     }
     
     print("\n\(SPORT_MODE.league) Upcoming Predictions:")
@@ -223,7 +223,7 @@ func exportUpcomingPredictions(_ upcomingPredictions: [(String, Double)]) {
     
     exportableUpcomingPredictions.forEach { print($0.printString) }
     
-    let fileName = "predictions-\(todaysDateString).json"
+    let fileName = "predictions-\(dateString).json"
     exportableUpcomingPredictions.export(as: fileName)
 }
 

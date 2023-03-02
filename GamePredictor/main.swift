@@ -38,7 +38,7 @@ if TRAINING_MODE {
 }
 
 let upcomingPredictions = getUpcomingPredictions(tomorrow: false)
-exportUpcomingPredictions(upcomingPredictions)
+exportUpcomingPredictions(upcomingPredictions, tomorrow: false)
 
 if ENABLE_INVERTED_ROUND_ROBIN {
     if !IRR_EVALUATION_MODE {
