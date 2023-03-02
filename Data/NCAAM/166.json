@@ -2646,7 +2646,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kim Aiken Jr."
     },
     {
@@ -2661,7 +2661,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jaden Alexander"
     },
     {
@@ -2676,7 +2676,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Ethan Anderson"
     },
     {
@@ -3949,7 +3949,7 @@
           "teamID" : "NMSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Marchelus Avery"
     },
     {
@@ -7212,7 +7212,7 @@
           "teamID" : "NMSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "James Beck"
     },
     {
@@ -7227,7 +7227,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Deuce Benjamin"
     },
     {
@@ -7242,7 +7242,7 @@
       "seasons" : [
 
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Ziri Blackwood"
     },
     {
@@ -7842,7 +7842,7 @@
           "teamID" : "NMSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Doctor Bradley"
     },
     {
@@ -8837,7 +8837,7 @@
           "teamID" : "NMSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Kyle Feit"
     },
     {
@@ -12065,7 +12065,7 @@
           "teamID" : "NMSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "DaJuan Gordon"
     },
     {
@@ -12080,7 +12080,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Shahar Lazar"
     },
     {
@@ -12709,7 +12709,7 @@
           "teamID" : "NMSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Issa Muhammad"
     },
     {
@@ -13193,7 +13193,7 @@
           "teamID" : "NMSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Shakiru Odunewu"
     },
     {
@@ -15754,7 +15754,7 @@
           "teamID" : "NMSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Mike Peake"
     },
     {
@@ -19800,7 +19800,7 @@
           "teamID" : "NMSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Xavier Pinson"
     },
     {
@@ -20464,7 +20464,7 @@
           "teamID" : "NMSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Anthony Roy"
     },
     {
@@ -20479,7 +20479,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Isaac Shingange"
     },
     {
@@ -20494,7 +20494,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Vuk Vucevic"
     },
     {
@@ -21187,7 +21187,7 @@
           "teamID" : "NMSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Deshawndre Washington"
     }
   ],
@@ -21816,23 +21816,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T18:00-0700",
-        "venueCapacity" : 600,
-        "opponentID" : "ACU",
-        "coverage" : "sportsTV"
-      },
-      {
-        "opponentID" : "TAR",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 0,
-        "date" : "2023-03-03T18:00-0700"
-      }
+
     ]
   }
 }

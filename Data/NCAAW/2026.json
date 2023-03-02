@@ -2259,7 +2259,7 @@
       ],
       "name" : "Faith Alston",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -3765,7 +3765,7 @@
       ],
       "name" : "Dane Bertolina",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -7690,7 +7690,7 @@
       ],
       "name" : "Brooke Bigott",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8430,7 +8430,7 @@
       ],
       "name" : "Alexis Black",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -8532,7 +8532,7 @@
       ],
       "name" : "Nadiyah Byard",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -10798,7 +10798,7 @@
       ],
       "name" : "Lauren Carter",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -12414,7 +12414,7 @@
       ],
       "name" : "Emily Carver",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -13914,7 +13914,7 @@
       ],
       "name" : "Mariah Frazier",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -15890,7 +15890,7 @@
       ],
       "name" : "A'Lea Gilbert",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -15992,7 +15992,7 @@
       ],
       "name" : "Lexi Grant",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -16442,7 +16442,7 @@
       ],
       "name" : "Chae Harris",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -18157,7 +18157,7 @@
       ],
       "name" : "Taylor Lewis",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -19541,7 +19541,7 @@
       ],
       "name" : "Zada Porter",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -22706,7 +22706,7 @@
       ],
       "name" : "Janay Sanders",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -23603,7 +23603,7 @@
       ],
       "name" : "Summer Schloss",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "Sun Belt",
@@ -24697,10 +24697,10 @@
         "isConferenceMatchup" : true,
         "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T18:30-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "UL",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-03T18:30-0700",
+        "venueCapacity" : 10000,
+        "opponentID" : "TXST",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

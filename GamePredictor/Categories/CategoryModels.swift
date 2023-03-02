@@ -95,7 +95,7 @@ enum Comparison {
         case top5Combined = "Combined Experience In Top 5 Players"
     }
     
-    static let all: [Comparison] = Record.allCases.map { Comparison.record($0) }
+    static let all: [Comparison] = Record.allCases.compactMap { !SPORT_MODE.isCollege && [.conference, .nationalRanking].contains($0) ? nil : Comparison.record($0) }
         + Stat.allCases.map { Comparison.stat($0) }
         + Stat.allCases.map { Comparison.opponentStat($0) }
         + Experience.allCases.map { Comparison.experience($0) }

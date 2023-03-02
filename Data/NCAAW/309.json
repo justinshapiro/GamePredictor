@@ -1709,7 +1709,7 @@
       ],
       "name" : "Nubia Benedith",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -2716,7 +2716,7 @@
       ],
       "name" : "Alicia Blanton",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -3079,7 +3079,7 @@
       ],
       "name" : "Imani Ivery",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -3964,7 +3964,7 @@
       ],
       "name" : "Jaylyn James",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -6108,7 +6108,7 @@
       ],
       "name" : "Tamera Johnson",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -7376,7 +7376,7 @@
       ],
       "name" : "Ashlyn Jones",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -7739,7 +7739,7 @@
       ],
       "name" : "Wilnie Joseph",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -11049,7 +11049,7 @@
       ],
       "name" : "Sherry Porter",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -12851,7 +12851,7 @@
       ],
       "name" : "Lizzy Ratcliff",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -15378,7 +15378,7 @@
       ],
       "name" : "Destiny Rice",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -15683,7 +15683,7 @@
       ],
       "name" : "Imani Rothschild",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -16568,7 +16568,7 @@
       ],
       "name" : "Mariah Stewart",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -18625,7 +18625,7 @@
       ],
       "name" : "Lanay Wheaton",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -21123,7 +21123,7 @@
       ],
       "name" : "Brandi Williams",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -24056,7 +24056,7 @@
       ],
       "name" : "Caira Wren",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "Sun Belt",
@@ -25191,15 +25191,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "neutral",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T18:30-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "APP",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

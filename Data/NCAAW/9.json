@@ -890,7 +890,7 @@
       ],
       "name" : "Maggie Besselink",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -1680,6 +1680,35 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 42,
+              "date" : "2023-03-01T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1688,7 +1717,7 @@
       ],
       "name" : "Trayanna Crisp",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -3708,6 +3737,35 @@
               "didStart" : true,
               "minutesPlayed" : 22,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-01T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3716,7 +3774,7 @@
       ],
       "name" : "Sydney Erikstrup",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -5512,7 +5570,7 @@
       ],
       "name" : "Imogen Greenslade",
       "position" : "Center",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -7590,6 +7648,35 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 2,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-03-01T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7598,7 +7685,7 @@
       ],
       "name" : "Treasure Hunt",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -11631,6 +11718,35 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11639,7 +11755,7 @@
       ],
       "name" : "Kayla Mokwuah",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -12429,6 +12545,35 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-01T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12437,7 +12582,7 @@
       ],
       "name" : "Meg Newman",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -12481,7 +12626,7 @@
       ],
       "name" : "Jaylah Robinson",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -12670,7 +12815,7 @@
       ],
       "name" : "Tatum Settelmyer",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14893,6 +15038,35 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 19,
+                  "made" : 8
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 44,
+              "date" : "2023-03-01T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14901,7 +15075,7 @@
       ],
       "name" : "Jaddan Simmons",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -17472,6 +17646,35 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 18,
+                  "made" : 8
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 26,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 4
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 43,
+              "date" : "2023-03-01T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -17480,7 +17683,7 @@
       ],
       "name" : "Tyi Skinner",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -18334,6 +18537,35 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2022-11-07T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-01T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -18342,7 +18574,7 @@
       ],
       "name" : "Isadora Sousa",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -18734,7 +18966,7 @@
       ],
       "name" : "Journey Thompson",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -19358,7 +19590,7 @@
       ],
       "name" : "Morasha Wiggins",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "Pac-12",
@@ -20364,18 +20596,53 @@
           "Alecia Ann Murray",
           "Rochelle  Bennett"
         ]
+      },
+      {
+        "venueCapacity" : 12000,
+        "opponentID" : "UCLA",
+        "largestLead" : 2,
+        "coverage" : "sportsTV",
+        "referees" : [
+          "Melissa Barlow",
+          "Benny Luna",
+          "Tyler Trimble"
+        ],
+        "didWin" : false,
+        "overUnder" : 134,
+        "date" : "2023-03-01T13:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 25,
+            "opponentPoints" : 39
+          },
+          "secondHalf" : {
+            "teamPoints" : 37,
+            "opponentPoints" : 23
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 21,
+              "opponentPoints" : 17
+            },
+            {
+              "teamPoints" : 16,
+              "opponentPoints" : 6
+            },
+            {
+              "teamPoints" : 8,
+              "opponentPoints" : 19
+            }
+          ]
+        },
+        "attendance" : 0,
+        "line" : 13.5
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "neutral",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T13:00-0700",
-        "venueCapacity" : 2000,
-        "opponentID" : "UCLA",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

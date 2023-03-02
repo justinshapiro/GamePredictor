@@ -134,7 +134,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Ben Ackerley"
     },
     {
@@ -502,7 +502,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Dylan Anderson"
     },
     {
@@ -1804,7 +1804,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Adama Bal"
     },
     {
@@ -4330,7 +4330,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Oumar Ballo"
     },
     {
@@ -4669,7 +4669,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Filip Borovicanin"
     },
     {
@@ -5414,7 +5414,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kylan Boswell"
     },
     {
@@ -5608,7 +5608,7 @@
           "teamID" : "SAM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Luke Champion"
     },
     {
@@ -8662,7 +8662,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Cedric Henderson Jr."
     },
     {
@@ -10608,7 +10608,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Kerr Kriisa"
     },
     {
@@ -10721,7 +10721,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Luc Krystkowiak"
     },
     {
@@ -12476,7 +12476,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Matthew Lang"
     },
     {
@@ -15031,7 +15031,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Pelle Larsson"
     },
     {
@@ -15823,7 +15823,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jordan Mains"
     },
     {
@@ -15930,7 +15930,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Will Menaugh"
     },
     {
@@ -20324,7 +20324,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Courtney Ramey"
     },
     {
@@ -22879,7 +22879,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Azuolas Tubelis"
     },
     {
@@ -23607,7 +23607,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tautvilas Tubelis"
     },
     {
@@ -24294,7 +24294,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Henri Veesaar"
     },
     {
@@ -25109,7 +25109,7 @@
           "teamID" : "ARIZ"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Grant Weitman"
     }
   ],
@@ -25844,23 +25844,24 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "USC",
-        "venue" : "home",
         "isConferenceMatchup" : true,
+        "venue" : "home",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 258,
-        "date" : "2023-03-01T22:00-0700"
+        "date" : "2023-03-02T21:00-0700",
+        "venueCapacity" : 10258,
+        "opponentID" : "USC",
+        "coverage" : "standardTV"
       },
       {
         "isConferenceMatchup" : true,
         "venue" : "home",
         "seasonType" : "regularSeason",
         "date" : "2023-03-04T20:00-0700",
-        "venueCapacity" : 3800,
+        "venueCapacity" : 13800,
         "opponentID" : "UCLA",
-        "coverage" : "sportsTV"
+        "coverage" : "standardTV"
       }
     ]
   },
-  "nationalRanking" : 7
+  "nationalRanking" : 8
 }

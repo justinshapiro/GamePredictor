@@ -824,13 +824,42 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2023-02-25T14:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-01T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MCN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Roberts Berze"
     },
     {
@@ -1111,7 +1140,7 @@
           "teamID" : "MCN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Rhyjon Blackwell"
     },
     {
@@ -1305,7 +1334,7 @@
           "teamID" : "MCN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Zach Blackwell"
     },
     {
@@ -2282,7 +2311,7 @@
           "teamID" : "USM"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Rashad Bolden"
     },
     {
@@ -3874,7 +3903,7 @@
           "teamID" : "MCN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Trae English"
     },
     {
@@ -3889,7 +3918,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Wesley Fields"
     },
     {
@@ -6850,13 +6879,42 @@
               "didStart" : true,
               "minutesPlayed" : 41,
               "date" : "2023-02-25T14:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 4
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 3
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-01T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MCN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Harwin Francois"
     },
     {
@@ -8587,13 +8645,42 @@
               "didStart" : true,
               "minutesPlayed" : 41,
               "date" : "2023-02-25T14:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 14,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-01T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MCN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Johnathan Massie"
     },
     {
@@ -10423,7 +10510,7 @@
           "teamID" : "MCN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Ty McMillan"
     },
     {
@@ -10438,7 +10525,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Justin Norris"
     },
     {
@@ -11264,13 +11351,42 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2023-02-25T14:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-03-01T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MCN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Donovan Oday"
     },
     {
@@ -13309,7 +13425,7 @@
           "teamID" : "MCN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Malachi Rhodes"
     },
     {
@@ -17407,13 +17523,42 @@
               "didStart" : true,
               "minutesPlayed" : 44,
               "date" : "2023-02-25T14:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 6
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-03-01T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MCN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Zach Scott"
     },
     {
@@ -19440,13 +19585,42 @@
               "didStart" : true,
               "minutesPlayed" : 40,
               "date" : "2023-02-25T14:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 5
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-01T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MCN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Christian Shumate"
     },
     {
@@ -20156,13 +20330,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T14:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 6
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 12,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 6,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-01T18:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MCN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Dionjahe Thomas"
     },
     {
@@ -20177,12 +20380,12 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Walker Timme"
     }
   ],
   "conference" : "Southland",
-  "conferenceRanking" : 9,
+  "conferenceRanking" : 8,
   "games" : {
     "previous" : [
       {
@@ -21008,17 +21211,46 @@
         },
         "attendance" : 830,
         "line" : 8
+      },
+      {
+        "venueCapacity" : 4242,
+        "opponentID" : "UNO",
+        "largestLead" : 5,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Jeffrey Johnson",
+          "Ross Cullins",
+          "Shaun Seales"
+        ],
+        "didWin" : true,
+        "overUnder" : 148,
+        "date" : "2023-03-01T18:30-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 29,
+            "opponentPoints" : 42
+          },
+          "secondHalf" : {
+            "teamPoints" : 51,
+            "opponentPoints" : 31
+          }
+        },
+        "attendance" : 1626,
+        "line" : 2.5
       }
     ],
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "away",
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T18:30-0700",
-        "venueCapacity" : 242,
-        "opponentID" : "UNO",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-05T16:00-0700",
+        "venueCapacity" : 4242,
+        "opponentID" : "TAMC",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

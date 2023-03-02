@@ -523,7 +523,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Marcus Bagley"
     },
     {
@@ -1883,7 +1883,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Enoch Boakye"
     },
     {
@@ -2715,7 +2715,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Duke Brennan"
     },
     {
@@ -3275,7 +3275,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Micah Burno"
     },
     {
@@ -6735,7 +6735,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Devan Cambridge"
     },
     {
@@ -10172,7 +10172,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Desmond Cambridge Jr."
     },
     {
@@ -11880,7 +11880,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Frankie Collins"
     },
     {
@@ -11895,7 +11895,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Malcolm Flaggs"
     },
     {
@@ -14102,7 +14102,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Alonzo Gaffney"
     },
     {
@@ -17388,7 +17388,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "DJ Horne"
     },
     {
@@ -17646,7 +17646,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Bobby Hurley"
     },
     {
@@ -21222,7 +21222,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Luther Muhammad"
     },
     {
@@ -22785,7 +22785,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jamiya Neal"
     },
     {
@@ -23588,7 +23588,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Austin Nunez"
     },
     {
@@ -24583,7 +24583,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "John Olmsted"
     },
     {
@@ -24696,7 +24696,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Austin Ronzone"
     },
     {
@@ -24838,7 +24838,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Cade Ronzone"
     },
     {
@@ -27776,7 +27776,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Warren Washington"
     },
     {
@@ -27825,7 +27825,7 @@
           "teamID" : "ASU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jordan Williams"
     }
   ],
@@ -28663,20 +28663,22 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "UCLA",
-        "venue" : "home",
         "isConferenceMatchup" : true,
+        "venue" : "home",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 3800,
-        "date" : "2023-03-01T22:00-0700"
+        "date" : "2023-03-02T19:00-0700",
+        "venueCapacity" : 13800,
+        "opponentID" : "UCLA",
+        "coverage" : "standardTV"
       },
       {
-        "opponentID" : "USC",
-        "venue" : "home",
         "isConferenceMatchup" : true,
+        "venue" : "home",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 258,
-        "date" : "2023-03-04T21:00-0700"
+        "date" : "2023-03-04T21:00-0700",
+        "venueCapacity" : 10258,
+        "opponentID" : "USC",
+        "coverage" : "standardTV"
       }
     ]
   }

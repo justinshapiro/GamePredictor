@@ -291,7 +291,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Taylor Blanchard"
     },
     {
@@ -1535,7 +1535,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Mekhi Collins"
     },
     {
@@ -2779,7 +2779,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Edoardo Del Cadia"
     },
     {
@@ -4928,7 +4928,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Caleb Huffman"
     },
     {
@@ -7309,7 +7309,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Latrell Jones"
     },
     {
@@ -7938,7 +7938,7 @@
           "teamID" : "UAB"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Josh LeBlanc Sr."
     },
     {
@@ -9530,7 +9530,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Manny Littles"
     },
     {
@@ -10890,7 +10890,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Ryan Maxwell"
     },
     {
@@ -14588,7 +14588,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Marek Nelson"
     },
     {
@@ -15275,7 +15275,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Lance-Amir Paul"
     },
     {
@@ -17366,7 +17366,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Pierce Spencer"
     },
     {
@@ -17804,7 +17804,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Quinn Strander"
     },
     {
@@ -19437,7 +19437,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Tyrease Terrell"
     },
     {
@@ -20797,7 +20797,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Micah Thomas"
     },
     {
@@ -22569,7 +22569,7 @@
           "teamID" : "NICH"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jalen White"
     }
   ],
@@ -23340,13 +23340,13 @@
     ],
     "upcoming" : [
       {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
+        "isConferenceMatchup" : false,
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T14:00-0700",
-        "venueCapacity" : 800,
-        "opponentID" : "LAM",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-06T16:00-0700",
+        "venueCapacity" : 4242,
+        "opponentID" : "TBD",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

@@ -42,13 +42,26 @@ func getWebpage(from urlString: String, useCache: Bool = true) -> String {
 func getTeamURLs() -> [String] {
     let allTeamsURL = "https://www.espn.com/\(SPORT_MODE.espnPathIndicator)/teams"
     let allTeamsWebpage = getWebpage(from: allTeamsURL)
-    let collegeBasketballSegment = allTeamsWebpage
+    
+    let pageIndicator: String
+    
+    switch SPORT_MODE {
+    case .collegeBasketball(let league):
+        switch league {
+        case .mens: pageIndicator = "Men"
+        case .womens: pageIndicator = "Women"
+        }
+    case .nba:
+        pageIndicator = "NBA Teams\""
+    }
+    
+    let segment = allTeamsWebpage
         .components(separatedBy: "\"leagueTeams\"")[1]
-        .components(separatedBy: "\"title\":\"\(SPORT_MODE.isWomanLeague ? "Women" : "Men")")[0]
+        .components(separatedBy: "\"title\":\"\(pageIndicator)")[0]
         .dropFirst()
         .dropLast() + "}"
     
-    let teamsList = try! JSONDecoder().decode(TeamsList.self, from: collegeBasketballSegment.data(using: .utf8)!)
+    let teamsList = try! JSONDecoder().decode(TeamsList.self, from: segment.data(using: .utf8)!)
     
     return teamsList.columns
         .lazy
@@ -78,7 +91,12 @@ func getAllTeams(from teamURLs: [String]) -> [Team] {
                     .filter { event in gamesPlayedSinceLastPull.contains { $0.date == event.date.dateString.gameDate } }
                 
                 team.games.previous += newPreviousEvents.compactMap { getPreviousGame(from: $0, teamID: teamID) }
-                team.games.upcoming = team.games.upcoming.filter { !gamesPlayedSinceLastPull.contains($0) }
+                
+                // Additional games are added/cancelled and TV coverage and venue information is updated as the season goes on
+                team.games.upcoming = teamSchedule.events.upcoming
+                    .lazy
+                    .map { getUpcomingGame(from: $0) }
+                    .filter { !gamesPlayedSinceLastPull.contains($0) }
                 
                 let previousEventsURLs = newPreviousEvents.map { $0.time.link.replace("/game/", with: "/boxscore/") }
                 
@@ -101,6 +119,7 @@ func getAllTeams(from teamURLs: [String]) -> [Team] {
                 let teamHeader = getTeamInfo(from: teamURL)
                 team.conferenceRanking = teamHeader.conferenceRanking
                 team.nationalRanking = teamHeader.nationalRanking
+                team.depthChart = getDepthChart(for: teamID) ?? team.depthChart
                 
                 team.export(as: "\(teamID).json")
                 return team
@@ -112,13 +131,15 @@ func getAllTeams(from teamURLs: [String]) -> [Team] {
             let playerURLs = getPlayerURLs(from: teamURL.replace("team/", with: "team/roster/"))
             let players = playerURLs.compactMap { getPlayer(from: $0) }
             let games = getGames(from: teamURL.replace("team/", with: "team/schedule/"), teamID: teamHeader.abbreviation)
+            let depthChart = getDepthChart(for: teamID)
 
             let team = Team(teamID: teamHeader.abbreviation,
                             conference: teamHeader.conference,
                             conferenceRanking: teamHeader.conferenceRanking,
                             nationalRanking: teamHeader.nationalRanking,
                             roster: players,
-                            games: games)
+                            games: games,
+                            depthChart: depthChart)
 
             team.export(as: "\(teamID).json")
             
@@ -135,11 +156,24 @@ func getTeamInfo(from teamURL: String) -> TeamHeader {
 
 func getTeamSchedule(from scheduleURL: String) -> TeamSchedule {
     let webpage = getWebpage(from: scheduleURL)
-    let teamScheduleString = webpage
+    var teamScheduleString = String(webpage
         .components(separatedBy: "\"teamSchedule\"")[1]
         .dropFirst()
         .components(separatedBy: "\"noData\"")[0]
-        .dropLast()
+        .dropLast())
+    
+    if teamScheduleString.contains("\"buttons\":") {
+        teamScheduleString = String(teamScheduleString.components(separatedBy: "\"buttons\":")[0].dropLast())
+        
+        ["post", "pre"].forEach { scheduleID in
+            let groupedScheduleString = teamScheduleString.components(separatedBy: "\"\(scheduleID)\":")[1]
+            let replacementScheduleString = groupedScheduleString
+                .components(separatedBy: "\"group\":")[1]
+                .replacingOccurrences(of: scheduleID == "post" ? "}}]}]}" : "}]}]", with: scheduleID == "post" ? "}}]}" : "}]")
+            
+            teamScheduleString = teamScheduleString.replacingOccurrences(of: groupedScheduleString, with: replacementScheduleString)
+        }
+    }
     
     let teamSchedule = try! JSONDecoder().decode([TeamSchedule].self, from: teamScheduleString.data(using: .utf8)!)
     return teamSchedule.first { $0.seasonType.abbreviation == .regularSeason }!
@@ -179,7 +213,7 @@ func getPlayerHeader(from playerURL: URL) -> PlayerHeader? {
     let playerHeaderString = playerWebpage.substring(startingTerm: "\"ath\"", endingAtFirst: "}")
     let playerHeader = try! JSONDecoder().decode(PlayerHeader.self, from: playerHeaderString.data(using: .utf8)!)
     
-    guard playerHeader.class != .unknown, playerHeader.position != .notAvailabile else { return nil }
+    guard !playerHeader.isUnknownClass, playerHeader.position != .notAvailabile else { return nil }
     
     return playerHeader
 }
@@ -194,7 +228,7 @@ func getPlayer(from playerURL: URL) -> Player? {
                   position: playerHeader.position,
                   height: playerHeader.height,
                   weight: playerHeader.weight,
-                  class: playerHeader.class,
+                  yearsOfExperience: playerHeader.yearsOfExperience,
                   origin: playerHeader.origin,
                   seasons: playerSeasons)
 }
@@ -206,8 +240,8 @@ func getPlayerGameLog(in boxScoreURL: String, playerShortName shortName: String)
             !boxScoreWebpage.contains("\"desc\":\"Canceled\",\"det\":\"Canceled\"") &&
             !boxScoreWebpage.contains("\"desc\":\"Forfeit\",\"det\":\"Forfeit\"") &&
             
-            // this occurs if ESPN data is corrupt where the game was played but the score is listed as 0-0
-            !(boxScoreWebpage.contains("\"desc\":\"Final\",\"det\":\"Final\"") && boxScoreWebpage.contains("\"score\":\"0\""))
+            // this occurs if ESPN data is corrupt where the game was played but the score is listed as 0-0 (only happens with college games)
+            !(SPORT_MODE.isCollege && boxScoreWebpage.contains("\"desc\":\"Final\",\"det\":\"Final\"") && boxScoreWebpage.contains("\"score\":\"0\""))
     else { return nil }
     
     if !boxScoreWebpage.contains("['__espnfitt__']") {
@@ -277,6 +311,8 @@ func getPlayerGameLog(in boxScoreURL: String, playerShortName shortName: String)
     
     let playerBoxScore = fullPageBoxScore.boxScore[boxScoreIndex].stats[statIndex].players![playerIndex].stats
     
+    guard !playerBoxScore.isEmpty else { return nil }
+    
     return Player.Season.GameLog(date: fullPageBoxScore.gameInfo.dateString.gameDate,
                                  didStart: fullPageBoxScore.boxScore[boxScoreIndex].stats[statIndex].type == .starters,
                                  minutesPlayed: .init(playerBoxScore[0]) ?? 0,
@@ -302,11 +338,12 @@ func getPlayerSeasons(from playerURL: URL, shortName: String) -> [Player.Season]
         guard statsWebpage.contains("\"stat\"") else { return [] }
     }
     
+    let seasonTotalsString = SPORT_MODE.isCollege ? "Season Totals" : "Regular Season Totals"
     let jsonStatsSegment = statsWebpage.substring(startingTerm: "\"stat\"", endingAtFirst: "<")
     
     let seasonAveragesSegment: String
-    if jsonStatsSegment.contains("\"Season Totals\"") {
-        let seasonTotalsSegment = jsonStatsSegment.substring(startingTerm: "\"Season Totals\"", endingAtFirst: "<")
+    if jsonStatsSegment.contains("\"\(seasonTotalsString)\"") {
+        let seasonTotalsSegment = jsonStatsSegment.substring(startingTerm: "\"\(seasonTotalsString)\"", endingAtFirst: "<")
         seasonAveragesSegment = jsonStatsSegment.replace(seasonTotalsSegment, with: "")
     } else {
         seasonAveragesSegment = jsonStatsSegment
@@ -315,10 +352,10 @@ func getPlayerSeasons(from playerURL: URL, shortName: String) -> [Player.Season]
     let discardSegment = seasonAveragesSegment.substring(startingTerm: "\"car\"", endingAtFirst: "}")
     
     let rowOnlySegment: String
-    if jsonStatsSegment.contains("\"Season Totals\"") {
+    if jsonStatsSegment.contains("\"\(seasonTotalsString)\"") {
         rowOnlySegment = seasonAveragesSegment
             .replace(discardSegment, with: "")
-            .replace(",\"car\":,{\"ttl\":\"Season Totals\",", with: "!")
+            .replace(",\"car\":,{\"ttl\":\"\(seasonTotalsString)\",", with: "!")
     } else {
         rowOnlySegment = seasonAveragesSegment
             .replace(discardSegment, with: "")
@@ -353,6 +390,10 @@ func getPlayerSeasons(from playerURL: URL, shortName: String) -> [Player.Season]
         guard statsArray.count == 20 else { return nil }
         
         let seasonYear = Int("20" + statsArray[0].suffix(2))!
+        
+        // only grab last 5 years worth of data for player
+        guard seasonYear >= CURRENT_SEASON_YEAR - 5 else { return nil }
+        
         let currentURL = currentYearBaseURL + "\(seasonYear)"
         var currentYearWebpage = getWebpage(from: currentURL)
         
@@ -371,13 +412,18 @@ func getPlayerSeasons(from playerURL: URL, shortName: String) -> [Player.Season]
             guard currentYearWebpage.contains("\"events\":") else { return nil }
         }
         
-        let jsonStatsSegment = currentYearWebpage.substring(startingTerm: "\"events\":", endingAtFirst: "<")
-        let footerSegment = jsonStatsSegment.substring(startingTerm: "\"totals\"", endingAtFirst: "<")
-        let gameLogSegment = "[" + jsonStatsSegment
-            .replace(footerSegment, with: "")
-            .replace(",\"totals\":", with: "")
+        let fullPageJSON = currentYearWebpage
+            .components(separatedBy: "['__espnfitt__']")[1]
+            .components(separatedBy: ";</script>")[0]
+            .dropFirst()
         
-        let gameLogEntries = try! JSONDecoder().decode([GameLogEntry].self, from: gameLogSegment.data(using: .utf8)!)
+        let fullPageGameLog = try! JSONDecoder().decode(FullPageGameLog.self, from: fullPageJSON.data(using: .utf8)!)
+        
+        typealias GameLogEntry = FullPageGameLog.Page.Content.Player.GameLog.Group.Table.GameLogEntry
+        
+        let gameLogEntries: [GameLogEntry] = fullPageGameLog.page.content.player.gameLog.groups.flatMap {
+            $0.tables.compactMap { $0.events }.flatMap { $0 }
+        }
         
         let gameBoxScoreURLs = gameLogEntries.map {
             $0.outcome.gameURL.absoluteString.replace("/game/", with: "/boxscore/")
@@ -402,7 +448,7 @@ func getPreviousGame(from event: TeamSchedule.Events.Event, teamID: String) -> T
             !boxScoreWebpage.contains("\"desc\":\"Forfeit\",\"det\":\"Forfeit\"") &&
             
             // this occurs if ESPN data is corrupt where the game was played but the score is listed as 0-0
-            !(boxScoreWebpage.contains("\"desc\":\"Final\",\"det\":\"Final\"") && boxScoreWebpage.contains("\"score\":\"0\""))
+            !(SPORT_MODE.isCollege && boxScoreWebpage.contains("\"desc\":\"Final\",\"det\":\"Final\"") && boxScoreWebpage.contains("\"score\":\"0\""))
     else { return nil }
     
     let fullPageJSON = boxScoreWebpage
@@ -437,12 +483,10 @@ func getPreviousGame(from event: TeamSchedule.Events.Event, teamID: String) -> T
         let opponentLineScores = fullPageBoxScore.gameStripe.teams.first(where: { $0.teamID == event.opponent.teamID })?.lineScores
     else { return nil } // this could return nil if either team is non-D1 as ESPN doesn't keep good data on non D1 teams and usually those games don't have lines anyway
     
-    let isFourQuarterGame = SPORT_MODE.isWomanLeague // && NBA
-    
-    let teamFirstHalfScore = Int(teamLineScores[0].displayValue)! + (isFourQuarterGame ? Int(teamLineScores[1].displayValue)! : 0)
-    let teamSecondHalfScore = isFourQuarterGame ? Int(teamLineScores[2].displayValue)! + Int(teamLineScores[3].displayValue)! : Int(teamLineScores[1].displayValue)!
-    let opponentFirstHalfScore = Int(opponentLineScores[0].displayValue)! + (isFourQuarterGame ? Int(opponentLineScores[1].displayValue)! : 0)
-    let opponentSecondHalfScore = isFourQuarterGame ? Int(opponentLineScores[2].displayValue)! + Int(opponentLineScores[3].displayValue)! : Int(opponentLineScores[1].displayValue)!
+    let teamFirstHalfScore = Int(teamLineScores[0].displayValue)! + (SPORT_MODE.isFourQuarterGame ? Int(teamLineScores[1].displayValue)! : 0)
+    let teamSecondHalfScore = SPORT_MODE.isFourQuarterGame ? Int(teamLineScores[2].displayValue)! + Int(teamLineScores[3].displayValue)! : Int(teamLineScores[1].displayValue)!
+    let opponentFirstHalfScore = Int(opponentLineScores[0].displayValue)! + (SPORT_MODE.isFourQuarterGame ? Int(opponentLineScores[1].displayValue)! : 0)
+    let opponentSecondHalfScore = SPORT_MODE.isFourQuarterGame ? Int(opponentLineScores[2].displayValue)! + Int(opponentLineScores[3].displayValue)! : Int(opponentLineScores[1].displayValue)!
     
     let firstHalfScore = Team.PreviousGame.GameScore.Score(teamPoints: teamFirstHalfScore,
                                                            opponentPoints: opponentFirstHalfScore)
@@ -512,14 +556,14 @@ func getUpcomingGame(from event: TeamSchedule.Events.Event) -> Team.UpcomingGame
     
     let channel: String?
     if pregameWebpage.contains("Coverage<!-- -->: <!-- -->") {
-        channel = String(pregameWebpage.substring(startingTerm: "Coverage<!-- -->: <!-- -->", endingAtFirst: "<").dropLast())
+        channel = String(pregameWebpage.substring(startingTerm: "Coverage<!-- -->: <!-- --", endingAtFirst: "<").dropLast())
     } else {
         channel = nil
     }
     
     let capacity: String?
     if pregameWebpage.contains("Capacity<!-- -->: <!-- -->") {
-        capacity = String(pregameWebpage.substring(startingTerm: "Capacity<!-- -->: <!-- -->", endingAtFirst: "<").dropLast())
+        capacity = String(pregameWebpage.substring(startingTerm: "Capacity<!-- -->: <!-- --", endingAtFirst: "<").dropLast())
             .replace(",", with: "")
     } else {
         capacity = nil
@@ -554,7 +598,9 @@ func getGames(from scheduleURL: String, teamID: String) -> Team.Games {
 
 // MARK: - National Rankings
 
-func getNationalRankings() -> [NationalRanking] {
+func getNationalRankingsIfNeeded() -> [NationalRanking] {
+    guard SPORT_MODE.isCollege else { return [] }
+    
     let rankingsFileName = "nationalRankings.json"
     var currentNationalRankings = FileManager.default.getDecodedFileIfExists(fileName: rankingsFileName, todayOnly: false) ?? [NationalRanking]()
     
@@ -588,4 +634,36 @@ func getNationalRankings() -> [NationalRanking] {
     }
     
     return currentNationalRankings
+}
+
+
+// MARK: - Depth Chart
+
+func getDepthChart(for teamID: String) -> [Team.DepthChart]? {
+    guard !SPORT_MODE.isCollege else { return nil }
+    
+    let depthChartURL = "https://www.espn.com/\(SPORT_MODE.espnPathIndicator)/team/depth/_/id/\(teamID)"
+    let depthChartWebpage = getWebpage(from: depthChartURL)
+    
+    guard depthChartWebpage.contains("dethTeamGroups") else { return nil }
+    
+    let depthChartSegment = depthChartWebpage
+        .components(separatedBy: "dethTeamGroups")[1]
+        .components(separatedBy: "glossary")[0]
+        .dropFirst(3)
+        .dropLast(3)
+    
+    let depthChartList = try! JSONDecoder().decode(DepthChartList.self, from: depthChartSegment.data(using: .utf8)!)
+    
+    return depthChartList.rows.map { positionChart in
+        let starter = Team.DepthChart.PlayerWithStatus(name: positionChart[1].playerInfo!.name, status: positionChart[1].playerInfo!.status)
+        
+        let orderedBackups = positionChart.dropFirst(2).map {
+            Team.DepthChart.PlayerWithStatus(name: $0.playerInfo!.name, status: $0.playerInfo!.status)
+        }
+        
+        return Team.DepthChart(position: positionChart[0].position!,
+                               starter: starter,
+                               orderedBackups: orderedBackups)
+    }
 }

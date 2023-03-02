@@ -52,55 +52,75 @@ func getCategoryGroup(baseName: String,
                       generalDidMatch: @escaping PreviousGameFilter,
                       generalDesignatedTeam: @escaping NameFilter) -> [Category] {
     
-    let generalCategoires = generalCategoryProducers.map { producer in
-        Category(name: "Covered Spread w/ \(baseName) \(producer.0)",
-                 isMember: { generalSize($0) && producer.1($0) },
-                 didMatch: generalDidMatch,
-                 designatedTeam: generalDesignatedTeam,
-                 weight: 1)
+    let generalCategories: [Category]
+    
+    if SPORT_MODE.isCollege {
+        generalCategories = generalCategoryProducers.map { producer in
+            Category(name: "Covered Spread w/ \(baseName) \(producer.0)",
+                     isMember: { generalSize($0) && producer.1($0) },
+                     didMatch: generalDidMatch,
+                     designatedTeam: generalDesignatedTeam,
+                     weight: 1)
+        }
+    } else {
+        generalCategories = [
+            Category(name: "Covered Spread w/ \(baseName)",
+                     isMember: generalSize,
+                     didMatch: generalDidMatch,
+                     designatedTeam: generalDesignatedTeam,
+                     weight: 1)
+        ]
     }
     
-    // Commented this block out for now: home/away categories don't seem to improve prediction accuracy
-    /*
-    let homeCategories = homeAwayCategoryProducers.map { producer in
-        Category(name: "Home Team Covered Spread w/ \(baseName) \(producer.0)",
-                 isMember: { homeSize($0) && producer.1($0) },
-                 didMatch: didHomeTeamCoverTheSpread,
-                 designatedTeam: getHomeTeamName)
-    }
-    
-    let awayCategories = homeAwayCategoryProducers.map { producer in
-        Category(name: "Away Team Covered Spread w/ \(baseName) \(producer.0)",
-                 isMember: { awaySize($0) && producer.1($0) },
-                 didMatch: didAwayTeamCoverTheSpread,
-                 designatedTeam: getAwayTeamName)
-    }*/
-    
-    return generalCategoires// + homeCategories + awayCategories
+    return generalCategories // Home/away categories don't seem to improve prediction accuracy for now
 }
 
 func getHomeAwayCategoryGroup(baseName: String, size: @escaping GameFilter) -> [Category] {
-    let homeCategories: [Category] = homeAwayCategoryProducers.map { producer in
-        let prefixName = "Home Team Covered Spread" + (baseName.isEmpty ? "" : "w/")
+    if SPORT_MODE.isCollege {
+        let homeCategories: [Category] = homeAwayCategoryProducers.map { producer in
+            let prefixName = "Home Team Covered Spread" + (baseName.isEmpty ? "" : "w/")
+            
+            return Category(name: "\(prefixName) \(baseName) \(producer.0)",
+                            isMember: { size($0) && producer.1($0) },
+                            didMatch: didHomeTeamCoverTheSpread,
+                            designatedTeam: getHomeTeamName,
+                            weight: 1)
+        }
         
-        return Category(name: "\(prefixName) \(baseName) \(producer.0)",
-                        isMember: { size($0) && producer.1($0) },
-                        didMatch: didHomeTeamCoverTheSpread,
-                        designatedTeam: getHomeTeamName,
-                        weight: 1)
-    }
-    
-    let awayCategories: [Category] = homeAwayCategoryProducers.map { producer in
-        let prefixName = "Away Team Covered Spread" + (baseName.isEmpty ? "" : " w/")
+        let awayCategories: [Category] = homeAwayCategoryProducers.map { producer in
+            let prefixName = "Away Team Covered Spread" + (baseName.isEmpty ? "" : " w/")
+            
+            return Category(name: "\(prefixName) \(baseName) \(producer.0)",
+                            isMember: { size($0) && producer.1($0) },
+                            didMatch: didAwayTeamCoverTheSpread,
+                            designatedTeam: getAwayTeamName,
+                            weight: 1)
+        }
         
-        return Category(name: "\(prefixName) \(baseName) \(producer.0)",
-                        isMember: { size($0) && producer.1($0) },
-                        didMatch: didAwayTeamCoverTheSpread,
-                        designatedTeam: getAwayTeamName,
-                        weight: 1)
+        return homeCategories + awayCategories
+    } else {
+        let homeCategory = {
+            let prefixName = "Home Team Covered Spread" + (baseName.isEmpty ? "" : "w/")
+            
+            return Category(name: "\(prefixName) \(baseName)",
+                            isMember: size,
+                            didMatch: didHomeTeamCoverTheSpread,
+                            designatedTeam: getHomeTeamName,
+                            weight: 1)
+        }()
+        
+        let awayCategory = {
+            let prefixName = "Away Team Covered Spread" + (baseName.isEmpty ? "" : " w/")
+            
+            return Category(name: "\(prefixName) \(baseName)",
+                            isMember: size,
+                            didMatch: didAwayTeamCoverTheSpread,
+                            designatedTeam: getAwayTeamName,
+                            weight: 1)
+        }()
+        
+        return [homeCategory, awayCategory]
     }
-    
-    return homeCategories + awayCategories
 }
 
 func getCategoriesForAllComparisons() -> [Category] {
@@ -1144,6 +1164,68 @@ func getTeamNameWithBetterRoadRecord(_ game: (String, Game)) -> String? {
     if teamARecord! > teamBRecord! {
         return game.0
     } else if teamBRecord! > teamARecord! {
+        return game.1.opponentID
+    } else {
+        return nil
+    }
+}
+
+
+// MARK: - Back-to-Back Comparisons
+
+func doesMatchupHaveOnlyOneTeamOnABackToBack(_ game: (String, Game)) -> Bool {
+    let isTeamAOnBackToBack = teams.first { $0.teamID == game.0 }!.isGameOnABackToBack(game.1)
+    let isTeamBOnBackToBack = teams.first { $0.teamID == game.1.opponentID }!.isGameOnABackToBack(game.1)
+    
+    if isTeamAOnBackToBack && isTeamBOnBackToBack {
+        return false
+    } else if isTeamAOnBackToBack || isTeamBOnBackToBack {
+        return true
+    } else {
+        return false
+    }
+}
+
+func doesMatchupHaveHomeTeamOnABackToBack(_ game: (String, Game)) -> Bool {
+    let isTeamAOnBackToBack = teams.first { $0.teamID == game.0 }!.isGameOnABackToBack(game.1)
+    let isTeamBOnBackToBack = teams.first { $0.teamID == game.1.opponentID }!.isGameOnABackToBack(game.1)
+    
+    if isTeamAOnBackToBack && isTeamBOnBackToBack {
+        return false
+    } else if isTeamAOnBackToBack {
+        return true
+    } else {
+        return false
+    }
+}
+
+func doesMatchupHaveAwayTeamOnABackToBack(_ game: (String, Game)) -> Bool {
+    let isTeamAOnBackToBack = teams.first { $0.teamID == game.0 }!.isGameOnABackToBack(game.1)
+    let isTeamBOnBackToBack = teams.first { $0.teamID == game.1.opponentID }!.isGameOnABackToBack(game.1)
+    
+    if isTeamAOnBackToBack && isTeamBOnBackToBack {
+        return false
+    } else if isTeamBOnBackToBack {
+        return true
+    } else {
+        return false
+    }
+}
+
+func didTeamOnBackToBackCoverSpread(_ game: (String, Team.PreviousGame)) -> Bool {
+    let isTeamAOnBackToBack = teams.first { $0.teamID == game.0 }!.isGameOnABackToBack(game.1)
+    let isTeamBOnBackToBack = teams.first { $0.teamID == game.1.opponentID }!.isGameOnABackToBack(game.1)
+    
+    return (game.1.didCoverSpread && isTeamAOnBackToBack) || (!game.1.didCoverSpread && isTeamBOnBackToBack)
+}
+
+func getTeamNameOnABackToBack(_ game: (String, Game)) -> String? {
+    let isTeamAOnBackToBack = teams.first { $0.teamID == game.0 }!.isGameOnABackToBack(game.1)
+    let isTeamBOnBackToBack = teams.first { $0.teamID == game.1.opponentID }!.isGameOnABackToBack(game.1)
+    
+    if isTeamAOnBackToBack {
+        return game.0
+    } else if isTeamBOnBackToBack {
         return game.1.opponentID
     } else {
         return nil

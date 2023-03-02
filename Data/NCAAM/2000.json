@@ -2147,7 +2147,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Immanuel Allen"
     },
     {
@@ -2776,7 +2776,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Leonardo Bettiol"
     },
     {
@@ -6880,7 +6880,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Tobias Cameron"
     },
     {
@@ -11506,7 +11506,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Damien Daniels"
     },
     {
@@ -12489,7 +12489,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Ali Abdou Dibba"
     },
     {
@@ -13878,7 +13878,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Yuot Gai"
     },
     {
@@ -15760,7 +15760,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Ja'Sean Jackson"
     },
     {
@@ -17091,7 +17091,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Hunter-Jack Madden"
     },
     {
@@ -17106,7 +17106,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Reese Miller"
     },
     {
@@ -17387,7 +17387,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Muodubem Muoneke"
     },
     {
@@ -21578,7 +21578,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Joe Pleasant"
     },
     {
@@ -21975,7 +21975,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "JV Seat"
     },
     {
@@ -25522,7 +25522,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Airion Simmons"
     },
     {
@@ -27990,7 +27990,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Cameron Steele"
     },
     {
@@ -28300,7 +28300,7 @@
           "teamID" : "ACU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Colby Tanner"
     }
   ],
@@ -29123,20 +29123,12 @@
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T18:00-0700",
-        "venueCapacity" : 600,
-        "opponentID" : "NMSU",
-        "coverage" : "sportsTV"
-      },
-      {
-        "opponentID" : "SHSU",
         "venue" : "home",
-        "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 100,
-        "date" : "2023-03-03T17:30-0700"
+        "date" : "2023-03-03T17:30-0700",
+        "venueCapacity" : 6100,
+        "opponentID" : "SHSU",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

@@ -623,7 +623,7 @@
       ],
       "name" : "Teagan Brown",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -2564,7 +2564,7 @@
       ],
       "name" : "Dalayah Daniels",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -2753,7 +2753,7 @@
       ],
       "name" : "Shayla Gillmer",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -4042,7 +4042,7 @@
       ],
       "name" : "Lexi Griggsby",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -7793,7 +7793,7 @@
       ],
       "name" : "Emma Grothaus",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8620,7 +8620,7 @@
       ],
       "name" : "Elle Ladine",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -9424,7 +9424,7 @@
       ],
       "name" : "Nia Lowery",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -11133,7 +11133,7 @@
       ],
       "name" : "Jayda Noble",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -15238,7 +15238,7 @@
       ],
       "name" : "Trinity Oliver",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -18641,7 +18641,7 @@
       ],
       "name" : "Darcy Rees",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -21777,7 +21777,7 @@
       ],
       "name" : "Lauren Schwartz",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -22575,7 +22575,7 @@
       ],
       "name" : "Hannah Stines",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -26500,7 +26500,7 @@
       ],
       "name" : "Haley Van Dyke",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -27615,7 +27615,7 @@
       ],
       "name" : "TT Watkins",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "Pac-12",
@@ -28671,15 +28671,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "neutral",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T15:30-0700",
-        "venueCapacity" : 2000,
-        "opponentID" : "ORE",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

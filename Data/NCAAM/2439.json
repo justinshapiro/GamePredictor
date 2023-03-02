@@ -192,13 +192,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2022-11-12T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-01T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Cameron Burist"
     },
     {
@@ -1506,7 +1535,7 @@
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Isaiah Cottrell"
     },
     {
@@ -3237,13 +3266,42 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-24T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-03-01T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Keshon Gilbert"
     },
     {
@@ -3663,13 +3721,42 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2023-02-24T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-01T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Keyshawn Hall"
     },
     {
@@ -7361,13 +7448,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-24T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 7
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 20,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-01T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "EJ Harkless"
     },
     {
@@ -10154,13 +10270,42 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2023-02-24T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-03-01T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Victor Iwuakor"
     },
     {
@@ -11630,13 +11775,42 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2023-02-24T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 25,
+              "date" : "2023-03-01T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jackie Johnson III"
     },
     {
@@ -11853,13 +12027,42 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-01-17T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-01T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Karl Jones"
     },
     {
@@ -16218,13 +16421,42 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2023-02-24T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-01T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jordan McCabe"
     },
     {
@@ -19620,13 +19852,42 @@
               "didStart" : true,
               "minutesPlayed" : 28,
               "date" : "2023-02-24T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-01T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "David Muoka"
     },
     {
@@ -20574,13 +20835,42 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2023-02-24T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 10,
+                  "made" : 8
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-01T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Shane Nowell"
     },
     {
@@ -21122,7 +21412,7 @@
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Elijah Parquet"
     },
     {
@@ -24408,13 +24698,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-11T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-01T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Luis Rodriguez"
     },
     {
@@ -24463,7 +24782,7 @@
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Nick Walters"
     },
     {
@@ -27540,13 +27859,42 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2023-02-24T19:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-01T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNLV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Justin Webster"
     }
   ],
@@ -28333,24 +28681,45 @@
         },
         "attendance" : 5831,
         "line" : 9
+      },
+      {
+        "venueCapacity" : 18000,
+        "opponentID" : "USU",
+        "largestLead" : 3,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Verne Harris",
+          "Tony Padilla",
+          "Nate Harris"
+        ],
+        "didWin" : false,
+        "overUnder" : 147.5,
+        "date" : "2023-03-01T21:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 32,
+            "opponentPoints" : 44
+          },
+          "secondHalf" : {
+            "teamPoints" : 34,
+            "opponentPoints" : 47
+          }
+        },
+        "attendance" : 5747,
+        "line" : 3
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "USU",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 8000,
-        "date" : "2023-03-01T21:00-0700"
-      },
       {
         "opponentID" : "NEV",
         "venue" : "home",
         "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 1536,
-        "date" : "2023-03-03T22:00-0700"
+        "venueCapacity" : 11536,
+        "date" : "2023-03-04T15:00-0700"
       }
     ]
   }

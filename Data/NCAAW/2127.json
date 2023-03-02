@@ -1644,7 +1644,7 @@
       ],
       "name" : "Madison Adamson",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -2384,7 +2384,7 @@
       ],
       "name" : "Kajsa Ahlberg",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -3211,7 +3211,7 @@
       ],
       "name" : "Catherine Alben",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -3951,7 +3951,7 @@
       ],
       "name" : "Carleigh Andrews",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -4604,7 +4604,7 @@
       ],
       "name" : "Alba Garcia-Valcarcel Bezos",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -7711,7 +7711,7 @@
       ],
       "name" : "Tori Gittens",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -10708,7 +10708,7 @@
       ],
       "name" : "Zaire Hicks",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -11506,7 +11506,7 @@
       ],
       "name" : "Jazmine Jackson",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -12606,7 +12606,7 @@
       ],
       "name" : "Kennedi Jackson",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -13317,7 +13317,7 @@
       ],
       "name" : "Saniya Jones",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -16453,7 +16453,7 @@
       ],
       "name" : "Sha'Mya Leigh",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "Big South",
@@ -17534,15 +17534,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "neutral",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-01T12:00-0700",
-        "venueCapacity" : 600,
-        "opponentID" : "SCUP",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

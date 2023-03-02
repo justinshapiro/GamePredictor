@@ -884,7 +884,7 @@
       ],
       "name" : "Althea Kara Angeles",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -1508,7 +1508,7 @@
       ],
       "name" : "Mikayla Brown",
       "position" : "Center",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -3739,7 +3739,7 @@
       ],
       "name" : "Joy Campbell",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -5645,7 +5645,7 @@
       ],
       "name" : "Kaye Clark",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -9773,7 +9773,7 @@
       ],
       "name" : "Makayla Dickens",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -10078,7 +10078,7 @@
       ],
       "name" : "Autumn Dodd",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -12367,7 +12367,7 @@
       ],
       "name" : "Jada Duckett",
       "position" : "Center",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -14598,7 +14598,7 @@
       ],
       "name" : "Brenda Fontana",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -17676,7 +17676,7 @@
       ],
       "name" : "Brianna Jackson",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -19878,7 +19878,7 @@
       ],
       "name" : "Jatyjia Jones",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -20792,7 +20792,7 @@
       ],
       "name" : "Jordan McLaughlin",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -22466,7 +22466,7 @@
       ],
       "name" : "Kaylen Nelson",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -24703,7 +24703,7 @@
       ],
       "name" : "Taleah Washington",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -29005,7 +29005,7 @@
       ],
       "name" : "Amari Young",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "Sun Belt",
@@ -30162,13 +30162,13 @@
     ],
     "upcoming" : [
       {
-        "isConferenceMatchup" : false,
+        "isConferenceMatchup" : true,
         "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-01T13:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "TBD",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-03T13:00-0700",
+        "venueCapacity" : 10000,
+        "opponentID" : "TROY",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

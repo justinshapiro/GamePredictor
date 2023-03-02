@@ -1039,7 +1039,7 @@
           "teamID" : "UNM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jay Allen-Tovar"
     },
     {
@@ -3884,13 +3884,42 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-02-28T20:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Josiah Allick"
     },
     {
@@ -4171,7 +4200,7 @@
           "teamID" : "UNM"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Braden Appelhans"
     },
     {
@@ -4997,13 +5026,42 @@
               "didStart" : false,
               "minutesPlayed" : 9,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 21,
+              "date" : "2023-02-28T20:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNM"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Donovan Dent"
     },
     {
@@ -5255,13 +5313,42 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-02-17T20:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-02-28T20:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Safi Fino-A-Laself"
     },
     {
@@ -6621,7 +6708,7 @@
           "teamID" : "UNM"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Sebastian Forsling"
     },
     {
@@ -9785,13 +9872,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 6
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 24,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 11,
+                  "made" : 9
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-02-28T20:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jaelen House"
     },
     {
@@ -11464,13 +11580,42 @@
               "didStart" : false,
               "minutesPlayed" : 22,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 20,
+              "date" : "2023-02-28T20:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "KJ Jenkins"
     },
     {
@@ -13845,13 +13990,42 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-02-28T20:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Javonte Johnson"
     },
     {
@@ -15252,7 +15426,7 @@
           "teamID" : "UNM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Emmanuel Kuac"
     },
     {
@@ -15388,7 +15562,7 @@
           "teamID" : "UNM"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Mac Manzanares"
     },
     {
@@ -17995,13 +18169,42 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-02-28T20:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jamal Mashburn Jr."
     },
     {
@@ -19181,13 +19384,42 @@
               "didStart" : false,
               "minutesPlayed" : 8,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-02-28T20:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNM"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Birima Seck"
     },
     {
@@ -22734,13 +22966,42 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 11
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 25,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-02-28T20:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UNM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Morris Udeze"
     },
     {
@@ -22755,7 +23016,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Quinton Webb"
     }
   ],
@@ -23577,17 +23838,38 @@
         },
         "attendance" : 15431,
         "line" : 2.5
+      },
+      {
+        "venueCapacity" : 15411,
+        "opponentID" : "FRES",
+        "largestLead" : 18,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Mike Scyphers",
+          "David Hall",
+          "Tommy Nunez"
+        ],
+        "didWin" : true,
+        "overUnder" : 142.5,
+        "date" : "2023-02-28T20:30-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 50,
+            "opponentPoints" : 42
+          },
+          "secondHalf" : {
+            "teamPoints" : 44,
+            "opponentPoints" : 38
+          }
+        },
+        "attendance" : 12520,
+        "line" : 7.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "FRES",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 5411,
-        "date" : "2023-02-28T20:30-0700"
-      },
       {
         "opponentID" : "CSU",
         "venue" : "home",
