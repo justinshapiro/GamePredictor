@@ -557,6 +557,35 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -565,7 +594,7 @@
       ],
       "name" : "Chloe Chard Peloquin",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -575,7 +604,7 @@
       ],
       "name" : "Hannah Dolan",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -1336,6 +1365,35 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 18,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1344,7 +1402,7 @@
       ],
       "name" : "Sisi Eleko",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -4478,6 +4536,35 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4486,7 +4573,7 @@
       ],
       "name" : "Vannessa Garrelts",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5168,7 +5255,7 @@
       ],
       "name" : "Lydia Gattozzi",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -6985,6 +7072,35 @@
               "didStart" : false,
               "minutesPlayed" : 27,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6993,7 +7109,7 @@
       ],
       "name" : "Dani Haskell",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -7609,6 +7725,35 @@
               "didStart" : false,
               "minutesPlayed" : 30,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7617,7 +7762,7 @@
       ],
       "name" : "Giana Hernandez-Boulden",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -7783,7 +7928,7 @@
       ],
       "name" : "Xanthippi Karatasiou",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -8341,6 +8486,35 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8349,7 +8523,7 @@
       ],
       "name" : "Adrien LaMora",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -9841,6 +10015,35 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9849,7 +10052,7 @@
       ],
       "name" : "Athina Lexa",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -10610,6 +10813,35 @@
               "didStart" : true,
               "minutesPlayed" : 10,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 3
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 17,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10618,7 +10850,7 @@
       ],
       "name" : "Jane McCauley",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -11358,7 +11590,7 @@
       ],
       "name" : "Elia Paez",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -12713,7 +12945,7 @@
       ],
       "name" : "Rhay Porter",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14205,6 +14437,35 @@
               "didStart" : true,
               "minutesPlayed" : 49,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14213,7 +14474,7 @@
       ],
       "name" : "Cheyenne Stubbs",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14974,6 +15235,35 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14982,11 +15272,11 @@
       ],
       "name" : "Brooklyn Thrash",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     }
   ],
   "conference" : "MAAC",
-  "conferenceRanking" : 8,
+  "conferenceRanking" : 9,
   "games" : {
     "previous" : [
       {
@@ -15997,6 +16287,43 @@
           ]
         },
         "attendance" : 323
+      },
+      {
+        "venueCapacity" : 2196,
+        "opponentID" : "MSM",
+        "largestLead" : 8,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Brandon Appel",
+          "Joi Jefferson",
+          "David Troyan"
+        ],
+        "didWin" : false,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-02T17:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 29,
+            "opponentPoints" : 23
+          },
+          "secondHalf" : {
+            "teamPoints" : 15,
+            "opponentPoints" : 32
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 10,
+              "opponentPoints" : 15
+            },
+            {
+              "teamPoints" : 5,
+              "opponentPoints" : 17
+            }
+          ]
+        },
+        "attendance" : 402
       }
     ],
     "upcoming" : [
@@ -16004,19 +16331,10 @@
         "isConferenceMatchup" : true,
         "venue" : "away",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-02T17:00-0700",
-        "venueCapacity" : 196,
-        "opponentID" : "MSM",
-        "coverage" : "sportsTV"
-      },
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
         "date" : "2023-03-04T11:00-0700",
-        "venueCapacity" : 196,
+        "venueCapacity" : 2196,
         "opponentID" : "SIE",
-        "coverage" : "sportsTV"
+        "coverage" : "standardTV"
       }
     ]
   }

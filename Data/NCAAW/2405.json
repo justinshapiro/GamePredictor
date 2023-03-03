@@ -623,7 +623,7 @@
       ],
       "name" : "Amiya Carroll",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -928,7 +928,7 @@
       ],
       "name" : "Anaya Coleman",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -2774,6 +2774,35 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2782,7 +2811,7 @@
       ],
       "name" : "Kaci Donovan",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -3224,6 +3253,35 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 17,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3232,7 +3290,7 @@
       ],
       "name" : "Ella Farrelly",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -5376,7 +5434,7 @@
       ],
       "name" : "Jania Hall",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -7483,6 +7541,35 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 3,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 18,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7491,7 +7578,7 @@
       ],
       "name" : "Belle Kranbuhl",
       "position" : "Center",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -11176,6 +11263,35 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11184,7 +11300,7 @@
       ],
       "name" : "Jen Louro",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -12435,6 +12551,35 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12443,7 +12588,7 @@
       ],
       "name" : "Lovin Marsicano",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -13993,6 +14138,35 @@
               "didStart" : false,
               "minutesPlayed" : 8,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14001,7 +14175,7 @@
       ],
       "name" : "Antonia Panayides",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14979,7 +15153,7 @@
       ],
       "name" : "Kayla Richardson",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -18519,6 +18693,35 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 1,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 25,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -18527,7 +18730,7 @@
       ],
       "name" : "Lucy Thomas",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -22618,6 +22821,35 @@
               "didStart" : true,
               "minutesPlayed" : 28,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -22626,7 +22858,7 @@
       ],
       "name" : "Bri Tinsley",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -24530,6 +24762,35 @@
               "didStart" : true,
               "minutesPlayed" : 28,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -24538,11 +24799,11 @@
       ],
       "name" : "Ariana Vanderhoop",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "CAA",
-  "conferenceRanking" : 7,
+  "conferenceRanking" : 8,
   "games" : {
     "previous" : [
       {
@@ -25488,23 +25749,51 @@
           "Libya Rentz",
           "Whitney Armstrong"
         ]
+      },
+      {
+        "didWin" : false,
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 29,
+            "opponentPoints" : 42
+          },
+          "secondHalf" : {
+            "teamPoints" : 31,
+            "opponentPoints" : 28
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 17,
+              "opponentPoints" : 16
+            },
+            {
+              "teamPoints" : 14,
+              "opponentPoints" : 12
+            }
+          ]
+        },
+        "venue" : "away",
+        "attendance" : 583,
+        "isConferenceMatchup" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-02T17:00-0700",
+        "venueCapacity" : 4100,
+        "opponentID" : "W&M",
+        "largestLead" : 2,
+        "referees" : [
+          "Ronnie Stephenson",
+          "Jorge Martinez",
+          "Dershiuan Lin"
+        ]
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "W&M",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 100,
-        "date" : "2023-03-02T17:00-0700"
-      },
       {
         "opponentID" : "STBK",
         "venue" : "away",
         "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 100,
+        "venueCapacity" : 4100,
         "date" : "2023-03-04T14:00-0700"
       }
     ]

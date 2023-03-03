@@ -2524,13 +2524,42 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2023-02-20T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCD"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Ade Adebayo"
     },
     {
@@ -6164,13 +6193,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-20T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCD"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Christian Anigwe"
     },
     {
@@ -7705,13 +7763,42 @@
               "didStart" : true,
               "minutesPlayed" : 2,
               "date" : "2023-01-26T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCD"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Robby Beasley III"
     },
     {
@@ -8433,7 +8520,7 @@
           "teamID" : "UCD"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Francesco Borra"
     },
     {
@@ -9816,13 +9903,42 @@
               "didStart" : false,
               "minutesPlayed" : 33,
               "date" : "2023-02-20T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCD"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Leo DeBruhl"
     },
     {
@@ -10927,7 +11043,7 @@
           "teamID" : "UCD"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "DeAndre Henry"
     },
     {
@@ -11962,13 +12078,42 @@
               "didStart" : true,
               "minutesPlayed" : 13,
               "date" : "2023-02-20T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 6,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 6,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 7
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCD"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Ty Johnson"
     },
     {
@@ -12104,7 +12249,7 @@
           "teamID" : "UCD"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Patrick Lambey"
     },
     {
@@ -12814,13 +12959,42 @@
               "didStart" : false,
               "minutesPlayed" : 8,
               "date" : "2023-02-15T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCD"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Sione Lose"
     },
     {
@@ -12923,7 +13097,7 @@
       ],
       "name" : "Jac Mani",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "number" : 13,
@@ -13348,7 +13522,7 @@
           "teamID" : "UCD"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Sam Manu"
     },
     {
@@ -16454,13 +16628,42 @@
               "didStart" : true,
               "minutesPlayed" : 39,
               "date" : "2023-02-20T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCD"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Kane Milling"
     },
     {
@@ -19363,13 +19566,42 @@
               "didStart" : true,
               "minutesPlayed" : 39,
               "date" : "2023-02-20T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 21,
+                  "made" : 9
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 30,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 2
+                },
+                "assists" : 6,
+                "freeThrows" : {
+                  "attempted" : 11,
+                  "made" : 10
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCD"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Elijah Pepper"
     },
     {
@@ -20201,13 +20433,42 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2023-02-20T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCD"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Niko Rocak"
     },
     {
@@ -20218,11 +20479,11 @@
       ],
       "name" : "Joaquin Strong",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     }
   ],
   "conference" : "Big West",
-  "conferenceRanking" : 6,
+  "conferenceRanking" : 7,
   "games" : {
     "previous" : [
       {
@@ -20973,6 +21234,35 @@
         },
         "attendance" : 1688,
         "line" : 8
+      },
+      {
+        "venueCapacity" : 6003,
+        "opponentID" : "UCSB",
+        "largestLead" : 12,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Levon Zakarian",
+          "Ian  Caldwell",
+          "Earnest Kelley III"
+        ],
+        "didWin" : false,
+        "overUnder" : 138,
+        "date" : "2023-03-02T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 37,
+            "opponentPoints" : 36
+          },
+          "secondHalf" : {
+            "teamPoints" : 49,
+            "opponentPoints" : 53
+          }
+        },
+        "attendance" : 2113,
+        "line" : 2.5
       }
     ],
     "upcoming" : [
@@ -20980,19 +21270,10 @@
         "isConferenceMatchup" : true,
         "venue" : "away",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-02T19:00-0700",
-        "venueCapacity" : 3,
-        "opponentID" : "UCSB",
-        "coverage" : "sportsTV"
-      },
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
         "date" : "2023-03-04T14:00-0700",
-        "venueCapacity" : 3,
+        "venueCapacity" : 6003,
         "opponentID" : "LBSU",
-        "coverage" : "sportsTV"
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

@@ -1503,7 +1503,7 @@
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jonathan Dos Anjos"
     },
     {
@@ -3269,13 +3269,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Otis Frazier III"
     },
     {
@@ -7576,13 +7605,42 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "assists" : 6,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 39,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Shamar Givance"
     },
     {
@@ -8153,7 +8211,7 @@
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Derick Hamilton"
     },
     {
@@ -10563,13 +10621,42 @@
               "didStart" : true,
               "minutesPlayed" : 40,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 6
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 4
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tae Hardy"
     },
     {
@@ -10763,7 +10850,7 @@
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Antwonne Holmes"
     },
     {
@@ -12349,13 +12436,42 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kevin Kalu"
     },
     {
@@ -13152,13 +13268,42 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Carlos Lemus"
     },
     {
@@ -13410,7 +13555,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Garrett Levesque"
     },
     {
@@ -14915,7 +15060,7 @@
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Mario McKinney Jr."
     },
     {
@@ -14926,7 +15071,7 @@
       ],
       "name" : "Milos Merrick",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "number" : 21,
@@ -16662,13 +16807,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Ze'Rik Onyema"
     },
     {
@@ -19072,13 +19246,42 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jamari Sibley"
     },
     {
@@ -22329,13 +22532,42 @@
               "didStart" : true,
               "minutesPlayed" : 26,
               "date" : "2023-02-25T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 14,
+                  "made" : 6
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 16,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Calvin Solomon"
     },
     {
@@ -22350,7 +22582,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jamal Sumlin"
     },
     {
@@ -22776,12 +23008,12 @@
           "teamID" : "UTEP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Malik Zachery"
     }
   ],
   "conference" : "C-USA",
-  "conferenceRanking" : 9,
+  "conferenceRanking" : 10,
   "games" : {
     "previous" : [
       {
@@ -23643,6 +23875,35 @@
         },
         "attendance" : 3130,
         "line" : 12.5
+      },
+      {
+        "venueCapacity" : 12000,
+        "opponentID" : "WKU",
+        "largestLead" : 3,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Darron George",
+          "Rodrick Dixon",
+          "Ross Cullins"
+        ],
+        "didWin" : false,
+        "overUnder" : 136.5,
+        "date" : "2023-03-02T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 27,
+            "opponentPoints" : 34
+          },
+          "secondHalf" : {
+            "teamPoints" : 41,
+            "opponentPoints" : 39
+          }
+        },
+        "attendance" : 3725,
+        "line" : 2.5
       }
     ],
     "upcoming" : [
@@ -23650,19 +23911,10 @@
         "isConferenceMatchup" : true,
         "venue" : "away",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-02T19:00-0700",
-        "venueCapacity" : 2000,
-        "opponentID" : "WKU",
-        "coverage" : "sportsTV"
-      },
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-04T14:00-0700",
-        "venueCapacity" : 2000,
-        "opponentID" : "MTU",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-04T12:00-0700",
+        "venueCapacity" : 12000,
+        "opponentID" : "MTSU",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

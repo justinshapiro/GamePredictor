@@ -1445,13 +1445,42 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-03-02T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Isaiah Addo-Ankrah"
     },
     {
@@ -1466,7 +1495,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Sam Aldirawi"
     },
     {
@@ -2449,7 +2478,7 @@
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Aleu Aleu"
     },
     {
@@ -4453,7 +4482,7 @@
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Lachlan Bofinger"
     },
     {
@@ -5459,13 +5488,42 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 7
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-02T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "John Buggs III"
     },
     {
@@ -8890,13 +8948,42 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-02T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Erik Czumbel"
     },
     {
@@ -9635,13 +9722,42 @@
               "didStart" : true,
               "minutesPlayed" : 10,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 9,
+              "date" : "2023-03-02T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Massal Diouf"
     },
     {
@@ -11198,13 +11314,42 @@
               "didStart" : false,
               "minutesPlayed" : 9,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-02T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Josh Farmer"
     },
     {
@@ -14629,13 +14774,42 @@
               "didStart" : false,
               "minutesPlayed" : 29,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 8
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-02T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jacob Germany"
     },
     {
@@ -15003,7 +15177,7 @@
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Azavier Johnson"
     },
     {
@@ -15957,7 +16131,7 @@
           "teamID" : "KSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Carlton Linguard Jr."
     },
     {
@@ -16754,13 +16928,42 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 22,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 14,
+                  "made" : 9
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-02T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Japhet Medor"
     },
     {
@@ -17644,13 +17847,42 @@
               "didStart" : true,
               "minutesPlayed" : 16,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-02T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "DJ Richards"
     },
     {
@@ -18830,13 +19062,42 @@
               "didStart" : true,
               "minutesPlayed" : 14,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-02T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Lamin Sabally"
     },
     {
@@ -20393,13 +20654,42 @@
               "didStart" : false,
               "minutesPlayed" : 32,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-02T18:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UTSA"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Christian Tucker"
     }
   ],
@@ -21271,18 +21561,39 @@
         },
         "attendance" : 1119,
         "line" : 8
+      },
+      {
+        "venueCapacity" : 2650,
+        "opponentID" : "CHAR",
+        "largestLead" : 13,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Jeb Hartness",
+          "Lee Jones",
+          "Shane Staggs"
+        ],
+        "didWin" : true,
+        "overUnder" : 133.5,
+        "date" : "2023-03-02T18:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 38,
+            "opponentPoints" : 37
+          },
+          "secondHalf" : {
+            "teamPoints" : 40,
+            "opponentPoints" : 36
+          }
+        },
+        "attendance" : 1249,
+        "line" : 6.5
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-02T18:00-0700",
-        "venueCapacity" : 650,
-        "opponentID" : "CHAR",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

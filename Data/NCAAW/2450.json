@@ -1644,7 +1644,7 @@
       ],
       "name" : "Makoye Diawara",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -3852,7 +3852,7 @@
       ],
       "name" : "Camille Downs",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5909,7 +5909,7 @@
       ],
       "name" : "Niya Fields",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -9834,7 +9834,7 @@
       ],
       "name" : "Deja Francis",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -11404,7 +11404,7 @@
       ],
       "name" : "Danielle Robinson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -12231,7 +12231,7 @@
       ],
       "name" : "Skye Robinson",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -12507,7 +12507,7 @@
       ],
       "name" : "Tamiya Santos",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -13015,7 +13015,7 @@
       ],
       "name" : "Alana Swift",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -13813,7 +13813,7 @@
       ],
       "name" : "Kierra Wheeler",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -15493,7 +15493,7 @@
       ],
       "name" : "Crystal White",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -16941,7 +16941,7 @@
       ],
       "name" : "Da'naijah Williams",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -18766,7 +18766,7 @@
       ],
       "name" : "Mahoganie Williams",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "MEAC",
@@ -19790,14 +19790,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "HOW",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 700,
-        "date" : "2023-03-02T15:30-0700"
-      }
+
     ]
   }
 }

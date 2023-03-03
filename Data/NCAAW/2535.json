@@ -101,7 +101,7 @@
       ],
       "name" : "Nicole Azar",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -752,7 +752,7 @@
       ],
       "name" : "Andrea Bailey",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -1846,7 +1846,7 @@
       ],
       "name" : "Emily Bowman",
       "position" : "Center",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -3381,7 +3381,7 @@
       ],
       "name" : "Mattie Hatcher",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -4208,7 +4208,7 @@
       ],
       "name" : "Carly Heidger",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -6410,7 +6410,7 @@
       ],
       "name" : "Macey Lee",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -7150,7 +7150,7 @@
       ],
       "name" : "Masyn Marchbanks",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -8743,7 +8743,7 @@
       ],
       "name" : "Kiersten Nelson",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -10475,7 +10475,7 @@
       ],
       "name" : "Sussy Ngulefac",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -12004,7 +12004,7 @@
       ],
       "name" : "Sanaa Redmond",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -13394,7 +13394,7 @@
       ],
       "name" : "Cydney Rivera",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -15074,7 +15074,7 @@
       ],
       "name" : "Rylie Stephens",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -15930,7 +15930,7 @@
       ],
       "name" : "Alyssa Tarpley",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -17871,7 +17871,7 @@
       ],
       "name" : "Kathleen Wheeler",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "Southern",
@@ -18952,15 +18952,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "neutral",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-02T15:45-0700",
-        "venueCapacity" : 674,
-        "opponentID" : "ETSU",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

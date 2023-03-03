@@ -1700,6 +1700,35 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 6,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 8
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-02T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1708,7 +1737,7 @@
       ],
       "name" : "Ketsia Athias",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -5364,6 +5393,35 @@
               "didStart" : true,
               "minutesPlayed" : 17,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-02T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5372,7 +5430,7 @@
       ],
       "name" : "Juana Camilion",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -6814,7 +6872,7 @@
       ],
       "name" : "Marina Cenis",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -7003,7 +7061,7 @@
       ],
       "name" : "Ale Civera",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -7337,7 +7395,7 @@
       ],
       "name" : "Amaya B. Evans",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -7837,6 +7895,35 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2022-11-30T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-02T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7845,7 +7932,7 @@
       ],
       "name" : "Noa Givon",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -9395,6 +9482,35 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-02T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9403,7 +9519,7 @@
       ],
       "name" : "Judith Gomez",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -11394,6 +11510,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-02T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11402,7 +11547,7 @@
       ],
       "name" : "Thoranna Hodge-Carr",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -12699,7 +12844,7 @@
       ],
       "name" : "Isabelle Lipinski",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -12801,7 +12946,7 @@
       ],
       "name" : "Vega Lopez",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -15552,6 +15697,35 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-03-02T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -15560,7 +15734,7 @@
       ],
       "name" : "Kate Mager",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -16147,6 +16321,35 @@
               "didStart" : false,
               "minutesPlayed" : 7,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-02T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16155,7 +16358,7 @@
       ],
       "name" : "Petra Oborilova",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -17676,6 +17879,35 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2022-11-10T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 24,
+              "date" : "2023-03-02T14:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -17684,7 +17916,7 @@
       ],
       "name" : "Natalia Otkhmezuri",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -17815,7 +18047,7 @@
       ],
       "name" : "Addy Salzer",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "MAAC",
@@ -18816,26 +19048,63 @@
           ]
         },
         "attendance" : 1246
+      },
+      {
+        "venueCapacity" : 2578,
+        "opponentID" : "MRST",
+        "largestLead" : 0,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Keith Miller",
+          "Robert McDow",
+          "Zoe Robbins"
+        ],
+        "didWin" : false,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-02T14:30-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 32,
+            "opponentPoints" : 39
+          },
+          "secondHalf" : {
+            "teamPoints" : 28,
+            "opponentPoints" : 31
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 14,
+              "opponentPoints" : 17
+            },
+            {
+              "teamPoints" : 14,
+              "opponentPoints" : 14
+            }
+          ]
+        },
+        "attendance" : 1160
       }
     ],
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-02T14:30-0700",
-        "venueCapacity" : 578,
-        "opponentID" : "MRST",
-        "coverage" : "sportsTV"
-      },
-      {
-        "isConferenceMatchup" : true,
         "venue" : "home",
         "seasonType" : "regularSeason",
         "date" : "2023-03-04T17:00-0700",
-        "venueCapacity" : 200,
+        "venueCapacity" : 3200,
         "opponentID" : "SPU",
-        "coverage" : "sportsTV"
+        "coverage" : "standardTV"
+      },
+      {
+        "isConferenceMatchup" : false,
+        "venue" : "neutral",
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-09T11:00-0700",
+        "venueCapacity" : 14770,
+        "opponentID" : "TBD",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

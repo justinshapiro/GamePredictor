@@ -130,7 +130,7 @@
       ],
       "name" : "Mia Andrews",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -694,6 +694,35 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -702,7 +731,7 @@
       ],
       "name" : "Abaigeal Babore",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -3830,6 +3859,35 @@
               "didStart" : true,
               "minutesPlayed" : 17,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3838,7 +3896,7 @@
       ],
       "name" : "Celia Carbonell",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5510,6 +5568,35 @@
               "didStart" : false,
               "minutesPlayed" : 32,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5518,7 +5605,7 @@
       ],
       "name" : "Abby Conklin",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -8414,6 +8501,35 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2022-11-12T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 20,
+                  "made" : 10
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 21,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8422,7 +8538,7 @@
       ],
       "name" : "Sierra DeAngelo",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -9595,6 +9711,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9603,7 +9748,7 @@
       ],
       "name" : "Miranda Elebring",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -10393,6 +10538,35 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10401,7 +10575,7 @@
       ],
       "name" : "Ella Fajardo",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -13268,6 +13442,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13276,7 +13479,7 @@
       ],
       "name" : "Dahomee Forgues",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -13292,7 +13495,7 @@
       ],
       "name" : "Dominique Garcia Blackwood",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -13806,7 +14009,7 @@
       ],
       "name" : "Maddisyn Mahoney",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14494,7 +14697,7 @@
       ],
       "name" : "Allie McGinn",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -14857,7 +15060,7 @@
       ],
       "name" : "Alba Rovira Ayuso",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -15249,7 +15452,7 @@
       ],
       "name" : "Eniya Scott",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -17977,6 +18180,35 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -17985,7 +18217,7 @@
       ],
       "name" : "Madeline Selvaggi",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -20150,6 +20382,35 @@
               "didStart" : true,
               "minutesPlayed" : 26,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 9,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 10
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -20158,7 +20419,7 @@
       ],
       "name" : "Chloe Wilson",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "NEC",
@@ -21137,16 +21398,53 @@
           "Carmen Porterreal",
           "Bobby Ray"
         ]
+      },
+      {
+        "didWin" : true,
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 30,
+            "opponentPoints" : 32
+          },
+          "secondHalf" : {
+            "teamPoints" : 33,
+            "opponentPoints" : 29
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 23,
+              "opponentPoints" : 21
+            },
+            {
+              "teamPoints" : 10,
+              "opponentPoints" : 8
+            }
+          ]
+        },
+        "venue" : "home",
+        "attendance" : 374,
+        "isConferenceMatchup" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-02T16:00-0700",
+        "venueCapacity" : 1560,
+        "opponentID" : "STO",
+        "largestLead" : 5,
+        "referees" : [
+          "Lynda Kashouh",
+          "Michael Motta",
+          "Corey Pothier"
+        ]
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "STO",
-        "venue" : "home",
         "isConferenceMatchup" : true,
+        "venue" : "away",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 560,
-        "date" : "2023-03-02T16:00-0700"
+        "date" : "2023-03-06T17:00-0700",
+        "venueCapacity" : 1852,
+        "opponentID" : "CCSU",
+        "coverage" : "standardTV"
       }
     ]
   }

@@ -407,7 +407,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Nick Carlson"
     },
     {
@@ -781,7 +781,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Matur Dhal"
     },
     {
@@ -2959,7 +2959,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Nick Fleming"
     },
     {
@@ -5137,7 +5137,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Julien Franklin"
     },
     {
@@ -5476,7 +5476,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Cole Haller"
     },
     {
@@ -8559,7 +8559,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Chance Hunter"
     },
     {
@@ -9281,7 +9281,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Hayden Jory"
     },
     {
@@ -12335,7 +12335,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Alimamy Koroma"
     },
     {
@@ -13620,7 +13620,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Bryan Penn-Johnson"
     },
     {
@@ -13635,7 +13635,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Noah Pick"
     },
     {
@@ -15668,7 +15668,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Camren Pierce"
     },
     {
@@ -15775,7 +15775,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Aaron Price Jr."
     },
     {
@@ -16961,7 +16961,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Aidan Prukop"
     },
     {
@@ -19023,7 +19023,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Kobe Sanders"
     },
     {
@@ -19455,7 +19455,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Isaac Spears"
     },
     {
@@ -21662,7 +21662,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Brantly Stevenson"
     },
     {
@@ -25158,7 +25158,7 @@
           "teamID" : "CP"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Trevon Taylor"
     }
   ],
@@ -25977,21 +25977,12 @@
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-02T20:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "UCSD",
-        "coverage" : "sportsTV"
-      },
-      {
-        "isConferenceMatchup" : true,
         "venue" : "away",
         "seasonType" : "regularSeason",
         "date" : "2023-03-04T20:00-0700",
-        "venueCapacity" : 32,
+        "venueCapacity" : 3032,
         "opponentID" : "UCR",
-        "coverage" : "sportsTV"
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

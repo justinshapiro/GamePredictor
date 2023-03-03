@@ -673,6 +673,35 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2023-02-27T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 2,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 20,
+                "threePointFieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 5
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-03-02T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -681,7 +710,7 @@
       ],
       "name" : "Savannah Brooks",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -1326,6 +1355,35 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2023-02-27T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-02T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1334,7 +1392,7 @@
       ],
       "name" : "Breionna Dodson",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -1747,6 +1805,35 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2022-11-07T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-02T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1755,7 +1842,7 @@
       ],
       "name" : "Rebecca Ford",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -3694,6 +3781,35 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-27T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-02T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3702,7 +3818,7 @@
       ],
       "name" : "Jayla Johnson",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -5780,6 +5896,35 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-27T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-02T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5788,7 +5933,7 @@
       ],
       "name" : "Jessica Martino",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8017,6 +8162,35 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-27T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 14,
+                  "made" : 4
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-02T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8025,7 +8199,7 @@
       ],
       "name" : "Alexis Moragne",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8359,7 +8533,7 @@
       ],
       "name" : "Deyonce Thompson",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -9871,7 +10045,7 @@
       ],
       "name" : "Brishonne Tollie",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -10574,6 +10748,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2023-02-27T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 8
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-02T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10582,7 +10785,7 @@
       ],
       "name" : "Tyshonne Tollie",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -11328,7 +11531,7 @@
       ],
       "name" : "Rebekka Twine",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -11979,6 +12182,35 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2023-02-27T15:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-02T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11987,7 +12219,7 @@
       ],
       "name" : "Joy Watkins",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -15332,7 +15564,7 @@
       ],
       "name" : "Sydney Watkins",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -17070,7 +17302,7 @@
       ],
       "name" : "Denijsha Wilson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -17549,11 +17781,11 @@
       ],
       "name" : "Naomi Zulueta",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     }
   ],
   "conference" : "MEAC",
-  "conferenceRanking" : 7,
+  "conferenceRanking" : 5,
   "games" : {
     "previous" : [
       {
@@ -18404,17 +18636,46 @@
           "Latifa Boyce",
           "Carolyn Allen"
         ]
+      },
+      {
+        "didWin" : true,
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 35,
+            "opponentPoints" : 21
+          },
+          "secondHalf" : {
+            "teamPoints" : 33,
+            "opponentPoints" : 23
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 15,
+              "opponentPoints" : 13
+            },
+            {
+              "teamPoints" : 18,
+              "opponentPoints" : 10
+            }
+          ]
+        },
+        "venue" : "away",
+        "attendance" : 0,
+        "isConferenceMatchup" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-02T15:30-0700",
+        "venueCapacity" : 1800,
+        "opponentID" : "UMES",
+        "largestLead" : 24,
+        "referees" : [
+          "Felicia Young",
+          "Stephanie Barksdale",
+          "Kara Hunter"
+        ]
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "UMES",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 800,
-        "date" : "2023-03-02T15:30-0700"
-      }
+
     ]
   }
 }

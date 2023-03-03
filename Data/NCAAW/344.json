@@ -1259,6 +1259,35 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2022-11-09T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-02T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1267,7 +1296,7 @@
       ],
       "name" : "Denae Carter",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -4598,6 +4627,35 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2022-11-09T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 6
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-02T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4606,7 +4664,7 @@
       ],
       "name" : "Jessika Carter",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5468,7 +5526,7 @@
       ],
       "name" : "Nyayongah Gony",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -5498,7 +5556,7 @@
       ],
       "name" : "Aislynn Hayes",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5897,7 +5955,7 @@
       ],
       "name" : "Alasia Hayes",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -6897,7 +6955,7 @@
       ],
       "name" : "Anastasia Hayes",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -10495,6 +10553,35 @@
               "didStart" : false,
               "minutesPlayed" : 24,
               "date" : "2022-11-09T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-02T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10503,7 +10590,7 @@
       ],
       "name" : "Asianae Johnson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -12987,6 +13074,35 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2022-11-09T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 4
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-02T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12995,7 +13111,7 @@
       ],
       "name" : "JerKaila Jordan",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -14522,6 +14638,35 @@
               "didStart" : false,
               "minutesPlayed" : 7,
               "date" : "2022-11-09T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-02T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14530,7 +14675,7 @@
       ],
       "name" : "Charlotte Kohl",
       "position" : "Center",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -14661,7 +14806,7 @@
       ],
       "name" : "Mia Moore",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -14671,7 +14816,7 @@
       ],
       "name" : "Aniya Palmer",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -16082,6 +16227,35 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2022-11-09T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-02T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16090,7 +16264,7 @@
       ],
       "name" : "Ramani Parker",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -16938,6 +17112,35 @@
               "didStart" : true,
               "minutesPlayed" : 22,
               "date" : "2022-11-09T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 5
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 25,
+              "date" : "2023-03-02T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16946,7 +17149,7 @@
       ],
       "name" : "Debreasha Powe",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -18699,6 +18902,35 @@
               "didStart" : true,
               "minutesPlayed" : 18,
               "date" : "2022-11-09T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-02T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -18707,7 +18939,7 @@
       ],
       "name" : "Ahlana Smith",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -22740,6 +22972,35 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2022-11-09T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-02T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -22748,7 +23009,7 @@
       ],
       "name" : "Kourtney Weber",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "SEC",
@@ -23855,17 +24116,49 @@
         },
         "attendance" : 15721,
         "line" : 13
+      },
+      {
+        "venueCapacity" : 0,
+        "opponentID" : "TA&M",
+        "largestLead" : 11,
+        "coverage" : "sportsTV",
+        "referees" : [
+          "Eric Koch",
+          "Angelica Suffren",
+          "Brian Hall"
+        ],
+        "didWin" : false,
+        "overUnder" : 123.5,
+        "date" : "2023-03-02T12:30-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 30,
+            "opponentPoints" : 37
+          },
+          "secondHalf" : {
+            "teamPoints" : 42,
+            "opponentPoints" : 42
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 23,
+              "opponentPoints" : 25
+            },
+            {
+              "teamPoints" : 19,
+              "opponentPoints" : 17
+            }
+          ]
+        },
+        "attendance" : 5531,
+        "line" : 11.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "TBD",
-        "venue" : "neutral",
-        "coverage" : "sportsTV",
-        "isConferenceMatchup" : false,
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-02T12:30-0700"
-      }
+
     ]
   }
 }

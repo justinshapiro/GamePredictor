@@ -2054,13 +2054,42 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ORST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Dexter Akanno"
     },
     {
@@ -4029,13 +4058,42 @@
               "didStart" : false,
               "minutesPlayed" : 23,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 18,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ORST"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Rodrigue Andela"
     },
     {
@@ -4890,13 +4948,42 @@
               "didStart" : true,
               "minutesPlayed" : 17,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 5
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ORST"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Tyler Bilodeau"
     },
     {
@@ -4911,7 +4998,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Donovan Grant"
     },
     {
@@ -5418,13 +5505,42 @@
               "didStart" : true,
               "minutesPlayed" : 17,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ORST"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "KC Ibekwe"
     },
     {
@@ -6134,13 +6250,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 10,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ORST"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Nick Krass"
     },
     {
@@ -7303,7 +7448,7 @@
           "teamID" : "ORST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Chol Marial"
     },
     {
@@ -7352,7 +7497,7 @@
           "teamID" : "ORST"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Felipe Palazzo"
     },
     {
@@ -8207,13 +8352,42 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ORST"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jordan Pope"
     },
     {
@@ -9068,13 +9242,42 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ORST"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Michael Rataj"
     },
     {
@@ -9384,7 +9587,7 @@
           "teamID" : "ORST"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Justin Rochelin"
     },
     {
@@ -12902,13 +13105,42 @@
               "didStart" : false,
               "minutesPlayed" : 23,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 18,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ORST"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Dzmitry Ryuny"
     },
     {
@@ -13386,13 +13618,42 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2023-02-18T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 10,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ORST"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jayden Stevens"
     },
     {
@@ -15123,13 +15384,42 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ORST"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Glenn Taylor Jr."
     },
     {
@@ -16570,13 +16860,42 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2023-02-25T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "ORST"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Christian Wright"
     }
   ],
@@ -17417,24 +17736,46 @@
         },
         "attendance" : 7270,
         "line" : 9.5
+      },
+      {
+        "venueCapacity" : 9604,
+        "opponentID" : "STAN",
+        "largestLead" : 9,
+        "coverage" : "sportsTV",
+        "referees" : [
+          "Michael Greenstein",
+          "David Hall",
+          "Eric Curry"
+        ],
+        "didWin" : false,
+        "overUnder" : 130,
+        "date" : "2023-03-02T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 34,
+            "opponentPoints" : 40
+          },
+          "secondHalf" : {
+            "teamPoints" : 26,
+            "opponentPoints" : 43
+          }
+        },
+        "attendance" : 3122,
+        "line" : 4.5
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "STAN",
-        "venue" : "away",
         "isConferenceMatchup" : true,
+        "venue" : "away",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 604,
-        "date" : "2023-03-02T19:00-0700"
-      },
-      {
+        "date" : "2023-03-04T18:00-0700",
+        "venueCapacity" : 9604,
         "opponentID" : "CAL",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 604,
-        "date" : "2023-03-04T18:00-0700"
+        "coverage" : "sportsTV"
       }
     ]
   }

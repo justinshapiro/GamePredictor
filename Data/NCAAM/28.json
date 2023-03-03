@@ -859,7 +859,7 @@
           "teamID" : "UCSD"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Roddie Anderson III"
     },
     {
@@ -2341,7 +2341,7 @@
           "teamID" : "UCSD"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "J'Raan Brooks"
     },
     {
@@ -2356,7 +2356,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Fallou Cisse"
     },
     {
@@ -3455,7 +3455,7 @@
           "teamID" : "UCSD"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Justin DeGraaf"
     },
     {
@@ -5343,7 +5343,7 @@
           "teamID" : "UCSD"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jake Kosakowski"
     },
     {
@@ -5856,7 +5856,7 @@
           "teamID" : "UCSD"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Camden McCormick"
     },
     {
@@ -7535,7 +7535,7 @@
           "teamID" : "UCSD"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Francis Nwaokorie"
     },
     {
@@ -8222,7 +8222,7 @@
           "teamID" : "UCSD"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Quin Patterson"
     },
     {
@@ -8851,7 +8851,7 @@
           "teamID" : "UCSD"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Michael Pearson Jr."
     },
     {
@@ -8866,7 +8866,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Cade Pendleton"
     },
     {
@@ -10957,7 +10957,7 @@
           "teamID" : "UCSD"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Bryce Pope"
     },
     {
@@ -13135,7 +13135,7 @@
           "teamID" : "UCSD"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jace Roquemore"
     },
     {
@@ -15342,7 +15342,7 @@
           "teamID" : "UCSD"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Emmanuel Tshimanga"
     },
     {
@@ -17085,7 +17085,7 @@
           "teamID" : "UCSD"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Vuk Vulikic"
     }
   ],
@@ -17950,24 +17950,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-02T20:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "CP",
-        "coverage" : "sportsTV"
-      },
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-04T19:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "CSUF",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

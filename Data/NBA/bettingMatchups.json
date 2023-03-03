@@ -9389,6 +9389,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 19200,
+      "opponentID" : "DAL",
+      "largestLead" : 2,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Ed Malloy",
+        "Tom Washington",
+        "J.T. Orr"
+      ],
+      "didWin" : false,
+      "overUnder" : 229.5,
+      "date" : "2023-03-02T17:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 67,
+          "opponentPoints" : 71
+        },
+        "secondHalf" : {
+          "teamPoints" : 59,
+          "opponentPoints" : 62
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 24,
+            "opponentPoints" : 39
+          },
+          {
+            "teamPoints" : 35,
+            "opponentPoints" : 23
+          }
+        ]
+      },
+      "attendance" : 20002,
+      "line" : 4
+    },
+    "teamName" : "PHI"
+  },
+  {
+    "game" : {
       "venueCapacity" : 19800,
       "opponentID" : "CLE",
       "largestLead" : 11,
@@ -11441,6 +11483,47 @@
       },
       "attendance" : 19800,
       "line" : -4.5
+    },
+    "teamName" : "TOR"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 20600,
+      "opponentID" : "WSH",
+      "largestLead" : 6,
+      "overUnder" : 223,
+      "didWin" : false,
+      "referees" : [
+        "Marat Kogut",
+        "Tony Brothers",
+        "Aaron Smith"
+      ],
+      "date" : "2023-03-02T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 50,
+          "opponentPoints" : 59
+        },
+        "secondHalf" : {
+          "teamPoints" : 58,
+          "opponentPoints" : 60
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 28,
+            "opponentPoints" : 30
+          },
+          {
+            "teamPoints" : 30,
+            "opponentPoints" : 30
+          }
+        ]
+      },
+      "attendance" : 14643,
+      "line" : 1.5
     },
     "teamName" : "TOR"
   },
@@ -18842,6 +18925,47 @@
       },
       "attendance" : 20277,
       "line" : 8.5
+    },
+    "teamName" : "IND"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 18354,
+      "opponentID" : "SA",
+      "largestLead" : 11,
+      "overUnder" : 235,
+      "didWin" : false,
+      "referees" : [
+        "John Goble",
+        "Rodney Mott",
+        "Brandon Schwab"
+      ],
+      "date" : "2023-03-02T18:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 54,
+          "opponentPoints" : 52
+        },
+        "secondHalf" : {
+          "teamPoints" : 45,
+          "opponentPoints" : 58
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 16,
+            "opponentPoints" : 31
+          },
+          {
+            "teamPoints" : 29,
+            "opponentPoints" : 27
+          }
+        ]
+      },
+      "attendance" : 14617,
+      "line" : 4
     },
     "teamName" : "IND"
   },
@@ -30246,6 +30370,48 @@
       },
       "attendance" : 18064,
       "line" : -8.5
+    },
+    "teamName" : "GS"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 18064,
+      "opponentID" : "LAC",
+      "largestLead" : 24,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Pat Fraher",
+        "Phenizee Ransom",
+        "Nick Buchert"
+      ],
+      "didWin" : true,
+      "overUnder" : 231.5,
+      "date" : "2023-03-02T20:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 45,
+          "opponentPoints" : 56
+        },
+        "secondHalf" : {
+          "teamPoints" : 70,
+          "opponentPoints" : 35
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 42,
+            "opponentPoints" : 16
+          },
+          {
+            "teamPoints" : 28,
+            "opponentPoints" : 19
+          }
+        ]
+      },
+      "attendance" : 18064,
+      "line" : 3
     },
     "teamName" : "GS"
   },

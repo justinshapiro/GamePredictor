@@ -1143,6 +1143,35 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1151,7 +1180,7 @@
       ],
       "name" : "Shakira Baskerville",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -4575,6 +4604,35 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 14,
+                  "made" : 6
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 16,
+                "threePointFieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 2
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4583,7 +4641,7 @@
       ],
       "name" : "Skyler Curran",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5257,7 +5315,7 @@
       ],
       "name" : "Jenson Edwards",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -6894,7 +6952,7 @@
       ],
       "name" : "Jordan Edwards",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -7626,6 +7684,35 @@
               "didStart" : false,
               "minutesPlayed" : 26,
               "date" : "2022-11-13T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7634,7 +7721,7 @@
       ],
       "name" : "Anna Hager",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -9308,7 +9395,7 @@
       ],
       "name" : "Cydney Johnson",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -10400,6 +10487,35 @@
               "didStart" : false,
               "minutesPlayed" : 6,
               "date" : "2023-01-18T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10408,7 +10524,7 @@
       ],
       "name" : "Amaria McNear",
       "position" : "Center",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -12556,6 +12672,35 @@
               "didStart" : false,
               "minutesPlayed" : 8,
               "date" : "2023-01-18T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12564,7 +12709,7 @@
       ],
       "name" : "Courtney Meadows",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -13165,7 +13310,7 @@
       ],
       "name" : "Teegan Pifher",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -16098,7 +16243,7 @@
       ],
       "name" : "Callie Scheier",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -17720,7 +17865,7 @@
       ],
       "name" : "LaImani Simmons",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -19415,6 +19560,35 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-02T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -19423,7 +19597,7 @@
       ],
       "name" : "Nakyah Terrell",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -21944,7 +22118,7 @@
       ],
       "name" : "Claire Wyatt",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -22452,7 +22626,7 @@
       ],
       "name" : "Nevaeh Zavala",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     }
   ],
   "conference" : "Big South",
@@ -23493,17 +23667,54 @@
           ]
         },
         "attendance" : 1004
+      },
+      {
+        "venueCapacity" : 8600,
+        "opponentID" : "SCUP",
+        "largestLead" : 11,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Rob Fessler",
+          "Roy Jackson",
+          "Deanna  Jackson"
+        ],
+        "didWin" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-02T16:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 16,
+            "opponentPoints" : 15
+          },
+          "secondHalf" : {
+            "teamPoints" : 34,
+            "opponentPoints" : 28
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 19,
+              "opponentPoints" : 13
+            },
+            {
+              "teamPoints" : 15,
+              "opponentPoints" : 15
+            }
+          ]
+        },
+        "attendance" : 0
       }
     ],
     "upcoming" : [
       {
-        "isConferenceMatchup" : false,
+        "isConferenceMatchup" : true,
         "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-02T16:00-0700",
-        "venueCapacity" : 600,
-        "opponentID" : "TBD",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-04T18:00-0700",
+        "venueCapacity" : 8600,
+        "opponentID" : "CAM",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

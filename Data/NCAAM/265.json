@@ -1069,13 +1069,42 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 20,
+                  "made" : 13
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 36,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 7
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "WSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "TJ Bamba"
     },
     {
@@ -1669,13 +1698,42 @@
               "didStart" : false,
               "minutesPlayed" : 11,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 5,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "WSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Dylan Darling"
     },
     {
@@ -2246,7 +2304,7 @@
           "teamID" : "WSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Adrame Diongue"
     },
     {
@@ -4093,13 +4151,42 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 7
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "WSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Mouhamed Gueye"
     },
     {
@@ -4351,7 +4438,7 @@
           "teamID" : "WSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Mael Hamon-Crespin"
     },
     {
@@ -5177,13 +5264,42 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "WSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kymany Houinsou"
     },
     {
@@ -6630,7 +6746,7 @@
           "teamID" : "WSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Dishon Jackson"
     },
     {
@@ -8947,13 +9063,42 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 6,
+                  "defensive" : 11
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "WSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Andrej Jakimovski"
     },
     {
@@ -8968,7 +9113,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Braden Korpela"
     },
     {
@@ -8983,7 +9128,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Shae Korpela"
     },
     {
@@ -11242,13 +11387,42 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "WSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jabe Mullins"
     },
     {
@@ -11413,7 +11587,7 @@
           "teamID" : "WSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Ben Olesen"
     },
     {
@@ -13411,13 +13585,42 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "WSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Justin Powell"
     },
     {
@@ -13466,7 +13669,7 @@
           "teamID" : "WSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Myles Rice"
     },
     {
@@ -16572,13 +16775,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 16,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 6,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 39,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "WSU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "DJ Rodman"
     },
     {
@@ -16627,7 +16859,7 @@
           "teamID" : "WSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "AJ Rohosy"
     },
     {
@@ -17378,7 +17610,7 @@
           "teamID" : "WSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Carlos Rosario"
     },
     {
@@ -17624,13 +17856,42 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "WSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jack Wilson"
     }
   ],
@@ -18452,18 +18713,38 @@
         },
         "attendance" : 1725,
         "line" : 12
+      },
+      {
+        "venueCapacity" : 9268,
+        "opponentID" : "WASH",
+        "largestLead" : 16,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Glen Mayberry",
+          "Darren White",
+          "Tommy Nunez"
+        ],
+        "didWin" : true,
+        "overUnder" : 135.5,
+        "date" : "2023-03-02T21:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 42,
+            "opponentPoints" : 37
+          },
+          "secondHalf" : {
+            "teamPoints" : 51,
+            "opponentPoints" : 47
+          }
+        },
+        "attendance" : 9268
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-02T21:00-0700",
-        "venueCapacity" : 268,
-        "opponentID" : "WASH",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

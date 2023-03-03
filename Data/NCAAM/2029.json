@@ -192,7 +192,7 @@
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kuron Coleman"
     },
     {
@@ -844,13 +844,42 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "AC Curry"
     },
     {
@@ -957,7 +986,7 @@
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Samuel Da Cruz"
     },
     {
@@ -4301,13 +4330,42 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 2,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 7
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 39,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Shaun Doss Jr."
     },
     {
@@ -6218,13 +6276,42 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 4
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Chris Greene"
     },
     {
@@ -7491,13 +7578,42 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Brahm Harris"
     },
     {
@@ -8062,13 +8178,42 @@
               "didStart" : true,
               "minutesPlayed" : 14,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 4
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Robert Lewis"
     },
     {
@@ -8262,7 +8407,7 @@
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Rafael Martinez"
     },
     {
@@ -9999,13 +10144,42 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 7
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 21,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "assists" : 6,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kylen Milton"
     },
     {
@@ -11336,13 +11510,42 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2023-02-18T16:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Ismael Plet"
     },
     {
@@ -11907,13 +12110,42 @@
               "didStart" : false,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 9,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Zach Reinhart"
     },
     {
@@ -11928,7 +12160,7 @@
       "seasons" : [
 
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Caleb Stokes"
     },
     {
@@ -12412,7 +12644,7 @@
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Orion Virden"
     },
     {
@@ -13041,13 +13273,42 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2023-02-25T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 4,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-02T19:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UAPB"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Trejon Ware"
     },
     {
@@ -15782,7 +16043,7 @@
           "teamID" : "SLU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Rashad Williams"
     }
   ],
@@ -16394,23 +16655,41 @@
         },
         "attendance" : 1205,
         "line" : 2
+      },
+      {
+        "venueCapacity" : 4100,
+        "opponentID" : "JKST",
+        "largestLead" : 11,
+        "overUnder" : 142.5,
+        "didWin" : false,
+        "referees" : [
+
+        ],
+        "date" : "2023-03-02T19:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 34,
+            "opponentPoints" : 26
+          },
+          "secondHalf" : {
+            "teamPoints" : 29,
+            "opponentPoints" : 41
+          }
+        },
+        "attendance" : 2875,
+        "line" : 2.5
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "JKST",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 100,
-        "date" : "2023-03-02T19:00-0700"
-      },
       {
         "opponentID" : "ALCN",
         "venue" : "away",
         "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 100,
+        "venueCapacity" : 4100,
         "date" : "2023-03-04T16:30-0700"
       }
     ]

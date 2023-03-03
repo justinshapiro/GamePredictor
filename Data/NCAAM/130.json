@@ -3371,13 +3371,42 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 10,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MICH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Joey Baker"
     },
     {
@@ -3867,7 +3896,7 @@
           "teamID" : "MICH"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Isaiah Barnes"
     },
     {
@@ -5482,13 +5511,42 @@
               "didStart" : true,
               "minutesPlayed" : 42,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 7
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 23,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 43,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MICH"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kobe Bufkin"
     },
     {
@@ -5659,7 +5717,7 @@
           "teamID" : "MICH"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Ian Burns"
     },
     {
@@ -8208,13 +8266,42 @@
               "didStart" : true,
               "minutesPlayed" : 41,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 3,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 21,
+                  "made" : 14
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 31,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 13
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 46,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MICH"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Hunter Dickinson"
     },
     {
@@ -8350,7 +8437,7 @@
           "teamID" : "MICH"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Gregg Glenn III"
     },
     {
@@ -9108,7 +9195,7 @@
           "teamID" : "MICH"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jace Howard"
     },
     {
@@ -9129,7 +9216,7 @@
           "teamID" : "MICH"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jett Howard"
     },
     {
@@ -9352,7 +9439,7 @@
           "teamID" : "MICH"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Youssef Khayat"
     },
     {
@@ -11826,7 +11913,7 @@
           "teamID" : "MICH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jaelin Llewellyn"
     },
     {
@@ -12623,13 +12710,42 @@
               "didStart" : true,
               "minutesPlayed" : 43,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 47,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MICH"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Dug McDaniel"
     },
     {
@@ -13426,13 +13542,42 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MICH"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Tarris Reed Jr."
     },
     {
@@ -13568,7 +13713,7 @@
           "teamID" : "MICH"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jackson Selvala"
     },
     {
@@ -13704,7 +13849,7 @@
           "teamID" : "MICH"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Cooper Smith"
     },
     {
@@ -14298,13 +14443,42 @@
               "didStart" : true,
               "minutesPlayed" : 11,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 9,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MICH"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Will Tschetter"
     },
     {
@@ -16592,13 +16766,42 @@
               "didStart" : false,
               "minutesPlayed" : 29,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MICH"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Terrance Williams II"
     }
   ],
@@ -17401,6 +17604,45 @@
         },
         "attendance" : 12707,
         "line" : 6
+      },
+      {
+        "venueCapacity" : 15544,
+        "opponentID" : "ILL",
+        "largestLead" : 7,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Larry Scirotto",
+          "D.J. Carstensen",
+          "Roger Ayers"
+        ],
+        "didWin" : false,
+        "overUnder" : 144.5,
+        "date" : "2023-03-02T17:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 31,
+            "opponentPoints" : 33
+          },
+          "secondHalf" : {
+            "teamPoints" : 39,
+            "opponentPoints" : 37
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 11,
+              "opponentPoints" : 11
+            },
+            {
+              "teamPoints" : 6,
+              "opponentPoints" : 10
+            }
+          ]
+        },
+        "attendance" : 15544,
+        "line" : 5
       }
     ],
     "upcoming" : [
@@ -17408,18 +17650,10 @@
         "isConferenceMatchup" : true,
         "venue" : "home",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-02T17:00-0700",
-        "venueCapacity" : 5544,
-        "opponentID" : "ILL",
-        "coverage" : "sportsTV"
-      },
-      {
+        "date" : "2023-03-05T14:30-0700",
+        "venueCapacity" : 17222,
         "opponentID" : "IU",
-        "venue" : "home",
-        "isConferenceMatchup" : false,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 7222,
-        "date" : "2023-03-05T14:30-0700"
+        "coverage" : "sportsTV"
       }
     ]
   }

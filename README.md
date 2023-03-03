@@ -7,11 +7,7 @@ GamePredictor is a Swift script that pulls stat data from ESPN webpages and uses
 - **Straight** predictions are simply highest probability predictions for a single game. These should be used to place a single bet with a certain number of units.
 - **Inverted Round Robin** is a low-wager/high-payout parlay strategy that takes _n_ games and produces _m_ betslips that each have different sides of the spread or total selected. It's "inverted" because a regular round robin simply removes certain games from each betslip, but in this version of a round robin all _n_ games appear in each betslip but the spread or totals will be flipped for certain games in each betslip.
 
-Currently, GamePredictor only supports spread predictions on College Basketball games, but given ESPN's fairly consistent webpage format across all sports, it can easily be expanded to any sport and to totals, player props, and futures as well.
-
-## Accuracy
-
-Currently, GamePredictor is 55% accurate on the season for College Basketball, but 67% accurate over the last two days. GamePredictor's accuracy improves as the season goes on as more data is available.
+Currently, GamePredictor only supports spread predictions on Men's College Basketball (NCAAB), Women's College BasketBall (NCAAW), and NBA games, but given ESPN's fairly consistent webpage format across all sports, it can easily be expanded to any sport and to totals, player props, and futures as well.
 
 ## How it works 
 

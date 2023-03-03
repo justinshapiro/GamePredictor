@@ -1613,13 +1613,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CAL"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Sam Alajiki"
     },
     {
@@ -2944,13 +2973,42 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CAL"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Obinna Anyanwu"
     },
     {
@@ -5070,7 +5128,7 @@
           "teamID" : "CAL"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Devin Askew"
     },
     {
@@ -6395,13 +6453,42 @@
               "didStart" : false,
               "minutesPlayed" : 27,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 24,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CAL"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Monty Bowser"
     },
     {
@@ -9855,13 +9942,42 @@
               "didStart" : true,
               "minutesPlayed" : 38,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CAL"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Joel Brown"
     },
     {
@@ -11395,7 +11511,7 @@
           "teamID" : "CAL"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jalen Celestine"
     },
     {
@@ -14867,7 +14983,7 @@
           "teamID" : "HART"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "DeJuan Clayton"
     },
     {
@@ -16900,7 +17016,7 @@
           "teamID" : "CAL"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jarred Hyder"
     },
     {
@@ -20122,13 +20238,42 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CAL"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kuany Kuany"
     },
     {
@@ -20322,7 +20467,7 @@
           "teamID" : "CAL"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jack McCloskey"
     },
     {
@@ -21148,13 +21293,42 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 4
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CAL"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Grant Newell"
     },
     {
@@ -21922,13 +22096,42 @@
               "didStart" : true,
               "minutesPlayed" : 18,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CAL"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "ND Okafor"
     },
     {
@@ -21943,7 +22146,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Josh Ragsdale"
     },
     {
@@ -23239,13 +23442,42 @@
               "didStart" : false,
               "minutesPlayed" : 7,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CAL"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Marsalis Roberson"
     },
     {
@@ -23636,13 +23868,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-25T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CAL"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Wrenn Robinson"
     },
     {
@@ -27125,13 +27386,42 @@
               "didStart" : true,
               "minutesPlayed" : 19,
               "date" : "2023-02-23T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 3
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-02T21:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "CAL"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Lars Thiemann"
     }
   ],
@@ -27955,24 +28245,46 @@
         },
         "attendance" : 1725,
         "line" : 12
+      },
+      {
+        "venueCapacity" : 12364,
+        "opponentID" : "ORE",
+        "largestLead" : 1,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Verne Harris",
+          "Casey McClellan",
+          "Deldre Carr"
+        ],
+        "didWin" : false,
+        "overUnder" : 129.5,
+        "date" : "2023-03-02T21:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 26,
+            "opponentPoints" : 42
+          },
+          "secondHalf" : {
+            "teamPoints" : 25,
+            "opponentPoints" : 42
+          }
+        },
+        "attendance" : 5908,
+        "line" : 20
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "ORE",
-        "venue" : "home",
         "isConferenceMatchup" : true,
+        "venue" : "home",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 2364,
-        "date" : "2023-03-02T21:00-0700"
-      },
-      {
+        "date" : "2023-03-04T18:00-0700",
+        "venueCapacity" : 9604,
         "opponentID" : "ORST",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 604,
-        "date" : "2023-03-04T18:00-0700"
+        "coverage" : "sportsTV"
       }
     ]
   }

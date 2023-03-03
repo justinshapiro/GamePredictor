@@ -105,7 +105,7 @@
           "teamID" : "UCR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Anthony Bell"
     },
     {
@@ -3420,13 +3420,42 @@
               "didStart" : true,
               "minutesPlayed" : 29,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 8
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 26,
+                "threePointFieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 5
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Flynn Cameron"
     },
     {
@@ -3441,7 +3470,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Barrington Hargress"
     },
     {
@@ -7336,13 +7365,42 @@
               "didStart" : false,
               "minutesPlayed" : 26,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jamal Hartwell II"
     },
     {
@@ -7455,7 +7513,7 @@
           "teamID" : "UCR"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kobe Jerome"
     },
     {
@@ -8983,13 +9041,42 @@
               "didStart" : false,
               "minutesPlayed" : 7,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jhaylon Martinez"
     },
     {
@@ -9301,7 +9388,7 @@
       ],
       "name" : "Niyi Olabode",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -10033,6 +10120,35 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10041,7 +10157,7 @@
       ],
       "name" : "Lachlan Olbrich",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "number" : 0,
@@ -13065,7 +13181,7 @@
           "teamID" : "UCR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kyle Owens"
     },
     {
@@ -13653,6 +13769,35 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 9,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13661,7 +13806,7 @@
       ],
       "name" : "Nate Pickens",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "number" : 5,
@@ -16592,13 +16737,42 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 14,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 7,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Zyon Pullin"
     },
     {
@@ -17331,6 +17505,35 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -17339,7 +17542,7 @@
       ],
       "name" : "Vladimer Salaridze",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -17349,7 +17552,7 @@
       ],
       "name" : "Kaleb Smith",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "number" : 14,
@@ -19549,13 +19752,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 24,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Wil Tattersall"
     },
     {
@@ -21112,18 +21344,47 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Luke Turner"
     }
   ],
   "conference" : "Big West",
-  "conferenceRanking" : 2,
+  "conferenceRanking" : 3,
   "games" : {
     "previous" : [
       {
@@ -21860,26 +22121,46 @@
         },
         "attendance" : 4957,
         "line" : 3.5
+      },
+      {
+        "venueCapacity" : 3168,
+        "opponentID" : "UCI",
+        "largestLead" : 2,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Jeff Ketchu",
+          "Daryl Gelinas",
+          "Jeremy Dente"
+        ],
+        "didWin" : false,
+        "overUnder" : 144.5,
+        "date" : "2023-03-02T20:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 30,
+            "opponentPoints" : 36
+          },
+          "secondHalf" : {
+            "teamPoints" : 35,
+            "opponentPoints" : 39
+          }
+        },
+        "attendance" : 2503,
+        "line" : 2
       }
     ],
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-02T20:00-0700",
-        "venueCapacity" : 168,
-        "opponentID" : "UCI",
-        "coverage" : "sportsTV"
-      },
-      {
-        "isConferenceMatchup" : true,
         "venue" : "home",
         "seasonType" : "regularSeason",
         "date" : "2023-03-04T20:00-0700",
-        "venueCapacity" : 32,
+        "venueCapacity" : 3032,
         "opponentID" : "CP",
-        "coverage" : "sportsTV"
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

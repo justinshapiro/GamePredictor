@@ -3162,13 +3162,42 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HAW"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Samuta Avea"
     },
     {
@@ -5752,13 +5781,42 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HAW"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Noel Coleman"
     },
     {
@@ -8000,7 +8058,7 @@
           "teamID" : "HAW"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Bernardo da Silva"
     },
     {
@@ -11199,13 +11257,42 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 5
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 17,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 4
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 8
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HAW"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kamaka Hepa"
     },
     {
@@ -12182,13 +12269,42 @@
               "didStart" : false,
               "minutesPlayed" : 8,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HAW"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Justus Jackson"
     },
     {
@@ -13258,7 +13374,7 @@
           "teamID" : "HAW"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Amoro Lado"
     },
     {
@@ -15430,13 +15546,42 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HAW"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "JoVon McClanahan"
     },
     {
@@ -17962,7 +18107,7 @@
           "teamID" : "LONG"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Juan Munoz"
     },
     {
@@ -19328,13 +19473,42 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2023-02-11T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HAW"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Zoar Nedd"
     },
     {
@@ -21025,7 +21199,7 @@
           "teamID" : "HAW"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Ryan Rapp"
     },
     {
@@ -22675,13 +22849,42 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HAW"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Beon Riley"
     },
     {
@@ -23304,13 +23507,42 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2023-02-11T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HAW"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Harry Rouhliadeff"
     },
     {
@@ -23933,13 +24165,42 @@
               "didStart" : false,
               "minutesPlayed" : 6,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 3,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 7
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HAW"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Mor Seck"
     },
     {
@@ -24800,13 +25061,42 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-02-04T20:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HAW"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Matija Svetozarevic"
     },
     {
@@ -25255,18 +25545,47 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2023-02-23T21:59-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-02T20:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "HAW"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kody Williams"
     }
   ],
   "conference" : "Big West",
-  "conferenceRanking" : 4,
+  "conferenceRanking" : 3,
   "games" : {
     "previous" : [
       {
@@ -25995,6 +26314,35 @@
         },
         "attendance" : 4957,
         "line" : 3.5
+      },
+      {
+        "venueCapacity" : 2500,
+        "opponentID" : "CSUN",
+        "largestLead" : 26,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Wilson Holland",
+          "Justin Shamion",
+          "Johnny Harrington"
+        ],
+        "didWin" : true,
+        "overUnder" : 129,
+        "date" : "2023-03-02T20:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 33,
+            "opponentPoints" : 33
+          },
+          "secondHalf" : {
+            "teamPoints" : 48,
+            "opponentPoints" : 22
+          }
+        },
+        "attendance" : 535,
+        "line" : 8
       }
     ],
     "upcoming" : [
@@ -26002,18 +26350,10 @@
         "isConferenceMatchup" : true,
         "venue" : "home",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-02T20:00-0700",
-        "venueCapacity" : 500,
-        "opponentID" : "CSUN",
-        "coverage" : "sportsTV"
-      },
-      {
+        "date" : "2023-03-04T19:00-0700",
+        "venueCapacity" : 6000,
         "opponentID" : "UCSB",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 0,
-        "date" : "2023-03-04T20:00-0700"
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

@@ -31,10 +31,12 @@ if TRAINING_MODE {
     let predictionAccuracy = trainModel(categories: categories, bettingMatchups: bettingMatchups)
     print("\(SPORT_MODE.league) Overall Prediction Accuracy: \(predictionAccuracy)%")
 
-    let recentDate = Calendar(identifier: .iso8601).date(byAdding: .day, value: -2, to: Date())!
-    let recentMatchups = bettingMatchups.filter { $0.1.date >= recentDate }
-    let recentPredictionAccuracy = trainModel(categories: categories, bettingMatchups: recentMatchups)
-    print("\n\(SPORT_MODE.league) Recent Prediction Accuracy: \(recentPredictionAccuracy)%\n")
+    [(-7, "Week"), (-2, "Two Days"), (-1, "Day")].forEach {
+        let recentDate = Calendar(identifier: .iso8601).date(byAdding: .day, value: $0.0, to: Date())!
+        let recentMatchups = bettingMatchups.filter { $0.1.date >= recentDate }
+        let recentPredictionAccuracy = trainModel(categories: categories, bettingMatchups: recentMatchups)
+        print("\n\(SPORT_MODE.league) Last \($0.1) Prediction Accuracy: \(recentPredictionAccuracy)%\n")
+    }
 }
 
 let upcomingPredictions = getUpcomingPredictions(tomorrow: false)

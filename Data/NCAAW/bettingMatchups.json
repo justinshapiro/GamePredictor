@@ -21152,6 +21152,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 12000,
+      "opponentID" : "ORST",
+      "largestLead" : 12,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Michael Price",
+        "Brenda Pantoja",
+        "Alecia Ann Murray"
+      ],
+      "didWin" : true,
+      "overUnder" : 123.5,
+      "date" : "2023-03-02T21:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 33,
+          "opponentPoints" : 33
+        },
+        "secondHalf" : {
+          "teamPoints" : 29,
+          "opponentPoints" : 21
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 18,
+            "opponentPoints" : 8
+          },
+          {
+            "teamPoints" : 11,
+            "opponentPoints" : 13
+          }
+        ]
+      },
+      "attendance" : 4207,
+      "line" : 6
+    },
+    "teamName" : "COLO"
+  },
+  {
+    "game" : {
       "venueCapacity" : 12364,
       "opponentID" : "PORT",
       "largestLead" : 42,
@@ -21690,6 +21732,48 @@
       },
       "attendance" : 3475,
       "line" : -4.5
+    },
+    "teamName" : "ORE"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 12000,
+      "opponentID" : "STAN",
+      "largestLead" : 0,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Melissa Barlow",
+        "Kenneth Nash",
+        "Benny Luna"
+      ],
+      "didWin" : false,
+      "overUnder" : 131.5,
+      "date" : "2023-03-02T15:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 24,
+          "opponentPoints" : 37
+        },
+        "secondHalf" : {
+          "teamPoints" : 41,
+          "opponentPoints" : 39
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 21,
+            "opponentPoints" : 21
+          },
+          {
+            "teamPoints" : 20,
+            "opponentPoints" : 18
+          }
+        ]
+      },
+      "attendance" : 4245,
+      "line" : 10
     },
     "teamName" : "ORE"
   },
@@ -23364,6 +23448,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 12000,
+      "opponentID" : "WSU",
+      "largestLead" : 9,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Lisa Jones",
+        "Tiffany Bird",
+        "Charles Gonzales"
+      ],
+      "didWin" : false,
+      "overUnder" : 142,
+      "date" : "2023-03-02T19:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 30,
+          "opponentPoints" : 26
+        },
+        "secondHalf" : {
+          "teamPoints" : 28,
+          "opponentPoints" : 40
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 11,
+            "opponentPoints" : 27
+          },
+          {
+            "teamPoints" : 17,
+            "opponentPoints" : 13
+          }
+        ]
+      },
+      "attendance" : 0,
+      "line" : 9.5
+    },
+    "teamName" : "UTAH"
+  },
+  {
+    "game" : {
       "venueCapacity" : 9268,
       "opponentID" : "WSU",
       "largestLead" : 16,
@@ -24373,6 +24499,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 0,
+      "opponentID" : "MIZ",
+      "largestLead" : 12,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Felicia Grinter",
+        "Gina Cross",
+        "Michael McConnell"
+      ],
+      "didWin" : true,
+      "overUnder" : 131.5,
+      "date" : "2023-03-02T10:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 41,
+          "opponentPoints" : 40
+        },
+        "secondHalf" : {
+          "teamPoints" : 44,
+          "opponentPoints" : 34
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 15,
+            "opponentPoints" : 24
+          },
+          {
+            "teamPoints" : 29,
+            "opponentPoints" : 10
+          }
+        ]
+      },
+      "attendance" : 0,
+      "line" : 3
+    },
+    "teamName" : "ARK"
+  },
+  {
+    "game" : {
       "venueCapacity" : 9121,
       "opponentID" : "SHSU",
       "largestLead" : 27,
@@ -24708,6 +24876,48 @@
       },
       "attendance" : 2687,
       "line" : -4.5
+    },
+    "teamName" : "AUB"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 0,
+      "opponentID" : "UGA",
+      "largestLead" : 5,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Roy Gulbeyan",
+        "Karen Preato",
+        "Billy Smith"
+      ],
+      "didWin" : false,
+      "overUnder" : 128.5,
+      "date" : "2023-03-02T16:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 25,
+          "opponentPoints" : 38
+        },
+        "secondHalf" : {
+          "teamPoints" : 22,
+          "opponentPoints" : 25
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 10,
+            "opponentPoints" : 9
+          },
+          {
+            "teamPoints" : 12,
+            "opponentPoints" : 16
+          }
+        ]
+      },
+      "attendance" : 0,
+      "line" : 10.5
     },
     "teamName" : "AUB"
   },
@@ -26523,6 +26733,48 @@
       },
       "attendance" : 5163,
       "line" : -14
+    },
+    "teamName" : "MSST"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 0,
+      "opponentID" : "TA&M",
+      "largestLead" : 11,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Eric Koch",
+        "Angelica Suffren",
+        "Brian Hall"
+      ],
+      "didWin" : false,
+      "overUnder" : 123.5,
+      "date" : "2023-03-02T12:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 30,
+          "opponentPoints" : 37
+        },
+        "secondHalf" : {
+          "teamPoints" : 42,
+          "opponentPoints" : 42
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 23,
+            "opponentPoints" : 25
+          },
+          {
+            "teamPoints" : 19,
+            "opponentPoints" : 17
+          }
+        ]
+      },
+      "attendance" : 5531,
+      "line" : 11.5
     },
     "teamName" : "MSST"
   },

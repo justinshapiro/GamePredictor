@@ -1520,6 +1520,35 @@
               "didStart" : false,
               "minutesPlayed" : 6,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-02T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1528,7 +1557,7 @@
       ],
       "name" : "Sydney Boone",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -3809,6 +3838,35 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2022-11-07T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 5,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 20,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 10,
+                  "made" : 9
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-02T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3817,7 +3875,7 @@
       ],
       "name" : "Addie Budnik",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -5474,7 +5532,7 @@
       ],
       "name" : "Angel Burgos",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -7032,7 +7090,7 @@
       ],
       "name" : "Elaina Chapman",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -7590,6 +7648,35 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2022-11-07T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 4
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 8
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-02T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7598,7 +7685,7 @@
       ],
       "name" : "Maggie Doogan",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -7608,7 +7695,7 @@
       ],
       "name" : "Jada Green",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -8926,6 +9013,35 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2022-11-07T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-03-02T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8934,7 +9050,7 @@
       ],
       "name" : "Katie Hill",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -11576,6 +11692,35 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2022-11-07T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-02T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11584,7 +11729,7 @@
       ],
       "name" : "Emilija Krista Grava",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -13003,7 +13148,7 @@
       ],
       "name" : "Kylee Lewandowski",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -13627,7 +13772,7 @@
       ],
       "name" : "Torin Rogers",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -15908,6 +16053,35 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2022-11-07T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-02T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -15916,7 +16090,7 @@
       ],
       "name" : "Siobhan Ryan",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -18168,6 +18342,35 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2022-11-07T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 14,
+                  "made" : 6
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-02T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -18176,7 +18379,7 @@
       ],
       "name" : "Grace Townsend",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -18937,6 +19140,35 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2022-11-07T13:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 6
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-02T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -18945,7 +19177,7 @@
       ],
       "name" : "Rachel Ullstrom",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -20474,7 +20706,7 @@
       ],
       "name" : "Cayla Williams",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "A 10",
@@ -21480,6 +21712,43 @@
           ]
         },
         "attendance" : 1057
+      },
+      {
+        "venueCapacity" : 2500,
+        "opponentID" : "DAY",
+        "largestLead" : 11,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Ed Sidlasky",
+          "Brandon Enterline",
+          "Teresa Stuck"
+        ],
+        "didWin" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-02T11:30-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 27,
+            "opponentPoints" : 29
+          },
+          "secondHalf" : {
+            "teamPoints" : 44,
+            "opponentPoints" : 31
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 18,
+              "opponentPoints" : 13
+            },
+            {
+              "teamPoints" : 26,
+              "opponentPoints" : 18
+            }
+          ]
+        },
+        "attendance" : 780
       }
     ],
     "upcoming" : [
@@ -21487,10 +21756,10 @@
         "isConferenceMatchup" : true,
         "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-02T11:30-0700",
-        "venueCapacity" : 500,
-        "opponentID" : "TBD",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-03T11:30-0700",
+        "venueCapacity" : 2500,
+        "opponentID" : "FOR",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

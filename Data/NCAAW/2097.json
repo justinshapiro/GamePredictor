@@ -826,7 +826,7 @@
       ],
       "name" : "Gianni Boone",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -2297,7 +2297,7 @@
       ],
       "name" : "Courtney Dahlquist",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -4093,7 +4093,7 @@
       ],
       "name" : "Christabel Ezumah",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -5738,7 +5738,7 @@
       ],
       "name" : "Audrey Fuller",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -7331,7 +7331,7 @@
       ],
       "name" : "Sarah Hammack Fitzgerald",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -10531,7 +10531,7 @@
       ],
       "name" : "Erika Joseph",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -11010,7 +11010,7 @@
       ],
       "name" : "Logan Nuckols",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -11026,7 +11026,7 @@
       ],
       "name" : "Gemma Nunez",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -14191,7 +14191,7 @@
       ],
       "name" : "Brittany Staves",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -17652,7 +17652,7 @@
       ],
       "name" : "Shy Tuelle",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "Big South",
@@ -18732,10 +18732,10 @@
         "isConferenceMatchup" : true,
         "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-02T18:00-0700",
-        "venueCapacity" : 600,
-        "opponentID" : "LONG",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-04T18:00-0700",
+        "venueCapacity" : 8600,
+        "opponentID" : "HPU",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

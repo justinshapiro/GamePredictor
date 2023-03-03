@@ -47,6 +47,8 @@ struct Team: Codable {
             }
         }
         
+        // replace person with league-average for position, use +/- as well to determine player impact
+        
         return currentDepthChart
     }
     

@@ -536,7 +536,7 @@
       ],
       "name" : "DonYeil Bolton",
       "position" : "Center",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -1044,7 +1044,7 @@
       ],
       "name" : "Samya Brooks",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -4911,7 +4911,7 @@
       ],
       "name" : "Jayla Crawford",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8720,7 +8720,7 @@
       ],
       "name" : "Ayana Emmanuel",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -9315,7 +9315,7 @@
       ],
       "name" : "Ashley Gray",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -9388,7 +9388,7 @@
       ],
       "name" : "Talayah Hamilton",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -10186,7 +10186,7 @@
       ],
       "name" : "Cordasia Harris",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -10839,7 +10839,7 @@
       ],
       "name" : "Kristian Jackson",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -11765,7 +11765,7 @@
       ],
       "name" : "Alexyss Newman",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -14025,7 +14025,7 @@
       ],
       "name" : "DaKiyah Sanders",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14823,7 +14823,7 @@
       ],
       "name" : "Samiya Steele",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -15975,7 +15975,7 @@
       ],
       "name" : "Tamirea Thomas",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -16715,7 +16715,7 @@
       ],
       "name" : "Ryin Tillis",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -19242,7 +19242,7 @@
       ],
       "name" : "Shmya Ward",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -20307,7 +20307,7 @@
       ],
       "name" : "Brazyll Watkins",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     }
   ],
   "conference" : "SWAC",
@@ -21302,19 +21302,11 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "SOU",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 500,
-        "date" : "2023-03-02T14:00-0700"
-      },
-      {
         "opponentID" : "GRAM",
         "venue" : "home",
         "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 600,
+        "venueCapacity" : 7600,
         "date" : "2023-03-04T14:30-0700"
       }
     ]

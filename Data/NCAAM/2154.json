@@ -1190,7 +1190,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Malik Battle"
     },
     {
@@ -1978,7 +1978,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Kam'Ron Blue"
     },
     {
@@ -3344,7 +3344,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Isaiah Gross"
     },
     {
@@ -5667,7 +5667,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Mike Hood"
     },
     {
@@ -6969,7 +6969,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Alex Rojas"
     },
     {
@@ -7192,7 +7192,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "CJ Scott"
     },
     {
@@ -11383,7 +11383,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Sam Sessoms"
     },
     {
@@ -12540,7 +12540,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Greg Spurlock"
     },
     {
@@ -15008,7 +15008,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Justin Steers"
     },
     {
@@ -15980,7 +15980,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Christian Sutton"
     },
     {
@@ -18274,7 +18274,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Nendah Tarke"
     },
     {
@@ -19112,7 +19112,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Luka Tekavcic"
     },
     {
@@ -20501,7 +20501,7 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Daniel Titus"
     },
     {
@@ -22424,12 +22424,12 @@
           "teamID" : "COPP"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Justin Winston"
     }
   ],
   "conference" : "MEAC",
-  "conferenceRanking" : 7,
+  "conferenceRanking" : 6,
   "games" : {
     "previous" : [
       {
@@ -23190,14 +23190,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "MORG",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 250,
-        "date" : "2023-03-02T17:00-0700"
-      }
+
     ]
   }
 }

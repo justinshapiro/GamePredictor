@@ -1,13 +1,13 @@
 [
   {
     "name" : "Covered Spread w\/ More Offensive Rebounds Against Teams With Less Defensive Rebounds",
-    "weight" : 0.59999999999999998,
-    "rating" : 46
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ Less Offensive Rebounds Against Teams With More Defensive Rebounds",
-    "weight" : 1.3,
-    "rating" : 53
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ More Steals Against Team With More Turnovers",
@@ -21,13 +21,13 @@
   },
   {
     "name" : "Covered Spread w\/ Better Offensive And Defensive Efficiency",
-    "weight" : 0.30000000000000004,
-    "rating" : 43
+    "weight" : 0.40000000000000002,
+    "rating" : 44
   },
   {
     "name" : "Covered Spread w\/ Worse Offensive And Defensive Efficiency",
-    "weight" : 1.6000000000000001,
-    "rating" : 56
+    "weight" : 1.5,
+    "rating" : 55
   },
   {
     "name" : "Home Team Covered Spreadw\/ In Primetime Matchup",
@@ -36,8 +36,8 @@
   },
   {
     "name" : "Away Team Covered Spread w\/ In Primetime Matchup",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Home Team Covered Spreadw\/ In Sports TV Matchup",
@@ -66,8 +66,8 @@
   },
   {
     "name" : "Away Team Covered Spread w\/ In Matchup w\/ Any TV Coverage",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 0.90000000000000002,
+    "rating" : 49
   },
   {
     "name" : "Home Team Covered Spread ",
@@ -121,8 +121,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Offensive Rebounds",
-    "weight" : 0.90000000000000002,
-    "rating" : 49
+    "weight" : 0.80000000000000004,
+    "rating" : 48
   },
   {
     "name" : "Covered Spread w\/ More Defensive Rebounds",
@@ -136,8 +136,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Assists",
-    "weight" : 0.30000000000000004,
-    "rating" : 43
+    "weight" : 0.19999999999999996,
+    "rating" : 42
   },
   {
     "name" : "Covered Spread w\/ More Steals",
@@ -156,8 +156,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Personal Fouls",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ Better Assist-to-Turnover Ratio",
@@ -171,8 +171,8 @@
   },
   {
     "name" : "Covered Spread w\/ Better Defensive Efficiency",
-    "weight" : 1.3,
-    "rating" : 53
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ More Average Heights",
@@ -221,23 +221,23 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Assists",
-    "weight" : 1.7,
-    "rating" : 57
+    "weight" : 1.6000000000000001,
+    "rating" : 56
   },
   {
     "name" : "Covered Spread w\/ More Opponent Steals",
-    "weight" : 1.6000000000000001,
-    "rating" : 56
+    "weight" : 1.5,
+    "rating" : 55
   },
   {
     "name" : "Covered Spread w\/ More Opponent Blocks",
-    "weight" : 1.6000000000000001,
-    "rating" : 56
+    "weight" : 1.5,
+    "rating" : 55
   },
   {
     "name" : "Covered Spread w\/ More Opponent Turnovers",
-    "weight" : 1.1000000000000001,
-    "rating" : 51
+    "weight" : 1.2,
+    "rating" : 52
   },
   {
     "name" : "Covered Spread w\/ More Opponent Personal Fouls",
@@ -256,8 +256,8 @@
   },
   {
     "name" : "Covered Spread w\/ Better Opponent Defensive Efficiency",
-    "weight" : 1.3,
-    "rating" : 53
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ More Opponent Average Heights",
@@ -321,8 +321,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Offensive Rebounds",
-    "weight" : 1,
-    "rating" : 50
+    "weight" : 1.1000000000000001,
+    "rating" : 51
   },
   {
     "name" : "Covered Spread w\/ Less Defensive Rebounds",
@@ -336,8 +336,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Assists",
-    "weight" : 1.6000000000000001,
-    "rating" : 56
+    "weight" : 1.7,
+    "rating" : 57
   },
   {
     "name" : "Covered Spread w\/ Less Steals",
@@ -356,8 +356,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Personal Fouls",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.3999999999999999,
+    "rating" : 54
   },
   {
     "name" : "Covered Spread w\/ Worse Assist-to-Turnover Ratio",
@@ -371,8 +371,8 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Defensive Efficiency",
-    "weight" : 0.59999999999999998,
-    "rating" : 46
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ Less Average Heights",
@@ -421,23 +421,23 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Assists",
-    "weight" : 0.19999999999999996,
-    "rating" : 42
+    "weight" : 0.30000000000000004,
+    "rating" : 43
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Steals",
-    "weight" : 0.30000000000000004,
-    "rating" : 43
+    "weight" : 0.40000000000000002,
+    "rating" : 44
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Blocks",
-    "weight" : 0.30000000000000004,
-    "rating" : 43
+    "weight" : 0.40000000000000002,
+    "rating" : 44
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Turnovers",
-    "weight" : 0.80000000000000004,
-    "rating" : 48
+    "weight" : 0.69999999999999996,
+    "rating" : 47
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Personal Fouls",
@@ -456,8 +456,8 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Opponent Defensive Efficiency",
-    "weight" : 0.59999999999999998,
-    "rating" : 46
+    "weight" : 0.5,
+    "rating" : 45
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Average Heights",

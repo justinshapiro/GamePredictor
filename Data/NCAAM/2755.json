@@ -2559,7 +2559,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jonathan Aku"
     },
     {
@@ -5706,7 +5706,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Cameron Christon"
     },
     {
@@ -8853,7 +8853,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Virshon Cotton"
     },
     {
@@ -10393,7 +10393,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Shawndarius Cowart"
     },
     {
@@ -10819,7 +10819,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Carte'Are Gordon"
     },
     {
@@ -12005,7 +12005,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Malik Lamin"
     },
     {
@@ -14160,7 +14160,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Terrence Lewis"
     },
     {
@@ -16112,7 +16112,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Tra'Michael Moton"
     },
     {
@@ -18412,7 +18412,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Zahad Munford"
     },
     {
@@ -19250,7 +19250,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Quintin Murrell"
     },
     {
@@ -19386,7 +19386,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Payton Parrish"
     },
     {
@@ -19696,7 +19696,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Joshua Phillips"
     },
     {
@@ -19948,7 +19948,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "William Reynolds"
     },
     {
@@ -20583,7 +20583,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jourdan Smith"
     },
     {
@@ -20835,7 +20835,7 @@
           "teamID" : "GRAM"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Justin Warren"
     }
   ],
@@ -21322,19 +21322,11 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "AAMU",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 600,
-        "date" : "2023-03-02T18:00-0700"
-      },
-      {
         "opponentID" : "ALST",
         "venue" : "away",
         "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 600,
+        "venueCapacity" : 7600,
         "date" : "2023-03-04T16:30-0700"
       }
     ]

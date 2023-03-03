@@ -183,11 +183,12 @@ func trainModel(categories: [Category], bettingMatchups: [(String, Team.Previous
         }
     }
     
+    /* // Uncomment to print out info on used categories
     print("\nCategory matchings:\n")
     
     matchedCategories.map { ($0.key, $0.value) }.sorted { $0.1 > $1.1 }.forEach {
         print("\($0.0): \($0.1)")
-    }
+    }*/
     
     return Int((Double(results.filter { $0 }.count) / Double(bettingMatchups.count)) * 100)
 }

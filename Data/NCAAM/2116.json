@@ -3980,13 +3980,42 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2023-02-26T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Michael Durr"
     },
     {
@@ -4464,13 +4493,42 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2023-02-26T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCF"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "P.J. Edwards"
     },
     {
@@ -5911,13 +5969,42 @@
               "didStart" : false,
               "minutesPlayed" : 11,
               "date" : "2023-02-26T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCF"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tyem Freeman"
     },
     {
@@ -5938,7 +6025,7 @@
           "teamID" : "UCF"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Taylor Hendricks"
     },
     {
@@ -5953,7 +6040,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Tyler Hendricks"
     },
     {
@@ -8769,13 +8856,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-26T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Ithiel Horton"
     },
     {
@@ -10216,13 +10332,42 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2023-02-26T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCF"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Darius Johnson"
     },
     {
@@ -10237,7 +10382,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Michael Kalina"
     },
     {
@@ -13227,13 +13372,42 @@
               "didStart" : true,
               "minutesPlayed" : 17,
               "date" : "2023-02-26T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 6
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 19,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "C.J. Kelly"
     },
     {
@@ -13248,7 +13422,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Charlie May"
     },
     {
@@ -16151,13 +16325,42 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2023-02-26T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Brandon Suggs"
     },
     {
@@ -16873,7 +17076,7 @@
           "teamID" : "UCF"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Thierno Sylla"
     },
     {
@@ -19834,13 +20037,42 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2023-02-26T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 8,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Lahat Thioune"
     },
     {
@@ -22343,7 +22575,7 @@
           "teamID" : "UCF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "C.J. Walker"
     },
     {
@@ -22508,7 +22740,7 @@
           "teamID" : "UCF"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Poohpha Warakulnukroh"
     },
     {
@@ -23305,13 +23537,42 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2023-02-26T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-02T17:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "UCF"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jayhlon Young"
     }
   ],
@@ -24166,24 +24427,45 @@
         },
         "attendance" : 4059,
         "line" : 12.5
+      },
+      {
+        "venueCapacity" : 10206,
+        "opponentID" : "TEM",
+        "largestLead" : 6,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Doug Shows",
+          "Ron Groover",
+          "Joe Lindsay"
+        ],
+        "didWin" : false,
+        "overUnder" : 134,
+        "date" : "2023-03-02T17:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 20,
+            "opponentPoints" : 22
+          },
+          "secondHalf" : {
+            "teamPoints" : 35,
+            "opponentPoints" : 35
+          }
+        },
+        "attendance" : 4664
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "TEM",
-        "venue" : "home",
         "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 206,
-        "date" : "2023-03-02T17:00-0700"
-      },
-      {
-        "opponentID" : "ECU",
         "venue" : "away",
-        "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 0,
-        "date" : "2023-03-05T12:00-0700"
+        "date" : "2023-03-05T12:00-0700",
+        "venueCapacity" : 10000,
+        "opponentID" : "ECU",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

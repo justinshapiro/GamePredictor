@@ -95,8 +95,11 @@ func getAllTeams(from teamURLs: [String]) -> [Team] {
                 // Additional games are added/cancelled and TV coverage and venue information is updated as the season goes on
                 team.games.upcoming = teamSchedule.events.upcoming
                     .lazy
+                    .filter { !$0.time.link.isEmpty && $0.opponent.teamID != nil }
                     .map { getUpcomingGame(from: $0) }
-                    .filter { !gamesPlayedSinceLastPull.contains($0) }
+                    .filter { game in
+                        !gamesPlayedSinceLastPull.contains { Calendar.current.isDate($0.date, inSameDayAs: game.date) && game.opponentID == $0.opponentID }
+                    }
                 
                 let previousEventsURLs = newPreviousEvents.map { $0.time.link.replace("/game/", with: "/boxscore/") }
                 

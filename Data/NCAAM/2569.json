@@ -569,7 +569,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Shaman Alston"
     },
     {
@@ -966,7 +966,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "DaJuan Bates"
     },
     {
@@ -3121,7 +3121,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Raquan Brown"
     },
     {
@@ -5856,7 +5856,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Rahsaan Edwards"
     },
     {
@@ -6543,7 +6543,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Davion Everett"
     },
     {
@@ -8048,7 +8048,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Rakeim Gary"
     },
     {
@@ -8532,7 +8532,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Lesown Hallums"
     },
     {
@@ -9695,7 +9695,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Dallas James"
     },
     {
@@ -11473,7 +11473,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Cameron Jones"
     },
     {
@@ -13187,7 +13187,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Latavian Lawrence"
     },
     {
@@ -13874,7 +13874,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jordan Simpson"
     },
     {
@@ -14219,7 +14219,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Isaiah Turner"
     },
     {
@@ -14587,7 +14587,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Marc Wardlaw"
     },
     {
@@ -15071,7 +15071,7 @@
           "teamID" : "SCST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Justin Wilson"
     }
   ],
@@ -15737,14 +15737,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "NCCU",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 200,
-        "date" : "2023-03-02T17:30-0700"
-      }
+
     ]
   }
 }

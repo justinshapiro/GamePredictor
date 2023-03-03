@@ -426,7 +426,7 @@
       ],
       "name" : "Amirah Allen",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -1897,7 +1897,7 @@
       ],
       "name" : "Nyla Cooper",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -4041,7 +4041,7 @@
       ],
       "name" : "Kaiya Creek",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -6272,7 +6272,7 @@
       ],
       "name" : "Brooklynn Fort-Davis",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8474,7 +8474,7 @@
       ],
       "name" : "Kaniyah Harris",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -10531,7 +10531,7 @@
       ],
       "name" : "Destiny Howell",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -14775,7 +14775,7 @@
       ],
       "name" : "Aziah Hudson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -18207,7 +18207,7 @@
       ],
       "name" : "Krislyn Marsh",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -18889,7 +18889,7 @@
       ],
       "name" : "Nile Miller",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -20128,7 +20128,7 @@
       ],
       "name" : "Nia Nelson",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -20752,7 +20752,7 @@
       ],
       "name" : "Jenesis Perrin",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -21846,7 +21846,7 @@
       ],
       "name" : "Marissa Steel",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -21856,7 +21856,7 @@
       ],
       "name" : "Madison Stevenson",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -21866,7 +21866,7 @@
       ],
       "name" : "Tyana Walker",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -24393,7 +24393,7 @@
       ],
       "name" : "Iyanna Warren",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -25841,7 +25841,7 @@
       ],
       "name" : "Aniya Wilson",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "MEAC",
@@ -26782,14 +26782,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "NORF",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 700,
-        "date" : "2023-03-02T15:30-0700"
-      }
+
     ]
   }
 }

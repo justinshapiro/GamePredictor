@@ -13,7 +13,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Caleb Blackwell"
     },
     {
@@ -569,7 +569,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Olisa Blaise Akonobi"
     },
     {
@@ -1152,7 +1152,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Xavier Brewer"
     },
     {
@@ -1694,7 +1694,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Lorenzo Downey"
     },
     {
@@ -3147,7 +3147,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Austin Harvell"
     },
     {
@@ -5795,7 +5795,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Garrett Hicks"
     },
     {
@@ -6894,7 +6894,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Eric Lee"
     },
     {
@@ -6909,7 +6909,7 @@
       "seasons" : [
 
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Darius Osborne"
     },
     {
@@ -7393,7 +7393,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Omari Peek"
     },
     {
@@ -10018,7 +10018,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Brandon Powell"
     },
     {
@@ -10357,7 +10357,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jayland Randall"
     },
     {
@@ -12216,7 +12216,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Dailin Smith"
     },
     {
@@ -12642,7 +12642,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "William Tavares de Brito"
     },
     {
@@ -13155,7 +13155,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Messiah Thompson"
     },
     {
@@ -15687,7 +15687,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Cameron Tucker"
     },
     {
@@ -18393,7 +18393,7 @@
           "teamID" : "AAMU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "EJ Williams"
     }
   ],
@@ -18898,19 +18898,11 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "GRAM",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 600,
-        "date" : "2023-03-02T18:00-0700"
-      },
-      {
         "opponentID" : "SOU",
         "venue" : "home",
         "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 500,
+        "venueCapacity" : 7500,
         "date" : "2023-03-04T16:30-0700"
       }
     ]

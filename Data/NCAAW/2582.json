@@ -2317,7 +2317,7 @@
       ],
       "name" : "Sky Castro",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -3765,7 +3765,7 @@
       ],
       "name" : "Osha Cummings",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -6872,7 +6872,7 @@
       ],
       "name" : "Chloe Fleming",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8343,7 +8343,7 @@
       ],
       "name" : "Aleighyah Fontenot",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -9408,7 +9408,7 @@
       ],
       "name" : "Xyllize Harrison",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -11291,7 +11291,7 @@
       ],
       "name" : "Diamond Hunter",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -13934,7 +13934,7 @@
       ],
       "name" : "Genovea Johnson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -14674,7 +14674,7 @@
       ],
       "name" : "Sirviva Legions",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -15327,7 +15327,7 @@
       ],
       "name" : "Tionna Lidge",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -15337,7 +15337,7 @@
       ],
       "name" : "McKayla Marshall",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -19117,7 +19117,7 @@
       ],
       "name" : "Amani Mcwain",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -21493,7 +21493,7 @@
       ],
       "name" : "Tyeniesha Metcalf",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -23492,7 +23492,7 @@
       ],
       "name" : "Kyanna Morgan",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -24557,7 +24557,7 @@
       ],
       "name" : "Soniyah Reed",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -24897,7 +24897,7 @@
       ],
       "name" : "Ra'von Robertson",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -27946,7 +27946,7 @@
       ],
       "name" : "Raven White",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -28715,11 +28715,11 @@
       ],
       "name" : "Taylor Williams",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "SWAC",
-  "conferenceRanking" : 5,
+  "conferenceRanking" : 4,
   "games" : {
     "previous" : [
       {
@@ -29694,19 +29694,11 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "ALST",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 500,
-        "date" : "2023-03-02T14:00-0700"
-      },
-      {
         "opponentID" : "AAMU",
         "venue" : "away",
         "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 500,
+        "venueCapacity" : 7500,
         "date" : "2023-03-04T14:00-0700"
       }
     ]

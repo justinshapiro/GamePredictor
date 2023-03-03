@@ -2942,7 +2942,7 @@
           "teamID" : "MORG"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Isaiah Burke"
     },
     {
@@ -2957,7 +2957,7 @@
       "seasons" : [
 
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Daiquan Copeland"
     },
     {
@@ -6597,7 +6597,7 @@
           "teamID" : "MORG"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Lewis Djonkam"
     },
     {
@@ -6994,7 +6994,7 @@
           "teamID" : "MORG"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Toto Fagbenle"
     },
     {
@@ -7687,7 +7687,7 @@
           "teamID" : "MORG"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kamron Hobbs"
     },
     {
@@ -8699,7 +8699,7 @@
           "teamID" : "MORG"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Ty Horner"
     },
     {
@@ -9299,7 +9299,7 @@
           "teamID" : "MORG"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Rob Lawson"
     },
     {
@@ -9667,7 +9667,7 @@
           "teamID" : "MORG"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "David McCullough"
     },
     {
@@ -13046,7 +13046,7 @@
           "teamID" : "MORG"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Malik Miller"
     },
     {
@@ -15526,7 +15526,7 @@
           "teamID" : "MORG"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Collin Nnamene"
     },
     {
@@ -16654,7 +16654,7 @@
           "teamID" : "MORG"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Will Thomas"
     },
     {
@@ -17405,7 +17405,7 @@
           "teamID" : "MORG"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Khalil Turner"
     },
     {
@@ -17802,7 +17802,7 @@
           "teamID" : "MORG"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Kevon Wiggins"
     },
     {
@@ -17817,7 +17817,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Chase Williams"
     }
   ],
@@ -18452,14 +18452,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "COPP",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 250,
-        "date" : "2023-03-02T17:00-0700"
-      }
+
     ]
   }
 }

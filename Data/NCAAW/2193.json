@@ -275,7 +275,7 @@
       ],
       "name" : "Ella Boyle",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -1485,7 +1485,7 @@
       ],
       "name" : "Nevaeh Brown",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -1877,7 +1877,7 @@
       ],
       "name" : "Jaileyah Cotton",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -4108,7 +4108,7 @@
       ],
       "name" : "Jakhyia Davis",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -4645,7 +4645,7 @@
       ],
       "name" : "Meghan Downing",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -6261,7 +6261,7 @@
       ],
       "name" : "Kendall Folley",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -7413,7 +7413,7 @@
       ],
       "name" : "Meleah Kirtner",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -7660,7 +7660,7 @@
       ],
       "name" : "Paris McCarthy",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -8487,7 +8487,7 @@
       ],
       "name" : "Journee McDaniel",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -10428,7 +10428,7 @@
       ],
       "name" : "Courtney Moore",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -10986,7 +10986,7 @@
       ],
       "name" : "Jayla Ruffus-Milner",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -14360,7 +14360,7 @@
       ],
       "name" : "Jiselle Thomas",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -15947,7 +15947,7 @@
       ],
       "name" : "Sarah Thompson",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -16809,7 +16809,7 @@
       ],
       "name" : "Aaliyah Vananda",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "Southern",
@@ -17926,15 +17926,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "neutral",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-02T15:45-0700",
-        "venueCapacity" : 674,
-        "opponentID" : "SAM",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

@@ -378,7 +378,7 @@
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jack Brown"
     },
     {
@@ -2985,13 +2985,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 12
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 26,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-02T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Supreme Cook"
     },
     {
@@ -5952,13 +5981,42 @@
               "didStart" : false,
               "minutesPlayed" : 11,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 6,
+              "date" : "2023-03-02T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Zach Crisler"
     },
     {
@@ -5973,7 +6031,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Anthony Davis Jr."
     },
     {
@@ -9282,13 +9340,42 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 7
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 21,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-02T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Caleb Fields"
     },
     {
@@ -11153,7 +11240,7 @@
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Brycen Goodine"
     },
     {
@@ -11446,13 +11533,42 @@
               "didStart" : false,
               "minutesPlayed" : 11,
               "date" : "2022-12-18T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 0,
+              "date" : "2023-03-02T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Mark Henry"
     },
     {
@@ -14616,13 +14732,42 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 14,
+                  "made" : 12
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-02T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Allan Jeanne-Rose"
     },
     {
@@ -15390,13 +15535,42 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-02T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "James Johns Jr."
     },
     {
@@ -17046,13 +17220,42 @@
               "didStart" : true,
               "minutesPlayed" : 16,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 25,
+              "date" : "2023-03-02T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jalen Leach"
     },
     {
@@ -18870,13 +19073,42 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 4
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 2
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-02T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "TJ Long"
     },
     {
@@ -21959,7 +22191,7 @@
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Chris Maidoh"
     },
     {
@@ -22362,13 +22594,42 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-02T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jack Mullally"
     },
     {
@@ -22383,7 +22644,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Michael Rogan"
     },
     {
@@ -23128,13 +23389,42 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-02T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Makai Willis"
     },
     {
@@ -27232,13 +27522,42 @@
               "didStart" : false,
               "minutesPlayed" : 22,
               "date" : "2023-02-26T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 7,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-02T17:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "FAIR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jake Wojcik"
     }
   ],
@@ -28096,18 +28415,39 @@
         },
         "attendance" : 696,
         "line" : 2
+      },
+      {
+        "venueCapacity" : 3500,
+        "opponentID" : "QUIN",
+        "largestLead" : 13,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Jeff Clark",
+          "Tony Chiazza",
+          "Clarence Armstrong"
+        ],
+        "didWin" : true,
+        "overUnder" : 136.5,
+        "date" : "2023-03-02T17:30-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 38,
+            "opponentPoints" : 33
+          },
+          "secondHalf" : {
+            "teamPoints" : 54,
+            "opponentPoints" : 49
+          }
+        },
+        "attendance" : 2748,
+        "line" : 2.5
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-02T17:30-0700",
-        "venueCapacity" : 500,
-        "opponentID" : "QUIN",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

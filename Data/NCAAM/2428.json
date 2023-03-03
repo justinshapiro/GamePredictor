@@ -372,7 +372,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Timmy Adedire"
     },
     {
@@ -2521,7 +2521,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Eric Boone"
     },
     {
@@ -3823,7 +3823,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Cameron Butler"
     },
     {
@@ -5247,7 +5247,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Devin Butts"
     },
     {
@@ -7193,7 +7193,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Fred Cleveland Jr."
     },
     {
@@ -7422,7 +7422,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Terrence Crawford"
     },
     {
@@ -7738,7 +7738,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Chris Daniels"
     },
     {
@@ -7845,7 +7845,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Shakir Dawan"
     },
     {
@@ -10760,7 +10760,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Nicolas Fennell"
     },
     {
@@ -12097,7 +12097,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Devin Gordon"
     },
     {
@@ -14101,7 +14101,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Ja'Darius Harris"
     },
     {
@@ -17770,7 +17770,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Marque Maultsby"
     },
     {
@@ -21468,7 +21468,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Brendan Medley-Bacon"
     },
     {
@@ -24151,7 +24151,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kris Monroe"
     },
     {
@@ -26944,7 +26944,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Daniel Oladapo"
     },
     {
@@ -28745,7 +28745,7 @@
           "teamID" : "NCCU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Justin Wright"
     }
   ],
@@ -29348,14 +29348,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "SCST",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 200,
-        "date" : "2023-03-02T17:30-0700"
-      }
+
     ]
   }
 }

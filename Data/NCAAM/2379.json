@@ -1799,7 +1799,7 @@
           "teamID" : "UMES"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Glen Anderson"
     },
     {
@@ -3304,7 +3304,7 @@
           "teamID" : "UMES"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Chace Davis"
     },
     {
@@ -5163,7 +5163,7 @@
           "teamID" : "UMES"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Ahamadou Fofana"
     },
     {
@@ -5879,7 +5879,7 @@
           "teamID" : "UMES"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Troy Hupstead"
     },
     {
@@ -6475,7 +6475,7 @@
       ],
       "name" : "Dionte Johnson",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -7041,7 +7041,7 @@
       ],
       "name" : "Victory Naboya",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -7520,7 +7520,7 @@
       ],
       "name" : "Toby Nnadozie",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "number" : 1,
@@ -8995,7 +8995,7 @@
           "teamID" : "UMES"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Donchevell Nugent"
     },
     {
@@ -11434,7 +11434,7 @@
           "teamID" : "UMES"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Da'Shawn Phillip"
     },
     {
@@ -12939,7 +12939,7 @@
           "teamID" : "UMES"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Nathaniel Pollard Jr."
     },
     {
@@ -14299,7 +14299,7 @@
           "teamID" : "UMES"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Zion Styles"
     },
     {
@@ -15746,7 +15746,7 @@
           "teamID" : "UMES"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kohen Thompson"
     },
     {
@@ -17663,12 +17663,12 @@
           "teamID" : "UMES"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kevon Voyles"
     }
   ],
   "conference" : "MEAC",
-  "conferenceRanking" : 4,
+  "conferenceRanking" : 3,
   "games" : {
     "previous" : [
       {
@@ -18343,14 +18343,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "DSU",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 800,
-        "date" : "2023-03-02T17:30-0700"
-      }
+
     ]
   }
 }
