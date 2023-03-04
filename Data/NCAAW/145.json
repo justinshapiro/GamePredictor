@@ -4330,7 +4330,7 @@
       ],
       "name" : "Angel Baker",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5030,7 +5030,7 @@
       ],
       "name" : "Jordan Berry",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -7609,7 +7609,7 @@
       ],
       "name" : "Snudda Collins",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -9933,7 +9933,7 @@
       ],
       "name" : "Marquesha Davis",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -11433,7 +11433,7 @@
       ],
       "name" : "Elauna Eaton",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14598,7 +14598,7 @@
       ],
       "name" : "Rita Igbokwe",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -17531,7 +17531,7 @@
       ],
       "name" : "Brooke Moore",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -19704,7 +19704,7 @@
       ],
       "name" : "Destiny Salary",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -22196,7 +22196,7 @@
       ],
       "name" : "Madison Scott",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -25599,7 +25599,7 @@
       ],
       "name" : "Tyia Singleton",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -29727,7 +29727,7 @@
       ],
       "name" : "Myah Taylor",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -30525,7 +30525,7 @@
       ],
       "name" : "Ayanna Thompson",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     }
   ],
   "conference" : "SEC",
@@ -31647,12 +31647,12 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "TBD",
+        "opponentID" : "SC",
         "venue" : "neutral",
-        "coverage" : "sportsTV",
-        "isConferenceMatchup" : false,
+        "coverage" : "standardTV",
+        "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "date" : "2023-03-03T12:30-0700"
+        "date" : "2023-03-04T14:30-0700"
       }
     ]
   }

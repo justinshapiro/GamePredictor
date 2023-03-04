@@ -25863,12 +25863,12 @@
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "home",
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-03T17:00-0700",
-        "venueCapacity" : 327,
-        "opponentID" : "KENT",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-09T16:30-0700",
+        "venueCapacity" : 19432,
+        "opponentID" : "BUFF",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

@@ -22617,6 +22617,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 12000,
+      "opponentID" : "UCLA",
+      "largestLead" : 16,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Chuck Gonzalez",
+        "Michael Price",
+        "Tiffany Bird"
+      ],
+      "didWin" : false,
+      "overUnder" : 132.5,
+      "date" : "2023-03-03T19:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 35,
+          "opponentPoints" : 22
+        },
+        "secondHalf" : {
+          "teamPoints" : 30,
+          "opponentPoints" : 47
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 15,
+            "opponentPoints" : 18
+          },
+          {
+            "teamPoints" : 15,
+            "opponentPoints" : 29
+          }
+        ]
+      },
+      "attendance" : 0,
+      "line" : 9.5
+    },
+    "teamName" : "STAN"
+  },
+  {
+    "game" : {
       "venueCapacity" : 0,
       "opponentID" : "SDST",
       "largestLead" : 15,
@@ -25597,6 +25639,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 0,
+      "opponentID" : "LSU",
+      "largestLead" : 1,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Cameron Inouye",
+        "Eric Koch",
+        "Pualani Spurlock-Welsh"
+      ],
+      "didWin" : false,
+      "overUnder" : 135.5,
+      "date" : "2023-03-03T16:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 35,
+          "opponentPoints" : 46
+        },
+        "secondHalf" : {
+          "teamPoints" : 31,
+          "opponentPoints" : 37
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 14,
+            "opponentPoints" : 27
+          },
+          {
+            "teamPoints" : 17,
+            "opponentPoints" : 10
+          }
+        ]
+      },
+      "attendance" : 0,
+      "line" : 8.5
+    },
+    "teamName" : "UGA"
+  },
+  {
+    "game" : {
       "venueCapacity" : 15061,
       "opponentID" : "MIZ",
       "largestLead" : 12,
@@ -25886,6 +25970,48 @@
       },
       "attendance" : 6152,
       "line" : 10.5
+    },
+    "teamName" : "UK"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 0,
+      "opponentID" : "TENN",
+      "largestLead" : 0,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Eric Brewton",
+        "Kevin Pethtel",
+        "Meadow Overstreet"
+      ],
+      "didWin" : false,
+      "overUnder" : 144.5,
+      "date" : "2023-03-03T18:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 30,
+          "opponentPoints" : 38
+        },
+        "secondHalf" : {
+          "teamPoints" : 41,
+          "opponentPoints" : 42
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 18,
+            "opponentPoints" : 15
+          },
+          {
+            "teamPoints" : 23,
+            "opponentPoints" : 27
+          }
+        ]
+      },
+      "attendance" : 6299,
+      "line" : 12
     },
     "teamName" : "UK"
   },
@@ -27199,6 +27325,48 @@
       },
       "attendance" : 10297,
       "line" : -13
+    },
+    "teamName" : "SC"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 0,
+      "opponentID" : "ARK",
+      "largestLead" : 29,
+      "coverage" : "sportsTV",
+      "referees" : [
+        "Dee Kantner",
+        "Maj Forsberg",
+        "Bill Larance"
+      ],
+      "didWin" : true,
+      "overUnder" : 137,
+      "date" : "2023-03-03T10:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 45,
+          "opponentPoints" : 30
+        },
+        "secondHalf" : {
+          "teamPoints" : 48,
+          "opponentPoints" : 36
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 17,
+            "opponentPoints" : 17
+          },
+          {
+            "teamPoints" : 31,
+            "opponentPoints" : 19
+          }
+        ]
+      },
+      "attendance" : 0,
+      "line" : 23
     },
     "teamName" : "SC"
   },

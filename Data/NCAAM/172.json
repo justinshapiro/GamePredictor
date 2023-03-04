@@ -656,7 +656,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Josh Baldwin"
     },
     {
@@ -2190,7 +2190,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Keller Boothby"
     },
     {
@@ -2854,7 +2854,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Chris Cain"
     },
     {
@@ -4800,7 +4800,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Greg Dolan"
     },
     {
@@ -5087,7 +5087,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Darius Ervin"
     },
     {
@@ -7033,7 +7033,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Marcus Filien"
     },
     {
@@ -8451,7 +8451,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Isaiah Gray"
     },
     {
@@ -9985,7 +9985,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Sean Hansen"
     },
     {
@@ -10324,7 +10324,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Ryan Kiachian"
     },
     {
@@ -11858,7 +11858,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Chris Manon"
     },
     {
@@ -12255,7 +12255,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "DJ Nix"
     },
     {
@@ -12652,7 +12652,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Cooper Noard"
     },
     {
@@ -12730,7 +12730,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "AK Okereke"
     },
     {
@@ -14206,7 +14206,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Guy Ragland Jr."
     },
     {
@@ -14487,7 +14487,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Adam Tsang Hinton"
     },
     {
@@ -14571,7 +14571,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Chuks Uzoka"
     },
     {
@@ -15345,7 +15345,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Max Watson"
     },
     {
@@ -15568,7 +15568,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Evan Williams"
     },
     {
@@ -16986,7 +16986,7 @@
           "teamID" : "COR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Nazir Williams"
     }
   ],
@@ -17751,10 +17751,10 @@
         "isConferenceMatchup" : true,
         "venue" : "away",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-03T22:00-0700",
-        "venueCapacity" : 473,
+        "date" : "2023-03-04T12:00-0700",
+        "venueCapacity" : 4473,
         "opponentID" : "COLU",
-        "coverage" : "sportsTV"
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

@@ -2172,7 +2172,7 @@
       ],
       "name" : "Jacorriah Bracey",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -2831,7 +2831,7 @@
       ],
       "name" : "Asia Broughton",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -3658,7 +3658,7 @@
       ],
       "name" : "Lani Cornfield",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -6185,7 +6185,7 @@
       ],
       "name" : "Domonique Davis",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -7221,7 +7221,7 @@
       ],
       "name" : "Morgan Dillard",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -8878,7 +8878,7 @@
       ],
       "name" : "Femi Funeus",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -9734,7 +9734,7 @@
       ],
       "name" : "Brikayla Gray",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -9744,7 +9744,7 @@
       ],
       "name" : "Melyia Grayson",
       "position" : "Center",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -11569,7 +11569,7 @@
       ],
       "name" : "Lauren Gross",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -12895,7 +12895,7 @@
       ],
       "name" : "Asjha Leake",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -13409,7 +13409,7 @@
       ],
       "name" : "Emma Wallhoff",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -15466,7 +15466,7 @@
       ],
       "name" : "Rose Warren",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -16293,7 +16293,7 @@
       ],
       "name" : "Chardai Watkins",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     }
   ],
   "conference" : "Sun Belt",
@@ -17385,13 +17385,13 @@
     ],
     "upcoming" : [
       {
-        "isConferenceMatchup" : false,
+        "isConferenceMatchup" : true,
         "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-03T16:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "TBD",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-05T13:00-0700",
+        "venueCapacity" : 10000,
+        "opponentID" : "TXST",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

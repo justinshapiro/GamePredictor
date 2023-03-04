@@ -31282,12 +31282,13 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "PROV",
-        "venue" : "home",
         "isConferenceMatchup" : true,
+        "venue" : "home",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 2410,
-        "date" : "2023-03-03T22:00-0700"
+        "date" : "2023-03-04T10:00-0700",
+        "venueCapacity" : 12410,
+        "opponentID" : "PROV",
+        "coverage" : "standardTV"
       }
     ]
   }

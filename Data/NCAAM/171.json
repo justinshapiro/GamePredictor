@@ -13,7 +13,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Zinou Bedri"
     },
     {
@@ -845,7 +845,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Avery Brown"
     },
     {
@@ -2147,7 +2147,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jaden Cooper"
     },
     {
@@ -2950,7 +2950,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Zine Eddine Bedri"
     },
     {
@@ -4368,7 +4368,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Zavian McLean"
     },
     {
@@ -5409,7 +5409,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Liam Murphy"
     },
     {
@@ -6241,7 +6241,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kenny Noland"
     },
     {
@@ -7456,7 +7456,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Josh Odunowo"
     },
     {
@@ -8178,7 +8178,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Emmanuel Onuama"
     },
     {
@@ -9074,7 +9074,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Noah Robledo"
     },
     {
@@ -10666,7 +10666,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Geronimo Rubio De La Rosa"
     },
     {
@@ -10988,7 +10988,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Asa Shannon"
     },
     {
@@ -12296,7 +12296,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Cameron Shockley-Okeke"
     },
     {
@@ -13598,7 +13598,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Robbie Stankard"
     },
     {
@@ -14958,7 +14958,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jake Tavroff"
     },
     {
@@ -15761,7 +15761,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Blair Thompson"
     },
     {
@@ -16042,7 +16042,7 @@
           "teamID" : "COLU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Lukas Yurasits"
     }
   ],
@@ -16872,10 +16872,10 @@
         "isConferenceMatchup" : true,
         "venue" : "home",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-03T22:00-0700",
-        "venueCapacity" : 473,
+        "date" : "2023-03-04T12:00-0700",
+        "venueCapacity" : 4473,
         "opponentID" : "COR",
-        "coverage" : "sportsTV"
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

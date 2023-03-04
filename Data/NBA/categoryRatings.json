@@ -111,8 +111,8 @@
   },
   {
     "name" : "Covered Spread w\/ Better Three Point Field Goal Percentage",
-    "weight" : 0,
-    "rating" : 40
+    "weight" : 0.099999999999999978,
+    "rating" : 41
   },
   {
     "name" : "Covered Spread w\/ Better Free Throw Percentage",
@@ -136,8 +136,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Assists",
-    "weight" : 0.19999999999999996,
-    "rating" : 42
+    "weight" : 0.30000000000000004,
+    "rating" : 43
   },
   {
     "name" : "Covered Spread w\/ More Steals",
@@ -156,13 +156,13 @@
   },
   {
     "name" : "Covered Spread w\/ More Personal Fouls",
-    "weight" : 0.5,
-    "rating" : 45
+    "weight" : 0.40000000000000002,
+    "rating" : 44
   },
   {
     "name" : "Covered Spread w\/ Better Assist-to-Turnover Ratio",
-    "weight" : 0.099999999999999978,
-    "rating" : 41
+    "weight" : 0.19999999999999996,
+    "rating" : 42
   },
   {
     "name" : "Covered Spread w\/ Better Offensive Efficiency",
@@ -181,13 +181,13 @@
   },
   {
     "name" : "Covered Spread w\/ More Adjusted Tempo",
-    "weight" : 1.8,
-    "rating" : 58
+    "weight" : 1.8999999999999999,
+    "rating" : 59
   },
   {
     "name" : "Covered Spread w\/ More Opponent Points Scored",
-    "weight" : 1.6000000000000001,
-    "rating" : 56
+    "weight" : 1.5,
+    "rating" : 55
   },
   {
     "name" : "Covered Spread w\/ Better Opponent Field Goal Percentage",
@@ -221,13 +221,13 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Assists",
-    "weight" : 1.6000000000000001,
-    "rating" : 56
+    "weight" : 1.7,
+    "rating" : 57
   },
   {
     "name" : "Covered Spread w\/ More Opponent Steals",
-    "weight" : 1.5,
-    "rating" : 55
+    "weight" : 1.6000000000000001,
+    "rating" : 56
   },
   {
     "name" : "Covered Spread w\/ More Opponent Blocks",
@@ -236,8 +236,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Turnovers",
-    "weight" : 1.2,
-    "rating" : 52
+    "weight" : 1.1000000000000001,
+    "rating" : 51
   },
   {
     "name" : "Covered Spread w\/ More Opponent Personal Fouls",
@@ -246,8 +246,8 @@
   },
   {
     "name" : "Covered Spread w\/ Better Opponent Assist-to-Turnover Ratio",
-    "weight" : 1.2,
-    "rating" : 52
+    "weight" : 1.1000000000000001,
+    "rating" : 51
   },
   {
     "name" : "Covered Spread w\/ Better Opponent Offensive Efficiency",
@@ -266,8 +266,8 @@
   },
   {
     "name" : "Covered Spread w\/ More Opponent Adjusted Tempo",
-    "weight" : 1.8,
-    "rating" : 58
+    "weight" : 1.8999999999999999,
+    "rating" : 59
   },
   {
     "name" : "Covered Spread w\/ More Combined Player Experience",
@@ -311,8 +311,8 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Three Point Field Goal Percentage",
-    "weight" : 1.8999999999999999,
-    "rating" : 59
+    "weight" : 1.8,
+    "rating" : 58
   },
   {
     "name" : "Covered Spread w\/ Worse Free Throw Percentage",
@@ -336,8 +336,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Assists",
-    "weight" : 1.7,
-    "rating" : 57
+    "weight" : 1.6000000000000001,
+    "rating" : 56
   },
   {
     "name" : "Covered Spread w\/ Less Steals",
@@ -356,13 +356,13 @@
   },
   {
     "name" : "Covered Spread w\/ Less Personal Fouls",
-    "weight" : 1.3999999999999999,
-    "rating" : 54
+    "weight" : 1.5,
+    "rating" : 55
   },
   {
     "name" : "Covered Spread w\/ Worse Assist-to-Turnover Ratio",
-    "weight" : 1.8,
-    "rating" : 58
+    "weight" : 1.7,
+    "rating" : 57
   },
   {
     "name" : "Covered Spread w\/ Worse Offensive Efficiency",
@@ -381,13 +381,13 @@
   },
   {
     "name" : "Covered Spread w\/ Less Adjusted Tempo",
-    "weight" : 0.099999999999999978,
-    "rating" : 41
+    "weight" : 0,
+    "rating" : 40
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Points Scored",
-    "weight" : 0.30000000000000004,
-    "rating" : 43
+    "weight" : 0.40000000000000002,
+    "rating" : 44
   },
   {
     "name" : "Covered Spread w\/ Worse Opponent Field Goal Percentage",
@@ -421,13 +421,13 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Assists",
-    "weight" : 0.30000000000000004,
-    "rating" : 43
+    "weight" : 0.19999999999999996,
+    "rating" : 42
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Steals",
-    "weight" : 0.40000000000000002,
-    "rating" : 44
+    "weight" : 0.30000000000000004,
+    "rating" : 43
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Blocks",
@@ -436,8 +436,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Turnovers",
-    "weight" : 0.69999999999999996,
-    "rating" : 47
+    "weight" : 0.80000000000000004,
+    "rating" : 48
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Personal Fouls",
@@ -446,8 +446,8 @@
   },
   {
     "name" : "Covered Spread w\/ Worse Opponent Assist-to-Turnover Ratio",
-    "weight" : 0.69999999999999996,
-    "rating" : 47
+    "weight" : 0.80000000000000004,
+    "rating" : 48
   },
   {
     "name" : "Covered Spread w\/ Worse Opponent Offensive Efficiency",
@@ -466,8 +466,8 @@
   },
   {
     "name" : "Covered Spread w\/ Less Opponent Adjusted Tempo",
-    "weight" : 0.099999999999999978,
-    "rating" : 41
+    "weight" : 0,
+    "rating" : 40
   },
   {
     "name" : "Covered Spread w\/ Less Combined Player Experience",
@@ -486,8 +486,8 @@
   },
   {
     "name" : "Home Team Covered Spread w\/ Good Home Record Against Away Team With Bad Road Record",
-    "weight" : -0.19999999999999996,
-    "rating" : 38
+    "weight" : -0.10000000000000009,
+    "rating" : 39
   },
   {
     "name" : "Away Team Covered Spread w\/ Good Road Record Against Home Team With Bad Home Record",
@@ -506,8 +506,8 @@
   },
   {
     "name" : "Home Team Covered Spread w\/ Good Home Record Against Away Team With Bad Road Record",
-    "weight" : -0.19999999999999996,
-    "rating" : 38
+    "weight" : -0.10000000000000009,
+    "rating" : 39
   },
   {
     "name" : "Covered Spread w\/ On A Back-to-Back",
@@ -516,8 +516,8 @@
   },
   {
     "name" : "Home Team Covered Spread w\/ On A Back-to-Back",
-    "weight" : -0.60000000000000009,
-    "rating" : 34
+    "weight" : -0.5,
+    "rating" : 35
   },
   {
     "name" : "Away Team Covered Spread w\/ On A Back-to-Back",

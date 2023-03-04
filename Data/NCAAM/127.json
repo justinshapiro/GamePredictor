@@ -25187,7 +25187,7 @@
     }
   ],
   "conference" : "Big Ten",
-  "conferenceRanking" : 7,
+  "conferenceRanking" : 8,
   "games" : {
     "previous" : [
       {
@@ -25990,12 +25990,13 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "OSU",
-        "venue" : "away",
         "isConferenceMatchup" : true,
+        "venue" : "away",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 4797,
-        "date" : "2023-03-03T22:00-0700"
+        "date" : "2023-03-04T10:00-0700",
+        "venueCapacity" : 14797,
+        "opponentID" : "OSU",
+        "coverage" : "standardTV"
       }
     ]
   }

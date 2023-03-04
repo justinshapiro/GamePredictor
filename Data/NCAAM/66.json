@@ -3400,7 +3400,7 @@
           "teamID" : "ISU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Caleb Grill"
     },
     {
@@ -3594,7 +3594,7 @@
           "teamID" : "ISU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Conrad Hawley"
     },
     {
@@ -6004,7 +6004,7 @@
           "teamID" : "ISU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jaren Holmes"
     },
     {
@@ -9145,7 +9145,7 @@
           "teamID" : "ISU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Robert Jones"
     },
     {
@@ -13568,7 +13568,7 @@
           "teamID" : "ISU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Gabe Kalscheur"
     },
     {
@@ -13762,7 +13762,7 @@
           "teamID" : "ISU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Eli King"
     },
     {
@@ -16990,7 +16990,7 @@
           "teamID" : "ISU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Tre King"
     },
     {
@@ -20920,7 +20920,7 @@
           "teamID" : "ISU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Aljaz Kunc"
     },
     {
@@ -21752,7 +21752,7 @@
           "teamID" : "ISU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Tamin Lipsey"
     },
     {
@@ -25827,7 +25827,7 @@
           "teamID" : "ISU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Osun Osunniyi"
     },
     {
@@ -28707,7 +28707,7 @@
           "teamID" : "ISU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Hason Ward"
     },
     {
@@ -29423,7 +29423,7 @@
           "teamID" : "ISU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Demarion Watson"
     },
     {
@@ -30551,7 +30551,7 @@
           "teamID" : "TEM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jeremiah Williams"
     }
   ],
@@ -31384,12 +31384,13 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "BAY",
-        "venue" : "home",
         "isConferenceMatchup" : true,
+        "venue" : "home",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 284,
-        "date" : "2023-03-03T22:00-0700"
+        "date" : "2023-03-04T10:00-0700",
+        "venueCapacity" : 10284,
+        "opponentID" : "BAY",
+        "coverage" : "standardTV"
       }
     ]
   }

@@ -246,7 +246,7 @@
       ],
       "name" : "Edie Darby",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -2419,7 +2419,7 @@
       ],
       "name" : "Tess Darby",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -6257,7 +6257,7 @@
       ],
       "name" : "Jasmine Franklin",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -7728,7 +7728,7 @@
       ],
       "name" : "Jillian Hollingshead",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -10893,7 +10893,7 @@
       ],
       "name" : "Jordan Horston",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -13710,7 +13710,7 @@
       ],
       "name" : "Rickea Jackson",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -16614,7 +16614,7 @@
       ],
       "name" : "Tamari Key",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -18143,7 +18143,7 @@
       ],
       "name" : "Brooklynn Miles",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -18825,7 +18825,7 @@
       ],
       "name" : "Justine Pissott",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -21729,7 +21729,7 @@
       ],
       "name" : "Jasmine Powell",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -23635,7 +23635,7 @@
       ],
       "name" : "Sara Puckett",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -25460,7 +25460,7 @@
       ],
       "name" : "Jessie Rennie",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -26989,7 +26989,7 @@
       ],
       "name" : "Karoline Striplin",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "international",
@@ -28054,7 +28054,7 @@
       ],
       "name" : "Marta Suárez",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -32443,7 +32443,7 @@
       ],
       "name" : "Jordan Walker",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -33972,7 +33972,7 @@
       ],
       "name" : "Kaiya Wynn",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "SEC",
@@ -35182,12 +35182,12 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "TBD",
+        "opponentID" : "LSU",
         "venue" : "neutral",
-        "coverage" : "sportsTV",
-        "isConferenceMatchup" : false,
+        "coverage" : "standardTV",
+        "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "date" : "2023-03-03T18:30-0700"
+        "date" : "2023-03-04T16:30-0700"
       }
     ]
   }

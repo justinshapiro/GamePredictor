@@ -23752,12 +23752,12 @@
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "away",
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-03T17:00-0700",
-        "venueCapacity" : 327,
-        "opponentID" : "AKR",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-09T14:00-0700",
+        "venueCapacity" : 19432,
+        "opponentID" : "NIU",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

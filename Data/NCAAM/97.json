@@ -15662,12 +15662,13 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "UVA",
-        "venue" : "home",
         "isConferenceMatchup" : true,
+        "venue" : "home",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 4623,
-        "date" : "2023-03-03T22:00-0700"
+        "date" : "2023-03-04T12:00-0700",
+        "venueCapacity" : 14623,
+        "opponentID" : "UVA",
+        "coverage" : "standardTV"
       }
     ]
   }

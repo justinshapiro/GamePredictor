@@ -19218,12 +19218,13 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "TEX",
-        "venue" : "home",
         "isConferenceMatchup" : true,
+        "venue" : "home",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 763,
-        "date" : "2023-03-03T22:00-0700"
+        "date" : "2023-03-04T14:00-0700",
+        "venueCapacity" : 10763,
+        "opponentID" : "TEX",
+        "coverage" : "standardTV"
       }
     ]
   },

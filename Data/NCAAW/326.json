@@ -3605,7 +3605,7 @@
       ],
       "name" : "Ja'Kayla Bowie",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -3829,7 +3829,7 @@
       ],
       "name" : "Sierra Brooks",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -4192,7 +4192,7 @@
       ],
       "name" : "Kennedy Claybrooks",
       "position" : "Point Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -6046,7 +6046,7 @@
       ],
       "name" : "Sierra Dickson",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -9536,7 +9536,7 @@
       ],
       "name" : "Tianna Eaton",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -10630,7 +10630,7 @@
       ],
       "name" : "Morgan Hill",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -14265,7 +14265,7 @@
       ],
       "name" : "Da'Nasia Hood",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -16380,7 +16380,7 @@
       ],
       "name" : "Timia Jefferson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -19081,7 +19081,7 @@
       ],
       "name" : "Chelsea Johnson",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -20355,7 +20355,7 @@
       ],
       "name" : "Nicole Leff",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -24222,7 +24222,7 @@
       ],
       "name" : "Taelour Pruitt",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -26865,7 +26865,7 @@
       ],
       "name" : "Jaeda Reed",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -30877,7 +30877,7 @@
       ],
       "name" : "Kennedy Taylor",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -33578,7 +33578,7 @@
       ],
       "name" : "Lauryn Thompson",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "Sun Belt",
@@ -34668,13 +34668,13 @@
     ],
     "upcoming" : [
       {
-        "isConferenceMatchup" : false,
+        "isConferenceMatchup" : true,
         "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-03T18:30-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "TBD",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-05T13:00-0700",
+        "venueCapacity" : 10000,
+        "opponentID" : "USM",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

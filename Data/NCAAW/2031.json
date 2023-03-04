@@ -1424,7 +1424,7 @@
       ],
       "name" : "Toyosi Abiola",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -2307,6 +2307,35 @@
               "didStart" : true,
               "minutesPlayed" : 19,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-03-03T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -2315,7 +2344,7 @@
       ],
       "name" : "Jayla Brooks",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -5385,6 +5414,35 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2022-11-20T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-03-03T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5393,7 +5451,7 @@
       ],
       "name" : "Angelique Francis",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5553,7 +5611,7 @@
       ],
       "name" : "Mira Hanna",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -6900,6 +6958,35 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-03-03T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6908,7 +6995,7 @@
       ],
       "name" : "Jaiyah Harris-Smith",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -9102,6 +9189,35 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 2,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 4
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-03-03T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9110,7 +9226,7 @@
       ],
       "name" : "Tia Harvey",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -9415,7 +9531,7 @@
       ],
       "name" : "Sha'nequa Henry",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -9871,7 +9987,7 @@
       ],
       "name" : "Hailey Hohenecker",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -10936,7 +11052,7 @@
       ],
       "name" : "Dariel Johnson",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -12080,6 +12196,35 @@
               "didStart" : false,
               "minutesPlayed" : 27,
               "date" : "2022-12-29T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 4,
+                "blocks" : 1,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 8
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 25,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 9,
+                  "made" : 8
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-03T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12088,7 +12233,7 @@
       ],
       "name" : "Sali Kourouma",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -12936,6 +13081,35 @@
               "didStart" : true,
               "minutesPlayed" : 39,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-03T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12944,7 +13118,7 @@
       ],
       "name" : "Faith Lee",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -13763,6 +13937,35 @@
               "didStart" : true,
               "minutesPlayed" : 39,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 2,
+              "date" : "2023-03-03T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13771,7 +13974,7 @@
       ],
       "name" : "Nikki Metcalfe",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -13781,7 +13984,7 @@
       ],
       "name" : "Jaiyah Smith",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14260,7 +14463,7 @@
       ],
       "name" : "Mesi Triplett",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "OVC",
@@ -15342,17 +15545,54 @@
           ]
         },
         "attendance" : 0
+      },
+      {
+        "venueCapacity" : 10000,
+        "opponentID" : "SEMO",
+        "largestLead" : 15,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Daniel Drake",
+          "Joshua Hall",
+          "Natasha Brown"
+        ],
+        "didWin" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-03T12:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 25,
+            "opponentPoints" : 16
+          },
+          "secondHalf" : {
+            "teamPoints" : 24,
+            "opponentPoints" : 19
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 9,
+              "opponentPoints" : 11
+            },
+            {
+              "teamPoints" : 15,
+              "opponentPoints" : 8
+            }
+          ]
+        },
+        "attendance" : 0
       }
     ],
     "upcoming" : [
       {
-        "isConferenceMatchup" : false,
+        "isConferenceMatchup" : true,
         "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-03T12:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "TBD",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-04T13:00-0700",
+        "venueCapacity" : 10000,
+        "opponentID" : "TNTC",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

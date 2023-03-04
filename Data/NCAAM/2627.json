@@ -482,7 +482,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tydan Archibald"
     },
     {
@@ -497,7 +497,7 @@
       "seasons" : [
 
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Nasan Ayala"
     },
     {
@@ -2704,7 +2704,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Shamir Bogues"
     },
     {
@@ -3333,7 +3333,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tiger Booker"
     },
     {
@@ -6329,7 +6329,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Rod Brown"
     },
     {
@@ -6900,7 +6900,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Garry Clark"
     },
     {
@@ -9200,7 +9200,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Shakur Daniel"
     },
     {
@@ -9215,7 +9215,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Timothy Ferguson"
     },
     {
@@ -9856,7 +9856,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "KiAndre Gaddy"
     },
     {
@@ -10288,7 +10288,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Mareng Gatkuoth"
     },
     {
@@ -12234,7 +12234,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Freddy Hicks"
     },
     {
@@ -14296,7 +14296,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Javontae Hopkins"
     },
     {
@@ -14519,7 +14519,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Lajae Jones"
     },
     {
@@ -15846,7 +15846,7 @@
       ],
       "name" : "Noah McDavid",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "number" : 25,
@@ -18087,7 +18087,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Coreyoun Rushin"
     },
     {
@@ -18687,7 +18687,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jakorie Smith"
     },
     {
@@ -18968,7 +18968,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jalen Thomas"
     },
     {
@@ -19713,7 +19713,7 @@
           "teamID" : "TAR"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Lue Williams"
     },
     {
@@ -20431,7 +20431,7 @@
       ],
       "name" : "Luke Winslow",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     }
   ],
   "conference" : "WAC",
@@ -21156,14 +21156,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "NMSU",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 0,
-        "date" : "2023-03-03T18:00-0700"
-      }
+
     ]
   }
 }

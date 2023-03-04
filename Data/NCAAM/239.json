@@ -1654,7 +1654,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Dale Bonner"
     },
     {
@@ -4296,7 +4296,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jalen Bridges"
     },
     {
@@ -5634,7 +5634,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "LJ Cryer"
     },
     {
@@ -9210,7 +9210,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Adam Flagler"
     },
     {
@@ -10042,7 +10042,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Keyonte George"
     },
     {
@@ -10057,7 +10057,7 @@
       "seasons" : [
 
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Dantwan Grimes"
     },
     {
@@ -12728,7 +12728,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Caleb Lohner"
     },
     {
@@ -13560,7 +13560,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Langston Love"
     },
     {
@@ -14607,7 +14607,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Zach Loveday"
     },
     {
@@ -15352,7 +15352,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Josh Ojianwuna"
     },
     {
@@ -15575,7 +15575,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Austin Sacks"
     },
     {
@@ -18072,7 +18072,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jonathan Tchamwa Tchatchoua"
     },
     {
@@ -22321,7 +22321,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Flo Thamba"
     },
     {
@@ -23165,7 +23165,7 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jordan Turner"
     },
     {
@@ -23417,12 +23417,12 @@
           "teamID" : "BAY"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jake Younkin"
     }
   ],
   "conference" : "Big 12",
-  "conferenceRanking" : 3,
+  "conferenceRanking" : 2,
   "games" : {
     "previous" : [
       {
@@ -24275,12 +24275,13 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "ISU",
-        "venue" : "away",
         "isConferenceMatchup" : true,
+        "venue" : "away",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 284,
-        "date" : "2023-03-03T22:00-0700"
+        "date" : "2023-03-04T10:00-0700",
+        "venueCapacity" : 10284,
+        "opponentID" : "ISU",
+        "coverage" : "standardTV"
       }
     ]
   },

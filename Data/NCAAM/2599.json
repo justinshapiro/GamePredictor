@@ -2553,7 +2553,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Dylan Addae-Wusu"
     },
     {
@@ -4905,7 +4905,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Posh Alexander"
     },
     {
@@ -7141,7 +7141,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Andre Curbelo"
     },
     {
@@ -9029,7 +9029,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "David Jones"
     },
     {
@@ -9252,7 +9252,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Mohamed Keita"
     },
     {
@@ -9910,7 +9910,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kolby King"
     },
     {
@@ -13898,7 +13898,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Montez Mathis"
     },
     {
@@ -15461,7 +15461,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Esahia Nyiwe"
     },
     {
@@ -16386,7 +16386,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Rafael Pinzon"
     },
     {
@@ -16464,7 +16464,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jason Simpson"
     },
     {
@@ -19489,7 +19489,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Joel Soriano"
     },
     {
@@ -21168,7 +21168,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "O'Mar Stanley"
     },
     {
@@ -22029,7 +22029,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "AJ Storr"
     },
     {
@@ -22397,7 +22397,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Drissa Traore"
     },
     {
@@ -22533,7 +22533,7 @@
           "teamID" : "SJU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Parker Williams"
     }
   ],
@@ -23389,12 +23389,13 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "MARQ",
-        "venue" : "home",
         "isConferenceMatchup" : true,
+        "venue" : "home",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 7341,
-        "date" : "2023-03-03T22:00-0700"
+        "date" : "2023-03-04T12:00-0700",
+        "venueCapacity" : 17341,
+        "opponentID" : "MARQ",
+        "coverage" : "standardTV"
       }
     ]
   }

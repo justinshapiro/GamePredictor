@@ -17955,12 +17955,13 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "SJU",
-        "venue" : "away",
         "isConferenceMatchup" : true,
+        "venue" : "away",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 7341,
-        "date" : "2023-03-03T22:00-0700"
+        "date" : "2023-03-04T12:00-0700",
+        "venueCapacity" : 17341,
+        "opponentID" : "SJU",
+        "coverage" : "standardTV"
       }
     ]
   },

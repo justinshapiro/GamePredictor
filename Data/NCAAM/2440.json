@@ -2350,7 +2350,7 @@
           "teamID" : "NEV"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Will Baker"
     },
     {
@@ -5636,7 +5636,7 @@
           "teamID" : "NEV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kenan Blackshear"
     },
     {
@@ -8104,7 +8104,7 @@
           "teamID" : "NEV"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tre Coleman"
     },
     {
@@ -8907,7 +8907,7 @@
           "teamID" : "NEV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Nick Davidson"
     },
     {
@@ -9014,7 +9014,7 @@
           "teamID" : "NEV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "John Flannigan"
     },
     {
@@ -9295,7 +9295,7 @@
           "teamID" : "EWU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Michael Folarin"
     },
     {
@@ -11096,7 +11096,7 @@
           "teamID" : "NEV"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Daniel Foster"
     },
     {
@@ -12781,7 +12781,7 @@
           "teamID" : "NEV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "K.J. Hymes"
     },
     {
@@ -16357,7 +16357,7 @@
           "teamID" : "NEV"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jarod Lucas"
     },
     {
@@ -17862,7 +17862,7 @@
           "teamID" : "ELON"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Hunter McIntosh"
     },
     {
@@ -18520,7 +18520,7 @@
           "teamID" : "NEV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Trey Pettigrew"
     },
     {
@@ -19677,7 +19677,7 @@
           "teamID" : "NEV"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Tyler Powell"
     },
     {
@@ -19755,7 +19755,7 @@
           "teamID" : "NEV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Snookey Wigington"
     },
     {
@@ -20558,7 +20558,7 @@
           "teamID" : "NEV"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Darrion Williams"
     }
   ],
@@ -21357,8 +21357,8 @@
         "venue" : "away",
         "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 1536,
-        "date" : "2023-03-03T22:00-0700"
+        "venueCapacity" : 11536,
+        "date" : "2023-03-04T15:00-0700"
       }
     ]
   }

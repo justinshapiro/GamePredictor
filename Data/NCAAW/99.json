@@ -737,6 +737,35 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-03T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -745,7 +774,7 @@
       ],
       "name" : "Amani Bartlett",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -1137,7 +1166,7 @@
       ],
       "name" : "Izzy Besselman",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -4561,6 +4590,35 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-03T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4569,7 +4627,7 @@
       ],
       "name" : "Jasmine Carson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5388,6 +5446,35 @@
               "didStart" : true,
               "minutesPlayed" : 16,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 7
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 21,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 5
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-03T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5396,7 +5483,7 @@
       ],
       "name" : "Flau'jae Johnson",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -8820,6 +8907,35 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 17,
+                  "made" : 10
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 28,
+                "threePointFieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 5
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-03T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8828,7 +8944,7 @@
       ],
       "name" : "Alexis Morris",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -9647,6 +9763,35 @@
               "didStart" : false,
               "minutesPlayed" : 18,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-03T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9655,7 +9800,7 @@
       ],
       "name" : "Last-Tear Poa",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -11762,6 +11907,35 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-03T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11770,7 +11944,7 @@
       ],
       "name" : "Kateri Poole",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -13964,6 +14138,35 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 4
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 9,
+                  "made" : 7
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 20,
+              "date" : "2023-03-03T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13972,7 +14175,7 @@
       ],
       "name" : "Angel Reese",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -14791,6 +14994,35 @@
               "didStart" : false,
               "minutesPlayed" : 19,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-03T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -14799,7 +15031,7 @@
       ],
       "name" : "Sa'Myah Smith",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -15636,6 +15868,35 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-03T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -15644,7 +15905,7 @@
       ],
       "name" : "Emily Ward",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -16129,7 +16390,7 @@
       ],
       "name" : "Timia Ware",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -16521,7 +16782,7 @@
       ],
       "name" : "Alisa Williams",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -20032,6 +20293,35 @@
               "didStart" : true,
               "minutesPlayed" : 19,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 5
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-03T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -20040,7 +20330,7 @@
       ],
       "name" : "LaDazhia Williams",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "SEC",
@@ -21126,16 +21416,55 @@
         },
         "attendance" : 15721,
         "line" : -13
+      },
+      {
+        "venueCapacity" : 0,
+        "opponentID" : "UGA",
+        "largestLead" : 26,
+        "coverage" : "sportsTV",
+        "referees" : [
+          "Cameron Inouye",
+          "Eric Koch",
+          "Pualani Spurlock-Welsh"
+        ],
+        "didWin" : true,
+        "overUnder" : 135.5,
+        "date" : "2023-03-03T16:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 46,
+            "opponentPoints" : 35
+          },
+          "secondHalf" : {
+            "teamPoints" : 37,
+            "opponentPoints" : 31
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 27,
+              "opponentPoints" : 14
+            },
+            {
+              "teamPoints" : 10,
+              "opponentPoints" : 17
+            }
+          ]
+        },
+        "attendance" : 0,
+        "line" : 8.5
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "TBD",
+        "opponentID" : "TENN",
         "venue" : "neutral",
-        "coverage" : "sportsTV",
-        "isConferenceMatchup" : false,
+        "coverage" : "standardTV",
+        "isConferenceMatchup" : true,
         "seasonType" : "regularSeason",
-        "date" : "2023-03-03T16:00-0700"
+        "date" : "2023-03-04T16:30-0700"
       }
     ]
   },

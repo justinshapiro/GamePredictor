@@ -23363,12 +23363,12 @@
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "home",
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-03T17:00-0700",
-        "venueCapacity" : 1500,
-        "opponentID" : "BALL",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-09T09:00-0700",
+        "venueCapacity" : 19432,
+        "opponentID" : "M-OH",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

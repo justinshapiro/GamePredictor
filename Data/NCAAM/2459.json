@@ -16524,12 +16524,12 @@
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "away",
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-03T18:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "EMU",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-09T14:00-0700",
+        "venueCapacity" : 19432,
+        "opponentID" : "KENT",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }
