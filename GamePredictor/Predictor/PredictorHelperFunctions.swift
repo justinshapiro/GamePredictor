@@ -16,7 +16,9 @@ func getBettingMatchups(from teams: [Team]) -> [(String, Team.PreviousGame)] {
         return codableBettingMatchups.map { ($0.teamName, $0.game) }
     }
     
-    print("\nProducing betting matchups...")
+    if VERBOSE_OUTPUT {
+        print("\nProducing betting matchups...")
+    }
     
     let matchups = teams.flatMap { team in team.games.previous.map { (team.teamID, $0) } }
     var bettingMatchups = [(String, Team.PreviousGame)]()
@@ -46,7 +48,9 @@ func getBettingMatchups(from teams: [Team]) -> [(String, Team.PreviousGame)] {
 }
 
 func getUpcomingMatchups(from teams: [Team], tomorrow: Bool) -> [(String, Team.UpcomingGame)] {
-    print("\nProducing \(tomorrow ? "tomorrow's" : "today's") matchups...")
+    if VERBOSE_OUTPUT {
+        print("\nProducing \(tomorrow ? "tomorrow's" : "today's") matchups...")
+    }
     
     let matchups = teams.flatMap { team in team.games.upcoming.map { (team.teamID, $0) } }
     let teamIDs = teams.map { $0.teamID }
@@ -362,7 +366,9 @@ func getFlipPatterns(forBetslipOfCount count: Int) -> [[Bool]] {
         return flipPatterns
     }
     
-    print("Producing flip pattern file for betslip with \(count) picks...")
+    if VERBOSE_OUTPUT {
+        print("Producing flip pattern file for betslip with \(count) picks...")
+    }
     
     var allPossibleFlipPatterns = [[Bool]]()
     
@@ -375,7 +381,9 @@ func getFlipPatterns(forBetslipOfCount count: Int) -> [[Bool]] {
             flipPattern = (0..<count).map { _ in Int.random(in: 0...1) != 0 }
         } while allPossibleFlipPatterns.contains(flipPattern)
         
-        print("Produced flip pattern #\(index) in \(Date.now.timeIntervalSince(startDate)) seconds")
+        if VERBOSE_OUTPUT {
+            print("Produced flip pattern #\(index) in \(Date.now.timeIntervalSince(startDate)) seconds")
+        }
         
         allPossibleFlipPatterns.append(flipPattern)
     }

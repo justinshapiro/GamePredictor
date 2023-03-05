@@ -125,7 +125,9 @@ extension FileManager {
             }
         }
         
-        print("Reading file \(fileName)")
+        if VERBOSE_OUTPUT {
+            print("Reading file \(fileName)")
+        }
         
         let fileURL = URL(fileURLWithPath: fileName, relativeTo: dataDirectoryURL)
         let fileData = try! Data(contentsOf: fileURL)

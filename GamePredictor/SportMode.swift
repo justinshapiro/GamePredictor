@@ -16,6 +16,15 @@ enum SportMode {
         case womens
     }
     
+    init?(leagueString: String) {
+        switch leagueString.lowercased() {
+        case "nba":   self = .nba
+        case "ncaam": self = .collegeBasketball(.mens)
+        case "ncaaw": self = .collegeBasketball(.womens)
+        default:      return nil
+        }
+    }
+    
     var isCollege: Bool {
         switch self {
         case .collegeBasketball: return true

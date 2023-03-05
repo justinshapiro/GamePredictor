@@ -82,7 +82,9 @@ func getAllTeams(from teamURLs: [String]) -> [Team] {
             if gamesPlayedSinceLastPull.isEmpty || DISABLE_UPDATE {
                 return team
             } else {
-                print("Updating team ID \(teamID)")
+                if VERBOSE_OUTPUT {
+                    print("Updating team ID \(teamID)")
+                }
                 
                 let teamSchedule = getTeamSchedule(from: teamURL.replace("team/", with: "team/schedule/"))
                 
@@ -128,7 +130,9 @@ func getAllTeams(from teamURLs: [String]) -> [Team] {
                 return team
             }
         } else {
-            print("Fetching team ID \(teamID) fresh from ESPN")
+            if VERBOSE_OUTPUT {
+                print("Fetching team ID \(teamID) fresh from ESPN")
+            }
             
             let teamHeader = getTeamInfo(from: teamURL)
             let playerURLs = getPlayerURLs(from: teamURL.replace("team/", with: "team/roster/"))

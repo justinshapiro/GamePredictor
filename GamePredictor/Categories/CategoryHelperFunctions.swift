@@ -206,7 +206,9 @@ func getCodableCategories(categories: [Category]) -> [CodableCategory] {
         if newCategories.isEmpty {
             return codableCategories
         } else {
-            print("Updating category ratings file with \(newCategories.count) new categories...")
+            if VERBOSE_OUTPUT {
+                print("Updating category ratings file with \(newCategories.count) new categories...")
+            }
             
             let updatedCodableCategories = codableCategories + newCategories.map { .init(name: $0.name, rating: $0.rating, weight: getCategoryWeight(for: $0.rating)) }
             updatedCodableCategories.export(as: categoriesFileName)
@@ -215,7 +217,9 @@ func getCodableCategories(categories: [Category]) -> [CodableCategory] {
         }
     }
     
-    print("\nCreating new category ratings file...\n")
+    if VERBOSE_OUTPUT {
+        print("\nCreating new category ratings file...\n")
+    }
     
     let codableCategories: [CodableCategory] = categories.enumerated().map { index, category in
         if VERBOSE_OUTPUT {
