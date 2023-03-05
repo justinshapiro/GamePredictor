@@ -47,7 +47,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Trayvon Barbary"
     },
     {
@@ -2956,7 +2956,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Derrick Carter-Hollinger Jr."
     },
     {
@@ -4200,7 +4200,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kevin Davis"
     },
     {
@@ -4215,7 +4215,7 @@
       "seasons" : [
 
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Dhashon Dyson"
     },
     {
@@ -6509,7 +6509,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Joe French"
     },
     {
@@ -8310,7 +8310,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Marcus Garrett"
     },
     {
@@ -8765,7 +8765,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Lukas Gudavicius"
     },
     {
@@ -9365,7 +9365,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Zion Harmon"
     },
     {
@@ -9646,7 +9646,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "James Henderson Jr."
     },
     {
@@ -10101,7 +10101,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Elijah Hulsewe"
     },
     {
@@ -10208,7 +10208,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kuon Kuon"
     },
     {
@@ -10315,7 +10315,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jayson Mathews"
     },
     {
@@ -12673,7 +12673,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Damani McEntire"
     },
     {
@@ -14097,7 +14097,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Dylan Robertson"
     },
     {
@@ -15399,7 +15399,7 @@
           "teamID" : "MONM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Donovann Toatley"
     },
     {
@@ -15564,7 +15564,7 @@
           "teamID" : "BCU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Simeon Womack"
     }
   ],
@@ -16139,12 +16139,13 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "FAMU",
-        "venue" : "away",
         "isConferenceMatchup" : true,
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 0,
-        "date" : "2023-03-04T14:00-0700"
+        "date" : "2023-03-08T13:00-0700",
+        "venueCapacity" : 8500,
+        "opponentID" : "GRAM",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

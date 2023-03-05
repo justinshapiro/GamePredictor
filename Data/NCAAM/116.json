@@ -679,13 +679,42 @@
               "didStart" : false,
               "minutesPlayed" : 3,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-04T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MSM"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Dola Adebayo"
     },
     {
@@ -2915,13 +2944,42 @@
               "didStart" : false,
               "minutesPlayed" : 12,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-04T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MSM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Frantisek Barton"
     },
     {
@@ -6288,13 +6346,42 @@
               "didStart" : true,
               "minutesPlayed" : 33,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 21,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 12,
+                  "made" : 8
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-04T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MSM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jalen Benjamin"
     },
     {
@@ -7793,13 +7880,42 @@
               "didStart" : false,
               "minutesPlayed" : 25,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 12,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-04T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MSM"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jedy Cordilia"
     },
     {
@@ -7814,7 +7930,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Cam Crockett"
     },
     {
@@ -7863,7 +7979,7 @@
           "teamID" : "MSM"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Amir Dade"
     },
     {
@@ -7912,7 +8028,7 @@
           "teamID" : "MSM"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Antonio Foxwell"
     },
     {
@@ -9533,7 +9649,7 @@
           "teamID" : "MSM"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jaylin Gibson"
     },
     {
@@ -10017,7 +10133,7 @@
           "teamID" : "MSM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Justin Gielen"
     },
     {
@@ -13796,13 +13912,42 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-04T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MSM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Malik Jefferson"
     },
     {
@@ -15684,13 +15829,42 @@
               "didStart" : true,
               "minutesPlayed" : 37,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 6,
+                "fieldGoals" : {
+                  "attempted" : 14,
+                  "made" : 6
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 16,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-04T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MSM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Dakota Leffew"
     },
     {
@@ -17862,13 +18036,42 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 17,
+              "date" : "2023-03-04T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MSM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Xavier Lipscomb"
     },
     {
@@ -18161,7 +18364,7 @@
           "teamID" : "MSM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Winston Moore"
     },
     {
@@ -19788,7 +19991,7 @@
           "teamID" : "MSM"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Josh Reaves"
     },
     {
@@ -21641,13 +21844,42 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-04T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MSM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Deandre Thomas"
     },
     {
@@ -24637,13 +24869,42 @@
               "didStart" : true,
               "minutesPlayed" : 22,
               "date" : "2023-02-26T12:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 24,
+              "date" : "2023-03-04T12:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "MSM"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "George Tinsley"
     }
   ],
@@ -25436,17 +25697,46 @@
         },
         "attendance" : 1650,
         "line" : 5
+      },
+      {
+        "venueCapacity" : 2345,
+        "opponentID" : "MAN",
+        "largestLead" : 19,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Brian Zink",
+          "Sean Campbell",
+          "Jawaan Williams"
+        ],
+        "didWin" : true,
+        "overUnder" : 132.5,
+        "date" : "2023-03-04T12:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 42,
+            "opponentPoints" : 30
+          },
+          "secondHalf" : {
+            "teamPoints" : 32,
+            "opponentPoints" : 39
+          }
+        },
+        "attendance" : 1864,
+        "line" : 2
       }
     ],
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "home",
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-04T12:00-0700",
-        "venueCapacity" : 345,
-        "opponentID" : "MAN",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-07T15:00-0700",
+        "venueCapacity" : 14770,
+        "opponentID" : "CAN",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

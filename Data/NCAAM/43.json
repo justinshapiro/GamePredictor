@@ -163,7 +163,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Devon Arlington"
     },
     {
@@ -1146,7 +1146,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Yussif Basa-Ama"
     },
     {
@@ -1636,7 +1636,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Emir Buyukhanli"
     },
     {
@@ -3872,7 +3872,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Matthue Cotton"
     },
     {
@@ -5737,7 +5737,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Michael Feinberg"
     },
     {
@@ -6691,7 +6691,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Yassine Gharram"
     },
     {
@@ -8405,7 +8405,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "EJ Jarvis"
     },
     {
@@ -10937,7 +10937,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Isaiah Kelly"
     },
     {
@@ -12471,7 +12471,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Matt Knowling"
     },
     {
@@ -12932,7 +12932,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Luke Kolaja"
     },
     {
@@ -13515,7 +13515,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jake Lanford"
     },
     {
@@ -15983,7 +15983,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "August Mahoney"
     },
     {
@@ -17575,7 +17575,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Bez Mbeng"
     },
     {
@@ -18674,7 +18674,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jack Molloy"
     },
     {
@@ -20034,7 +20034,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "John Poulakidas"
     },
     {
@@ -20408,7 +20408,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Teo Rice"
     },
     {
@@ -20718,7 +20718,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Nick Townsend"
     },
     {
@@ -21231,7 +21231,7 @@
           "teamID" : "YALE"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Danny Wolf"
     }
   ],
@@ -22000,12 +22000,12 @@
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "home",
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-04T12:00-0700",
-        "venueCapacity" : 800,
-        "opponentID" : "BRWN",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-11T09:00-0700",
+        "venueCapacity" : 6854,
+        "opponentID" : "COR",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

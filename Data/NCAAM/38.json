@@ -215,13 +215,42 @@
               "didStart" : false,
               "minutesPlayed" : 5,
               "date" : "2023-02-26T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 4,
+              "date" : "2023-03-04T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "COLO"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Quincy Allen"
     },
     {
@@ -236,7 +265,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Harrison Carrington"
     },
     {
@@ -2437,13 +2466,42 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2023-02-26T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 10
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-04T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "COLO"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Nique Clifford"
     },
     {
@@ -4876,13 +4934,42 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-26T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-04T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "COLO"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tristan da Silva"
     },
     {
@@ -7785,13 +7872,42 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2023-02-16T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 15,
+              "date" : "2023-03-04T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "COLO"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jalen Gabbidon"
     },
     {
@@ -7806,7 +7922,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Greg Gerhardt"
     },
     {
@@ -8818,7 +8934,7 @@
           "teamID" : "COLO"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "J'Vonne Hadley"
     },
     {
@@ -10491,13 +10607,42 @@
               "didStart" : false,
               "minutesPlayed" : 15,
               "date" : "2023-02-26T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 5,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 5
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 15,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 5,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-04T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "COLO"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Julian Hammond III"
     },
     {
@@ -10512,7 +10657,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Joe Hurlburt"
     },
     {
@@ -10527,7 +10672,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Ethan Johnson"
     },
     {
@@ -11852,13 +11997,42 @@
               "didStart" : true,
               "minutesPlayed" : 27,
               "date" : "2023-02-26T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-04T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "COLO"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Lawson Lovering"
     },
     {
@@ -11994,13 +12168,42 @@
               "didStart" : false,
               "minutesPlayed" : 1,
               "date" : "2023-02-05T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 0,
+              "date" : "2023-03-04T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "COLO"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Cody Mains"
     },
     {
@@ -12165,7 +12368,7 @@
           "teamID" : "COLO"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Amondo Miller Jr."
     },
     {
@@ -14192,13 +14395,42 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2023-02-26T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-04T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "COLO"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Luke O'Brien"
     },
     {
@@ -14856,7 +15088,7 @@
           "teamID" : "COLO"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Javon Ruffin"
     },
     {
@@ -16593,7 +16825,7 @@
           "teamID" : "COLO"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "KJ Simpson"
     },
     {
@@ -16608,7 +16840,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "RJ Smith"
     },
     {
@@ -19598,18 +19830,47 @@
               "didStart" : false,
               "minutesPlayed" : 25,
               "date" : "2023-02-26T14:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 10,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-04T15:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "COLO"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Ethan Wright"
     }
   ],
   "conference" : "Pac-12",
-  "conferenceRanking" : 9,
+  "conferenceRanking" : 8,
   "games" : {
     "previous" : [
       {
@@ -20421,16 +20682,46 @@
         },
         "attendance" : 8680,
         "line" : 8
+      },
+      {
+        "venueCapacity" : 11064,
+        "opponentID" : "UTAH",
+        "largestLead" : 16,
+        "coverage" : "sportsTV",
+        "referees" : [
+          "Mike Reed",
+          "Deldre Carr",
+          "Nate Harris"
+        ],
+        "didWin" : true,
+        "overUnder" : 134,
+        "date" : "2023-03-04T15:30-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 33,
+            "opponentPoints" : 21
+          },
+          "secondHalf" : {
+            "teamPoints" : 36,
+            "opponentPoints" : 39
+          }
+        },
+        "attendance" : 8432,
+        "line" : 3.5
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "UTAH",
-        "venue" : "away",
         "isConferenceMatchup" : true,
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 1064,
-        "date" : "2023-03-04T15:30-0700"
+        "date" : "2023-03-08T13:00-0700",
+        "venueCapacity" : 19000,
+        "opponentID" : "WASH",
+        "coverage" : "sportsTV"
       }
     ]
   }

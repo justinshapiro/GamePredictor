@@ -256,7 +256,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Colin Chambers"
     },
     {
@@ -1819,7 +1819,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jonah Charles"
     },
     {
@@ -4084,7 +4084,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jordan Dingle"
     },
     {
@@ -4690,7 +4690,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Eddie Holland III"
     },
     {
@@ -5731,7 +5731,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Andrew Laczkowski"
     },
     {
@@ -6047,7 +6047,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Gus Larson"
     },
     {
@@ -7268,7 +7268,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Max Lorca-Lloyd"
     },
     {
@@ -9533,7 +9533,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Max Martz"
     },
     {
@@ -9930,7 +9930,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Reese McMullen"
     },
     {
@@ -12369,7 +12369,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Lucas Monroe"
     },
     {
@@ -13845,7 +13845,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Michael Moshkovitz"
     },
     {
@@ -15321,7 +15321,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Clark Slajchert"
     },
     {
@@ -16652,7 +16652,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "George Smith"
     },
     {
@@ -18128,7 +18128,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Nick Spinoso"
     },
     {
@@ -18467,7 +18467,7 @@
           "teamID" : "PENN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Cam Thrower"
     },
     {
@@ -18482,12 +18482,12 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Chris Ubochi"
     }
   ],
   "conference" : "Ivy",
-  "conferenceRanking" : 1,
+  "conferenceRanking" : 3,
   "games" : {
     "previous" : [
       {
@@ -19317,10 +19317,10 @@
         "isConferenceMatchup" : true,
         "venue" : "home",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-04T14:00-0700",
-        "venueCapacity" : 854,
+        "date" : "2023-03-11T11:30-0700",
+        "venueCapacity" : 6854,
         "opponentID" : "PRIN",
-        "coverage" : "sportsTV"
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

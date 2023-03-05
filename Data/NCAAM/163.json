@@ -401,7 +401,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Leyi Adebayo"
     },
     {
@@ -2022,7 +2022,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Matt Allocco"
     },
     {
@@ -2622,7 +2622,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Deven Austin"
     },
     {
@@ -3054,7 +3054,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Philip Byriel"
     },
     {
@@ -3219,7 +3219,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Vernon Collins"
     },
     {
@@ -5513,7 +5513,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Tosan Evbuomwan"
     },
     {
@@ -5736,7 +5736,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Darius Gakwasi"
     },
     {
@@ -6423,7 +6423,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Mason Hooks"
     },
     {
@@ -7702,7 +7702,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Keeshawn Kellman"
     },
     {
@@ -8546,7 +8546,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Konrad Kiszka"
     },
     {
@@ -10724,7 +10724,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Ryan Langborg"
     },
     {
@@ -11469,7 +11469,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Xaivian Lee"
     },
     {
@@ -12452,7 +12452,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Zach Martini"
     },
     {
@@ -13470,7 +13470,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jacob O'Connell"
     },
     {
@@ -14569,7 +14569,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Blake Peters"
     },
     {
@@ -15314,7 +15314,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Caden Pierce"
     },
     {
@@ -15769,7 +15769,7 @@
           "teamID" : "PRIN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jack Scott"
     }
   ],
@@ -16523,10 +16523,10 @@
         "isConferenceMatchup" : true,
         "venue" : "away",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-04T14:00-0700",
-        "venueCapacity" : 854,
+        "date" : "2023-03-11T11:30-0700",
+        "venueCapacity" : 6854,
         "opponentID" : "PENN",
-        "coverage" : "sportsTV"
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

@@ -333,7 +333,7 @@
       ],
       "name" : "Kyla Abraham",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -3020,6 +3020,35 @@
               "didStart" : true,
               "minutesPlayed" : 40,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 13,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3028,7 +3057,7 @@
       ],
       "name" : "Sarah Andrews",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -7409,6 +7438,35 @@
               "didStart" : true,
               "minutesPlayed" : 34,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 19,
+                  "made" : 8
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 2
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 6
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7417,7 +7475,7 @@
       ],
       "name" : "Ja'Mee Asberry",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -11595,6 +11653,35 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 38,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11603,7 +11690,7 @@
       ],
       "name" : "Caitlin Bickle",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -14159,7 +14246,7 @@
       ],
       "name" : "Aijha Blackwell",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -16477,7 +16564,7 @@
       ],
       "name" : "Dre'Una Edwards",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -17035,6 +17122,35 @@
               "didStart" : true,
               "minutesPlayed" : 18,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -17043,7 +17159,7 @@
       ],
       "name" : "Catarina Ferreira",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -17862,6 +17978,35 @@
               "didStart" : true,
               "minutesPlayed" : 13,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -17870,7 +18015,7 @@
       ],
       "name" : "Bella Fontleroy",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -18674,7 +18819,7 @@
       ],
       "name" : "Kendra Gillispie",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -19493,6 +19638,35 @@
               "didStart" : false,
               "minutesPlayed" : 39,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 11,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -19501,7 +19675,7 @@
       ],
       "name" : "Darianna Littlepage-Buggs",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -22542,6 +22716,35 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2023-02-27T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 24,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -22550,7 +22753,7 @@
       ],
       "name" : "Jaden Owens",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -24114,7 +24317,7 @@
       ],
       "name" : "Erika Porter",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -26250,6 +26453,35 @@
               "didStart" : false,
               "minutesPlayed" : 25,
               "date" : "2022-11-10T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -26258,11 +26490,11 @@
       ],
       "name" : "Jana Van Gytenbeek",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "Big 12",
-  "conferenceRanking" : 5,
+  "conferenceRanking" : 4,
   "games" : {
     "previous" : [
       {
@@ -27384,16 +27616,55 @@
         },
         "attendance" : 10763,
         "line" : 8.5
+      },
+      {
+        "venueCapacity" : 10284,
+        "opponentID" : "WVU",
+        "largestLead" : 2,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Scott Yarbrough",
+          "Bill Larance",
+          "Demoya Pugh"
+        ],
+        "didWin" : false,
+        "overUnder" : 127.5,
+        "date" : "2023-03-04T16:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "away",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 30,
+            "opponentPoints" : 34
+          },
+          "secondHalf" : {
+            "teamPoints" : 22,
+            "opponentPoints" : 29
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 16,
+              "opponentPoints" : 12
+            },
+            {
+              "teamPoints" : 6,
+              "opponentPoints" : 17
+            }
+          ]
+        },
+        "attendance" : 4357,
+        "line" : 11.5
       }
     ],
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "away",
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-04T16:00-0700",
-        "venueCapacity" : 284,
-        "opponentID" : "WVU",
+        "date" : "2023-03-10T18:30-0700",
+        "venueCapacity" : 10116,
+        "opponentID" : "ISU",
         "coverage" : "subscriptionRequired"
       }
     ]

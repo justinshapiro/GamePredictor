@@ -830,7 +830,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Lathaniel Bastian"
     },
     {
@@ -966,7 +966,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Trey Blackmore"
     },
     {
@@ -2036,7 +2036,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Grayson Carper"
     },
     {
@@ -2277,7 +2277,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Cameron Carter"
     },
     {
@@ -4235,7 +4235,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Ibrahim Famouke Doumbia"
     },
     {
@@ -5009,7 +5009,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Daeshawn Eaton"
     },
     {
@@ -6955,7 +6955,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jalen Harris"
     },
     {
@@ -7758,7 +7758,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Max Jones"
     },
     {
@@ -10754,7 +10754,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Vincent Lee"
     },
     {
@@ -11093,7 +11093,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Victor Panov"
     },
     {
@@ -13915,7 +13915,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Tory San Antonio"
     },
     {
@@ -15832,7 +15832,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "John Mikey Square"
     },
     {
@@ -18364,7 +18364,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Garrison Wade"
     },
     {
@@ -18385,7 +18385,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jayden White"
     },
     {
@@ -18406,7 +18406,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Justin White"
     },
     {
@@ -20381,7 +20381,7 @@
           "teamID" : "CSUF"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Latrell Wrightsell Jr."
     }
   ],
@@ -21223,12 +21223,12 @@
     "upcoming" : [
       {
         "isConferenceMatchup" : true,
-        "venue" : "away",
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-04T19:00-0700",
-        "venueCapacity" : 0,
-        "opponentID" : "UCSD",
-        "coverage" : "sportsTV"
+        "date" : "2023-03-09T15:30-0700",
+        "venueCapacity" : 6019,
+        "opponentID" : "HAW",
+        "coverage" : "subscriptionRequired"
       }
     ]
   }

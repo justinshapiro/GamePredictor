@@ -540,7 +540,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Kalu Anya"
     },
     {
@@ -1900,7 +1900,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Aaron Cooley"
     },
     {
@@ -4194,7 +4194,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Perry Cowan"
     },
     {
@@ -4713,7 +4713,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Lyndel Erold"
     },
     {
@@ -6131,7 +6131,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Kimo Ferrari"
     },
     {
@@ -8048,7 +8048,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Dan Friday"
     },
     {
@@ -8063,7 +8063,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Drew Kania"
     },
     {
@@ -8814,7 +8814,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Felix Kloman"
     },
     {
@@ -9188,7 +9188,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Sam Klores"
     },
     {
@@ -9440,7 +9440,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "AJ Lesburt Jr."
     },
     {
@@ -9895,7 +9895,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Landon Lewis"
     },
     {
@@ -11516,7 +11516,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kino Lilly Jr."
     },
     {
@@ -12325,7 +12325,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Malachi Ndur"
     },
     {
@@ -13656,7 +13656,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Nana Owusu-Anane"
     },
     {
@@ -16507,7 +16507,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Paxson Wojcik"
     }
   ],
@@ -17271,15 +17271,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "isConferenceMatchup" : true,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-04T12:00-0700",
-        "venueCapacity" : 800,
-        "opponentID" : "YALE",
-        "coverage" : "sportsTV"
-      }
+
     ]
   }
 }

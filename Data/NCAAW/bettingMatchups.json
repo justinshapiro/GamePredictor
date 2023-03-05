@@ -1762,6 +1762,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 2500,
+      "opponentID" : "MASS",
+      "largestLead" : 3,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Tom Danaher",
+        "Toni Patillo",
+        "Courtney Robinson"
+      ],
+      "didWin" : false,
+      "overUnder" : 136.5,
+      "date" : "2023-03-04T09:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 30,
+          "opponentPoints" : 32
+        },
+        "secondHalf" : {
+          "teamPoints" : 30,
+          "opponentPoints" : 48
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 12,
+            "opponentPoints" : 23
+          },
+          {
+            "teamPoints" : 18,
+            "opponentPoints" : 25
+          }
+        ]
+      },
+      "attendance" : 1300,
+      "line" : 7
+    },
+    "teamName" : "RICH"
+  },
+  {
+    "game" : {
       "venueCapacity" : 6501,
       "opponentID" : "VILL",
       "largestLead" : 0,
@@ -7659,6 +7701,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 10284,
+      "opponentID" : "WVU",
+      "largestLead" : 2,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Scott Yarbrough",
+        "Bill Larance",
+        "Demoya Pugh"
+      ],
+      "didWin" : false,
+      "overUnder" : 127.5,
+      "date" : "2023-03-04T16:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 30,
+          "opponentPoints" : 34
+        },
+        "secondHalf" : {
+          "teamPoints" : 22,
+          "opponentPoints" : 29
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 16,
+            "opponentPoints" : 12
+          },
+          {
+            "teamPoints" : 6,
+            "opponentPoints" : 17
+          }
+        ]
+      },
+      "attendance" : 4357,
+      "line" : 11.5
+    },
+    "teamName" : "BAY"
+  },
+  {
+    "game" : {
       "venueCapacity" : 6650,
       "opponentID" : "UNI",
       "largestLead" : 14,
@@ -8368,6 +8452,48 @@
       },
       "attendance" : 3053,
       "line" : 3
+    },
+    "teamName" : "ISU"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 14356,
+      "opponentID" : "TTU",
+      "largestLead" : 32,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Frank Steratore",
+        "Ify Seales",
+        "Amy Krommenhoek"
+      ],
+      "didWin" : true,
+      "overUnder" : 136.5,
+      "date" : "2023-03-04T14:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 43,
+          "opponentPoints" : 24
+        },
+        "secondHalf" : {
+          "teamPoints" : 33,
+          "opponentPoints" : 28
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 20,
+            "opponentPoints" : 10
+          },
+          {
+            "teamPoints" : 13,
+            "opponentPoints" : 18
+          }
+        ]
+      },
+      "attendance" : 11858,
+      "line" : 16
     },
     "teamName" : "ISU"
   },
@@ -9348,6 +9474,48 @@
       },
       "attendance" : 3251,
       "line" : 10.5
+    },
+    "teamName" : "KSU"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 12528,
+      "opponentID" : "TEX",
+      "largestLead" : 0,
+      "coverage" : "subscriptionRequired",
+      "referees" : [
+        "Bryan Enterline",
+        "Maggie Tieman",
+        "Metta Christensen"
+      ],
+      "didWin" : false,
+      "overUnder" : 132.5,
+      "date" : "2023-03-04T15:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 14,
+          "opponentPoints" : 39
+        },
+        "secondHalf" : {
+          "teamPoints" : 38,
+          "opponentPoints" : 41
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 14,
+            "opponentPoints" : 16
+          },
+          {
+            "teamPoints" : 24,
+            "opponentPoints" : 25
+          }
+        ]
+      },
+      "attendance" : 3877,
+      "line" : 10
     },
     "teamName" : "KSU"
   },
@@ -18146,6 +18314,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 7014,
+      "opponentID" : "TOL",
+      "largestLead" : 17,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Tom Hallead",
+        "Josh Howell",
+        "Kalei Enterline"
+      ],
+      "didWin" : false,
+      "overUnder" : 146,
+      "date" : "2023-03-04T12:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 27,
+          "opponentPoints" : 18
+        },
+        "secondHalf" : {
+          "teamPoints" : 29,
+          "opponentPoints" : 44
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 18,
+            "opponentPoints" : 22
+          },
+          {
+            "teamPoints" : 11,
+            "opponentPoints" : 22
+          }
+        ]
+      },
+      "attendance" : 6086,
+      "line" : 3.5
+    },
+    "teamName" : "BGSU"
+  },
+  {
+    "game" : {
       "venueCapacity" : 7152,
       "opponentID" : "UNI",
       "largestLead" : 9,
@@ -26563,6 +26773,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 0,
+      "opponentID" : "TENN",
+      "largestLead" : 17,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Eric Brewton",
+        "Dee Kantner",
+        "Maj Forsberg"
+      ],
+      "didWin" : false,
+      "overUnder" : 148.5,
+      "date" : "2023-03-04T16:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 40,
+          "opponentPoints" : 26
+        },
+        "secondHalf" : {
+          "teamPoints" : 27,
+          "opponentPoints" : 43
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 11,
+            "opponentPoints" : 21
+          },
+          {
+            "teamPoints" : 16,
+            "opponentPoints" : 22
+          }
+        ]
+      },
+      "attendance" : 10471,
+      "line" : 5.5
+    },
+    "teamName" : "LSU"
+  },
+  {
+    "game" : {
       "venueCapacity" : 8500,
       "opponentID" : "SDST",
       "largestLead" : 3,
@@ -27157,6 +27409,48 @@
       },
       "attendance" : 6563,
       "line" : 16.5
+    },
+    "teamName" : "MISS"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 0,
+      "opponentID" : "SC",
+      "largestLead" : 2,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Roy Gulbeyan",
+        "Brian Garland",
+        "Pualani Spurlock-Welsh"
+      ],
+      "didWin" : false,
+      "overUnder" : 124,
+      "date" : "2023-03-04T14:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 25,
+          "opponentPoints" : 40
+        },
+        "secondHalf" : {
+          "teamPoints" : 26,
+          "opponentPoints" : 40
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 14,
+            "opponentPoints" : 18
+          },
+          {
+            "teamPoints" : 12,
+            "opponentPoints" : 22
+          }
+        ]
+      },
+      "attendance" : 0,
+      "line" : 16
     },
     "teamName" : "MISS"
   },
@@ -27906,5 +28200,46 @@
       "line" : 10.5
     },
     "teamName" : "PEPP"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 0,
+      "opponentID" : "BYU",
+      "largestLead" : 4,
+      "overUnder" : 127,
+      "didWin" : false,
+      "referees" : [
+        "Melissa Barlow",
+        "Michol Murray",
+        "In'Fini Robinson"
+      ],
+      "date" : "2023-03-04T14:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : true,
+      "venue" : "neutral",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 27,
+          "opponentPoints" : 26
+        },
+        "secondHalf" : {
+          "teamPoints" : 29,
+          "opponentPoints" : 40
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 16,
+            "opponentPoints" : 13
+          },
+          {
+            "teamPoints" : 13,
+            "opponentPoints" : 27
+          }
+        ]
+      },
+      "attendance" : 0,
+      "line" : 3.5
+    },
+    "teamName" : "SF"
   }
 ]

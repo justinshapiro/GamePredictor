@@ -217,7 +217,7 @@
       ],
       "name" : "Sira Ba",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -2019,7 +2019,7 @@
       ],
       "name" : "Brianne Borcky",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -5675,6 +5675,35 @@
               "didStart" : true,
               "minutesPlayed" : 26,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 6,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 9,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 39,
+              "date" : "2023-03-04T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5683,7 +5712,7 @@
       ],
       "name" : "Maura Hendrixson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -6740,6 +6769,35 @@
               "didStart" : false,
               "minutesPlayed" : 4,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-03-04T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6748,7 +6806,7 @@
       ],
       "name" : "Chloe Hodges",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -9470,6 +9528,35 @@
               "didStart" : false,
               "minutesPlayed" : 8,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-04T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -9478,7 +9565,7 @@
       ],
       "name" : "Tori Hyduke",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -9754,7 +9841,7 @@
       ],
       "name" : "Momo LaClair",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -10341,6 +10428,35 @@
               "didStart" : true,
               "minutesPlayed" : 26,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 5
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 19,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 7
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-04T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10349,7 +10465,7 @@
       ],
       "name" : "Kylie Lavelle",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -10422,7 +10538,7 @@
       ],
       "name" : "Jennifer Martin",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -10553,7 +10669,7 @@
       ],
       "name" : "Jalyn McNeill",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -11343,6 +11459,35 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-04T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -11351,7 +11496,7 @@
       ],
       "name" : "Grace O'Neill",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -13493,6 +13638,35 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 12,
+              "date" : "2023-03-04T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13501,7 +13675,7 @@
       ],
       "name" : "Hetta Saatman",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -14485,7 +14659,7 @@
       ],
       "name" : "Erin Sweeney",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -16766,6 +16940,35 @@
               "didStart" : false,
               "minutesPlayed" : 28,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 4
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-04T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16774,7 +16977,7 @@
       ],
       "name" : "Jasmine Valentine",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -20981,6 +21184,35 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2022-11-10T16:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 19,
+                  "made" : 8
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 23,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 9,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-04T13:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -20989,7 +21221,7 @@
       ],
       "name" : "Keishana Washington",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "CAA",
@@ -21981,16 +22213,52 @@
           "Kara Hunter",
           "Krystie Appellaniz"
         ]
+      },
+      {
+        "didWin" : false,
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 32,
+            "opponentPoints" : 29
+          },
+          "secondHalf" : {
+            "teamPoints" : 25,
+            "opponentPoints" : 30
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 13,
+              "opponentPoints" : 14
+            },
+            {
+              "teamPoints" : 12,
+              "opponentPoints" : 16
+            }
+          ]
+        },
+        "venue" : "away",
+        "attendance" : 703,
+        "isConferenceMatchup" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-04T13:00-0700",
+        "venueCapacity" : 2509,
+        "opponentID" : "NCAT",
+        "largestLead" : 8,
+        "referees" : [
+          "Ken Kelly",
+          "Hillary Harwell",
+          "Gerda Gatling"
+        ]
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "NCAT",
-        "venue" : "away",
-        "isConferenceMatchup" : true,
+        "opponentID" : "TBD",
+        "venue" : "neutral",
+        "isConferenceMatchup" : false,
         "seasonType" : "regularSeason",
-        "venueCapacity" : 509,
-        "date" : "2023-03-04T13:00-0700"
+        "venueCapacity" : 5200,
+        "date" : "2023-03-10T15:00-0700"
       }
     ]
   }

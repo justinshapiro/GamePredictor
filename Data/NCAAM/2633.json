@@ -24411,12 +24411,13 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "AUB",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
+        "isConferenceMatchup" : false,
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 121,
-        "date" : "2023-03-04T14:00-0700"
+        "date" : "2023-03-09T13:00-0700",
+        "venueCapacity" : 19395,
+        "opponentID" : "TBD",
+        "coverage" : "sportsTV"
       }
     ]
   },

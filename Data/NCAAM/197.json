@@ -3139,7 +3139,7 @@
           "teamID" : "OKST"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Avery Anderson III"
     },
     {
@@ -6390,13 +6390,42 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2023-02-27T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 16,
+                  "made" : 8
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 24,
+                "threePointFieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 7
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "OKST"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Caleb Asberry"
     },
     {
@@ -7156,13 +7185,42 @@
               "didStart" : true,
               "minutesPlayed" : 19,
               "date" : "2023-02-27T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "OKST"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Kalib Boone"
     },
     {
@@ -7443,7 +7501,7 @@
           "teamID" : "OKST"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Naz Brown"
     },
     {
@@ -7759,7 +7817,7 @@
           "teamID" : "OKST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Weston Church"
     },
     {
@@ -10192,13 +10250,42 @@
               "didStart" : false,
               "minutesPlayed" : 23,
               "date" : "2023-02-27T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 4,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 8
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 34,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "OKST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Moussa Cisse"
     },
     {
@@ -11761,13 +11848,42 @@
               "didStart" : false,
               "minutesPlayed" : 13,
               "date" : "2023-02-27T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 11,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "OKST"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Chris Harris Jr."
     },
     {
@@ -12988,7 +13104,7 @@
           "teamID" : "OKST"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Bernard Kouma"
     },
     {
@@ -13095,7 +13211,7 @@
           "teamID" : "OKST"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Brooks Manzer"
     },
     {
@@ -14600,13 +14716,42 @@
               "didStart" : true,
               "minutesPlayed" : 11,
               "date" : "2023-02-27T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 5,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "OKST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Woody Newton"
     },
     {
@@ -14922,7 +15067,7 @@
           "teamID" : "OKST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Carson Sager"
     },
     {
@@ -17529,13 +17674,42 @@
               "didStart" : false,
               "minutesPlayed" : 16,
               "date" : "2023-02-27T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 26,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "OKST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tyreek Smith"
     },
     {
@@ -19852,13 +20026,42 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2023-02-27T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 8
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 19,
+                "threePointFieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 3
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "OKST"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Bryce Thompson"
     },
     {
@@ -20719,7 +20922,7 @@
           "teamID" : "OKST"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Quion Williams"
     },
     {
@@ -21652,13 +21855,42 @@
               "didStart" : true,
               "minutesPlayed" : 35,
               "date" : "2023-02-27T19:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 1
+                },
+                "assists" : 6,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 36,
+              "date" : "2023-03-04T16:00-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "OKST"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "John-Michael Wright"
     }
   ],
@@ -22541,17 +22773,45 @@
         },
         "attendance" : 7965,
         "line" : 1
+      },
+      {
+        "venueCapacity" : 15098,
+        "opponentID" : "TTU",
+        "largestLead" : 13,
+        "coverage" : "standardTV",
+        "referees" : [
+          "Rick Crawford",
+          "Darron George",
+          "Gary Maxwell"
+        ],
+        "didWin" : true,
+        "overUnder" : 137,
+        "date" : "2023-03-04T16:00-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 35,
+            "opponentPoints" : 32
+          },
+          "secondHalf" : {
+            "teamPoints" : 36,
+            "opponentPoints" : 36
+          }
+        },
+        "attendance" : 13885,
+        "line" : 5
       }
     ],
     "upcoming" : [
       {
+        "opponentID" : "OU",
+        "venue" : "neutral",
         "isConferenceMatchup" : true,
-        "venue" : "home",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-04T16:00-0700",
-        "venueCapacity" : 5098,
-        "opponentID" : "TTU",
-        "coverage" : "sportsTV"
+        "venueCapacity" : 18972,
+        "date" : "2023-03-08T19:30-0700"
       }
     ]
   }

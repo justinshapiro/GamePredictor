@@ -720,13 +720,42 @@
               "didStart" : false,
               "minutesPlayed" : 2,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-04T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SBU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Max Amadasun"
     },
     {
@@ -4209,13 +4238,42 @@
               "didStart" : true,
               "minutesPlayed" : 40,
               "date" : "2023-02-26T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 5,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 3
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 27,
+              "date" : "2023-03-04T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SBU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Daryl Banks III"
     },
     {
@@ -4230,7 +4288,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Tyler Curran"
     },
     {
@@ -5114,13 +5172,42 @@
               "didStart" : false,
               "minutesPlayed" : 0,
               "date" : "2023-02-26T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-04T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SBU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Barry Evans"
     },
     {
@@ -6004,13 +6091,42 @@
               "didStart" : true,
               "minutesPlayed" : 40,
               "date" : "2023-02-26T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-04T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SBU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Yann Farell"
     },
     {
@@ -8942,13 +9058,42 @@
               "didStart" : true,
               "minutesPlayed" : 40,
               "date" : "2023-02-26T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 1,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 19,
+                  "made" : 5
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 16,
+                "threePointFieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-03-04T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SBU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Moses Flowers"
     },
     {
@@ -10563,13 +10708,42 @@
               "didStart" : false,
               "minutesPlayed" : 8,
               "date" : "2023-02-22T17:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-04T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SBU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Anquan Hill"
     },
     {
@@ -12358,13 +12532,42 @@
               "didStart" : true,
               "minutesPlayed" : 15,
               "date" : "2023-02-26T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 6,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 33,
+              "date" : "2023-03-04T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SBU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Kyrell Luc"
     },
     {
@@ -12379,7 +12582,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Melian Martinez"
     },
     {
@@ -13234,13 +13437,42 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2023-02-26T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-04T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SBU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Anouar Mellouk"
     },
     {
@@ -13585,7 +13817,7 @@
           "teamID" : "SBU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Justin Ndjock-Tadjore"
     },
     {
@@ -14237,13 +14469,42 @@
               "didStart" : false,
               "minutesPlayed" : 25,
               "date" : "2023-02-26T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-04T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SBU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Brett Rumpel"
     },
     {
@@ -16357,13 +16618,42 @@
               "didStart" : true,
               "minutesPlayed" : 20,
               "date" : "2023-02-26T10:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 2,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 13,
+                  "made" : 7
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-04T12:30-0700"
             }
           ],
           "seasonYear" : 2023,
           "teamID" : "SBU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Chad Venning"
     }
   ],
@@ -17247,16 +17537,46 @@
         },
         "attendance" : 4394,
         "line" : 4
+      },
+      {
+        "venueCapacity" : 9493,
+        "opponentID" : "MASS",
+        "largestLead" : 7,
+        "coverage" : "sportsTV",
+        "referees" : [
+          "Tim Comer",
+          "Michael Luckie",
+          "Ryan Sassano"
+        ],
+        "didWin" : false,
+        "overUnder" : 142.5,
+        "date" : "2023-03-04T12:30-0700",
+        "seasonType" : "regularSeason",
+        "isConferenceMatchup" : true,
+        "venue" : "home",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 20,
+            "opponentPoints" : 27
+          },
+          "secondHalf" : {
+            "teamPoints" : 40,
+            "opponentPoints" : 44
+          }
+        },
+        "attendance" : 3474,
+        "line" : 2
       }
     ],
     "upcoming" : [
       {
-        "opponentID" : "MASS",
-        "venue" : "home",
         "isConferenceMatchup" : true,
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 493,
-        "date" : "2023-03-04T12:30-0700"
+        "date" : "2023-03-08T09:30-0700",
+        "venueCapacity" : 17732,
+        "opponentID" : "DAV",
+        "coverage" : "sportsTV"
       }
     ]
   }

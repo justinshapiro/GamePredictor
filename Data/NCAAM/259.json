@@ -21706,12 +21706,13 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "FSU",
-        "venue" : "away",
         "isConferenceMatchup" : true,
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 925,
-        "date" : "2023-03-04T10:00-0700"
+        "date" : "2023-03-07T17:00-0700",
+        "venueCapacity" : 23500,
+        "opponentID" : "ND",
+        "coverage" : "sportsTV"
       }
     ]
   }

@@ -198,7 +198,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Alex Andrews"
     },
     {
@@ -2846,7 +2846,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Chase Barrs"
     },
     {
@@ -3330,7 +3330,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jaylen Bates"
     },
     {
@@ -3727,7 +3727,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Saiyd Burnside"
     },
     {
@@ -4211,7 +4211,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jordan Chatman"
     },
     {
@@ -4962,7 +4962,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tarig Eisa"
     },
     {
@@ -5069,7 +5069,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Austin Ezell"
     },
     {
@@ -5292,7 +5292,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Miles Hall"
     },
     {
@@ -5370,7 +5370,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Wylie Howard III"
     },
     {
@@ -5854,7 +5854,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Hantz Louis-Jeune"
     },
     {
@@ -6402,7 +6402,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Richard Mathews"
     },
     {
@@ -7304,7 +7304,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Noah Meren"
     },
     {
@@ -7319,7 +7319,7 @@
       "seasons" : [
 
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Chris Peterson"
     },
     {
@@ -9410,7 +9410,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Byron Smith"
     },
     {
@@ -9836,7 +9836,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Legend Stamps"
     },
     {
@@ -10709,7 +10709,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Dimingus Stevens"
     },
     {
@@ -11222,7 +11222,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Jordan Tillmon"
     },
     {
@@ -11237,7 +11237,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Matthew Webster"
     },
     {
@@ -11663,7 +11663,7 @@
           "teamID" : "FAMU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Peyton Williams"
     }
   ],
@@ -12150,14 +12150,7 @@
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "BCU",
-        "venue" : "home",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 0,
-        "date" : "2023-03-04T14:00-0700"
-      }
+
     ]
   }
 }

@@ -192,7 +192,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Sola Adebisi"
     },
     {
@@ -207,7 +207,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Jeremiah Bembry"
     },
     {
@@ -285,7 +285,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Michael Brown"
     },
     {
@@ -1935,7 +1935,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Matthew Cleveland"
     },
     {
@@ -2361,7 +2361,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Cameron Corhen"
     },
     {
@@ -3756,7 +3756,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Cam'Ron Fletcher"
     },
     {
@@ -5673,7 +5673,7 @@
           "teamID" : "BRWN"
         }
       ],
-      "class" : "Senior",
+      "yearsOfExperience" : 4,
       "name" : "Jaylan Gainey"
     },
     {
@@ -6418,7 +6418,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "De'Ante Green"
     },
     {
@@ -8835,7 +8835,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Darin Green Jr."
     },
     {
@@ -9638,7 +9638,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Tom House"
     },
     {
@@ -10412,7 +10412,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Chandler Jackson"
     },
     {
@@ -11685,7 +11685,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Naheem McLeod"
     },
     {
@@ -11700,7 +11700,7 @@
       "seasons" : [
 
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "Baba Miller"
     },
     {
@@ -14348,7 +14348,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Caleb Mills"
     },
     {
@@ -14455,7 +14455,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Freshman",
+      "yearsOfExperience" : 1,
       "name" : "R.J. Morris"
     },
     {
@@ -14470,7 +14470,7 @@
       "seasons" : [
 
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Tibor Palinkas"
     },
     {
@@ -14786,7 +14786,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Isaac Spainhour"
     },
     {
@@ -15044,7 +15044,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Max Thorpe"
     },
     {
@@ -16810,7 +16810,7 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Sophomore",
+      "yearsOfExperience" : 2,
       "name" : "Jalen Warley"
     },
     {
@@ -17190,12 +17190,12 @@
           "teamID" : "FSU"
         }
       ],
-      "class" : "Junior",
+      "yearsOfExperience" : 3,
       "name" : "Cleveland Yates"
     }
   ],
   "conference" : "ACC",
-  "conferenceRanking" : 11,
+  "conferenceRanking" : 12,
   "games" : {
     "previous" : [
       {
@@ -18041,12 +18041,13 @@
     ],
     "upcoming" : [
       {
-        "opponentID" : "VT",
-        "venue" : "home",
         "isConferenceMatchup" : true,
+        "venue" : "neutral",
         "seasonType" : "regularSeason",
-        "venueCapacity" : 925,
-        "date" : "2023-03-04T10:00-0700"
+        "date" : "2023-03-07T12:00-0700",
+        "venueCapacity" : 23500,
+        "opponentID" : "GT",
+        "coverage" : "sportsTV"
       }
     ]
   }
