@@ -1851,6 +1851,35 @@
               "didStart" : true,
               "minutesPlayed" : 40,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 5,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 18,
+                  "made" : 9
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 24,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 7,
+                "freeThrows" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 40,
+              "date" : "2023-03-05T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1859,7 +1888,7 @@
       ],
       "name" : "Hannah Cooper",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -1932,7 +1961,7 @@
       ],
       "name" : "Elena Lijo",
       "position" : "Center",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -1955,7 +1984,7 @@
       ],
       "name" : "Tirzah Moore",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -1978,7 +2007,7 @@
       ],
       "name" : "Trinity Moore",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -3731,6 +3760,35 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 3
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 37,
+              "date" : "2023-03-05T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -3739,7 +3797,7 @@
       ],
       "name" : "Delaney Nix",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -4218,7 +4276,7 @@
       ],
       "name" : "Talia Pogi",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -5037,6 +5095,35 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 1,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 3
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 5
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 19,
+              "date" : "2023-03-05T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -5045,7 +5132,7 @@
       ],
       "name" : "Lauren Ramey",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -7129,6 +7216,35 @@
               "didStart" : true,
               "minutesPlayed" : 23,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 14,
+              "date" : "2023-03-05T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -7137,7 +7253,7 @@
       ],
       "name" : "Sara Rodrigues",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -7413,7 +7529,7 @@
       ],
       "name" : "Maggie Sockey",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -9122,7 +9238,7 @@
       ],
       "name" : "Nena Taylor",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -10707,6 +10823,35 @@
               "didStart" : true,
               "minutesPlayed" : 30,
               "date" : "2022-11-07T15:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 1,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 15,
+                  "made" : 8
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 19,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "assists" : 4,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 31,
+              "date" : "2023-03-05T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10715,7 +10860,7 @@
       ],
       "name" : "Ruthie Udoumoh",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -12996,6 +13141,35 @@
               "didStart" : false,
               "minutesPlayed" : 10,
               "date" : "2022-11-14T17:30-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 2
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 9,
+                "threePointFieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 29,
+              "date" : "2023-03-05T11:30-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13004,7 +13178,7 @@
       ],
       "name" : "Ariel Walker",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -13048,7 +13222,7 @@
       ],
       "name" : "Elayna Whitley",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -15047,7 +15221,7 @@
       ],
       "name" : "Makenna Winans",
       "position" : "Forward",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     }
   ],
   "conference" : "Summit",
@@ -16111,17 +16285,47 @@
           "Tim Resch",
           "Drew Roberts"
         ]
+      },
+      {
+        "venueCapacity" : 0,
+        "opponentID" : "SDAK",
+        "largestLead" : 26,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Mark Berger",
+          "Missy Brooks",
+          "Erica Parker"
+        ],
+        "didWin" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-05T11:30-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 39,
+            "opponentPoints" : 28
+          },
+          "secondHalf" : {
+            "teamPoints" : 53,
+            "opponentPoints" : 41
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 23,
+              "opponentPoints" : 25
+            },
+            {
+              "teamPoints" : 30,
+              "opponentPoints" : 16
+            }
+          ]
+        },
+        "attendance" : 0
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "SDAK",
-        "venue" : "neutral",
-        "coverage" : "sportsTV",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-05T11:30-0700"
-      }
+
     ]
   }
 }

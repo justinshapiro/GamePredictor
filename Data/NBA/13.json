@@ -128885,24 +128885,6 @@
         "isConferenceMatchup" : false,
         "venue" : "away",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-05T13:30-0700",
-        "venueCapacity" : 19068,
-        "opponentID" : "GS",
-        "coverage" : "standardTV"
-      },
-      {
-        "isConferenceMatchup" : false,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-07T20:00-0700",
-        "venueCapacity" : 19068,
-        "opponentID" : "MEM",
-        "coverage" : "standardTV"
-      },
-      {
-        "isConferenceMatchup" : false,
-        "venue" : "away",
-        "seasonType" : "regularSeason",
         "date" : "2023-03-10T20:30-0700",
         "venueCapacity" : 19068,
         "opponentID" : "TOR",
@@ -129182,7 +129164,7 @@
         },
         {
           "name" : "Mo Bamba",
-          "status" : "Active"
+          "status" : "Out"
         },
         {
           "name" : "Jarred Vanderbilt",

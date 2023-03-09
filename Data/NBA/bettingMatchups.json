@@ -2650,6 +2650,142 @@
   },
   {
     "game" : {
+      "venueCapacity" : 19156,
+      "opponentID" : "NY",
+      "largestLead" : 14,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Ed Malloy",
+        "Tre Maddox",
+        "Brett Nansel"
+      ],
+      "didWin" : false,
+      "overUnder" : 226,
+      "date" : "2023-03-05T17:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 61,
+          "opponentPoints" : 54
+        },
+        "secondHalf" : {
+          "teamPoints" : 52,
+          "opponentPoints" : 59
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 26,
+            "opponentPoints" : 34
+          },
+          {
+            "teamPoints" : 26,
+            "opponentPoints" : 25
+          },
+          {
+            "teamPoints" : 8,
+            "opponentPoints" : 8
+          },
+          {
+            "teamPoints" : 8,
+            "opponentPoints" : 10
+          }
+        ]
+      },
+      "attendance" : 19156,
+      "line" : 6.5
+    },
+    "teamName" : "BOS"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 19432,
+      "opponentID" : "CLE",
+      "largestLead" : 15,
+      "overUnder" : 219,
+      "didWin" : false,
+      "referees" : [
+        "Jason Goldenberg",
+        "Tony Brothers",
+        "Tyler Ford"
+      ],
+      "date" : "2023-03-06T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 68,
+          "opponentPoints" : 56
+        },
+        "secondHalf" : {
+          "teamPoints" : 41,
+          "opponentPoints" : 53
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 24,
+            "opponentPoints" : 22
+          },
+          {
+            "teamPoints" : 17,
+            "opponentPoints" : 31
+          },
+          {
+            "teamPoints" : 5,
+            "opponentPoints" : 9
+          }
+        ]
+      },
+      "attendance" : 19432,
+      "line" : 7.5
+    },
+    "teamName" : "BOS"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 19156,
+      "opponentID" : "POR",
+      "largestLead" : 27,
+      "overUnder" : 231,
+      "didWin" : true,
+      "referees" : [
+        "Bill Kennedy",
+        "Jacyn Goble",
+        "Dannica Mosher"
+      ],
+      "date" : "2023-03-08T17:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 60,
+          "opponentPoints" : 45
+        },
+        "secondHalf" : {
+          "teamPoints" : 55,
+          "opponentPoints" : 48
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 34,
+            "opponentPoints" : 27
+          },
+          {
+            "teamPoints" : 21,
+            "opponentPoints" : 21
+          }
+        ]
+      },
+      "attendance" : 19156,
+      "line" : 9.5
+    },
+    "teamName" : "BOS"
+  },
+  {
+    "game" : {
       "venueCapacity" : 17732,
       "opponentID" : "NO",
       "largestLead" : 0,
@@ -5005,6 +5141,47 @@
         ]
       },
       "attendance" : 19812,
+      "line" : 8
+    },
+    "teamName" : "BKN"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 17732,
+      "opponentID" : "CHA",
+      "largestLead" : 37,
+      "overUnder" : 230,
+      "didWin" : true,
+      "referees" : [
+        "Courtney Kirkland",
+        "Scott Wall",
+        "John Butler"
+      ],
+      "date" : "2023-03-05T16:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 70,
+          "opponentPoints" : 41
+        },
+        "secondHalf" : {
+          "teamPoints" : 32,
+          "opponentPoints" : 45
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 16,
+            "opponentPoints" : 21
+          },
+          {
+            "teamPoints" : 16,
+            "opponentPoints" : 24
+          }
+        ]
+      },
+      "attendance" : 17921,
       "line" : 8
     },
     "teamName" : "BKN"
@@ -9515,6 +9692,47 @@
   },
   {
     "game" : {
+      "venueCapacity" : 17923,
+      "opponentID" : "IND",
+      "largestLead" : 11,
+      "overUnder" : 235,
+      "didWin" : true,
+      "referees" : [
+        "Bill Kennedy",
+        "Jacyn Goble",
+        "Brett Nansel"
+      ],
+      "date" : "2023-03-06T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 78,
+          "opponentPoints" : 79
+        },
+        "secondHalf" : {
+          "teamPoints" : 69,
+          "opponentPoints" : 64
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 36,
+            "opponentPoints" : 35
+          },
+          {
+            "teamPoints" : 33,
+            "opponentPoints" : 29
+          }
+        ]
+      },
+      "attendance" : 15008,
+      "line" : 6
+    },
+    "teamName" : "PHI"
+  },
+  {
+    "game" : {
       "venueCapacity" : 19800,
       "opponentID" : "CLE",
       "largestLead" : 11,
@@ -11658,6 +11876,89 @@
   },
   {
     "game" : {
+      "venueCapacity" : 19520,
+      "opponentID" : "DEN",
+      "largestLead" : 10,
+      "overUnder" : 229.5,
+      "didWin" : false,
+      "referees" : [
+        "Scott Foster",
+        "Nick Buchert",
+        "Robert Hussey"
+      ],
+      "date" : "2023-03-06T19:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 61,
+          "opponentPoints" : 58
+        },
+        "secondHalf" : {
+          "teamPoints" : 52,
+          "opponentPoints" : 60
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 27,
+            "opponentPoints" : 25
+          },
+          {
+            "teamPoints" : 25,
+            "opponentPoints" : 35
+          }
+        ]
+      },
+      "attendance" : 19520,
+      "line" : 6.5
+    },
+    "teamName" : "TOR"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 19068,
+      "opponentID" : "LAC",
+      "largestLead" : 10,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Derek Richardson",
+        "Tre Maddox",
+        "Ben Taylor"
+      ],
+      "didWin" : false,
+      "overUnder" : 230.5,
+      "date" : "2023-03-08T20:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 49,
+          "opponentPoints" : 49
+        },
+        "secondHalf" : {
+          "teamPoints" : 51,
+          "opponentPoints" : 59
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 25,
+            "opponentPoints" : 34
+          },
+          {
+            "teamPoints" : 26,
+            "opponentPoints" : 25
+          }
+        ]
+      },
+      "attendance" : 17397,
+      "line" : 2.5
+    },
+    "teamName" : "TOR"
+  },
+  {
+    "game" : {
       "venueCapacity" : 19600,
       "opponentID" : "MIA",
       "largestLead" : 15,
@@ -13641,6 +13942,88 @@
       },
       "attendance" : 21169,
       "line" : 3.5
+    },
+    "teamName" : "CHI"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 20917,
+      "opponentID" : "IND",
+      "largestLead" : 10,
+      "overUnder" : 227,
+      "didWin" : false,
+      "referees" : [
+        "Jason Goldenberg",
+        "Tony Brothers",
+        "Natalie Sago"
+      ],
+      "date" : "2023-03-05T13:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 60,
+          "opponentPoints" : 67
+        },
+        "secondHalf" : {
+          "teamPoints" : 62,
+          "opponentPoints" : 58
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 29,
+            "opponentPoints" : 28
+          },
+          {
+            "teamPoints" : 33,
+            "opponentPoints" : 30
+          }
+        ]
+      },
+      "attendance" : 21225,
+      "line" : 5.5
+    },
+    "teamName" : "CHI"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 19520,
+      "opponentID" : "DEN",
+      "largestLead" : 24,
+      "overUnder" : 225.5,
+      "didWin" : true,
+      "referees" : [
+        "Marc Davis",
+        "Rodney Mott",
+        "Simone Jelks"
+      ],
+      "date" : "2023-03-08T19:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 51,
+          "opponentPoints" : 52
+        },
+        "secondHalf" : {
+          "teamPoints" : 66,
+          "opponentPoints" : 44
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 36,
+            "opponentPoints" : 24
+          },
+          {
+            "teamPoints" : 30,
+            "opponentPoints" : 20
+          }
+        ]
+      },
+      "attendance" : 19896,
+      "line" : 9
     },
     "teamName" : "CHI"
   },
@@ -15635,6 +16018,47 @@
   },
   {
     "game" : {
+      "venueCapacity" : 19600,
+      "opponentID" : "MIA",
+      "largestLead" : 12,
+      "overUnder" : 215.5,
+      "didWin" : true,
+      "referees" : [
+        "Zach Zarba",
+        "CJ Washington",
+        "Gediminas Petraitis"
+      ],
+      "date" : "2023-03-08T17:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 57,
+          "opponentPoints" : 53
+        },
+        "secondHalf" : {
+          "teamPoints" : 47,
+          "opponentPoints" : 47
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 30,
+            "opponentPoints" : 29
+          },
+          {
+            "teamPoints" : 17,
+            "opponentPoints" : 18
+          }
+        ]
+      },
+      "attendance" : 19600,
+      "line" : 1
+    },
+    "teamName" : "CLE"
+  },
+  {
+    "game" : {
       "venueCapacity" : 20332,
       "opponentID" : "ORL",
       "largestLead" : 12,
@@ -17330,6 +17754,47 @@
       },
       "attendance" : 14184,
       "line" : 7
+    },
+    "teamName" : "DET"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 20332,
+      "opponentID" : "POR",
+      "largestLead" : 0,
+      "overUnder" : 230,
+      "didWin" : false,
+      "referees" : [
+        "John Goble",
+        "Marat Kogut",
+        "Brandon Adair"
+      ],
+      "date" : "2023-03-06T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 51,
+          "opponentPoints" : 59
+        },
+        "secondHalf" : {
+          "teamPoints" : 53,
+          "opponentPoints" : 51
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 23,
+            "opponentPoints" : 30
+          },
+          {
+            "teamPoints" : 30,
+            "opponentPoints" : 21
+          }
+        ]
+      },
+      "attendance" : 16989,
+      "line" : 4.5
     },
     "teamName" : "DET"
   },
@@ -20758,6 +21223,47 @@
       },
       "attendance" : 17354,
       "line" : 8
+    },
+    "teamName" : "MIL"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 20600,
+      "opponentID" : "WSH",
+      "largestLead" : 17,
+      "overUnder" : 227.5,
+      "didWin" : true,
+      "referees" : [
+        "Gediminas Petraitis",
+        "Justin Van Duyne",
+        "Ray Acosta"
+      ],
+      "date" : "2023-03-05T17:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 59,
+          "opponentPoints" : 48
+        },
+        "secondHalf" : {
+          "teamPoints" : 58,
+          "opponentPoints" : 63
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 24,
+            "opponentPoints" : 32
+          },
+          {
+            "teamPoints" : 34,
+            "opponentPoints" : 31
+          }
+        ]
+      },
+      "attendance" : 18746,
+      "line" : 5.5
     },
     "teamName" : "MIL"
   },
@@ -24869,6 +25375,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 19356,
+      "opponentID" : "PHI",
+      "largestLead" : 5,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Matt Boland",
+        "Courtney Kirkland",
+        "Karl Lane"
+      ],
+      "didWin" : false,
+      "overUnder" : 226,
+      "date" : "2023-03-07T17:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 45,
+          "opponentPoints" : 58
+        },
+        "secondHalf" : {
+          "teamPoints" : 49,
+          "opponentPoints" : 59
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 23,
+            "opponentPoints" : 29
+          },
+          {
+            "teamPoints" : 26,
+            "opponentPoints" : 30
+          }
+        ]
+      },
+      "attendance" : 17136,
+      "line" : 3.5
+    },
+    "teamName" : "MIN"
+  },
+  {
+    "game" : {
       "venueCapacity" : 18203,
       "opponentID" : "LAC",
       "largestLead" : 26,
@@ -26441,6 +26989,88 @@
   },
   {
     "game" : {
+      "venueCapacity" : 18203,
+      "opponentID" : "UTAH",
+      "largestLead" : 24,
+      "overUnder" : 236,
+      "didWin" : true,
+      "referees" : [
+        "Pat Fraher",
+        "Brent Barnaky",
+        "CJ Washington"
+      ],
+      "date" : "2023-03-05T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 70,
+          "opponentPoints" : 51
+        },
+        "secondHalf" : {
+          "teamPoints" : 59,
+          "opponentPoints" : 68
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 31,
+            "opponentPoints" : 33
+          },
+          {
+            "teamPoints" : 28,
+            "opponentPoints" : 35
+          }
+        ]
+      },
+      "attendance" : 14778,
+      "line" : 6.5
+    },
+    "teamName" : "OKC"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 17071,
+      "opponentID" : "PHX",
+      "largestLead" : 1,
+      "overUnder" : 232.5,
+      "didWin" : false,
+      "referees" : [
+        "James Williams",
+        "Brian Forte",
+        "Brett Nansel"
+      ],
+      "date" : "2023-03-08T19:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 52,
+          "opponentPoints" : 60
+        },
+        "secondHalf" : {
+          "teamPoints" : 49,
+          "opponentPoints" : 72
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 28,
+            "opponentPoints" : 44
+          },
+          {
+            "teamPoints" : 21,
+            "opponentPoints" : 28
+          }
+        ]
+      },
+      "attendance" : 17071,
+      "line" : 11.5
+    },
+    "teamName" : "OKC"
+  },
+  {
+    "game" : {
       "venueCapacity" : 17611,
       "opponentID" : "SAC",
       "largestLead" : 14,
@@ -28004,6 +28634,47 @@
       },
       "attendance" : 17521,
       "line" : 8
+    },
+    "teamName" : "POR"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 18500,
+      "opponentID" : "ORL",
+      "largestLead" : 9,
+      "overUnder" : 231.5,
+      "didWin" : true,
+      "referees" : [
+        "Zach Zarba",
+        "Tom Washington",
+        "Jonathan Sterling"
+      ],
+      "date" : "2023-03-05T16:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 58,
+          "opponentPoints" : 56
+        },
+        "secondHalf" : {
+          "teamPoints" : 64,
+          "opponentPoints" : 63
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 34,
+            "opponentPoints" : 32
+          },
+          {
+            "teamPoints" : 30,
+            "opponentPoints" : 31
+          }
+        ]
+      },
+      "attendance" : 18846,
+      "line" : 3
     },
     "teamName" : "POR"
   },
@@ -32209,6 +32880,48 @@
   {
     "game" : {
       "venueCapacity" : 19068,
+      "opponentID" : "MEM",
+      "largestLead" : 11,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Josh Tiven",
+        "Michael Smith",
+        "Matt Myers"
+      ],
+      "didWin" : true,
+      "overUnder" : 228,
+      "date" : "2023-03-05T20:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 67,
+          "opponentPoints" : 61
+        },
+        "secondHalf" : {
+          "teamPoints" : 68,
+          "opponentPoints" : 68
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 30,
+            "opponentPoints" : 51
+          },
+          {
+            "teamPoints" : 38,
+            "opponentPoints" : 17
+          }
+        ]
+      },
+      "attendance" : 19068,
+      "line" : 7.5
+    },
+    "teamName" : "LAC"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 19068,
       "opponentID" : "NO",
       "largestLead" : 16,
       "overUnder" : 230,
@@ -34463,6 +35176,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 19200,
+      "opponentID" : "DAL",
+      "largestLead" : 9,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Eric Lewis",
+        "Curtis Blair",
+        "Dedric Taylor"
+      ],
+      "didWin" : true,
+      "overUnder" : 233.5,
+      "date" : "2023-03-05T11:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 59,
+          "opponentPoints" : 62
+        },
+        "secondHalf" : {
+          "teamPoints" : 71,
+          "opponentPoints" : 64
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 37,
+            "opponentPoints" : 33
+          },
+          {
+            "teamPoints" : 34,
+            "opponentPoints" : 31
+          }
+        ]
+      },
+      "attendance" : 20311,
+      "line" : 2
+    },
+    "teamName" : "PHX"
+  },
+  {
+    "game" : {
       "venueCapacity" : 17611,
       "opponentID" : "MEM",
       "largestLead" : 10,
@@ -35415,6 +36170,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 17611,
+      "opponentID" : "NO",
+      "largestLead" : 24,
+      "coverage" : "standardTV",
+      "referees" : [
+        "James Williams",
+        "Kevin Cutler",
+        "Mousa Dagher"
+      ],
+      "didWin" : true,
+      "overUnder" : 234,
+      "date" : "2023-03-06T20:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 59,
+          "opponentPoints" : 59
+        },
+        "secondHalf" : {
+          "teamPoints" : 64,
+          "opponentPoints" : 49
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 38,
+            "opponentPoints" : 20
+          },
+          {
+            "teamPoints" : 26,
+            "opponentPoints" : 29
+          }
+        ]
+      },
+      "attendance" : 17708,
+      "line" : 4.5
+    },
+    "teamName" : "SAC"
+  },
+  {
+    "game" : {
       "venueCapacity" : 16888,
       "opponentID" : "HOU",
       "largestLead" : 14,
@@ -36195,6 +36992,89 @@
         ]
       },
       "attendance" : 19600,
+      "line" : 3
+    },
+    "teamName" : "ATL"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 19600,
+      "opponentID" : "MIA",
+      "largestLead" : 15,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Derrick Collins",
+        "Rodney Mott",
+        "Aaron Smith"
+      ],
+      "didWin" : false,
+      "overUnder" : 230.5,
+      "date" : "2023-03-06T17:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 68,
+          "opponentPoints" : 63
+        },
+        "secondHalf" : {
+          "teamPoints" : 60,
+          "opponentPoints" : 67
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 28,
+            "opponentPoints" : 29
+          },
+          {
+            "teamPoints" : 32,
+            "opponentPoints" : 38
+          }
+        ]
+      },
+      "attendance" : 19600,
+      "line" : 2.5
+    },
+    "teamName" : "ATL"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 20600,
+      "opponentID" : "WSH",
+      "largestLead" : 9,
+      "overUnder" : 237.5,
+      "didWin" : true,
+      "referees" : [
+        "Pat Fraher",
+        "Sean Corbin",
+        "Jenna Schroeder"
+      ],
+      "date" : "2023-03-08T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 58,
+          "opponentPoints" : 61
+        },
+        "secondHalf" : {
+          "teamPoints" : 64,
+          "opponentPoints" : 59
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 32,
+            "opponentPoints" : 33
+          },
+          {
+            "teamPoints" : 32,
+            "opponentPoints" : 26
+          }
+        ]
+      },
+      "attendance" : 15087,
       "line" : 3
     },
     "teamName" : "ATL"
@@ -38595,6 +39475,48 @@
   },
   {
     "game" : {
+      "venueCapacity" : 16867,
+      "opponentID" : "NO",
+      "largestLead" : 8,
+      "coverage" : "standardTV",
+      "referees" : [
+        "Scott Foster",
+        "Natalie Sago",
+        "Ashley Moyer-Gleich"
+      ],
+      "didWin" : false,
+      "overUnder" : 233.5,
+      "date" : "2023-03-08T17:30-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "home",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 43,
+          "opponentPoints" : 59
+        },
+        "secondHalf" : {
+          "teamPoints" : 63,
+          "opponentPoints" : 54
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 22,
+            "opponentPoints" : 24
+          },
+          {
+            "teamPoints" : 41,
+            "opponentPoints" : 30
+          }
+        ]
+      },
+      "attendance" : 17473,
+      "line" : 2.5
+    },
+    "teamName" : "DAL"
+  },
+  {
+    "game" : {
       "venueCapacity" : 18055,
       "opponentID" : "MEM",
       "largestLead" : 16,
@@ -38878,6 +39800,47 @@
       },
       "attendance" : 18354,
       "line" : 1
+    },
+    "teamName" : "HOU"
+  },
+  {
+    "game" : {
+      "venueCapacity" : 18055,
+      "opponentID" : "SA",
+      "largestLead" : 32,
+      "overUnder" : 232.5,
+      "didWin" : true,
+      "referees" : [
+        "Karl Lane",
+        "Andy Nagy",
+        "Ashley Moyer-Gleich"
+      ],
+      "date" : "2023-03-05T17:00-0700",
+      "seasonType" : "regularSeason",
+      "isConferenceMatchup" : false,
+      "venue" : "away",
+      "score" : {
+        "firstHalf" : {
+          "teamPoints" : 73,
+          "opponentPoints" : 63
+        },
+        "secondHalf" : {
+          "teamPoints" : 69,
+          "opponentPoints" : 47
+        },
+        "overtimePeriods" : [
+          {
+            "teamPoints" : 35,
+            "opponentPoints" : 24
+          },
+          {
+            "teamPoints" : 34,
+            "opponentPoints" : 23
+          }
+        ]
+      },
+      "attendance" : 16721,
+      "line" : 4.5
     },
     "teamName" : "HOU"
   },

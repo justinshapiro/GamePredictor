@@ -536,7 +536,7 @@ func getPreviousGame(from event: TeamSchedule.Events.Event, teamID: String) -> T
     return Team.PreviousGame(date: event.date.dateString.gameDate,
                              opponentID: event.opponent.teamID!,
                              venue: venue,
-                             didWin: event.result.didWin == true,
+                             didWin: event.result!.didWin == true,
                              score: score,
                              line: gameLine,
                              overUnder: fullPageBoxScore.gameInfo.overUnder,

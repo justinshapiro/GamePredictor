@@ -105,6 +105,8 @@ struct PlayerHeader: Decodable {
         case inactive = "Inactive"
         case dayToDay = "Day-To-Day"
         case out = "Out"
+        case gameTimeDecision = "Game-Time Decision"
+        case outForSeason = "Out For Season"
     }
     
     enum CodingKeys: String, CodingKey {
@@ -127,7 +129,7 @@ struct PlayerHeader: Decodable {
         
         birthPlace = try container.decode(String.self, forKey: .birthPlace)
         position = try container.decode(Player.Position.self, forKey: .position)
-        status = try container.decode(Status.self, forKey: .status)
+        status = Status(rawValue: (try container.decode(String.self, forKey: .status)).capitalized)!
         heightWeightString = try container.decodeIfPresent(String?.self, forKey: .heightWeightString) ?? nil
         firstName = try container.decode(String.self, forKey: .firstName)
         lastName = try container.decode(String.self, forKey: .lastName)
@@ -413,7 +415,7 @@ struct TeamSchedule: Decodable {
             let time: EventTime
             let opponent: Opponent
             let broadcastInfo: [Broadcast]
-            let result: EventResult
+            let result: EventResult?
             let seasonType: SeasonType
             
             struct EventDate: Decodable {

@@ -125779,23 +125779,6 @@
         "isConferenceMatchup" : false,
         "venue" : "home",
         "seasonType" : "regularSeason",
-        "date" : "2023-03-05T13:30-0700",
-        "venueCapacity" : 19068,
-        "opponentID" : "LAL",
-        "coverage" : "standardTV"
-      },
-      {
-        "opponentID" : "OKC",
-        "venue" : "home",
-        "isConferenceMatchup" : false,
-        "seasonType" : "regularSeason",
-        "venueCapacity" : 18203,
-        "date" : "2023-03-07T18:00-0700"
-      },
-      {
-        "isConferenceMatchup" : false,
-        "venue" : "home",
-        "seasonType" : "regularSeason",
         "date" : "2023-03-09T17:30-0700",
         "venueCapacity" : 18400,
         "opponentID" : "MEM",
@@ -125937,7 +125920,7 @@
     {
       "starter" : {
         "name" : "Stephen Curry",
-        "status" : "Out"
+        "status" : "Active"
       },
       "position" : "Point Guard",
       "orderedBackups" : [
@@ -125975,7 +125958,7 @@
       "position" : "Shooting Guard",
       "orderedBackups" : [
         {
-          "name" : "Donte DiVincenzo",
+          "name" : "Jordan Poole",
           "status" : "Active"
         },
         {
@@ -125983,7 +125966,7 @@
           "status" : "Active"
         },
         {
-          "name" : "Jordan Poole",
+          "name" : "Donte DiVincenzo",
           "status" : "Active"
         },
         {
@@ -125996,7 +125979,7 @@
         },
         {
           "name" : "Andre Iguodala",
-          "status" : "Out"
+          "status" : "Active"
         },
         {
           "name" : "Lester Quinones",
@@ -126014,18 +125997,18 @@
     },
     {
       "starter" : {
-        "name" : "Andrew Wiggins",
-        "status" : "Out"
+        "name" : "Donte DiVincenzo",
+        "status" : "Active"
       },
       "position" : "Small Forward",
       "orderedBackups" : [
         {
           "name" : "Andre Iguodala",
-          "status" : "Out"
+          "status" : "Active"
         },
         {
-          "name" : "Donte DiVincenzo",
-          "status" : "Active"
+          "name" : "Andrew Wiggins",
+          "status" : "Out"
         },
         {
           "name" : "Klay Thompson",
@@ -126036,11 +126019,11 @@
           "status" : "Active"
         },
         {
-          "name" : "Jordan Poole",
+          "name" : "Anthony Lamb",
           "status" : "Active"
         },
         {
-          "name" : "Anthony Lamb",
+          "name" : "Jordan Poole",
           "status" : "Active"
         },
         {
@@ -126049,7 +126032,7 @@
         },
         {
           "name" : "Patrick Baldwin Jr.",
-          "status" : "Out"
+          "status" : "Active"
         },
         {
           "name" : "Gary Payton II",
@@ -126059,8 +126042,8 @@
     },
     {
       "starter" : {
-        "name" : "Draymond Green",
-        "status" : "Active"
+        "name" : "Andrew Wiggins",
+        "status" : "Out"
       },
       "position" : "Power Forward",
       "orderedBackups" : [
@@ -126073,16 +126056,16 @@
           "status" : "Active"
         },
         {
-          "name" : "Patrick Baldwin Jr.",
-          "status" : "Out"
+          "name" : "Draymond Green",
+          "status" : "Active"
         },
         {
-          "name" : "Andrew Wiggins",
-          "status" : "Out"
+          "name" : "Patrick Baldwin Jr.",
+          "status" : "Active"
         },
         {
           "name" : "Andre Iguodala",
-          "status" : "Out"
+          "status" : "Active"
         },
         {
           "name" : "JaMychal Green",
@@ -126092,17 +126075,17 @@
     },
     {
       "starter" : {
-        "name" : "Kevon Looney",
+        "name" : "Draymond Green",
         "status" : "Active"
       },
       "position" : "Center",
       "orderedBackups" : [
         {
-          "name" : "JaMychal Green",
+          "name" : "Kevon Looney",
           "status" : "Active"
         },
         {
-          "name" : "Draymond Green",
+          "name" : "JaMychal Green",
           "status" : "Active"
         },
         {

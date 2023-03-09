@@ -507,7 +507,7 @@
       ],
       "name" : "Mikayla Aumer",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -1297,6 +1297,35 @@
               "didStart" : false,
               "minutesPlayed" : 8,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 2,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 5,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 1
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 13,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1305,7 +1334,7 @@
       ],
       "name" : "Rakiyah Beal",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -1747,6 +1776,35 @@
               "didStart" : false,
               "minutesPlayed" : 9,
               "date" : "2022-12-02T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 1,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1755,7 +1813,7 @@
       ],
       "name" : "Tara Bieniewicz",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -4506,6 +4564,35 @@
               "didStart" : true,
               "minutesPlayed" : 36,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 23,
+                  "made" : 14
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 36,
+                "threePointFieldGoals" : {
+                  "attempted" : 7,
+                  "made" : 3
+                },
+                "assists" : 5,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 5
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 39,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4514,7 +4601,7 @@
       ],
       "name" : "Kacie Borowicz",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8112,6 +8199,35 @@
               "didStart" : false,
               "minutesPlayed" : 21,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "personalFouls" : 3,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 23,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8120,7 +8236,7 @@
       ],
       "name" : "Jolene Daninger",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -8765,6 +8881,35 @@
               "didStart" : true,
               "minutesPlayed" : 17,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 9,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8773,7 +8918,7 @@
       ],
       "name" : "DJ Davis",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -10619,6 +10764,35 @@
               "didStart" : true,
               "minutesPlayed" : 16,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 1,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 10,
+                  "made" : 5
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 7
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10627,7 +10801,7 @@
       ],
       "name" : "Juliet Gordon",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -12531,6 +12705,35 @@
               "didStart" : true,
               "minutesPlayed" : 32,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 4
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "assists" : 2,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 16,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12539,7 +12742,7 @@
       ],
       "name" : "Sammiyah Hoskin",
       "position" : "Forward",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -13358,6 +13561,35 @@
               "didStart" : false,
               "minutesPlayed" : 6,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 4,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 3,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 7,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -13366,7 +13598,7 @@
       ],
       "name" : "Nakiyah Hurst",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -13526,7 +13758,7 @@
       ],
       "name" : "Darcy Jardine",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -16712,6 +16944,35 @@
               "didStart" : false,
               "minutesPlayed" : 17,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 3,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 22,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -16720,7 +16981,7 @@
       ],
       "name" : "Maggie Manson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -17843,7 +18104,7 @@
       ],
       "name" : "Allie McCarthy",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -21876,6 +22137,35 @@
               "didStart" : true,
               "minutesPlayed" : 31,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 3,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 12,
+                  "made" : 4
+                },
+                "personalFouls" : 5,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 5,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 35,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -21884,7 +22174,7 @@
       ],
       "name" : "Claire Orth",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -21894,7 +22184,7 @@
       ],
       "name" : "Amanda Roach",
       "position" : "Guard",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "international",
@@ -22655,6 +22945,35 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2022-11-07T18:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 0,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 3,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -22663,7 +22982,7 @@
       ],
       "name" : "Miranda VanderWal",
       "position" : "Center",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     }
   ],
   "conference" : "Summit",
@@ -23697,17 +24016,47 @@
           "Trevor Inouye",
           "Carolyn Derksen"
         ]
+      },
+      {
+        "venueCapacity" : 0,
+        "opponentID" : "OMA",
+        "largestLead" : 6,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Doug Knight",
+          "Nick Marshall",
+          "Jamie Broderick"
+        ],
+        "didWin" : false,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-05T14:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 33,
+            "opponentPoints" : 36
+          },
+          "secondHalf" : {
+            "teamPoints" : 48,
+            "opponentPoints" : 48
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 20,
+              "opponentPoints" : 22
+            },
+            {
+              "teamPoints" : 28,
+              "opponentPoints" : 26
+            }
+          ]
+        },
+        "attendance" : 4908
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "OMA",
-        "venue" : "neutral",
-        "coverage" : "sportsTV",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-05T14:00-0700"
-      }
+
     ]
   }
 }

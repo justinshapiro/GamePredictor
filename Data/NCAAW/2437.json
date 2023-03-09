@@ -1520,6 +1520,35 @@
               "didStart" : true,
               "minutesPlayed" : 19,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 6,
+                  "made" : 2
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 2,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 7,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 28,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -1528,7 +1557,7 @@
       ],
       "name" : "Grace Cave",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -3527,7 +3556,7 @@
       ],
       "name" : "Akili Felici",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -4903,6 +4932,35 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 0,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 6,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 0,
+                "freeThrows" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "rebounds" : {
+                  "offensive" : 2,
+                  "defensive" : 0
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 9,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -4911,7 +4969,7 @@
       ],
       "name" : "Morgann Gardner",
       "position" : "Forward",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -6345,6 +6403,35 @@
               "didStart" : true,
               "minutesPlayed" : 18,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 4,
+                "fieldGoals" : {
+                  "attempted" : 19,
+                  "made" : 6
+                },
+                "personalFouls" : 4,
+                "pointsScored" : 18,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 9,
+                  "made" : 6
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 32,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -6353,7 +6440,7 @@
       ],
       "name" : "Kennedi Grant",
       "position" : "Guard",
-      "class" : "Sophomore"
+      "yearsOfExperience" : 2
     },
     {
       "origin" : "local",
@@ -8141,6 +8228,35 @@
               "didStart" : true,
               "minutesPlayed" : 24,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 4,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 8,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 2
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 25,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -8149,7 +8265,7 @@
       ],
       "name" : "Katie Keitges",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -10929,6 +11045,35 @@
               "didStart" : false,
               "minutesPlayed" : 14,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 3
+                },
+                "personalFouls" : 1,
+                "pointsScored" : 11,
+                "threePointFieldGoals" : {
+                  "attempted" : 4,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 4
+                },
+                "rebounds" : {
+                  "offensive" : 0,
+                  "defensive" : 2
+                }
+              },
+              "didStart" : false,
+              "minutesPlayed" : 25,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -10937,7 +11082,7 @@
       ],
       "name" : "Sam Mitchell",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "international",
@@ -11590,7 +11735,7 @@
       ],
       "name" : "Ana Nikulochkina",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -12409,6 +12554,35 @@
               "didStart" : false,
               "minutesPlayed" : 20,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 1,
+                "fieldGoals" : {
+                  "attempted" : 1,
+                  "made" : 0
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 2,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 2,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 4
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 21,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -12417,7 +12591,7 @@
       ],
       "name" : "Polina Nikulochkina",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "international",
@@ -15957,6 +16131,35 @@
               "didStart" : true,
               "minutesPlayed" : 25,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 0,
+                "blocks" : 0,
+                "turnovers" : 3,
+                "fieldGoals" : {
+                  "attempted" : 9,
+                  "made" : 6
+                },
+                "personalFouls" : 2,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 0,
+                  "made" : 0
+                },
+                "assists" : 3,
+                "freeThrows" : {
+                  "attempted" : 3,
+                  "made" : 2
+                },
+                "rebounds" : {
+                  "offensive" : 4,
+                  "defensive" : 8
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -15965,7 +16168,7 @@
       ],
       "name" : "Elena Pilakouta",
       "position" : "Center",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -15975,7 +16178,7 @@
       ],
       "name" : "Eviyon Richardson",
       "position" : "Forward",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -16280,7 +16483,7 @@
       ],
       "name" : "Brooklyn Smith",
       "position" : "Center",
-      "class" : "Freshman"
+      "yearsOfExperience" : 1
     },
     {
       "origin" : "local",
@@ -18857,6 +19060,35 @@
               "didStart" : true,
               "minutesPlayed" : 21,
               "date" : "2022-11-07T11:00-0700"
+            },
+            {
+              "stats" : {
+                "steals" : 1,
+                "blocks" : 0,
+                "turnovers" : 2,
+                "fieldGoals" : {
+                  "attempted" : 8,
+                  "made" : 5
+                },
+                "personalFouls" : 0,
+                "pointsScored" : 14,
+                "threePointFieldGoals" : {
+                  "attempted" : 3,
+                  "made" : 1
+                },
+                "assists" : 1,
+                "freeThrows" : {
+                  "attempted" : 4,
+                  "made" : 3
+                },
+                "rebounds" : {
+                  "offensive" : 1,
+                  "defensive" : 3
+                }
+              },
+              "didStart" : true,
+              "minutesPlayed" : 30,
+              "date" : "2023-03-05T14:00-0700"
             }
           ],
           "seasonYear" : 2023,
@@ -18865,7 +19097,7 @@
       ],
       "name" : "Aaliyah Stanley",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     },
     {
       "origin" : "local",
@@ -19605,7 +19837,7 @@
       ],
       "name" : "Jaylen Townsend",
       "position" : "Guard",
-      "class" : "Junior"
+      "yearsOfExperience" : 3
     },
     {
       "origin" : "local",
@@ -21047,7 +21279,7 @@
       ],
       "name" : "Deanay Watson",
       "position" : "Guard",
-      "class" : "Senior"
+      "yearsOfExperience" : 4
     }
   ],
   "conference" : "Summit",
@@ -22120,17 +22352,47 @@
           "Jeremy McHugh",
           "Jared Wilson"
         ]
+      },
+      {
+        "venueCapacity" : 0,
+        "opponentID" : "UND",
+        "largestLead" : 10,
+        "coverage" : "subscriptionRequired",
+        "referees" : [
+          "Doug Knight",
+          "Nick Marshall",
+          "Jamie Broderick"
+        ],
+        "didWin" : true,
+        "seasonType" : "regularSeason",
+        "date" : "2023-03-05T14:00-0700",
+        "isConferenceMatchup" : true,
+        "venue" : "neutral",
+        "score" : {
+          "firstHalf" : {
+            "teamPoints" : 36,
+            "opponentPoints" : 33
+          },
+          "secondHalf" : {
+            "teamPoints" : 48,
+            "opponentPoints" : 48
+          },
+          "overtimePeriods" : [
+            {
+              "teamPoints" : 22,
+              "opponentPoints" : 20
+            },
+            {
+              "teamPoints" : 26,
+              "opponentPoints" : 28
+            }
+          ]
+        },
+        "attendance" : 4908
       }
     ],
     "upcoming" : [
-      {
-        "opponentID" : "UND",
-        "venue" : "neutral",
-        "coverage" : "sportsTV",
-        "isConferenceMatchup" : true,
-        "seasonType" : "regularSeason",
-        "date" : "2023-03-05T14:00-0700"
-      }
+
     ]
   }
 }
